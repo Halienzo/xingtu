@@ -558,7 +558,7 @@ function FlashCard({ words, currentIndex, onClose, onNavigate, onPracticeEvent }
           {cardStage === 0 && (
             <div className="text-center space-y-5 py-4">
               <div className="flex items-center justify-center gap-3">
-                <h3 className="text-4xl md:text-5xl font-black text-white tracking-wide">{word.word}</h3>
+                <h3 className="text-4xl md:text-5xl font-black text-emerald-500 tracking-wide">{word.word}</h3>
                 <button onClick={() => { speak(word.word).then(ok => { if (!ok) showToast('语音播放失败', 'error'); }); }} className="p-2.5 rounded-full bg-cyan-500/20 text-cyan-400 hover:bg-cyan-500/30 transition-colors active:scale-90" title="点击发音"><Volume2 size={22} /></button>
               </div>
 
@@ -581,7 +581,7 @@ function FlashCard({ words, currentIndex, onClose, onNavigate, onPracticeEvent }
             <div className="space-y-5">
               <div className="text-center space-y-1">
                 <h3 className="text-lg font-bold text-white">拼写检验</h3>
-                <p className="text-sm text-slate-400">{word.meanings?.[0] || ''}</p>
+                <p className="text-lg md:text-xl font-bold text-orange-400 drop-shadow-[0_0_8px_rgba(251,146,60,0.4)]">{word.meanings?.[0] || ''}</p>
               </div>
               <WholeWordInput
                 key={cardKey}
