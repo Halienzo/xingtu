@@ -1,0 +1,1063 @@
+[
+  {
+    "idx": 1,
+    "original": {
+      "word": "Festival",
+      "pos": "n.",
+      "meanings": [
+        "中秋节"
+      ],
+      "example": "The word \"Festival\" can add a real detail to my essay about traditional culture and hometown Yunnan.",
+      "posDetails": [
+        {
+          "pos": "n.",
+          "meaning": "中秋节",
+          "example": "The word \"Festival\" can add a real detail to my essay about traditional culture and hometown Yunnan.",
+          "exampleCn": "“Festival”可以给传统文化、节日、家乡云南与中国故事作文增加一个真实细节。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 2,
+    "original": {
+      "word": "speaking",
+      "pos": "",
+      "meanings": [
+        "一般来说"
+      ],
+      "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"speaking\".",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "一般来说",
+          "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"speaking\".",
+          "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“speaking”这个词。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 3,
+    "original": {
+      "word": "modal v",
+      "pos": "v.",
+      "meanings": [
+        "将要；将会"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"modal v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v.",
+          "meaning": "将要；将会",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"modal v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“modal v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 4,
+    "original": {
+      "word": "I",
+      "pos": "pron.",
+      "meanings": [
+        "课标词汇",
+        "注意英译汉"
+      ],
+      "example": "The word \"I\" can add a real detail to my essay about school life and class activities.",
+      "posDetails": [
+        {
+          "pos": "pron.",
+          "meaning": "课标词汇",
+          "example": "The word \"I\" can add a real detail to my essay about school life and class activities.",
+          "exampleCn": "“I”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 5,
+    "original": {
+      "word": "textbook n",
+      "pos": "n./adv.",
+      "meanings": [
+        "教科书；教材",
+        "谈话；交流",
+        "大声地"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"textbook n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adv.",
+          "meaning": "教科书；教材",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"textbook n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“textbook n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 6,
+    "original": {
+      "word": "pronunciation n",
+      "pos": "n./adj.",
+      "meanings": [
+        "发音；读音",
+        "句子",
+        "有耐心的"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"pronunciation n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj.",
+          "meaning": "发音；读音",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"pronunciation n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“pronunciation n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 7,
+    "original": {
+      "word": "expression n",
+      "pos": "n./v.",
+      "meanings": [
+        "表达；表情",
+        "发现",
+        "秘密"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"expression n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./v.",
+          "meaning": "表达；表情",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"expression n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“expression n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 8,
+    "original": {
+      "word": "grammar n",
+      "pos": "n./v.",
+      "meanings": [
+        "语法",
+        "重复",
+        "笔记；记录"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"grammar n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./v.",
+          "meaning": "语法",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"grammar n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“grammar n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 9,
+    "original": {
+      "word": "pal n",
+      "pos": "n./v.",
+      "meanings": [
+        "朋友",
+        "物理",
+        "发音"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"pal n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./v.",
+          "meaning": "朋友",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"pal n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“pal n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 10,
+    "original": {
+      "word": "chemistry n",
+      "pos": "n./v.",
+      "meanings": [
+        "化学",
+        "记住",
+        "模式；方式"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"chemistry n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./v.",
+          "meaning": "化学",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"chemistry n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“chemistry n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 11,
+    "original": {
+      "word": "increase v",
+      "pos": "v./n.",
+      "meanings": [
+        "增加",
+        "创造",
+        "速度"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"increase v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./n.",
+          "meaning": "增加",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"increase v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“increase v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 12,
+    "original": {
+      "word": "born v",
+      "pos": "v./adj./n.",
+      "meanings": [
+        "出生",
+        "天生的",
+        "搭档"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"born v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./adj./n.",
+          "meaning": "出生",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"born v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“born v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 13,
+    "original": {
+      "word": "brain n",
+      "pos": "n./adj.",
+      "meanings": [
+        "大脑",
+        "活跃的",
+        "注意；关注"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"brain n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj.",
+          "meaning": "大脑",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"brain n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“brain n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 14,
+    "original": {
+      "word": "connect v",
+      "pos": "v./n.",
+      "meanings": [
+        "连接；联系",
+        "回顾；复习",
+        "知识"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"connect v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./n.",
+          "meaning": "连接；联系",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"connect v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“connect v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 15,
+    "original": {
+      "word": "lifelong adj",
+      "pos": "adj./adv.",
+      "meanings": [
+        "终身的",
+        "明智地"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"lifelong adj\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "adj./adv.",
+          "meaning": "终身的",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"lifelong adj\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“lifelong adj”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 16,
+    "original": {
+      "word": "II",
+      "pos": "",
+      "meanings": [
+        "语法词汇知其变",
+        "注意词性变化"
+      ],
+      "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"II\".",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "语法词汇知其变",
+          "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"II\".",
+          "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“II”这个词。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 17,
+    "original": {
+      "word": "conversation n",
+      "pos": "n./adj.",
+      "meanings": [
+        "交谈；谈话 ----",
+        "口语的；谈话的----",
+        "健谈的人"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"conversation n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj.",
+          "meaning": "交谈；谈话 ----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"conversation n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“conversation n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 18,
+    "original": {
+      "word": "aloud adv",
+      "pos": "adv./adj.",
+      "meanings": [
+        "大声地；出声地 ----",
+        "大声的",
+        "大声地----"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"aloud adv\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "adv./adj.",
+          "meaning": "大声地；出声地 ----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"aloud adv\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“aloud adv”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 19,
+    "original": {
+      "word": "patient adj",
+      "pos": "adj./n./adv.",
+      "meanings": [
+        "有耐心的",
+        "病人----",
+        "有耐心地"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"patient adj\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "adj./n./adv.",
+          "meaning": "有耐心的",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"patient adj\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“patient adj”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 20,
+    "original": {
+      "word": "discover v",
+      "pos": "v./n.",
+      "meanings": [
+        "发现；发觉----",
+        "发现----",
+        "覆盖"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"discover v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./n.",
+          "meaning": "发现；发觉----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"discover v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“discover v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 21,
+    "original": {
+      "word": "secret n",
+      "pos": "n./adj./adv.",
+      "meanings": [
+        "秘密；秘诀",
+        "秘密的；保密的----",
+        "秘密地"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"secret n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj./adv.",
+          "meaning": "秘密；秘诀",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"secret n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“secret n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 22,
+    "original": {
+      "word": "repeat v",
+      "pos": "v./n./adj./adv.",
+      "meanings": [
+        "重复；重做----",
+        "重复；重做；重说----",
+        "重复的----"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"repeat v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./n./adj./adv.",
+          "meaning": "重复；重做----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"repeat v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“repeat v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 23,
+    "original": {
+      "word": "note n",
+      "pos": "n./v./adj.",
+      "meanings": [
+        "笔记；记录",
+        "注意；指出 ----",
+        "解释；说明；说明----"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"note n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./v./adj.",
+          "meaning": "笔记；记录",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"note n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“note n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 24,
+    "original": {
+      "word": "physics n",
+      "pos": "n./adj./adv.",
+      "meanings": [
+        "物理；物理学----",
+        "身体的；物理的----",
+        "身体上地----"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"physics n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj./adv.",
+          "meaning": "物理；物理学----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"physics n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“physics n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 25,
+    "original": {
+      "word": "memorize v",
+      "pos": "v./n./adj.",
+      "meanings": [
+        "记住；记忆----",
+        "记忆；记忆力；回忆----",
+        "难忘的；值得纪念的"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"memorize v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./n./adj.",
+          "meaning": "记住；记忆----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"memorize v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“memorize v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 26,
+    "original": {
+      "word": "speed n",
+      "pos": "n./adj.",
+      "meanings": [
+        "速度----",
+        "快的；迅速的；敏捷的----",
+        "过去式"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"speed n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj.",
+          "meaning": "速度----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"speed n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“speed n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 27,
+    "original": {
+      "word": "partner n",
+      "pos": "n.",
+      "meanings": [
+        "搭档；同伴----",
+        "合伙"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"partner n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n.",
+          "meaning": "搭档；同伴----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"partner n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“partner n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 28,
+    "original": {
+      "word": "ability n",
+      "pos": "n./adj./v.",
+      "meanings": [
+        "能力；才能----",
+        "能够的；能干的----",
+        "不会的；不能的----"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"ability n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj./v.",
+          "meaning": "能力；才能----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"ability n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“ability n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 29,
+    "original": {
+      "word": "create v",
+      "pos": "v./n./adj.",
+      "meanings": [
+        "创造；创建----",
+        "创造----",
+        "有创造力的"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"create v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./n./adj.",
+          "meaning": "创造；创建----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"create v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“create v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 30,
+    "original": {
+      "word": "active adj",
+      "pos": "adj./n./adv.",
+      "meanings": [
+        "活跃的；积极的----",
+        "不活跃的；不活动的；怠惰的----",
+        "活动；活跃----"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"active adj\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "adj./n./adv.",
+          "meaning": "活跃的；积极的----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"active adj\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“active adj”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 31,
+    "original": {
+      "word": "review v",
+      "pos": "v./n.",
+      "meanings": [
+        "回顾；复习----",
+        "评论者，评论家"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"review v\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "v./n.",
+          "meaning": "回顾；复习----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"review v\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“review v”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 32,
+    "original": {
+      "word": "knowledge n",
+      "pos": "n./adj.",
+      "meanings": [
+        "知识;学问----",
+        "知识渊博的"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"knowledge n\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "n./adj.",
+          "meaning": "知识;学问----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"knowledge n\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“knowledge n”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 33,
+    "original": {
+      "word": "wisely adv",
+      "pos": "adv./adj./n.",
+      "meanings": [
+        "聪明地；明智地----",
+        "明智的；聪明的----",
+        "智慧----"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"wisely adv\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "adv./adj./n.",
+          "meaning": "聪明地；明智地----",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"wisely adv\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“wisely adv”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 34,
+    "original": {
+      "word": "III",
+      "pos": "",
+      "meanings": [
+        "重点短语知搭配",
+        "注意固定短语的英汉互译"
+      ],
+      "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"III\".",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "重点短语知搭配",
+          "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"III\".",
+          "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“III”这个词。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 35,
+    "original": {
+      "word": "IV",
+      "pos": "",
+      "meanings": [
+        "核心单词知用法",
+        "注意固定短语、句型和词块"
+      ],
+      "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"IV\".",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "核心单词知用法",
+          "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"IV\".",
+          "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“IV”这个词。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 36,
+    "original": {
+      "word": "loud",
+      "pos": "adv./adj.",
+      "meanings": [
+        "作形容词，意为",
+        "大声的;响亮的",
+        "大声地"
+      ],
+      "example": "I can use \"loud\" when I write about school life and class activities in a Yunnan English essay.",
+      "posDetails": [
+        {
+          "pos": "adv./adj.",
+          "meaning": "作形容词，意为",
+          "example": "I can use \"loud\" when I write about school life and class activities in a Yunnan English essay.",
+          "exampleCn": "写云南英语作文中的校园生活、英语俱乐部、班级活动、毕业回忆主题时，可以使用“loud”。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 37,
+    "original": {
+      "word": "secret",
+      "pos": "n./adj.",
+      "meanings": [
+        "秘密"
+      ],
+      "example": "The word \"secret\" can add a real detail to my essay about school life and class activities.",
+      "posDetails": [
+        {
+          "pos": "n./adj.",
+          "meaning": "秘密",
+          "example": "The word \"secret\" can add a real detail to my essay about school life and class activities.",
+          "exampleCn": "“secret”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 38,
+    "original": {
+      "word": "discover",
+      "pos": "v.",
+      "meanings": [
+        "发现"
+      ],
+      "example": "I can use \"discover\" when I write about school life and class activities in a Yunnan English essay.",
+      "posDetails": [
+        {
+          "pos": "v.",
+          "meaning": "发现",
+          "example": "I can use \"discover\" when I write about school life and class activities in a Yunnan English essay.",
+          "exampleCn": "写云南英语作文中的校园生活、英语俱乐部、班级活动、毕业回忆主题时，可以使用“discover”。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 39,
+    "original": {
+      "word": "invent",
+      "pos": "v./n.",
+      "meanings": [
+        "发明（从无到有的东西）"
+      ],
+      "example": "The word \"invent\" can add a real detail to my essay about school life and class activities.",
+      "posDetails": [
+        {
+          "pos": "v./n.",
+          "meaning": "发明（从无到有的东西）",
+          "example": "The word \"invent\" can add a real detail to my essay about school life and class activities.",
+          "exampleCn": "“invent”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 40,
+    "original": {
+      "word": "find",
+      "pos": "",
+      "meanings": [
+        "找到或发现（强调在寻找后的结果）;或指",
+        "偶然发现"
+      ],
+      "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"find\".",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "找到或发现（强调在寻找后的结果）;或指",
+          "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"find\".",
+          "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“find”这个词。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 41,
+    "original": {
+      "word": "increase",
+      "pos": "n./v.",
+      "meanings": [
+        "增加"
+      ],
+      "example": "The word \"increase\" can add a real detail to my essay about school life and class activities.",
+      "posDetails": [
+        {
+          "pos": "n./v.",
+          "meaning": "增加",
+          "example": "The word \"increase\" can add a real detail to my essay about school life and class activities.",
+          "exampleCn": "“increase”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 42,
+    "original": {
+      "word": "ability",
+      "pos": "n.",
+      "meanings": [
+        "能力；才能"
+      ],
+      "example": "The word \"ability\" can add a real detail to my essay about school life and class activities.",
+      "posDetails": [
+        {
+          "pos": "n.",
+          "meaning": "能力；才能",
+          "example": "The word \"ability\" can add a real detail to my essay about school life and class activities.",
+          "exampleCn": "“ability”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 43,
+    "original": {
+      "word": "It's",
+      "pos": "adj.",
+      "meanings": [
+        "形容词",
+        "对于某人来说）做某事"
+      ],
+      "example": "The word \"It's\" helps describe a feeling or detail in an essay about school life and class activities.",
+      "posDetails": [
+        {
+          "pos": "adj.",
+          "meaning": "形容词",
+          "example": "The word \"It's\" helps describe a feeling or detail in an essay about school life and class activities.",
+          "exampleCn": "“It's”可以在校园生活、英语俱乐部、班级活动、毕业回忆作文中描写感受或细节。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 44,
+    "original": {
+      "word": "in a loud voice",
+      "pos": "",
+      "meanings": [
+        "大声地讲",
+        "穿红色的衣服"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"in a loud voice\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "大声地讲",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"in a loud voice\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“in a loud voice”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 45,
+    "original": {
+      "word": "by",
+      "pos": "prep.",
+      "meanings": [
+        "的其他用法"
+      ],
+      "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"by\".",
+      "posDetails": [
+        {
+          "pos": "prep.",
+          "meaning": "的其他用法",
+          "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"by\".",
+          "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“by”这个词。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 46,
+    "original": {
+      "word": "by mistake",
+      "pos": "",
+      "meanings": [
+        "错误地"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"by mistake\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "错误地",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"by mistake\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“by mistake”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 47,
+    "original": {
+      "word": "since",
+      "pos": "prep./adv./conj.",
+      "meanings": [
+        "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+      ],
+      "example": "I can use \"since\" when I write about school life and class activities in a Yunnan English essay.",
+      "posDetails": [
+        {
+          "pos": "prep./adv./conj.",
+          "meaning": "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的",
+          "example": "I can use \"since\" when I write about school life and class activities in a Yunnan English essay.",
+          "exampleCn": "写云南英语作文中的校园生活、英语俱乐部、班级活动、毕业回忆主题时，可以使用“since”。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 48,
+    "original": {
+      "word": "for",
+      "pos": "prep.",
+      "meanings": [
+        "其后接时间段，表示某事持续了多长时间"
+      ],
+      "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"for\".",
+      "posDetails": [
+        {
+          "pos": "prep.",
+          "meaning": "其后接时间段，表示某事持续了多长时间",
+          "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"for\".",
+          "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“for”这个词。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 49,
+    "original": {
+      "word": "has gone to",
+      "pos": "",
+      "meanings": [
+        "表示某人已去了某地，（现未回来）"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"has gone to\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "表示某人已去了某地，（现未回来）",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"has gone to\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“has gone to”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  },
+  {
+    "idx": 50,
+    "original": {
+      "word": "has been to",
+      "pos": "",
+      "meanings": [
+        "表示去过某地，（现已回来）"
+      ],
+      "example": "In a Yunnan exam essay about school life and class activities, I can use \"has been to\" to make one sentence clearer.",
+      "posDetails": [
+        {
+          "pos": "",
+          "meaning": "表示去过某地，（现已回来）",
+          "example": "In a Yunnan exam essay about school life and class activities, I can use \"has been to\" to make one sentence clearer.",
+          "exampleCn": "在云南考向的校园生活、英语俱乐部、班级活动、毕业回忆作文中，可以用“has been to”让句子更清楚。"
+        }
+      ]
+    },
+    "cleaned": null
+  }
+]

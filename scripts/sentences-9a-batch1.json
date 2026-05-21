@@ -1,0 +1,170 @@
+{
+  "Festival": {
+    "meanings": ["节日"],
+    "pos": "n.",
+    "example": "The Water Splashing Festival in Xishuangbanna brings joy to every family.",
+    "exampleCn": "西双版纳的泼水节给每个家庭带来欢乐。"
+  },
+  "speaking": {
+    "meanings": ["说话", "口语"],
+    "pos": "n.",
+    "example": "Daily speaking practice helps me express my ideas clearly.",
+    "exampleCn": "日常口语练习帮助我清晰地表达自己的想法。"
+  },
+  "modal": {
+    "meanings": ["情态动词"],
+    "pos": "n.",
+    "example": "Can and must are common modal verbs in English grammar.",
+    "exampleCn": "Can 和 must 是英语语法中常见的情态动词。"
+  },
+  "textbook": {
+    "meanings": ["教科书", "课本"],
+    "pos": "n.",
+    "example": "My textbook teaches me not only English but also different cultures.",
+    "exampleCn": "我的课本不仅教我英语，还教我不同的文化。"
+  },
+  "pronunciation": {
+    "meanings": ["发音", "读音"],
+    "pos": "n.",
+    "example": "Good pronunciation makes communication between friends much easier.",
+    "exampleCn": "良好的发音让朋友之间的交流变得容易得多。"
+  },
+  "expression": {
+    "meanings": ["表达", "表情", "词语"],
+    "pos": "n.",
+    "example": "A warm smile is the most beautiful expression of friendship.",
+    "exampleCn": "温暖的微笑是友谊最美丽的表达。"
+  },
+  "grammar": {
+    "meanings": ["语法"],
+    "pos": "n.",
+    "example": "Understanding grammar helps us build sentences like building blocks.",
+    "exampleCn": "理解语法帮助我们像搭积木一样构建句子。"
+  },
+  "pal": {
+    "meanings": ["朋友", "伙伴"],
+    "pos": "n.",
+    "example": "My pal and I often hike together in the mountains near Kunming.",
+    "exampleCn": "我和我的伙伴经常一起徒步昆明附近的山脉。"
+  },
+  "chemistry": {
+    "meanings": ["化学"],
+    "pos": "n.",
+    "example": "Chemistry explains why flowers smell so sweet in spring.",
+    "exampleCn": "化学解释了为什么春天的花儿闻起来如此香甜。"
+  },
+  "increase": {
+    "meanings": ["增加", "增长"],
+    "pos": "v.",
+    "example": "Reading every day can increase your vocabulary quickly.",
+    "exampleCn": "每天阅读可以快速增加你的词汇量。"
+  },
+  "born": {
+    "meanings": ["出生", "诞生"],
+    "pos": "v.",
+    "example": "Every person is born with a unique gift waiting to be discovered.",
+    "exampleCn": "每个人生来就有一种等待被发现的独特天赋。"
+  },
+  "brain": {
+    "meanings": ["大脑", "头脑"],
+    "pos": "n.",
+    "example": "Reading books is like giving your brain healthy food every day.",
+    "exampleCn": "读书就像每天给你的大脑提供健康的食物。"
+  },
+  "connect": {
+    "meanings": ["连接", "联系"],
+    "pos": "v.",
+    "example": "The Internet helps us connect with friends across the world.",
+    "exampleCn": "互联网帮助我们与世界各地的朋友联系。"
+  },
+  "lifelong": {
+    "meanings": ["终身的", "毕生的"],
+    "pos": "adj.",
+    "example": "Lifelong learning is the key to a meaningful life.",
+    "exampleCn": "终身学习是拥有有意义生活的关键。"
+  },
+  "conversation": {
+    "meanings": ["交谈", "谈话"],
+    "pos": "n.",
+    "example": "A heart-to-heart conversation can solve many misunderstandings.",
+    "exampleCn": "一次推心置腹的交谈可以解决许多误解。"
+  },
+  "aloud": {
+    "meanings": ["大声地", "出声地"],
+    "pos": "adv.",
+    "example": "Reading aloud every morning improves both memory and confidence.",
+    "exampleCn": "每天早上大声朗读可以提高记忆力和自信心。"
+  },
+  "patient": {
+    "meanings": ["有耐心的"],
+    "pos": "adj.",
+    "example": "Be patient with yourself when learning something new.",
+    "exampleCn": "学习新东西时要对自己有耐心。"
+  },
+  "discover": {
+    "meanings": ["发现", "发觉"],
+    "pos": "v.",
+    "example": "I discovered a hidden waterfall during my hike in Yunnan.",
+    "exampleCn": "我在云南徒步时发现了一处隐藏的瀑布。"
+  },
+  "secret": {
+    "meanings": ["秘密", "秘诀"],
+    "pos": "n.",
+    "example": "The secret to true friendship is honest communication.",
+    "exampleCn": "真正友谊的秘诀是诚实的交流。"
+  },
+  "repeat": {
+    "meanings": ["重复", "重做"],
+    "pos": "v.",
+    "example": "Repeat new words five times, and they will stay in your memory.",
+    "exampleCn": "把新单词重复五遍，它们就会留在你的记忆中。"
+  },
+  "note": {
+    "meanings": ["笔记", "记录"],
+    "pos": "n.",
+    "example": "Taking good notes in class helps you review efficiently.",
+    "exampleCn": "课堂上做好笔记帮助你高效复习。"
+  },
+  "physics": {
+    "meanings": ["物理", "物理学"],
+    "pos": "n.",
+    "example": "Physics explains why the sky looks blue on clear days.",
+    "exampleCn": "物理学解释了为什么晴天时天空看起来是蓝色的。"
+  },
+  "memorize": {
+    "meanings": ["记住", "记忆"],
+    "pos": "v.",
+    "example": "I use songs to memorize new English words more easily.",
+    "exampleCn": "我用歌曲来更轻松地记住新的英语单词。"
+  },
+  "speed": {
+    "meanings": ["速度"],
+    "pos": "n.",
+    "example": "Riding a bike lets you enjoy the scenery at the right speed.",
+    "exampleCn": "骑自行车让你以合适的速度欣赏风景。"
+  },
+  "partner": {
+    "meanings": ["搭档", "同伴"],
+    "pos": "n.",
+    "example": "A good study partner makes difficult subjects feel easier.",
+    "exampleCn": "一个好的学习搭档让困难的科目变得简单。"
+  },
+  "ability": {
+    "meanings": ["能力", "才能"],
+    "pos": "n.",
+    "example": "Everyone has the ability to learn a foreign language well.",
+    "exampleCn": "每个人都有学好一门外语的能力。"
+  },
+  "create": {
+    "meanings": ["创造", "创建"],
+    "pos": "v.",
+    "example": "We should create art that reflects our love for nature.",
+    "exampleCn": "我们应该创作反映我们对自然之爱的艺术。"
+  },
+  "active": {
+    "meanings": ["活跃的", "积极的"],
+    "pos": "adj.",
+    "example": "Staying active outdoors keeps both body and mind healthy.",
+    "exampleCn": "在户外保持活跃让身心都保持健康。"
+  }
+}

@@ -1,0 +1,358 @@
+陈述句和祈使句
+
+
+
+一、陈述句
+1. 陈述句概念和基本类型
+陈述句是用来陈述一件事或表达一种看法的句子。根据句中动词的类型和后接宾语的情况，通常又可将陈述句划分成一下五种形式：
+类型
+常见谓语动词
+例句
+
+主语+不及物动词
+S+Vi
+sleep, walk, happen, come,
+go, stay, arrive, laugh,等
+The boy slept for a long time.
+那个男孩睡了很久。
+
+主语+及物动词+宾语
+S+Vt+O
+raise, call, meet, eat, leave等
+Everyone knows the rule.
+每个人都知道这个规则。
+
+主语+及物动词+双宾语
+S+Vt+O+O
+give pass, lend, send, show,
+buy, make, find, draw等
+Tommy gave me a present yesterday.
+汤米昨天送给我一个礼物。
+
+主语+及物动词+宾语+补语
+S+Vt+O+C
+make, call, find, have, ask,
+tell, keep, want, hear等
+He found the movie interesting.
+他发现这部电影很有意思。
+
+主语+系动词+表语
+S+V(系动词)+P
+be, become, look, get, feel,
+see, turn, keep, sound等
+Tony felt happy.
+托尼感到很开心。
+
+注：S：主语；Vi：不及物动词；Vt：及物动词；P：表语；O：宾语；C：宾语补足语。
+
+2. 陈述句的否定结构
+陈述句的否定一般否定在be动词，助动词或情态动词上，如：
+I am not a doctor but a teacher.
+我不是一名医生而是一个老师。
+I haven’t finished my homework yet.
+我还没完成我的作业。
+I can’t do it by myself.
+我不能独立完成。
+
+在以下几种情况下，句子否定比较特殊，需要特别注意。
+1). 含有have的否定句
+(1). have作实意动词，表“有”或“吃”时，否定在前，根据时态用don’t, doesn’t或didn’t否定，如：
+I didn’t have lunch today.
+今天我没吃午饭。
+(2). have作为助动词，即在完成时中，否定直接用haven’t既可，如：
+I haven’t been to China yet.
+我还没去过中国。
+2). 含有all, both, each, both…and…等的肯定句中，加not为部分否定；若表示全部否定需要把上述词变成否定形式，即no, no one, nobody, none, neither, neither…nor…等词，如：
+肯定：Both Tom and Jack are good students.
+汤姆和杰克都是好学生。
+否定：Neither Tom nor Jack is good student.
+汤姆和杰克都不是好学生。
+3). 句中含有already（已经），too（也）的肯定句加not变为否定句时，要分别把already和too变为yet和either，如：
+肯定：He has already finished his homework.
+他已经完成了他的作业。
+否定：He hasn’t finished his work yet.
+他尚未完成作业。
+4). 含有always, many, much, often等词的肯定句可直接用never(hardly), few, little, seldom变为否定句，而不用加not，如：
+肯定：He always gets up early in the morning.
+他早上总是早起。
+否定：He never gets up early in the morning.
+他早上从不早起。
+5). 在谓语动词是think，believe，suppose的宾语从句中，否定宾语从句，应该将否定放在主语，如：
+肯定：I think you are right.
+我认为你是对的。
+否定：I don’t think you are right.
+我认为你不对。
+
+二、祈使句
+祈使句表示命令、请求、建议或劝告等。主语通常为第二人称，且被省略，谓语动词用原形，巨末用感叹号或句号，读降调，如：
+Don’t be late! 不要迟到！（命令语气）
+Close the window, please. 请关一下窗子。（请求）
+注：祈使句中谓语动词无时态和数的变化，形式统一，肯定结构主要有以下下几种：
+结构
+例句
+
+动词原形+宾语+其他
+Give it to me. 把它给我。
+
+Be+表语+其他
+Be careful! 小心点！
+
+Let +宾语+动词原形+其他
+Let’s go to the Beihai Park. 让我们去北海公园吧。
+
+Please+动词原形+其他
+Please pass me the pen./ Pass me the pen, please. 请把笔递给我。
+
+
+
+一、重点：陈述句的五大基本结构；陈述句的句型转换；祈使句的含义。
+
+二、难点：陈述句的否定。
+1. 否定大多时候是找原句中的助动词作文章，如果有助动词或be动词就否定在它们身上，若没有需要判断时态和人称，借助do, did, does进行否定；
+2. think等表观点词的否定转移；
+3. either…or等关联词的全否定。
+
+三、拓展考点：
+1. 陈述句转换为疑问句。
+疑问句部分会详细介绍不同类型的疑问句，此处提一句陈述句如何转换成疑问句。主要有以下两个原则：
+1). 若陈述句中有be动词、情态动词、助动词，我们只要把这次词提到主语前即实现了句型的转换，如：
+陈述句：He is a good student. 他是一个好学生。
+疑问句：Is he a good student? 他是个好学生么？
+2). 若陈述句中没有上述这些词，我们需要判断时态和人称，将do，did，does放与句首用于疑问，如：
+陈述句：He plays basketball well. 他篮球打的很好。
+疑问句：Does he play basketball well? 他篮球打的好么？
+
+2. 祈使句的否定
+1). 动词和be动词开头的祈使句，否定直接在句首加Don’t即可，如：
+Don’t put it there, Sam. 别放在那，山姆。
+Don’t be late again. 别再迟到了。
+2). “No+名词或动名词”结构，常用语生活中的警示语，如：
+No smoking in the library. 图书馆禁止吸烟。
+
+
+题模一：陈述句
+
+例1.1.1 根据中文提示，完成句子。
+请把这封信寄给她。
+________________________________________________.
+
+例1.1.2 将陈述句转换为否定句。
+1. I have a lot of money. (转换为否定句)
+________________________________________________.
+2. All of us like this movie very much.
+________________________________________________.
+
+例1.1.3 将陈述句转换为疑问句。
+1. He is going swimming this weekend.
+________________________________________________.
+2. He likes playing football very much.
+_________________________________________________.
+题模二：祈使句
+
+例1.2.1 _________ this rock music, please. I’m afraid some people can’t stand the noise!
+A． Stopping
+B． Stop
+
+C． Stops
+D． Stopped
+
+
+例1.2.2 Jack, _________, or you will get heavier.
+A． doesn’t play sports any more
+B． doesn’t eat so much meat
+C． don’t play sports any more
+D． don’t eat so much meat
+
+例1.2.3 根据中英文提示，完成句子。
+我们不要大声说话。（let）
+_________________________________________________.
+
+
+
+随练1.1 I_________ his name.
+A． do not know
+B． no know
+
+C． know not
+D． know no
+
+
+随练1.2 She told us an interesting story yesterday. It made all of us _______.
+A． to laugh
+B． to be laughing
+
+C． laughed
+D． laughing
+
+
+随练1.3 The boy was badly ill. He must be _________ immediately.
+A． sent to the hospital
+B． sent hospital
+C． sending to the hospital
+D． sending hospital
+
+随练1.4 句型转换
+1. Sometimes you are supposed to come early. (改为否定句)
+___________________________________________________.
+2. Both the students and their teacher enjoy this book. (改为否定句)
+___________________________________________________.
+3. Will you please read it again more slowly? (改为祈使句)
+___________________________________________________.
+4. Please sit next to Nancy. (改为否定句)
+___________________________________________________.
+5. If you don’t listen to me, I’ll go. (改为祈使句)
+___________________________________________________.
+
+随练1.5 _________ me the truth, or I’ll be angry.
+A． Telling
+B． To tell
+
+C． Told
+D． Tell
+
+
+随练1.6 _________ late again, Bill!
+A． Don’t to be
+B． Don’t be
+
+C． Not be
+D． Be not
+
+
+
+
+
+
+作业1 I _________ my homework yet.
+A． not have finished
+B． haven’t finished
+C． have no finished
+D． don’t have finished
+
+作业2 The tea _________ good.
+A． sound
+B． taste
+C． sounds
+D． tastes
+
+
+作业3 When you leave the classroom, please keep the door _________.
+A． to close
+B． close
+
+C． closed
+D． closing
+
+
+作业4 句型转换
+1. He did some work this morning. (改为否定句)
+___________________________________________________.
+2. Neither Jane nor Maria can speak Chinese very well. (改为肯定句)
+___________________________________________________.
+3. The teachers often tell the students not to be careless. (改为祈使句)
+___________________________________________________.
+4. If you move, you’ll die. (改为祈使句)
+___________________________________________________.
+5. David has some Chinese lessons every week. (改为一般疑问句)
+___________________________________________________.
+
+作业5 _________ cross the road until the traffic lights turn green.
+A． Not
+B． Won’t
+
+C． Doesn’t
+D． Don’t
+
+
+作业6 Kate, _________ your homework here tomorrow.
+A． bring
+B． brings
+
+C． to bring
+D． bringing
+
+答案解析
+
+
+
+
+题模一：陈述句
+例1.1.1
+【答案】 Send this letter to her, please./ Send her this letter, please.
+【解析】 考查主谓双宾结构和祈使句。send为主谓双宾动词，用send sth. to sb./ send sb. sth.；本句为祈使句，please加后面，要用逗号与主句隔开。
+例1.1.2
+【答案】 1. I don’t have a lot of money.
+2. None of us like(s) this movie.
+【解析】 1. 考查陈述句转换否定句。have作实意动词，最简单的方法就是用don’t否定在前。
+2. 考查陈述句转换否定句。all的全否定要用none，若用not all则表示“不都是”意思有差别。
+例1.1.3
+【答案】 1. Is he going swimming this weekend?
+2. Does he like playing football very much?
+【解析】 1. 考查陈述句转换疑问句。句中有be动词的陈述句，直接提前就可以变成疑问句。
+2. 考查陈述句转换疑问句。陈述句中没有be动词，情态动词或助动词，疑问句用do的相应时态，人称，提前到主语前。
+题模二：祈使句
+例1.2.1
+【答案】B
+【解析】 考查祈使句。以动词开头的祈使句，动词用原形，不受时态人称限制，故选B。
+例1.2.2
+【答案】D
+【解析】 考查祈使句的否定。根据句意：杰克，别再吃了，否则你会变得更重。排除AC；祈使句中否定用don’t，故选D。
+例1.2.3
+【答案】 Let’s not speak loudly.
+【解析】 考查祈使句特殊否定。let sb do结构中，否定为不定式的否定，在do前直接加not。
+
+
+随练1.1
+【答案】A
+【解析】 考查陈述句的否定。本句没有助动词，否定根据事态用don’t, didn’t, doesn’t否定在谓语动词前，故选A。
+随练1.2
+【答案】D
+【解析】 考查陈述句基本结构。本句为主谓宾宾补结构，空中缺少补语，make后若用不定式要省略to，排除AB；本句中是让我们大家大笑，动词要变成分词来充当补语，又此处笑为主动，用现在分词，故选D。
+随练1.3
+【答案】A
+【解析】 考查陈述句结构和被动语态。本句为主谓双宾结构，即send sb. to sp.；为被动，故选A。
+随练1.4
+【答案】 1. Sometimes you are not supposed to come early.
+2. Neither the students nor their teacher enjoys this book.
+3. Please read it again more slowly,
+4. Don’t sit next to Nancy, please.
+5. Listen to me please, or I’ll go.
+【解析】 1. 考查陈述句的否定。本句中有系动词are，直接否定即可。
+2. 考查陈述句否定。both…and并列主语否定需改为neither…nor，且谓语动词就近一致，用单数形式。
+3. 考查祈使句。祈使句省略第二人称，用please或动词原形开头。
+4. 考查祈使句否定。祈使句否定直接在动词前加don’t。
+5. 考查祈使句和连词。祈使句省略第二人称，动词原形开头，后一句表示不这样做的后果，所以用or连接，表“否则”。
+随练1.5
+【答案】D
+【解析】 考查祈使句的肯定形式。祈使句省略第二人称，用动词原形表命令口吻，故选D。
+随练1.6
+【答案】B
+【解析】 考查祈使句的否定。祈使句否定用don’t否定在动词前，故选B。
+
+
+作业1
+【答案】B
+【解析】 考查陈述句的否定。本句为完成时，含有助动词have，直接否定在助动词上就可以了，故选B。
+作业2
+【答案】D
+【解析】 考查陈述句结构。句意：这茶喝着不错。故排除AC；主语为单数，谓语动词用单数形式，故选D。
+作业3
+【答案】C
+【解析】 考查陈述句结构。本句为主谓宾宾补结构，空中缺少补语，补语一般为形容词，本句中是让门关着，动词要变成分词来充当补语，门被关着，用过去分词，故选C。
+作业4
+【答案】 1. He didn’t do any work this morning.
+2. Both Jane and Maria can speak Chinese very well.
+3. Don’t be careless, please.
+4. Don’t move, or you’ll die.
+5. Does David have any Chinese lessons every week?
+【解析】 1. 考查陈述句的否定。本句没有助动词，否定根据时态用don’t, didn’t, doesn’t否定在谓语动词前，本句为过去时，用didn’t；否定疑问用any。
+2. 考查陈述句否定。both…and并列主语否定需改为neither…nor，反之亦然。
+3. 考查祈使句的否定。祈使句否定直接用don’t否定在动词前，please一般放于句末，且用逗号与主句隔开。
+4. 考查祈使句和连词。祈使句省略第二人称，动词原形开头，否定直接放在动词前；后一句表示不这样做的后果，所以用or连接，表“否则”。
+5. 考查陈述句转疑问句。本句无助动词，需要根据时态，用do, did, does提前进行疑问；又否定疑问句中用any。
+作业5
+【答案】D
+【解析】 考查祈使句否定。祈使句否定直接否定在动词前。本句句意为：红绿灯变绿前不要穿过马路，为一般事实陈述，故选D。
+作业6
+【答案】A
+【解析】 考查祈使句。肯定祈使句用动词原形开头，真正的主语其实是you而不是凯特，不用三单，故选A。

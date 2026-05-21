@@ -1,0 +1,2934 @@
+{
+  "generatedAt": "2026-05-21T01:02:52.669Z",
+  "policy": {
+    "syllables": [
+      "Batch 1 uses phonetic syllable counts first, then high-confidence dictionary corrections, then written-form heuristics.",
+      "Rows whose written parts still disagree with phonetic counts or produce one-letter vowel fragments are kept in the review list.",
+      "Generated calendarData.json is rebuilt from source candidates; direct hand edits to generated JSON are avoided."
+    ],
+    "examples": [
+      "Batch 1 replaces generic examples with Yunnan writing-topic contexts.",
+      "High-frequency words use natural topic sentences when safe.",
+      "Uncertain words use quoted meta examples so the sentence remains grammatically safe while still tied to writing topics."
+    ]
+  },
+  "yunnanWritingTopicBasis": [
+    {
+      "id": "nature",
+      "cn": "接近自然、研学旅行、劳动实践、保护环境",
+      "en": "getting close to nature"
+    },
+    {
+      "id": "housework",
+      "cn": "做家务、家庭责任、亲情陪伴",
+      "en": "doing housework and family responsibility"
+    },
+    {
+      "id": "school",
+      "cn": "校园生活、英语俱乐部、班级活动、毕业回忆",
+      "en": "school life and class activities"
+    },
+    {
+      "id": "volunteer",
+      "cn": "志愿服务、帮助他人、城市公园清洁",
+      "en": "volunteering and helping others"
+    },
+    {
+      "id": "health",
+      "cn": "运动健康、坚持锻炼、积极生活",
+      "en": "health, sports and active living"
+    },
+    {
+      "id": "culture",
+      "cn": "传统文化、节日、家乡云南与中国故事",
+      "en": "traditional culture and hometown Yunnan"
+    },
+    {
+      "id": "future",
+      "cn": "梦想、职业、未来计划",
+      "en": "dreams and future plans"
+    },
+    {
+      "id": "safety",
+      "cn": "安全、网络使用、规则意识",
+      "en": "safety, rules and online learning"
+    }
+  ],
+  "syllableQualityStats": {
+    "total": 11595,
+    "dictionary": 488,
+    "acronym": 23,
+    "phrase": 3832,
+    "phoneticSingle": 3081,
+    "heuristic": 4057,
+    "fallback": 114,
+    "review": 225
+  },
+  "exampleQualityStats": {
+    "total": 21136,
+    "naturalOverride": 130,
+    "topicTemplate": 15487,
+    "safeMeta": 5519
+  },
+  "reviewCount": 225,
+  "reviewSamples": [
+    {
+      "word": "sour",
+      "phonetic": "[ˈsauə]",
+      "parts": [
+        "sour"
+      ],
+      "syllables": "sour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "小学词汇1166（1-6年级+P35）.docx"
+    },
+    {
+      "word": "fire",
+      "phonetic": "[ˈfaiə]",
+      "parts": [
+        "fire"
+      ],
+      "syllables": "fire",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "小学词汇1166（1-6年级+P35）.docx"
+    },
+    {
+      "word": "flour",
+      "phonetic": "[ˈflauə]",
+      "parts": [
+        "flour"
+      ],
+      "syllables": "flour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "小学词汇1166（1-6年级+P35）.docx"
+    },
+    {
+      "word": "hour",
+      "phonetic": "[ˈauə]",
+      "parts": [
+        "hour"
+      ],
+      "syllables": "hour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "小学词汇1166（1-6年级+P35）.docx"
+    },
+    {
+      "word": "choir",
+      "phonetic": "[ˈkwaiə]",
+      "parts": [
+        "choir"
+      ],
+      "syllables": "choir",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "小学词汇1166（1-6年级+P35）.docx"
+    },
+    {
+      "word": "saying",
+      "phonetic": "/ˈseɪɪŋ/",
+      "parts": [
+        "saying"
+      ],
+      "syllables": "saying",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\7上单词默写\\新版人教版七上单词（课本106页-112页）\\7上单词表.xlsx"
+    },
+    {
+      "word": "relaxing",
+      "phonetic": "",
+      "parts": [
+        "rel",
+        "ax",
+        "ing"
+      ],
+      "syllables": "rel·ax·ing",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级上册\\旧版 7上英语 人教版知识点归纳065页.Doc"
+    },
+    {
+      "word": "Mr",
+      "phonetic": "[ˈmɪstə(r)]",
+      "parts": [
+        "Mr"
+      ],
+      "syllables": "Mr",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级上册\\旧版 7上英语 人教版知识点归纳065页.Doc"
+    },
+    {
+      "word": "our",
+      "phonetic": "[ˈaʊə(r)]",
+      "parts": [
+        "our"
+      ],
+      "syllables": "our",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级上册\\新版  7年级上册英语核心知识归纳（人教版）96页 新版.docx"
+    },
+    {
+      "word": "moving",
+      "phonetic": "",
+      "parts": [
+        "mov",
+        "ing"
+      ],
+      "syllables": "mov·ing",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级上册\\新版  7年级上册英语核心知识归纳（人教版）96页 新版.docx"
+    },
+    {
+      "word": "tiring",
+      "phonetic": "/ˈtaɪərɪŋ/",
+      "parts": [
+        "tiring"
+      ],
+      "syllables": "tiring",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级上册\\新版  7年级上册英语核心知识归纳（人教版）96页 新版.docx"
+    },
+    {
+      "word": "help",
+      "phonetic": "/yourself/",
+      "parts": [
+        "help"
+      ],
+      "syllables": "help",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级上册\\新版  7年级上册英语核心知识归纳（人教版）96页 新版.docx"
+    },
+    {
+      "word": "Dr",
+      "phonetic": "/ˈdɒktə(r)/",
+      "parts": [
+        "Dr"
+      ],
+      "syllables": "Dr",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\7下单词默写\\新版7下人教词汇（课本97页-105页）\\新人教7下.xlsx"
+    },
+    {
+      "word": "maybe",
+      "phonetic": "/ˈmeɪbi/",
+      "parts": [
+        "maybe"
+      ],
+      "syllables": "maybe",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\7下单词默写\\新版7下人教词汇（课本97页-105页）\\新人教7下.xlsx"
+    },
+    {
+      "word": "ours",
+      "phonetic": "/aʊəz/",
+      "parts": [
+        "ours"
+      ],
+      "syllables": "ours",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\7下单词默写\\新版7下人教词汇（课本97页-105页）\\新人教7下.xlsx"
+    },
+    {
+      "word": "tiring",
+      "phonetic": "/ˈtaɪərɪŋ/",
+      "parts": [
+        "tiring"
+      ],
+      "syllables": "tiring",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\7下单词默写\\新版7下人教词汇（课本97页-105页）\\新人教7下.xlsx"
+    },
+    {
+      "word": "diary",
+      "phonetic": "/ˈdaɪəri/",
+      "parts": [
+        "diary"
+      ],
+      "syllables": "diary",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\7下单词默写\\新版7下人教词汇（课本97页-105页）\\新人教7下.xlsx"
+    },
+    {
+      "word": "anyone",
+      "phonetic": "/ˈeniwʌn/",
+      "parts": [
+        "anyone"
+      ],
+      "syllables": "anyone",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\7下单词默写\\新版7下人教词汇（课本97页-105页）\\新人教7下.xlsx"
+    },
+    {
+      "word": "help",
+      "phonetic": "/yourself/",
+      "parts": [
+        "help"
+      ],
+      "syllables": "help",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\Unit 1知识点梳理及语法讲义  2025学年人教版英语七年级下册\\2025新人教版七年级下册英语 Unit 1知识点梳理及语法讲义(教师版).docx"
+    },
+    {
+      "word": "koala",
+      "phonetic": "[kəʊ'ɑːlə]",
+      "parts": [
+        "koala"
+      ],
+      "syllables": "koala",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\旧版 7下英语 人教版知识点归纳 132页.docx"
+    },
+    {
+      "word": "Hard",
+      "phonetic": "/ˌhɑːd ˈwɜːkɪŋ/",
+      "parts": [
+        "Hard"
+      ],
+      "syllables": "Hard",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\Unit 3知识点梳理及语法讲义-  2025学年人教版七年级英语下册\\2025新人教版七年级下册英语 Unit 3知识点梳理及语法讲义(教师版).docx"
+    },
+    {
+      "word": "humid",
+      "phonetic": "",
+      "parts": [
+        "hum",
+        "id"
+      ],
+      "syllables": "hum·id",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\旧版 7下英语 人教版知识点归纳 132页.docx"
+    },
+    {
+      "word": "Negro",
+      "phonetic": "",
+      "parts": [
+        "Neg",
+        "ro"
+      ],
+      "syllables": "Neg·ro",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\旧版 7下英语 人教版知识点归纳 132页.docx"
+    },
+    {
+      "word": "fire",
+      "phonetic": "['faɪə(r)]",
+      "parts": [
+        "fire"
+      ],
+      "syllables": "fire",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\旧版 7下英语 人教版知识点归纳 132页.docx"
+    },
+    {
+      "word": "Fly",
+      "phonetic": "/come/",
+      "parts": [
+        "Fly"
+      ],
+      "syllables": "Fly",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\Unit 1知识点梳理及语法讲义  2025学年人教版英语七年级下册\\2025新人教版七年级下册英语 Unit 1知识点梳理及语法讲义(教师版).docx"
+    },
+    {
+      "word": "so",
+      "phonetic": "/so...that.../",
+      "parts": [
+        "so"
+      ],
+      "syllables": "so",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\旧版 7下英语 人教版知识点归纳 132页.docx"
+    },
+    {
+      "word": "Let",
+      "phonetic": "/make/",
+      "parts": [
+        "Let"
+      ],
+      "syllables": "Let",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\Unit 2知识点梳理及语法讲义-  2025学年人教版七年级英语下册\\2025新人教版七年级下册英语 Unit 2知识点梳理及语法讲义(教师版).docx"
+    },
+    {
+      "word": "Saying",
+      "phonetic": "/ˈseɪɪŋ/",
+      "parts": [
+        "Saying"
+      ],
+      "syllables": "Saying",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\Unit 7 知识点梳理及语法讲义  2025学年人教版英语七年级下册\\2025新人教版七年级下册英语 Unit 7知识点梳理及语法讲义(教师版).docx"
+    },
+    {
+      "word": "who",
+      "phonetic": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
+      "parts": [
+        "who"
+      ],
+      "syllables": "who",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\7年级下册\\Unit 8 知识点梳理及语法讲义  2025学年人教版英语七年级下册\\2025新人教版七年级下册英语 Unit 8知识点梳理及语法讲义(教师版).docx"
+    },
+    {
+      "word": "hard",
+      "phonetic": "/ˌhɑːd ˈwɜːkɪŋ/",
+      "parts": [
+        "hard"
+      ],
+      "syllables": "hard",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上单词默写\\25秋新版8上单词\\8上单词excel\\8上新版.xlsx"
+    },
+    {
+      "word": "as",
+      "phonetic": "/æz æz/",
+      "parts": [
+        "as"
+      ],
+      "syllables": "as",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上单词默写\\25秋新版8上单词\\8上单词excel\\8上新版.xlsx"
+    },
+    {
+      "word": "Julie",
+      "phonetic": "",
+      "parts": [
+        "Jul",
+        "ie"
+      ],
+      "syllables": "Jul·ie",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上单词默写\\25秋新版8上单词\\8上单词excel\\8上新版.xlsx"
+    },
+    {
+      "word": "Diana",
+      "phonetic": "/daɪ'ænə/",
+      "parts": [
+        "Diana"
+      ],
+      "syllables": "Diana",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上单词默写\\25秋新版8上单词\\8上单词excel\\8上新版.xlsx"
+    },
+    {
+      "word": "flour",
+      "phonetic": "/ˈflaʊə(r)/",
+      "parts": [
+        "flour"
+      ],
+      "syllables": "flour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上单词默写\\25秋新版8上单词\\8上单词excel\\8上新版.xlsx"
+    },
+    {
+      "word": "sour",
+      "phonetic": "/ˈsaʊə(r)/",
+      "parts": [
+        "sour"
+      ],
+      "syllables": "sour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上单词默写\\25秋新版8上单词\\8上单词excel\\8上新版.xlsx"
+    },
+    {
+      "word": "recipe",
+      "phonetic": "/ˈresəpi/",
+      "parts": [
+        "recipe"
+      ],
+      "syllables": "recipe",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上单词默写\\25秋新版8上单词\\8上单词excel\\8上新版.xlsx"
+    },
+    {
+      "word": "help",
+      "phonetic": "/yourself/",
+      "parts": [
+        "help"
+      ],
+      "syllables": "help",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8上短语句型默写\\新版8上短语\\25秋新人教版八上短语背诵版.docx"
+    },
+    {
+      "word": "anyone",
+      "phonetic": "/ˈeniwʌn/",
+      "parts": [
+        "anyone"
+      ],
+      "syllables": "anyone",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\新版英语8上\\2025秋新人教版八年级英语上册单元同步知识讲义\\unit 1 Happy Holiday\\section A (教师版).docx"
+    },
+    {
+      "word": "diary",
+      "phonetic": "['daɪəri]",
+      "parts": [
+        "diary"
+      ],
+      "syllables": "diary",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "maybe",
+      "phonetic": "['meɪbi]",
+      "parts": [
+        "maybe"
+      ],
+      "syllables": "maybe",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "sitcom",
+      "phonetic": "",
+      "parts": [
+        "sit",
+        "com"
+      ],
+      "syllables": "sit·com",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "too",
+      "phonetic": "[təˈnaɪt]",
+      "parts": [
+        "too"
+      ],
+      "syllables": "too",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "fly",
+      "phonetic": "/come/",
+      "parts": [
+        "fly"
+      ],
+      "syllables": "fly",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "buildings",
+      "phonetic": "",
+      "parts": [
+        "buil",
+        "dings"
+      ],
+      "syllables": "buil·dings",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "humans",
+      "phonetic": "",
+      "parts": [
+        "hum",
+        "ans"
+      ],
+      "syllables": "hum·ans",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "Let",
+      "phonetic": "/make/",
+      "parts": [
+        "Let"
+      ],
+      "syllables": "Let",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\旧版\\8上英语 人教版知识点归纳123页.Doc"
+    },
+    {
+      "word": "relaxing",
+      "phonetic": "",
+      "parts": [
+        "rel",
+        "ax",
+        "ing"
+      ],
+      "syllables": "rel·ax·ing",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\新版英语8上\\2025秋新人教版八年级英语上册单元同步知识讲义\\unit 1 Happy Holiday\\section B (教师版).docx"
+    },
+    {
+      "word": "colorfuler",
+      "phonetic": "",
+      "parts": [
+        "col",
+        "or",
+        "ful",
+        "er"
+      ],
+      "syllables": "col·or·ful·er",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\新版英语8上\\2025秋新人教版八年级英语上册单元同步知识讲义\\unit 3 Same or Different\\section A (教师版).docx"
+    },
+    {
+      "word": "steamed",
+      "phonetic": "",
+      "parts": [
+        "steam",
+        "ed"
+      ],
+      "syllables": "steam·ed",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\新版英语8上\\2025秋新人教版八年级英语上册单元同步知识讲义\\unit 5 What a Delicious Meal\\section A (教师版).docx"
+    },
+    {
+      "word": "Satisfied",
+      "phonetic": "",
+      "parts": [
+        "Sat",
+        "is",
+        "fied"
+      ],
+      "syllables": "Sat·is·fied",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级上册\\新版英语8上\\2025秋新人教版八年级英语上册单元同步知识讲义\\unit 7 When Tomorrow Comes\\section B (学生版).docx"
+    },
+    {
+      "word": "poem",
+      "phonetic": "/ˈpəʊɪm/",
+      "parts": [
+        "poem"
+      ],
+      "syllables": "poem",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "Maya",
+      "phonetic": "/ˈmaɪə/",
+      "parts": [
+        "Maya"
+      ],
+      "syllables": "Maya",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "player",
+      "phonetic": "/ˈpleɪə(r)/",
+      "parts": [
+        "player"
+      ],
+      "syllables": "player",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "namaste",
+      "phonetic": "",
+      "parts": [
+        "nam",
+        "as",
+        "te"
+      ],
+      "syllables": "nam·as·te",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "so",
+      "phonetic": "/so...that.../",
+      "parts": [
+        "so"
+      ],
+      "syllables": "so",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "merci",
+      "phonetic": "",
+      "parts": [
+        "mer",
+        "ci"
+      ],
+      "syllables": "mer·ci",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "Kaito",
+      "phonetic": "",
+      "parts": [
+        "Kai",
+        "to"
+      ],
+      "syllables": "Kai·to",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "Turkiye",
+      "phonetic": "/ˈtɜ:kijeɪ/",
+      "parts": [
+        "Turkiye"
+      ],
+      "syllables": "Turkiye",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "society",
+      "phonetic": "/səˈsaɪəti/",
+      "parts": [
+        "society"
+      ],
+      "syllables": "society",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\8下单词默写\\新版人教版8下单词\\excel\\新人教8下单词表.xlsx"
+    },
+    {
+      "word": "who",
+      "phonetic": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
+      "parts": [
+        "who"
+      ],
+      "syllables": "who",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级下册\\旧版\\8下英语 人教版知识点归纳183页.Doc"
+    },
+    {
+      "word": "anyway",
+      "phonetic": "",
+      "parts": [
+        "an",
+        "yw",
+        "ay"
+      ],
+      "syllables": "an·yw·ay",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级下册\\旧版\\8下英语 人教版知识点归纳183页.Doc"
+    },
+    {
+      "word": "sandstorm",
+      "phonetic": "",
+      "parts": [
+        "sands",
+        "torm"
+      ],
+      "syllables": "sands·torm",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级下册\\旧版\\8下英语 人教版知识点归纳183页.Doc"
+    },
+    {
+      "word": "adj.shocked",
+      "phonetic": "",
+      "parts": [
+        "adj.s",
+        "hoc",
+        "ked"
+      ],
+      "syllables": "adj.s·hoc·ked",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级下册\\旧版\\8下英语 人教版知识点归纳183页.Doc"
+    },
+    {
+      "word": "challenge",
+      "phonetic": "[ˈtʃælɪndʒɪŋ]",
+      "parts": [
+        "challenge"
+      ],
+      "syllables": "challenge",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级下册\\旧版\\8下英语 人教版知识点归纳183页.Doc"
+    },
+    {
+      "word": "allergy",
+      "phonetic": "",
+      "parts": [
+        "al",
+        "ler",
+        "gy"
+      ],
+      "syllables": "al·ler·gy",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级下册\\新版\\新版人教版英语八下单元 知识Unit 2.docx"
+    },
+    {
+      "word": "help",
+      "phonetic": "/yourself/",
+      "parts": [
+        "help"
+      ],
+      "syllables": "help",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\8年级下册\\新版\\新版人教版英语八下单元 知识Unit 8.docx"
+    },
+    {
+      "word": "speaking",
+      "phonetic": "",
+      "parts": [
+        "speak",
+        "ing"
+      ],
+      "syllables": "speak·ing",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "01-初中单词与短语默写\\9年级词汇\\9年级全册单词表.docx"
+    },
+    {
+      "word": "excited",
+      "phonetic": "",
+      "parts": [
+        "ex",
+        "cit",
+        "ed"
+      ],
+      "syllables": "ex·cit·ed",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "too",
+      "phonetic": "[təˈnaɪt]",
+      "parts": [
+        "too"
+      ],
+      "syllables": "too",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "suggestions",
+      "phonetic": "",
+      "parts": [
+        "sug",
+        "ges",
+        "tions"
+      ],
+      "syllables": "sug·ges·tions",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "Who",
+      "phonetic": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
+      "parts": [
+        "Who"
+      ],
+      "syllables": "Who",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "so",
+      "phonetic": "/so...that.../",
+      "parts": [
+        "so"
+      ],
+      "syllables": "so",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "unexpected",
+      "phonetic": "",
+      "parts": [
+        "un",
+        "ex",
+        "pec",
+        "ted"
+      ],
+      "syllables": "un·ex·pec·ted",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "oversleep",
+      "phonetic": "",
+      "parts": [
+        "ov",
+        "ers",
+        "leep"
+      ],
+      "syllables": "ov·ers·leep",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "believable",
+      "phonetic": "",
+      "parts": [
+        "bel",
+        "iev",
+        "ab",
+        "le"
+      ],
+      "syllables": "bel·iev·ab·le",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "harmonious",
+      "phonetic": "",
+      "parts": [
+        "har",
+        "mon",
+        "ious"
+      ],
+      "syllables": "har·mon·ious",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "civilized",
+      "phonetic": "",
+      "parts": [
+        "civ",
+        "il",
+        "iz",
+        "ed"
+      ],
+      "syllables": "civ·il·iz·ed",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "credible",
+      "phonetic": "",
+      "parts": [
+        "cred",
+        "ib",
+        "le"
+      ],
+      "syllables": "cred·ib·le",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "cherish",
+      "phonetic": "",
+      "parts": [
+        "cher",
+        "ish"
+      ],
+      "syllables": "cher·ish",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "02-人教版初中英语知识点汇总\\9年级全册\\9年级全册英语 人教版知识点归纳152页.Doc"
+    },
+    {
+      "word": "accessible",
+      "phonetic": "[əkˈsesɪb(ə)l]",
+      "parts": [
+        "accessible"
+      ],
+      "syllables": "accessible",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "acquire",
+      "phonetic": "[əˈkwaɪə(r)]",
+      "parts": [
+        "acquire"
+      ],
+      "syllables": "acquire",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "acre",
+      "phonetic": "[ˈeɪkə(r)]",
+      "parts": [
+        "acre"
+      ],
+      "syllables": "acre",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "admirable",
+      "phonetic": "[ˈædmərəb(ə)l]",
+      "parts": [
+        "admirable"
+      ],
+      "syllables": "admirable",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "admire",
+      "phonetic": "[ədˈmaɪə(r)]",
+      "parts": [
+        "admire"
+      ],
+      "syllables": "admire",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "anxiety",
+      "phonetic": "[æŋˈzaɪətɪ]",
+      "parts": [
+        "anxiety"
+      ],
+      "syllables": "anxiety",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "anyone",
+      "phonetic": "[ˈenɪwʌn]",
+      "parts": [
+        "anyone"
+      ],
+      "syllables": "anyone",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "avenue",
+      "phonetic": "[ˈævənjuːˈævənuː]",
+      "parts": [
+        "avenue"
+      ],
+      "syllables": "avenue",
+      "phoneticCount": 5,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-5-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "beyond",
+      "phonetic": "[bɪˈjɔnd]",
+      "parts": [
+        "beyond"
+      ],
+      "syllables": "beyond",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "biography",
+      "phonetic": "[baɪˈɔɡrəfɪ]",
+      "parts": [
+        "biography"
+      ],
+      "syllables": "biography",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "Buddhism",
+      "phonetic": "[ˈbʊdɪz(ə)m]",
+      "parts": [
+        "Buddhism"
+      ],
+      "syllables": "Buddhism",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "caf",
+      "phonetic": "[ˈkæfeɪ; (US) kæˈfeɪ]",
+      "parts": [
+        "caf"
+      ],
+      "syllables": "caf",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "cance",
+      "phonetic": "[ˈkænsə(r)]",
+      "parts": [
+        "cance"
+      ],
+      "syllables": "cance",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "cassettle",
+      "phonetic": "[kæ'set]",
+      "parts": [
+        "cassettle"
+      ],
+      "syllables": "cassettle",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "catastrophe",
+      "phonetic": "[kəˈtæstrəfɪ]",
+      "parts": [
+        "catastrophe"
+      ],
+      "syllables": "catastrophe",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "centimetre",
+      "phonetic": "['sentiˌmi:tə(r)]",
+      "parts": [
+        "centimetre"
+      ],
+      "syllables": "centimetre",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "changeable",
+      "phonetic": "[ˈtʃeɪndʒəb(ə)l]",
+      "parts": [
+        "changeable"
+      ],
+      "syllables": "changeable",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "chaos",
+      "phonetic": "[ˈkeɪɔs]",
+      "parts": [
+        "chaos"
+      ],
+      "syllables": "chaos",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "choir",
+      "phonetic": "[ˈkwaɪə(r)]",
+      "parts": [
+        "choir"
+      ],
+      "syllables": "choir",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "cloud",
+      "phonetic": "[ˈkləʊðɪŋ]",
+      "parts": [
+        "cloud"
+      ],
+      "syllables": "cloud",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "coincidence",
+      "phonetic": "[kəʊɪnˈsɪdəns]",
+      "parts": [
+        "coincidence"
+      ],
+      "syllables": "coincidence",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "[ˈkʌmfətəb(ə)l; (US) ˈkʌmfərtəbl]",
+      "parts": [
+        "comfortable"
+      ],
+      "syllables": "comfortable",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "communism",
+      "phonetic": "[ˈkɔmjʊnɪz(ə)m]",
+      "parts": [
+        "communism"
+      ],
+      "syllables": "communism",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "consume",
+      "phonetic": "[kənˈsʌltənt]",
+      "parts": [
+        "consume"
+      ],
+      "syllables": "consume",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "desire",
+      "phonetic": "[dɪˈzaɪə(r)]",
+      "parts": [
+        "desire"
+      ],
+      "syllables": "desire",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "diagram",
+      "phonetic": "[ˈdaɪəɡræm]",
+      "parts": [
+        "diagram"
+      ],
+      "syllables": "diagram",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "dial",
+      "phonetic": "[ˈdaɪ(ə)l]",
+      "parts": [
+        "dial"
+      ],
+      "syllables": "dial",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "diary",
+      "phonetic": "[ˈdaɪərɪ]",
+      "parts": [
+        "diary"
+      ],
+      "syllables": "diary",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "dioxide",
+      "phonetic": "[daɪˈɔksaɪd]",
+      "parts": [
+        "dioxide"
+      ],
+      "syllables": "dioxide",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "Dr",
+      "phonetic": "/ˈdɒktə(r)/",
+      "parts": [
+        "Dr"
+      ],
+      "syllables": "Dr",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "drier",
+      "phonetic": "[ˈdraɪə(r)]",
+      "parts": [
+        "drier"
+      ],
+      "syllables": "drier",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "empire",
+      "phonetic": "[ˈempaɪə(r)]",
+      "parts": [
+        "empire"
+      ],
+      "syllables": "empire",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "energ",
+      "phonetic": "[ˈenədʒɪ]",
+      "parts": [
+        "energ"
+      ],
+      "syllables": "energ",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "enjoyable",
+      "phonetic": "[ɪnˈdʒɔɪəb(ə)l]",
+      "parts": [
+        "enjoyable"
+      ],
+      "syllables": "enjoyable",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "enquiry",
+      "phonetic": "[ɪnˈkwaɪərɪ]",
+      "parts": [
+        "enquiry"
+      ],
+      "syllables": "enquiry",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "entire",
+      "phonetic": "[ɪnˈtaɪə(r)]",
+      "parts": [
+        "entire"
+      ],
+      "syllables": "entire",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "environment",
+      "phonetic": "[ɪnˈvaɪərənmənt]",
+      "parts": [
+        "environment"
+      ],
+      "syllables": "environment",
+      "phoneticCount": 5,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-5-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "exam",
+      "phonetic": "[ɪɡzæmɪˈneɪʃ(ə)n]",
+      "parts": [
+        "exam"
+      ],
+      "syllables": "exam",
+      "phoneticCount": 5,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-5-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "fibre",
+      "phonetic": "['faibə]",
+      "parts": [
+        "fibre"
+      ],
+      "syllables": "fibre",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "fire",
+      "phonetic": "[ˈfaɪə(r)]",
+      "parts": [
+        "fire"
+      ],
+      "syllables": "fire",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "flour",
+      "phonetic": "[ˈflaʊə(r)]",
+      "parts": [
+        "flour"
+      ],
+      "syllables": "flour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "forget",
+      "phonetic": "[fəˈrevə(r)]",
+      "parts": [
+        "forget"
+      ],
+      "syllables": "forget",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "fourth",
+      "phonetic": "[ˈfɔːˈtiːn]",
+      "parts": [
+        "fourth"
+      ],
+      "syllables": "fourth",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "fridge",
+      "phonetic": "[rɪˈfrɪdʒəreɪtə(r)]",
+      "parts": [
+        "fridge"
+      ],
+      "syllables": "fridge",
+      "phoneticCount": 5,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-5-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "glance",
+      "phonetic": "[glæns /glɑːns]",
+      "parts": [
+        "glance"
+      ],
+      "syllables": "glance",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "heroine",
+      "phonetic": "[ˈherəʊɪn]",
+      "parts": [
+        "heroine"
+      ],
+      "syllables": "heroine",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "hire",
+      "phonetic": "[ˈhaɪə(r)]",
+      "parts": [
+        "hire"
+      ],
+      "syllables": "hire",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "horrible",
+      "phonetic": "[ˈhɔrɪb(ə)l]",
+      "parts": [
+        "horrible"
+      ],
+      "syllables": "horrible",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "hour",
+      "phonetic": "[ˈaʊə(r)]",
+      "parts": [
+        "hour"
+      ],
+      "syllables": "hour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "impossible",
+      "phonetic": "[ɪmˈpɔsɪb(ə)l]",
+      "parts": [
+        "impossible"
+      ],
+      "syllables": "impossible",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "Irish",
+      "phonetic": "[ˈaɪərɪʃ]",
+      "parts": [
+        "Irish"
+      ],
+      "syllables": "Irish",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "kilometr",
+      "phonetic": "['kiləʊmi:tə(r)]",
+      "parts": [
+        "kilometr"
+      ],
+      "syllables": "kilometr",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "lab",
+      "phonetic": "[ˈnɔlɪdʒ]",
+      "parts": [
+        "lab"
+      ],
+      "syllables": "lab",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "maybe",
+      "phonetic": "[ˈmeɪbiː]",
+      "parts": [
+        "maybe"
+      ],
+      "syllables": "maybe",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "motorcycle",
+      "phonetic": "['məʊtəsaikl]",
+      "parts": [
+        "motorcycle"
+      ],
+      "syllables": "motorcycle",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "Mr",
+      "phonetic": "[ˈmɪstə(r)]",
+      "parts": [
+        "Mr"
+      ],
+      "syllables": "Mr",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "Mrs",
+      "phonetic": "[ˈmɪsɪz]",
+      "parts": [
+        "Mrs"
+      ],
+      "syllables": "Mrs",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "Oceania",
+      "phonetic": "",
+      "parts": [
+        "Oc",
+        "ean",
+        "ia"
+      ],
+      "syllables": "Oc·ean·ia",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "offence",
+      "phonetic": "[of·fence || ə'fens]",
+      "parts": [
+        "offence"
+      ],
+      "syllables": "offence",
+      "phoneticCount": 5,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-5-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "our",
+      "phonetic": "[ˈaʊə(r)]",
+      "parts": [
+        "our"
+      ],
+      "syllables": "our",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "ours",
+      "phonetic": "[ˈaʊəz]",
+      "parts": [
+        "ours"
+      ],
+      "syllables": "ours",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "park",
+      "phonetic": "[ˈpærɪs]",
+      "parts": [
+        "park"
+      ],
+      "syllables": "park",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "P.C",
+      "phonetic": "[piːsiː]",
+      "parts": [
+        "P.C"
+      ],
+      "syllables": "P.C",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "perfect",
+      "phonetic": "[kwestʃəˈneə(r)]",
+      "parts": [
+        "perfect"
+      ],
+      "syllables": "perfect",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "persuade",
+      "phonetic": "[ˈpɜːsənəlɪ]",
+      "parts": [
+        "persuade"
+      ],
+      "syllables": "persuade",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "pioneer",
+      "phonetic": "[paɪəˈnɪə(r)]",
+      "parts": [
+        "pioneer"
+      ],
+      "syllables": "pioneer",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "player",
+      "phonetic": "[ˈpleɪə(r)]",
+      "parts": [
+        "player"
+      ],
+      "syllables": "player",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "poem",
+      "phonetic": "[ˈpəʊɪm]",
+      "parts": [
+        "poem"
+      ],
+      "syllables": "poem",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "poet",
+      "phonetic": "[ˈpəʊɪt]",
+      "parts": [
+        "poet"
+      ],
+      "syllables": "poet",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "polish",
+      "phonetic": "[ˈpɔlɪsɪ]",
+      "parts": [
+        "polish"
+      ],
+      "syllables": "polish",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "portable",
+      "phonetic": "[ˈpɔːtəb(ə)l]",
+      "parts": [
+        "portable"
+      ],
+      "syllables": "portable",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "possess",
+      "phonetic": "[pəˈzɪʃ(ə)n]",
+      "parts": [
+        "possess"
+      ],
+      "syllables": "possess",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "possible",
+      "phonetic": "[ˈpɔsɪb(ə)l]",
+      "parts": [
+        "possible"
+      ],
+      "syllables": "possible",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "pound",
+      "phonetic": "[pəˈtenʃ(ə)l]",
+      "parts": [
+        "pound"
+      ],
+      "syllables": "pound",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "preserve",
+      "phonetic": "[prezənˈteɪʃ(ə)n; (US) priːzenˈteʃn]",
+      "parts": [
+        "preserve"
+      ],
+      "syllables": "preserve",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "press",
+      "phonetic": "[ˈprezɪdənt]",
+      "parts": [
+        "press"
+      ],
+      "syllables": "press",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "principle",
+      "phonetic": "[ˈprɪnsɪp(ə)l]",
+      "parts": [
+        "principle"
+      ],
+      "syllables": "principle",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "probable",
+      "phonetic": "[ˈprɔbəb(ə)l]",
+      "parts": [
+        "probable"
+      ],
+      "syllables": "probable",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "probably",
+      "phonetic": "[ˈprɔbəb(ə)lɪ]",
+      "parts": [
+        "probably"
+      ],
+      "syllables": "probably",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "radioactive",
+      "phonetic": "[reɪdɪəʊˈæktɪv]",
+      "parts": [
+        "radioactive"
+      ],
+      "syllables": "radioactive",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "reasonable",
+      "phonetic": "[ˈriːzənəb(ə)l]",
+      "parts": [
+        "reasonable"
+      ],
+      "syllables": "reasonable",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "recipe",
+      "phonetic": "[ˈresɪpɪ]",
+      "parts": [
+        "recipe"
+      ],
+      "syllables": "recipe",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "recycle",
+      "phonetic": "[riːˈsaɪk(ə)l]",
+      "parts": [
+        "recycle"
+      ],
+      "syllables": "recycle",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "rectangle",
+      "phonetic": "[ˈrektæŋɡ(ə)l]",
+      "parts": [
+        "rectangle"
+      ],
+      "syllables": "rectangle",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "reliable",
+      "phonetic": "[rɪˈlaɪəb(ə)l]",
+      "parts": [
+        "reliable"
+      ],
+      "syllables": "reliable",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "require",
+      "phonetic": "[rɪˈkwaɪə(r)]",
+      "parts": [
+        "require"
+      ],
+      "syllables": "require",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "resemble",
+      "phonetic": "[rɪˈzemb(ə)l]",
+      "parts": [
+        "resemble"
+      ],
+      "syllables": "resemble",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "retire",
+      "phonetic": "[rɪˈtaɪə(r)]",
+      "parts": [
+        "retire"
+      ],
+      "syllables": "retire",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "reuse",
+      "phonetic": "[riːˈjuːz]",
+      "parts": [
+        "reuse"
+      ],
+      "syllables": "reuse",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "royal",
+      "phonetic": "[ˈrɔɪəl]",
+      "parts": [
+        "royal"
+      ],
+      "syllables": "royal",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "saying",
+      "phonetic": "[ˈseɪɪŋ]",
+      "parts": [
+        "saying"
+      ],
+      "syllables": "saying",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "scientific",
+      "phonetic": "[saɪənˈtɪfɪk]",
+      "parts": [
+        "scientific"
+      ],
+      "syllables": "scientific",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "semicircle",
+      "phonetic": "[ˈsemɪsɜːk(ə)l]",
+      "parts": [
+        "semicircle"
+      ],
+      "syllables": "semicircle",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "shout",
+      "phonetic": "[ˈʃəʊldə(r)]",
+      "parts": [
+        "shout"
+      ],
+      "syllables": "shout",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "side",
+      "phonetic": "[ˈsɪknɪs]",
+      "parts": [
+        "side"
+      ],
+      "syllables": "side",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "sideroad",
+      "phonetic": "",
+      "parts": [
+        "sid",
+        "er",
+        "oad"
+      ],
+      "syllables": "sid·er·oad",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "silent",
+      "phonetic": "",
+      "parts": [
+        "sil",
+        "ent"
+      ],
+      "syllables": "sil·ent",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "size",
+      "phonetic": "[sɪksˈtiːnθ]",
+      "parts": [
+        "size"
+      ],
+      "syllables": "size",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "skate",
+      "phonetic": "[sɪksˈtiːnθ]",
+      "parts": [
+        "skate"
+      ],
+      "syllables": "skate",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "smooth",
+      "phonetic": "[ˈsməʊkɪŋ]",
+      "parts": [
+        "smooth"
+      ],
+      "syllables": "smooth",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "socialism",
+      "phonetic": "[ˈsəʊʃəlɪz(ə)m]",
+      "parts": [
+        "socialism"
+      ],
+      "syllables": "socialism",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "society",
+      "phonetic": "[səˈsaɪətɪ]",
+      "parts": [
+        "society"
+      ],
+      "syllables": "society",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "sour",
+      "phonetic": "[ˈsaʊə(r)]",
+      "parts": [
+        "sour"
+      ],
+      "syllables": "sour",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "south",
+      "phonetic": "[ˈsaʊə(r)]",
+      "parts": [
+        "south"
+      ],
+      "syllables": "south",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "southeast",
+      "phonetic": "",
+      "parts": [
+        "sout",
+        "heast"
+      ],
+      "syllables": "sout·heast",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "speak",
+      "phonetic": "[ˈspærəʊ]",
+      "parts": [
+        "speak"
+      ],
+      "syllables": "speak",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "spend",
+      "phonetic": "[ˈspelɪŋ]",
+      "parts": [
+        "spend"
+      ],
+      "syllables": "spend",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "statesman",
+      "phonetic": "",
+      "parts": [
+        "stat",
+        "es",
+        "man"
+      ],
+      "syllables": "stat·es·man",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "studio",
+      "phonetic": "[ˈstjuːdɪəʊ]",
+      "parts": [
+        "studio"
+      ],
+      "syllables": "studio",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "suitable",
+      "phonetic": "[ˈsjuːtəb(ə)l]",
+      "parts": [
+        "suitable"
+      ],
+      "syllables": "suitable",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "symptom",
+      "phonetic": "[ˈsɪmfənɪ]",
+      "parts": [
+        "symptom"
+      ],
+      "syllables": "symptom",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "tablet",
+      "phonetic": "",
+      "parts": [
+        "tab",
+        "let"
+      ],
+      "syllables": "tab·let",
+      "phoneticCount": null,
+      "method": "written-fallback",
+      "reasons": [
+        "no-phonetic-written-fallback"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "terrible",
+      "phonetic": "[ˈterɪb(ə)l]",
+      "parts": [
+        "terrible"
+      ],
+      "syllables": "terrible",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "theory",
+      "phonetic": "[θɪəˈretɪk(ə)l]",
+      "parts": [
+        "theory"
+      ],
+      "syllables": "theory",
+      "phoneticCount": 4,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-4-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "these",
+      "phonetic": "[ˈθɜːmɔs]",
+      "parts": [
+        "these"
+      ],
+      "syllables": "these",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "tire",
+      "phonetic": "[ˈtaɪə(r)]",
+      "parts": [
+        "tire"
+      ],
+      "syllables": "tire",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "title",
+      "phonetic": "[ˈtɪʃuː, ˈtɪsjuː]",
+      "parts": [
+        "title"
+      ],
+      "syllables": "title",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "ton",
+      "phonetic": "[təˈmɔrəʊ]",
+      "parts": [
+        "ton"
+      ],
+      "syllables": "ton",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "too",
+      "phonetic": "[təˈnaɪt]",
+      "parts": [
+        "too"
+      ],
+      "syllables": "too",
+      "phoneticCount": 2,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-2-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "tough",
+      "phonetic": "[ˈtɔt(ə)lɪ]",
+      "parts": [
+        "tough"
+      ],
+      "syllables": "tough",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    },
+    {
+      "word": "tourism",
+      "phonetic": "[ˈtʊərɪz(ə)m]",
+      "parts": [
+        "tourism"
+      ],
+      "syllables": "tourism",
+      "phoneticCount": 3,
+      "method": "phonetic-heuristic",
+      "reasons": [
+        "phonetic-count-3-vs-parts-1"
+      ],
+      "sourceFile": "3-高中3500词汇 - 带音标.docx"
+    }
+  ]
+}

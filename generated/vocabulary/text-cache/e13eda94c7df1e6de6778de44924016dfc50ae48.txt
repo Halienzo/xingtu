@@ -1,0 +1,327 @@
+定语从句
+
+
+
+一、定义
+在复合句中，修饰名词或代词的从句叫定语从句，被修饰的名词或代词叫先行词，通常位于定语从句之前。引导定语从句的有关系代词who, whom, whose, which, that等和关系副词where, when, why等，关系代词和关系副词，既起到连接作用，又在定语从句中担任句子成份。总结定语从句的一般结构为：先行词+关系词+定语从句。
+
+一、关系代词
+1. 关系代词指代先行词，在从句中作主语，宾语或表语，基本用法如下表：
+关系词
+作用
+先行词
+例句
+
+who
+主语/宾语
+人
+This is the boy who often helps me. 这就是帮我的那个男孩。
+I happened to meet the professor (who/ whom) I got to know at a party in the shopping center yesterday. 
+昨天在购物中心，我碰巧遇到了那位我在一次聚会上认识的教授。
+
+whom
+宾语
+人
+The man whom you are waiting for has gone home.
+你等那个人已经回家了。
+
+that
+主语/宾语
+人或物
+This is the pen that writes well. 这是那支很好写的笔。
+This is the pen that you want. 这是你想要的钢笔。
+The tallest player that plays football for our team is from Fujian. 在为我们队踢足球的最高哪个运动员来自福建。
+
+which
+主语/宾语
+物
+The room in which there is a machine is a work shop.
+有个机器的房间是车间。
+The river which is in front of my house is very clean.
+从我家前面流过的河流非常清澈。
+
+whose
+定语
+人或物
+The room whose door is blue is mine.
+蓝色房门的那个房间是我的房间。
+
+注意：一般情况下，that既可以指人又可以指物，可以代替who, whom和which，在句子中充当主语，宾语或表语；which指物，在从句中也做主语，宾语或表语，所以which和that在指物时，大多时候可以互换，如：
+This is the movie that I like best.
+=This is the movie which I like best.
+这就是我最喜欢的电影。
+
+2. 关系代词的省略
+一般情况下，关系代词作宾语时可以省略，但若关系代词在从句中作介词宾语，且介词在关系代词前，不能省略，如：
+I’ll never forget the day that we spent together.
+我永远都不会忘记与你共度的时光。（可省略）
+I’ll never forget the day on which we met each other.
+我永远不会忘记我们初次见面那一天。（不可省）
+
+二、关系副词
+关系词
+作用
+先行词
+例句
+
+when
+状语
+时间
+I'll never forget the day when I met you for the first time.
+我永远不会忘记初次见你的那一天。
+
+where
+状语
+地点
+This is the place where we have lived for 5 years.
+这就是我们住了五年的地方。
+
+why
+状语
+原因
+I don’t know the reason why he was late. 我不知道他迟到的原因。
+
+注意：与关系代词不同，关系副词在从句中作状语，状语并不是句子必须成分，所以即使没有关系副词，从句的内容也完整。这是关系副词与关系代词最大的不同，也是我们选题的关键。同时，关系副词大多可以拆分成介词+which的形式，如：
+This is the house where Luxun once lived.
+=This is the house in which Luxun once lived.
+这是鲁迅曾经住过的房子。
+
+一、重难点：
+定语从句考查形式比较单一，单选一般考关系词的选择，按照上表，我们很容易根据先行词判断出关系词选谁最合适。高中会系统讲解定语从句，所以我们在初中阶段还要了解从句中的各个成分，为之后的学习做好准备。
+
+二、易错点：
+前文我们提到若先行词为物，关系词可以用that或which，而且大多数可以互换。但以下几种情况，必须用 that引导定语从句：
+1. 先行词是不定代词all, few, little, much, something, nothing, anything等，如：
+All that we have to do is to practice English.
+我们要做的事情就是去练习英语。
+2. 先行词被序数词或形容词最高级所修饰，如：
+The first letter that I got from him will be kept.
+我收到他的第一封信将会被保存起来。
+3. 先行词被all, any, every, each, few, little, no, some等修饰，如：
+I've eaten up all the food that you gave me.
+我把你给我的所有事物都吃光了。
+4. 先行词被the only, the very, the same, the last修饰时，如：
+He is the only person that I want to talk with.
+他是我唯一想与之交谈的人。
+5. 先行词既有人又有物时，如:
+They talked about persons and things that they met.
+他们谈论了他们见到的人和事。
+
+
+题模一：关系代词
+
+例1.1.1 ---What shall we do next?
+---Take the advice _________ is given by Dr. Bloch.
+A． who
+B． which
+C． whose
+D． whom
+
+
+例1.1.2 The Palace Museum is the best place _________ I’ve ever visited.
+A． who
+B． when
+C． that
+D． where
+
+
+例1.1.3 完成句子
+1. 你有什么要对自己说的吗？
+Do you have _________ _________ you want to say for yourself?
+2. 这是我父亲曾经住过的房子。
+This is a house in _________ my father once lived.
+题模二：关系副词
+
+例1.2.1 This is the primary school _________ I studied three years ago.
+A． where
+B． when
+C． that
+D． which
+
+
+例1.2.2 Do you remember the days _________ we spent in Sanya?
+A． when
+B． that
+C． what
+D． where
+
+
+例1.2.3 完成句子
+你知道他缺席的原因吗？
+Do you know the reason _________ he is absent?
+
+
+
+随练1.1 The second book _________ I want to read is Business @ the Speed of Thought.
+A． which
+B． what
+C． that
+D． as
+
+
+随练1.2 The book_________ is sold out at the moment.
+A． you need
+B． what you need
+C． which you need it
+D． that you need it
+
+随练1.3 完成句子
+1. 人们都喜欢那些有礼貌的人。
+People all like those _________ have good manners.
+2. 这是我障碍寻找的那本书。
+This is the book _________ I’m looking for.
+3. 这是我看过的最有趣的电影。
+This is _________ _________ interesting _________ _________ I’ve ever seen.
+4. 我还记得第一次来北京的那一天。
+I still remember the day _________ I first came to Beijing.
+5. 你能告诉我他上班的办公室吗？
+Can you tell me the office _________ he works?
+
+随练1.4 I'll never forget the days _________ I stayed with you.
+A． when
+B． in which
+
+C． that
+D． for which
+
+
+随练1.5 Is this the place _________ Lincoln once lived.
+A． that
+B． which
+C． where
+D． when
+
+
+
+
+
+
+作业1 ---Do you know the man _________ is talking with your father?
+---Yes, he’s our headmaster.
+A． he
+B． who
+C． which
+D． whom
+
+
+作业2 Is this the river _________ I can swim?
+A． which
+B． in which
+
+C． that
+D． the one
+
+
+作业3 This is the best hotel in the city _________ I know.
+A． where
+B． which
+C． that
+D． it
+
+
+作业4 Her sister, _________ you met at my home, was a teacher of English.
+A． whom
+B． that
+C． which
+D． who is
+
+
+作业5 These books are for students _________ mother language is not English.
+A． of whom
+B． that
+
+C． which
+D． whose
+
+
+作业6 完成句子
+1. 有一些想去海南度假的人。
+There are some people _________ want to have a holiday in Hainan.
+2. 刚才天空中一闪而过的是什么？
+What’s that _________ flashed in the sky just now.
+3. 这是去武汉的最后一趟火车。
+The train is _________ _________ _________ will go to Wuhan.
+4. 我永远都不会忘记我在北京度过的那些日子。
+I’ll never forget the days _________ I spent in Beijing.
+5. 中国是风筝的故乡，从这里放风筝传到了日本、朝鲜、泰国和印度。
+China is the birthplace of kites, from _________ kite flying spreads to Japan, Korea, Thailand and India.
+答案解析
+
+
+
+
+题模一：关系代词
+例1.1.1
+【答案】B
+【解析】 考查定语从句关系代词选择。先行词为advice，排除AD；又从句缺主语而不是定语，故选B。
+例1.1.2
+【答案】C
+【解析】 考查定语从句关系代词选择。首先根据从句缺少宾语，所以要选择关系代词作宾语，又先行词被best修饰，故选C。
+例1.1.3
+【答案】 1. something; that
+2. which
+【解析】 1. 考查定语从句先行词和关系词。这里对自己说话的内容不确定，所以要用something做先行词，那么关系词一定要用that。
+2. 考查关系代词选择。先行词为house，应该用which或that；又跟在介词后，只能用which。
+题模二：关系副词
+例1.2.1
+【答案】A
+【解析】 考查关系副词的选择。从句是完整的句子，选关系副词，排除CD；又先行词为primary school为地点，故选A。
+例1.2.2
+【答案】B
+【解析】 考查关系副词和关系代词区分。虽然先行词为时间，但并不一定选when，我们看到从句中缺少spent的宾语，故选B。
+例1.2.3
+【答案】 why
+【解析】 考查关系副词的选择。从句句子完整，要填关系副词，又先行词为reason，所以填why。
+
+
+随练1.1
+【答案】C
+【解析】 考查关系代词的选择。先行词book被序数词修饰时要用that引导定语从句，故选C。
+随练1.2
+【答案】A
+【解析】 考查定语从句的运用。定语从句关系词中没有what，首先排除B；CD中的it多余，故选A。
+随练1.3
+【答案】 1. who
+2. that/which
+3. the most; movie that
+4. when
+5. where
+【解析】 1. 考查关系代词。从句缺少主语，再结合语境，此处those指那些人，所以填who。
+2. 考查关系代词。从句缺少宾语，需要关系代词；又先行词为book，所以填which和that都可以。
+3. 考查关系代词。最高级修饰只能用that。
+4. 考查关系副词。从句成分完整，填关系副词，先行词为day表时间，故填when。
+5. 考查关系副词。从句中动词为work，为不及物动词，所以不缺宾语，用关系副词；又先行词为office，表地点，故填where。
+随练1.4
+【答案】A
+【解析】 考查关系副词的选择。本题从句完整，要选关系副词；先行词指时间，故选 A。
+随练1.5
+【答案】C
+【解析】 考查关系副词的选择。live一词为不及物动词，不能直接跟宾语，所以要选关系副词，排除AB；又本题先行词为地点，故选 C。
+
+
+作业1
+【答案】B
+【解析】 考查关系代词的选择。从句缺主语，选关系代词；又先行词是人，故选B。
+作业2
+【答案】B
+【解析】 考查关系代词的选择。从句为完整句子，要选关系副词，选项中没有关系副词，B选项表示“在河里”能够表达相同的意思，故选B。
+作业3
+【答案】C
+【解析】 考查关系代词的选择。从句缺少宾语，选关系代词，排除AD；又先行词被最高级best修饰，故选C。
+作业4
+【答案】A
+【解析】 考查关系代词的选择。本句先行词为人，且在从句中作宾语，用whom，故选A。
+作业5
+【答案】D
+【解析】 考查关系代词的选择。whose引导的定语从句中，whose用作定语，表示“谁的……”，符合题意，故选D。
+作业6
+【答案】 1. who
+2. which
+3. the last one that
+4. that
+5. which
+【解析】 1. 考查关系代词。从句缺主语，选关系代词；又先行词是人，所以用who。
+2. 考查关系代词。从句缺少主语，先行词为物，用that和which都可以；又先行词为that，避免重复造成歧义，所以填which。
+3. 考查关系代词。先行词中包含last的物，只能用that。
+4. 考查关系代词和关系副词的区分。从句spent明显缺少宾语，所以尽管先行词是时间，当做事物看待，故填that。
+5. 考查关系代词。介词后只能用which来指代先行词。

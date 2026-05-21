@@ -1,0 +1,2439 @@
+{
+  "stats": {
+    "total": 52560,
+    "grammarNotesRemoved": 396,
+    "meaningsMerged": 997,
+    "unrelatedRemoved": 183,
+    "emptyMeanings": 199,
+    "needsReview": [
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)我"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "1b",
+        "word": "they",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)他们; 她们; 他们"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "3a",
+        "word": "she",
+        "pos": "pron.",
+        "originalMeanings": [
+          "主格)她"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "6b",
+        "word": "dead",
+        "pos": "adv.",
+        "originalMeanings": [
+          "完全地; 凋谢的; 无生命的"
+        ]
+      },
+      {
+        "sem": "7a",
+        "word": "aux",
+        "pos": "v.",
+        "originalMeanings": [
+          "第三人称单数形式",
+          "用于构成否定句和疑问句;做;干"
+        ]
+      },
+      {
+        "sem": "7a",
+        "word": "aux.",
+        "pos": "v.",
+        "originalMeanings": [
+          "第三人称单数形式",
+          "用于构成否定句和疑问句；做；干"
+        ]
+      },
+      {
+        "sem": "7a",
+        "word": "much",
+        "pos": "n.",
+        "originalMeanings": [
+          "的比较级，作形容词，修饰不可数名词"
+        ]
+      },
+      {
+        "sem": "7a",
+        "word": "many",
+        "pos": "adj./pron.",
+        "originalMeanings": [
+          "的比较级，作形容词，修饰可数名词复数"
+        ]
+      },
+      {
+        "sem": "7a",
+        "word": "aux",
+        "pos": "v.",
+        "originalMeanings": [
+          "第三人称单数形式",
+          "用于构成否定句和疑问句;做;干"
+        ]
+      },
+      {
+        "sem": "7a",
+        "word": "aux.",
+        "pos": "v.",
+        "originalMeanings": [
+          "第三人称单数形式",
+          "用于构成否定句和疑问句；做；干"
+        ]
+      },
+      {
+        "sem": "7a",
+        "word": "much",
+        "pos": "n.",
+        "originalMeanings": [
+          "的比较级，作形容词，修饰不可数名词"
+        ]
+      },
+      {
+        "sem": "7b",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "课标词汇",
+          "注意英译汉"
+        ]
+      },
+      {
+        "sem": "7b",
+        "word": "II",
+        "pos": "",
+        "originalMeanings": [
+          "语法词汇知其变",
+          "注意词性变化"
+        ]
+      },
+      {
+        "sem": "7b",
+        "word": "III",
+        "pos": "",
+        "originalMeanings": [
+          "重点短语知搭配",
+          "注意固定短语的英汉互译"
+        ]
+      },
+      {
+        "sem": "7b",
+        "word": "IV",
+        "pos": "",
+        "originalMeanings": [
+          "核心单词知用法",
+          "注意固定短语、句型和词块"
+        ]
+      },
+      {
+        "sem": "7b",
+        "word": "tomato",
+        "pos": "n.",
+        "originalMeanings": [
+          "复数"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "be careful with",
+        "pos": "",
+        "originalMeanings": [
+          "注意；当心"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "worse",
+        "pos": "adj./adv.",
+        "originalMeanings": [
+          "的比较级）更差的；更糟的；更坏的；（",
+          "的比较级）更差；更糟；更坏"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "attention",
+        "pos": "n.",
+        "originalMeanings": [
+          "注意；专心；关注"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "pay attention",
+        "pos": "",
+        "originalMeanings": [
+          "注意；关注"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "pay attention to",
+        "pos": "",
+        "originalMeanings": [
+          "注意；留意"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "课标词汇",
+          "注意英译汉"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "II",
+        "pos": "",
+        "originalMeanings": [
+          "语法词汇知其变",
+          "注意词性变化"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "III",
+        "pos": "",
+        "originalMeanings": [
+          "重点短语知搭配",
+          "注意固定短语的英汉互译"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "IV",
+        "pos": "",
+        "originalMeanings": [
+          "核心单词知用法",
+          "注意固定短语、句型和词块"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "people",
+        "pos": "n.",
+        "originalMeanings": [
+          "单数形式表示复数意义，要求谓语动词用复数"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "what a",
+        "pos": "",
+        "originalMeanings": [
+          "单数，形容词辅音）"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "what an",
+        "pos": "",
+        "originalMeanings": [
+          "单数，形容词元音）"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "You must the traffic lights",
+        "pos": "",
+        "originalMeanings": [
+          "注意）"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "be careful with",
+        "pos": "",
+        "originalMeanings": [
+          "注意；当心"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "worse",
+        "pos": "adj./adv.",
+        "originalMeanings": [
+          "的比较级）更差的；更糟的；更坏的；（",
+          "的比较级）更差；更糟；更坏"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "attention",
+        "pos": "n.",
+        "originalMeanings": [
+          "注意；专心；关注"
+        ]
+      },
+      {
+        "sem": "8a",
+        "word": "pay attention",
+        "pos": "",
+        "originalMeanings": [
+          "注意；关注"
+        ]
+      },
+      {
+        "sem": "8b",
+        "word": "foot",
+        "pos": "n.",
+        "originalMeanings": [
+          "复数"
+        ]
+      },
+      {
+        "sem": "8b",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "课标词汇",
+          "注意英译汉"
+        ]
+      },
+      {
+        "sem": "8b",
+        "word": "II",
+        "pos": "",
+        "originalMeanings": [
+          "语法词汇知其变",
+          "注意词性变化"
+        ]
+      },
+      {
+        "sem": "8b",
+        "word": "III",
+        "pos": "",
+        "originalMeanings": [
+          "重点短语知搭配",
+          "注意固定短语的英汉互译"
+        ]
+      },
+      {
+        "sem": "8b",
+        "word": "IV",
+        "pos": "",
+        "originalMeanings": [
+          "核心单词知用法",
+          "注意固定短语、句型和词块"
+        ]
+      },
+      {
+        "sem": "8b",
+        "word": "pay attention to",
+        "pos": "",
+        "originalMeanings": [
+          "注意；关注"
+        ]
+      },
+      {
+        "sem": "8b",
+        "word": "foot",
+        "pos": "n.",
+        "originalMeanings": [
+          "复数"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "for",
+        "pos": "prep.",
+        "originalMeanings": [
+          "其后接时间段，表示某事持续了多长时间"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has gone to",
+        "pos": "",
+        "originalMeanings": [
+          "表示某人已去了某地，（现未回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has been to",
+        "pos": "",
+        "originalMeanings": [
+          "表示去过某地，（现已回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "Festival",
+        "pos": "n.",
+        "originalMeanings": [
+          "中秋节"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "课标词汇",
+          "注意英译汉"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "II",
+        "pos": "",
+        "originalMeanings": [
+          "语法词汇知其变",
+          "注意词性变化"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "III",
+        "pos": "",
+        "originalMeanings": [
+          "重点短语知搭配",
+          "注意固定短语的英汉互译"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "IV",
+        "pos": "",
+        "originalMeanings": [
+          "核心单词知用法",
+          "注意固定短语、句型和词块"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "by",
+        "pos": "prep.",
+        "originalMeanings": [
+          "的其他用法"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "since",
+        "pos": "prep./adv./conj.",
+        "originalMeanings": [
+          "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "for",
+        "pos": "prep.",
+        "originalMeanings": [
+          "其后接时间段，表示某事持续了多长时间"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has gone to",
+        "pos": "",
+        "originalMeanings": [
+          "表示某人已去了某地，（现未回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has been to",
+        "pos": "",
+        "originalMeanings": [
+          "表示去过某地，（现已回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "Festival",
+        "pos": "n.",
+        "originalMeanings": [
+          "中秋节"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "课标词汇",
+          "注意英译汉"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "II",
+        "pos": "",
+        "originalMeanings": [
+          "语法词汇知其变",
+          "注意词性变化"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "III",
+        "pos": "",
+        "originalMeanings": [
+          "重点短语知搭配",
+          "注意固定短语的英汉互译"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "IV",
+        "pos": "",
+        "originalMeanings": [
+          "核心单词知用法",
+          "注意固定短语、句型和词块"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "by",
+        "pos": "prep.",
+        "originalMeanings": [
+          "的其他用法"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "since",
+        "pos": "prep./adv./conj.",
+        "originalMeanings": [
+          "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "for",
+        "pos": "prep.",
+        "originalMeanings": [
+          "其后接时间段，表示某事持续了多长时间"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has gone to",
+        "pos": "",
+        "originalMeanings": [
+          "表示某人已去了某地，（现未回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has been to",
+        "pos": "",
+        "originalMeanings": [
+          "表示去过某地，（现已回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "Festival",
+        "pos": "n.",
+        "originalMeanings": [
+          "中秋节"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "课标词汇",
+          "注意英译汉"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "II",
+        "pos": "",
+        "originalMeanings": [
+          "语法词汇知其变",
+          "注意词性变化"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "III",
+        "pos": "",
+        "originalMeanings": [
+          "重点短语知搭配",
+          "注意固定短语的英汉互译"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "IV",
+        "pos": "",
+        "originalMeanings": [
+          "核心单词知用法",
+          "注意固定短语、句型和词块"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "by",
+        "pos": "prep.",
+        "originalMeanings": [
+          "的其他用法"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "since",
+        "pos": "prep./adv./conj.",
+        "originalMeanings": [
+          "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "for",
+        "pos": "prep.",
+        "originalMeanings": [
+          "其后接时间段，表示某事持续了多长时间"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has gone to",
+        "pos": "",
+        "originalMeanings": [
+          "表示某人已去了某地，（现未回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has been to",
+        "pos": "",
+        "originalMeanings": [
+          "表示去过某地，（现已回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "Festival",
+        "pos": "n.",
+        "originalMeanings": [
+          "中秋节"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "I",
+        "pos": "pron.",
+        "originalMeanings": [
+          "课标词汇",
+          "注意英译汉"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "II",
+        "pos": "",
+        "originalMeanings": [
+          "语法词汇知其变",
+          "注意词性变化"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "III",
+        "pos": "",
+        "originalMeanings": [
+          "重点短语知搭配",
+          "注意固定短语的英汉互译"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "IV",
+        "pos": "",
+        "originalMeanings": [
+          "核心单词知用法",
+          "注意固定短语、句型和词块"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "by",
+        "pos": "prep.",
+        "originalMeanings": [
+          "的其他用法"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "since",
+        "pos": "prep./adv./conj.",
+        "originalMeanings": [
+          "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "for",
+        "pos": "prep.",
+        "originalMeanings": [
+          "其后接时间段，表示某事持续了多长时间"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has gone to",
+        "pos": "",
+        "originalMeanings": [
+          "表示某人已去了某地，（现未回来）"
+        ]
+      },
+      {
+        "sem": "9a",
+        "word": "has been to",
+        "pos": "",
+        "originalMeanings": [
+          "表示去过某地，（现已回来）"
+        ]
+      },
+      {
+        "sem": "10a",
+        "word": "attention",
+        "pos": "n.",
+        "originalMeanings": [
+          "注意，关心"
+        ]
+      },
+      {
+        "sem": "10a",
+        "word": "attentively",
+        "pos": "",
+        "originalMeanings": [
+          "注意地"
+        ]
+      },
+      {
+        "sem": "10a",
+        "word": "attention",
+        "pos": "n.",
+        "originalMeanings": [
+          "注意，关心"
+        ]
+      },
+      {
+        "sem": "10a",
+        "word": "attentively",
+        "pos": "",
+        "originalMeanings": [
+          "注意地"
+        ]
+      },
+      {
+        "sem": "10a",
+        "word": "attention",
+        "pos": "n.",
+        "originalMeanings": [
+          "注意，关心"
+        ]
+      },
+      {
+        "sem": "10a",
+        "word": "attentively",
+        "pos": "",
+        "originalMeanings": [
+          "注意地"
+        ]
+      },
+      {
+        "sem": "12b",
+        "word": "worse",
+        "pos": "adj./adv.",
+        "originalMeanings": [
+          "的比较级)更坏的"
+        ]
+      },
+      {
+        "sem": "12b",
+        "word": "worse",
+        "pos": "adj./adv.",
+        "originalMeanings": [
+          "的比较级)更坏的"
+        ]
+      },
+      {
+        "sem": "12b",
+        "word": "worse",
+        "pos": "adj./adv.",
+        "originalMeanings": [
+          "的比较级)更坏的"
+        ]
+      }
+    ]
+  },
+  "needsReview": [
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1a",
+      "word": "I",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)我"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "1b",
+      "word": "they",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)他们; 她们; 他们"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "3a",
+      "word": "she",
+      "pos": "pron.",
+      "originalMeanings": [
+        "主格)她"
+      ]
+    },
+    {
+      "sem": "6b",
+      "word": "dead",
+      "pos": "adv.",
+      "originalMeanings": [
+        "完全地; 凋谢的; 无生命的"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3274 @@
+{
+  "split": 115,
+  "noMatch": [
+    {
+      "word": "textbook",
+      "meaning": "教科书；教材谈话；交流大声地"
+    },
+    {
+      "word": "grammar",
+      "meaning": "语法重复笔记；记录"
+    },
+    {
+      "word": "pal",
+      "meaning": "朋友物理发音"
+    },
+    {
+      "word": "chemistry",
+      "meaning": "化学记住模式；方式"
+    },
+    {
+      "word": "increase",
+      "meaning": "增加创造速度"
+    },
+    {
+      "word": "born",
+      "meaning": "出生天生的搭档"
+    },
+    {
+      "word": "brain",
+      "meaning": "大脑活跃的注意；关注"
+    },
+    {
+      "word": "lifelong",
+      "meaning": "终身的明智地"
+    },
+    {
+      "word": "aloud",
+      "meaning": "大声地；出声地 ----大声的大声地"
+    },
+    {
+      "word": "in a loud voice",
+      "meaning": "大声地讲穿红色的衣服"
+    },
+    {
+      "word": "since",
+      "meaning": "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+    },
+    {
+      "word": "for",
+      "meaning": "其后接时间段，表示某事持续了多长时间"
+    },
+    {
+      "word": "has gone to",
+      "meaning": "表示某人已去了某地，（现未回来）"
+    },
+    {
+      "word": "mooncake",
+      "meaning": "月饼灯笼陌生人"
+    },
+    {
+      "word": "pound",
+      "meaning": "磅民间的女神"
+    },
+    {
+      "word": "steal",
+      "meaning": "偷；窃取放置；安置甜点"
+    },
+    {
+      "word": "tradition",
+      "meaning": "传统欣赏领带"
+    },
+    {
+      "word": "novel",
+      "meaning": "小说死的商业；生意"
+    },
+    {
+      "word": "stranger",
+      "meaning": "陌生人----陌生的----异常地"
+    },
+    {
+      "word": "haunted",
+      "meaning": "有鬼魂出没的；闹鬼的----常出没于萦绕于"
+    },
+    {
+      "word": "a time for cleaning",
+      "meaning": "清洁卫生的一段时间"
+    },
+    {
+      "word": "a traditional folk story",
+      "meaning": "传统的民间故事"
+    },
+    {
+      "word": "share sth. with sb",
+      "meaning": "与某人分享某物"
+    },
+    {
+      "word": "Mother's Day",
+      "meaning": "母亲节父亲节"
+    },
+    {
+      "word": "become more and more popular",
+      "meaning": "变得越来越流行"
+    },
+    {
+      "word": "show our love",
+      "meaning": "表达我们的爱"
+    },
+    {
+      "word": "the hottest month of the",
+      "meaning": "一年中最热的月份"
+    },
+    {
+      "word": "carry wishes to sb",
+      "meaning": "把祝福带给某人"
+    },
+    {
+      "word": "fly up to the moon",
+      "meaning": "飞上月亮天空"
+    },
+    {
+      "word": "on the second Sunday of",
+      "meaning": "五月的第二个星期日"
+    },
+    {
+      "word": "play a trick on sb",
+      "meaning": "和某人开玩笑"
+    },
+    {
+      "word": "used to do sth",
+      "meaning": "过去经常做某事"
+    },
+    {
+      "word": "warn sb",
+      "meaning": "警告某人(不要)做某事"
+    },
+    {
+      "word": "end up",
+      "meaning": "最终成为;最后处于"
+    },
+    {
+      "word": "remind sb. of sth",
+      "meaning": "提醒某人某事"
+    },
+    {
+      "word": "spread love and joy everywhere",
+      "meaning": "到处传播爱和欢乐"
+    },
+    {
+      "word": "the beginning of new life",
+      "meaning": "新生命的开始"
+    },
+    {
+      "word": "a symbol of new life",
+      "meaning": "新生命的象征"
+    },
+    {
+      "word": "trick or treat",
+      "meaning": "不招待就捣蛋"
+    },
+    {
+      "word": "a novel written by",
+      "meaning": "写的一本小说"
+    },
+    {
+      "word": "expect sb. to do sth",
+      "meaning": "期待某人做某事"
+    },
+    {
+      "word": "change one's life",
+      "meaning": "改变某人的生活"
+    },
+    {
+      "word": "treat everyone with kindness and",
+      "meaning": "用温暖和友善对待每一个人"
+    },
+    {
+      "word": "wonder",
+      "meaning": "想知道（惊奇奇迹（可数）"
+    },
+    {
+      "word": "put on",
+      "meaning": "穿上；上演；增加"
+    },
+    {
+      "word": "dress",
+      "meaning": "作名词，表示衣服"
+    },
+    {
+      "word": "put up with",
+      "meaning": "忍受收拾整理"
+    },
+    {
+      "word": "How long have you worked",
+      "meaning": "你在这儿工作多久了"
+    },
+    {
+      "word": "I've lived",
+      "meaning": "自年以来我就一直住在这儿"
+    },
+    {
+      "word": "spend",
+      "meaning": "可以用来花钱，也可以用来花时间"
+    },
+    {
+      "word": "warn sb. about sth",
+      "meaning": "提醒、警告某人注意某事"
+    },
+    {
+      "word": "warn sb. against",
+      "meaning": "警告某人某事"
+    },
+    {
+      "word": "introduce",
+      "meaning": "介绍--介绍；说明"
+    },
+    {
+      "word": "I think that mooncakes are",
+      "meaning": "我觉得月饼很好吃"
+    },
+    {
+      "word": "restroom",
+      "meaning": "公共厕所邮票书店"
+    },
+    {
+      "word": "postcard",
+      "meaning": "明信片原谅洗手间"
+    },
+    {
+      "word": "rush",
+      "meaning": "仓促；急促建议职工"
+    },
+    {
+      "word": "central",
+      "meaning": "中心的邮寄邮件"
+    },
+    {
+      "word": "inexpensive",
+      "meaning": "不贵的不拥挤的便利的"
+    },
+    {
+      "word": "corner",
+      "meaning": "角落礼貌地要求；请求"
+    },
+    {
+      "word": "correct",
+      "meaning": "正确的礼貌的直接的"
+    },
+    {
+      "word": "whom",
+      "meaning": "谁不礼貌的地址"
+    },
+    {
+      "word": "nearby",
+      "meaning": "附近的；临近的在附近；附近----接近；很快"
+    },
+    {
+      "word": "east",
+      "meaning": "东方的；东部的向东；朝东东；东方"
+    },
+    {
+      "word": "uncrowded",
+      "meaning": "不拥挤的----拥挤的----人群"
+    },
+    {
+      "word": "Italian",
+      "meaning": "意大利（人）的意大利人；意大利语----意大利"
+    },
+    {
+      "word": "mean",
+      "meaning": "用作动词有以下含义"
+    },
+    {
+      "word": "mean to do sth",
+      "meaning": "意图做、打算做、想做"
+    },
+    {
+      "word": "normal",
+      "meaning": "通常的；正常的正常地; 通常地"
+    },
+    {
+      "word": "Shall I",
+      "meaning": "让我我们做某事好吗"
+    },
+    {
+      "word": "on one' s right",
+      "meaning": "在某人的右边"
+    },
+    {
+      "word": "go along Main Street",
+      "meaning": "沿着主大街走"
+    },
+    {
+      "word": "hold one' s hand",
+      "meaning": "抓住某人的手"
+    },
+    {
+      "word": "something to eat",
+      "meaning": "一些吃的东西"
+    },
+    {
+      "word": "lead in to a request",
+      "meaning": "引人一个请求"
+    },
+    {
+      "word": "use proper language",
+      "meaning": "使用合适的语言"
+    },
+    {
+      "word": "meet sb. for the first",
+      "meaning": "第一次见到某人"
+    },
+    {
+      "word": "in a rush to do",
+      "meaning": "仓促地做某事"
+    },
+    {
+      "word": "be convenient to do sth",
+      "meaning": "做某事很方便"
+    },
+    {
+      "word": "humorous",
+      "meaning": "有幽默感的沉默的有用的"
+    },
+    {
+      "word": "deal",
+      "meaning": "对付害羞敢于"
+    },
+    {
+      "word": "ton",
+      "meaning": "吨私人的；私密的警卫；看守"
+    },
+    {
+      "word": "require",
+      "meaning": "要求欧洲的欧洲人"
+    },
+    {
+      "word": "ant",
+      "meaning": "蚂蚁昆虫很少"
+    },
+    {
+      "word": "absent",
+      "meaning": "缺席失败考试"
+    },
+    {
+      "word": "Pride",
+      "meaning": "自豪骄傲的普遍的"
+    },
+    {
+      "word": "silent",
+      "meaning": "不说话的；沉默的 ----沉默----沉默地"
+    },
+    {
+      "word": "interview",
+      "meaning": "采访; 面试访谈----参加面试者"
+    },
+    {
+      "word": "Asian",
+      "meaning": "亚洲的；亚洲人的亚洲人---亚洲"
+    },
+    {
+      "word": "guard",
+      "meaning": "警卫；看守守卫；保卫----监护人"
+    },
+    {
+      "word": "European",
+      "meaning": "欧洲（人）的欧洲人----欧洲"
+    },
+    {
+      "word": "African",
+      "meaning": "非洲（人）的非洲人----非洲"
+    },
+    {
+      "word": "public",
+      "meaning": "民众公开的；公众的----公然地"
+    },
+    {
+      "word": "general",
+      "meaning": "总的；普遍的；常规的将军 ----通常；一般地"
+    },
+    {
+      "word": "keep silent",
+      "meaning": "保持沉默 (沉默地"
+    },
+    {
+      "word": "be brave enough to do",
+      "meaning": "足够勇敢做某事"
+    },
+    {
+      "word": "help sb out",
+      "meaning": "帮助某人解决困难，脱离困境"
+    },
+    {
+      "word": "can't help doing sth",
+      "meaning": "忍不住做某事"
+    },
+    {
+      "word": "with the help of sb",
+      "meaning": "在某人的帮助之下"
+    },
+    {
+      "word": "be more",
+      "meaning": "对更感兴趣没那么感兴趣"
+    },
+    {
+      "word": "on the soccer team",
+      "meaning": "是足球队队员"
+    },
+    {
+      "word": "take up",
+      "meaning": "开始从事某事"
+    },
+    {
+      "word": "have the ability to do",
+      "meaning": "有能力做某事"
+    },
+    {
+      "word": "be popular with",
+      "meaning": "在人）当中受欢迎"
+    },
+    {
+      "word": "two kilos",
+      "meaning": "两千克吨苹果"
+    },
+    {
+      "word": "a small",
+      "meaning": "可数名词复数 ， 后面谓语动词用复数"
+    },
+    {
+      "word": "the number of",
+      "meaning": "的数量 ， 后面谓语动词用单数"
+    },
+    {
+      "word": "do well in",
+      "meaning": "在方面做得好"
+    },
+    {
+      "word": "It is unbelievable that",
+      "meaning": "从句 很难相信"
+    },
+    {
+      "word": "have difficulty",
+      "meaning": "做什么事有困难"
+    },
+    {
+      "word": "take a",
+      "meaning": "坐小时的火车"
+    },
+    {
+      "word": "be there for sb",
+      "meaning": "时刻在那儿（准备帮助和支持）"
+    },
+    {
+      "word": "general introduction",
+      "meaning": "总体介绍; 概述"
+    },
+    {
+      "word": "in the past",
+      "meaning": "在过去的几年里 (一般用现在完成时)"
+    },
+    {
+      "word": "be proud",
+      "meaning": "为感到骄傲自豪"
+    },
+    {
+      "word": "chopstick",
+      "meaning": "筷子硬币短上衣"
+    },
+    {
+      "word": "fork",
+      "meaning": "叉子玻璃棉花"
+    },
+    {
+      "word": "fair",
+      "meaning": "展览会草地叶子"
+    },
+    {
+      "word": "produce",
+      "meaning": "生产广泛地包装"
+    },
+    {
+      "word": "product",
+      "meaning": "产品法国本地的"
+    },
+    {
+      "word": "avoid",
+      "meaning": "避免手提包品牌"
+    },
+    {
+      "word": "boss",
+      "meaning": "老板德国表面"
+    },
+    {
+      "word": "traffic",
+      "meaning": "交通邮递员帽子"
+    },
+    {
+      "word": "competitor",
+      "meaning": "参赛者形式气球"
+    },
+    {
+      "word": "scissors",
+      "meaning": "剪刀高温加热"
+    },
+    {
+      "word": "widely",
+      "meaning": "广泛的---宽的；宽阔的----宽度"
+    },
+    {
+      "word": "process",
+      "meaning": "加工；处理过程----加工者；制造者"
+    },
+    {
+      "word": "international",
+      "meaning": "国际的----国家的；民族的"
+    },
+    {
+      "word": "heat",
+      "meaning": "热；高温加热；变热----热的"
+    },
+    {
+      "word": "complete",
+      "meaning": "完成完全的----完全地"
+    },
+    {
+      "word": "be known for",
+      "meaning": "以闻名后跟出名的原因"
+    },
+    {
+      "word": "the art and science fair",
+      "meaning": "艺术科学展览会"
+    },
+    {
+      "word": "a model plane",
+      "meaning": "一个飞机模型"
+    },
+    {
+      "word": "a beautiful painting",
+      "meaning": "一副漂亮的画作"
+    },
+    {
+      "word": "in many different areas",
+      "meaning": "在许多不同的地方"
+    },
+    {
+      "word": "make high-technology products",
+      "meaning": "制造高科技产品"
+    },
+    {
+      "word": "many different kinds of",
+      "meaning": "许多不同种类的"
+    },
+    {
+      "word": "all parts of the world",
+      "meaning": "全世界各个地方"
+    },
+    {
+      "word": "send out",
+      "meaning": "放出(动副短语，代词在中间，名词在后面)"
+    },
+    {
+      "word": "heel",
+      "meaning": "鞋跟电样式；款式"
+    },
+    {
+      "word": "zipper",
+      "meaning": "拉链日常的网站"
+    },
+    {
+      "word": "pioneer",
+      "meaning": "先锋列清单清单"
+    },
+    {
+      "word": "ruler",
+      "meaning": "统治者煮沸保持不变；剩余"
+    },
+    {
+      "word": "national",
+      "meaning": "国家的；民族的受欢迎；普及疑惑"
+    },
+    {
+      "word": "trade",
+      "meaning": "贸易冰箱低的；矮的"
+    },
+    {
+      "word": "sudden",
+      "meaning": "突然的铃声饼干"
+    },
+    {
+      "word": "musical",
+      "meaning": "音乐的乐器酥脆的"
+    },
+    {
+      "word": "sour",
+      "meaning": "酸的顾客加拿大的"
+    },
+    {
+      "word": "the Olympics",
+      "meaning": "奥运会分开篮筐"
+    },
+    {
+      "word": "smell",
+      "meaning": "气味发出气味；闻到"
+    },
+    {
+      "word": "Canadian",
+      "meaning": "加拿大的；加拿大人的加拿大人 ----加拿大"
+    },
+    {
+      "word": "be invented in",
+      "meaning": "地点时间 被发明于某时某地"
+    },
+    {
+      "word": "be invented by sb",
+      "meaning": "由某人发明的"
+    },
+    {
+      "word": "shoes with adjustable heels",
+      "meaning": "可调后跟的鞋"
+    },
+    {
+      "word": "see in the dark",
+      "meaning": "在黑暗中看路"
+    },
+    {
+      "word": "operate on sb",
+      "meaning": "给某人动手术"
+    },
+    {
+      "word": "be used for",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "be used to do sth",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "make mistakes in sth",
+      "meaning": "在某事上犯错"
+    },
+    {
+      "word": "seem to do sth",
+      "meaning": "似乎要做某事"
+    },
+    {
+      "word": "some time",
+      "meaning": "一些时间某时（将来）有时"
+    },
+    {
+      "word": "over an open fire",
+      "meaning": "在户外篝火上"
+    },
+    {
+      "word": "fall into",
+      "meaning": "落入从掉下来"
+    },
+    {
+      "word": "It's believed that",
+      "meaning": "从句 人们认为"
+    },
+    {
+      "word": "take place",
+      "meaning": "意料之中）发生"
+    },
+    {
+      "word": "textbook",
+      "meaning": "教科书；教材谈话；交流大声地"
+    },
+    {
+      "word": "grammar",
+      "meaning": "语法重复笔记；记录"
+    },
+    {
+      "word": "pal",
+      "meaning": "朋友物理发音"
+    },
+    {
+      "word": "chemistry",
+      "meaning": "化学记住模式；方式"
+    },
+    {
+      "word": "increase",
+      "meaning": "增加创造速度"
+    },
+    {
+      "word": "born",
+      "meaning": "出生天生的搭档"
+    },
+    {
+      "word": "brain",
+      "meaning": "大脑活跃的注意；关注"
+    },
+    {
+      "word": "lifelong",
+      "meaning": "终身的明智地"
+    },
+    {
+      "word": "aloud",
+      "meaning": "大声地；出声地 ----大声的大声地"
+    },
+    {
+      "word": "in a loud voice",
+      "meaning": "大声地讲穿红色的衣服"
+    },
+    {
+      "word": "since",
+      "meaning": "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+    },
+    {
+      "word": "for",
+      "meaning": "其后接时间段，表示某事持续了多长时间"
+    },
+    {
+      "word": "has gone to",
+      "meaning": "表示某人已去了某地，（现未回来）"
+    },
+    {
+      "word": "mooncake",
+      "meaning": "月饼灯笼陌生人"
+    },
+    {
+      "word": "pound",
+      "meaning": "磅民间的女神"
+    },
+    {
+      "word": "steal",
+      "meaning": "偷；窃取放置；安置甜点"
+    },
+    {
+      "word": "tradition",
+      "meaning": "传统欣赏领带"
+    },
+    {
+      "word": "novel",
+      "meaning": "小说死的商业；生意"
+    },
+    {
+      "word": "stranger",
+      "meaning": "陌生人----陌生的----异常地"
+    },
+    {
+      "word": "haunted",
+      "meaning": "有鬼魂出没的；闹鬼的----常出没于萦绕于"
+    },
+    {
+      "word": "a time for cleaning",
+      "meaning": "清洁卫生的一段时间"
+    },
+    {
+      "word": "a traditional folk story",
+      "meaning": "传统的民间故事"
+    },
+    {
+      "word": "share sth. with sb",
+      "meaning": "与某人分享某物"
+    },
+    {
+      "word": "Mother's Day",
+      "meaning": "母亲节父亲节"
+    },
+    {
+      "word": "become more and more popular",
+      "meaning": "变得越来越流行"
+    },
+    {
+      "word": "show our love",
+      "meaning": "表达我们的爱"
+    },
+    {
+      "word": "the hottest month of the",
+      "meaning": "一年中最热的月份"
+    },
+    {
+      "word": "carry wishes to sb",
+      "meaning": "把祝福带给某人"
+    },
+    {
+      "word": "fly up to the moon",
+      "meaning": "飞上月亮天空"
+    },
+    {
+      "word": "on the second Sunday of",
+      "meaning": "五月的第二个星期日"
+    },
+    {
+      "word": "play a trick on sb",
+      "meaning": "和某人开玩笑"
+    },
+    {
+      "word": "used to do sth",
+      "meaning": "过去经常做某事"
+    },
+    {
+      "word": "warn sb",
+      "meaning": "警告某人(不要)做某事"
+    },
+    {
+      "word": "end up",
+      "meaning": "最终成为;最后处于"
+    },
+    {
+      "word": "remind sb. of sth",
+      "meaning": "提醒某人某事"
+    },
+    {
+      "word": "spread love and joy everywhere",
+      "meaning": "到处传播爱和欢乐"
+    },
+    {
+      "word": "the beginning of new life",
+      "meaning": "新生命的开始"
+    },
+    {
+      "word": "a symbol of new life",
+      "meaning": "新生命的象征"
+    },
+    {
+      "word": "trick or treat",
+      "meaning": "不招待就捣蛋"
+    },
+    {
+      "word": "a novel written by",
+      "meaning": "写的一本小说"
+    },
+    {
+      "word": "expect sb. to do sth",
+      "meaning": "期待某人做某事"
+    },
+    {
+      "word": "change one's life",
+      "meaning": "改变某人的生活"
+    },
+    {
+      "word": "treat everyone with kindness and",
+      "meaning": "用温暖和友善对待每一个人"
+    },
+    {
+      "word": "wonder",
+      "meaning": "想知道（惊奇奇迹（可数）"
+    },
+    {
+      "word": "put on",
+      "meaning": "穿上；上演；增加"
+    },
+    {
+      "word": "dress",
+      "meaning": "作名词，表示衣服"
+    },
+    {
+      "word": "put up with",
+      "meaning": "忍受收拾整理"
+    },
+    {
+      "word": "How long have you worked",
+      "meaning": "你在这儿工作多久了"
+    },
+    {
+      "word": "I've lived",
+      "meaning": "自年以来我就一直住在这儿"
+    },
+    {
+      "word": "spend",
+      "meaning": "可以用来花钱，也可以用来花时间"
+    },
+    {
+      "word": "warn sb. about sth",
+      "meaning": "提醒、警告某人注意某事"
+    },
+    {
+      "word": "warn sb. against",
+      "meaning": "警告某人某事"
+    },
+    {
+      "word": "introduce",
+      "meaning": "介绍--介绍；说明"
+    },
+    {
+      "word": "I think that mooncakes are",
+      "meaning": "我觉得月饼很好吃"
+    },
+    {
+      "word": "restroom",
+      "meaning": "公共厕所邮票书店"
+    },
+    {
+      "word": "postcard",
+      "meaning": "明信片原谅洗手间"
+    },
+    {
+      "word": "rush",
+      "meaning": "仓促；急促建议职工"
+    },
+    {
+      "word": "central",
+      "meaning": "中心的邮寄邮件"
+    },
+    {
+      "word": "inexpensive",
+      "meaning": "不贵的不拥挤的便利的"
+    },
+    {
+      "word": "corner",
+      "meaning": "角落礼貌地要求；请求"
+    },
+    {
+      "word": "correct",
+      "meaning": "正确的礼貌的直接的"
+    },
+    {
+      "word": "whom",
+      "meaning": "谁不礼貌的地址"
+    },
+    {
+      "word": "nearby",
+      "meaning": "附近的；临近的在附近；附近----接近；很快"
+    },
+    {
+      "word": "east",
+      "meaning": "东方的；东部的向东；朝东东；东方"
+    },
+    {
+      "word": "uncrowded",
+      "meaning": "不拥挤的----拥挤的----人群"
+    },
+    {
+      "word": "Italian",
+      "meaning": "意大利（人）的意大利人；意大利语----意大利"
+    },
+    {
+      "word": "mean",
+      "meaning": "用作动词有以下含义"
+    },
+    {
+      "word": "mean to do sth",
+      "meaning": "意图做、打算做、想做"
+    },
+    {
+      "word": "normal",
+      "meaning": "通常的；正常的正常地; 通常地"
+    },
+    {
+      "word": "Shall I",
+      "meaning": "让我我们做某事好吗"
+    },
+    {
+      "word": "on one' s right",
+      "meaning": "在某人的右边"
+    },
+    {
+      "word": "go along Main Street",
+      "meaning": "沿着主大街走"
+    },
+    {
+      "word": "hold one' s hand",
+      "meaning": "抓住某人的手"
+    },
+    {
+      "word": "something to eat",
+      "meaning": "一些吃的东西"
+    },
+    {
+      "word": "lead in to a request",
+      "meaning": "引人一个请求"
+    },
+    {
+      "word": "use proper language",
+      "meaning": "使用合适的语言"
+    },
+    {
+      "word": "meet sb. for the first",
+      "meaning": "第一次见到某人"
+    },
+    {
+      "word": "in a rush to do",
+      "meaning": "仓促地做某事"
+    },
+    {
+      "word": "be convenient to do sth",
+      "meaning": "做某事很方便"
+    },
+    {
+      "word": "humorous",
+      "meaning": "有幽默感的沉默的有用的"
+    },
+    {
+      "word": "deal",
+      "meaning": "对付害羞敢于"
+    },
+    {
+      "word": "ton",
+      "meaning": "吨私人的；私密的警卫；看守"
+    },
+    {
+      "word": "require",
+      "meaning": "要求欧洲的欧洲人"
+    },
+    {
+      "word": "ant",
+      "meaning": "蚂蚁昆虫很少"
+    },
+    {
+      "word": "absent",
+      "meaning": "缺席失败考试"
+    },
+    {
+      "word": "Pride",
+      "meaning": "自豪骄傲的普遍的"
+    },
+    {
+      "word": "silent",
+      "meaning": "不说话的；沉默的 ----沉默----沉默地"
+    },
+    {
+      "word": "interview",
+      "meaning": "采访; 面试访谈----参加面试者"
+    },
+    {
+      "word": "Asian",
+      "meaning": "亚洲的；亚洲人的亚洲人---亚洲"
+    },
+    {
+      "word": "guard",
+      "meaning": "警卫；看守守卫；保卫----监护人"
+    },
+    {
+      "word": "European",
+      "meaning": "欧洲（人）的欧洲人----欧洲"
+    },
+    {
+      "word": "African",
+      "meaning": "非洲（人）的非洲人----非洲"
+    },
+    {
+      "word": "public",
+      "meaning": "民众公开的；公众的----公然地"
+    },
+    {
+      "word": "general",
+      "meaning": "总的；普遍的；常规的将军 ----通常；一般地"
+    },
+    {
+      "word": "keep silent",
+      "meaning": "保持沉默 (沉默地"
+    },
+    {
+      "word": "be brave enough to do",
+      "meaning": "足够勇敢做某事"
+    },
+    {
+      "word": "help sb out",
+      "meaning": "帮助某人解决困难，脱离困境"
+    },
+    {
+      "word": "can't help doing sth",
+      "meaning": "忍不住做某事"
+    },
+    {
+      "word": "with the help of sb",
+      "meaning": "在某人的帮助之下"
+    },
+    {
+      "word": "be more",
+      "meaning": "对更感兴趣没那么感兴趣"
+    },
+    {
+      "word": "on the soccer team",
+      "meaning": "是足球队队员"
+    },
+    {
+      "word": "take up",
+      "meaning": "开始从事某事"
+    },
+    {
+      "word": "have the ability to do",
+      "meaning": "有能力做某事"
+    },
+    {
+      "word": "be popular with",
+      "meaning": "在人）当中受欢迎"
+    },
+    {
+      "word": "two kilos",
+      "meaning": "两千克吨苹果"
+    },
+    {
+      "word": "a small",
+      "meaning": "可数名词复数 ， 后面谓语动词用复数"
+    },
+    {
+      "word": "the number of",
+      "meaning": "的数量 ， 后面谓语动词用单数"
+    },
+    {
+      "word": "do well in",
+      "meaning": "在方面做得好"
+    },
+    {
+      "word": "It is unbelievable that",
+      "meaning": "从句 很难相信"
+    },
+    {
+      "word": "have difficulty",
+      "meaning": "做什么事有困难"
+    },
+    {
+      "word": "take a",
+      "meaning": "坐小时的火车"
+    },
+    {
+      "word": "be there for sb",
+      "meaning": "时刻在那儿（准备帮助和支持）"
+    },
+    {
+      "word": "general introduction",
+      "meaning": "总体介绍; 概述"
+    },
+    {
+      "word": "in the past",
+      "meaning": "在过去的几年里 (一般用现在完成时)"
+    },
+    {
+      "word": "be proud",
+      "meaning": "为感到骄傲自豪"
+    },
+    {
+      "word": "chopstick",
+      "meaning": "筷子硬币短上衣"
+    },
+    {
+      "word": "fork",
+      "meaning": "叉子玻璃棉花"
+    },
+    {
+      "word": "fair",
+      "meaning": "展览会草地叶子"
+    },
+    {
+      "word": "produce",
+      "meaning": "生产广泛地包装"
+    },
+    {
+      "word": "product",
+      "meaning": "产品法国本地的"
+    },
+    {
+      "word": "avoid",
+      "meaning": "避免手提包品牌"
+    },
+    {
+      "word": "boss",
+      "meaning": "老板德国表面"
+    },
+    {
+      "word": "traffic",
+      "meaning": "交通邮递员帽子"
+    },
+    {
+      "word": "competitor",
+      "meaning": "参赛者形式气球"
+    },
+    {
+      "word": "scissors",
+      "meaning": "剪刀高温加热"
+    },
+    {
+      "word": "widely",
+      "meaning": "广泛的---宽的；宽阔的----宽度"
+    },
+    {
+      "word": "process",
+      "meaning": "加工；处理过程----加工者；制造者"
+    },
+    {
+      "word": "international",
+      "meaning": "国际的----国家的；民族的"
+    },
+    {
+      "word": "heat",
+      "meaning": "热；高温加热；变热----热的"
+    },
+    {
+      "word": "complete",
+      "meaning": "完成完全的----完全地"
+    },
+    {
+      "word": "be known for",
+      "meaning": "以闻名后跟出名的原因"
+    },
+    {
+      "word": "the art and science fair",
+      "meaning": "艺术科学展览会"
+    },
+    {
+      "word": "a model plane",
+      "meaning": "一个飞机模型"
+    },
+    {
+      "word": "a beautiful painting",
+      "meaning": "一副漂亮的画作"
+    },
+    {
+      "word": "in many different areas",
+      "meaning": "在许多不同的地方"
+    },
+    {
+      "word": "make high-technology products",
+      "meaning": "制造高科技产品"
+    },
+    {
+      "word": "many different kinds of",
+      "meaning": "许多不同种类的"
+    },
+    {
+      "word": "all parts of the world",
+      "meaning": "全世界各个地方"
+    },
+    {
+      "word": "send out",
+      "meaning": "放出(动副短语，代词在中间，名词在后面)"
+    },
+    {
+      "word": "heel",
+      "meaning": "鞋跟电样式；款式"
+    },
+    {
+      "word": "zipper",
+      "meaning": "拉链日常的网站"
+    },
+    {
+      "word": "pioneer",
+      "meaning": "先锋列清单清单"
+    },
+    {
+      "word": "ruler",
+      "meaning": "统治者煮沸保持不变；剩余"
+    },
+    {
+      "word": "national",
+      "meaning": "国家的；民族的受欢迎；普及疑惑"
+    },
+    {
+      "word": "trade",
+      "meaning": "贸易冰箱低的；矮的"
+    },
+    {
+      "word": "sudden",
+      "meaning": "突然的铃声饼干"
+    },
+    {
+      "word": "musical",
+      "meaning": "音乐的乐器酥脆的"
+    },
+    {
+      "word": "sour",
+      "meaning": "酸的顾客加拿大的"
+    },
+    {
+      "word": "the Olympics",
+      "meaning": "奥运会分开篮筐"
+    },
+    {
+      "word": "smell",
+      "meaning": "气味发出气味；闻到"
+    },
+    {
+      "word": "Canadian",
+      "meaning": "加拿大的；加拿大人的加拿大人 ----加拿大"
+    },
+    {
+      "word": "be invented in",
+      "meaning": "地点时间 被发明于某时某地"
+    },
+    {
+      "word": "be invented by sb",
+      "meaning": "由某人发明的"
+    },
+    {
+      "word": "shoes with adjustable heels",
+      "meaning": "可调后跟的鞋"
+    },
+    {
+      "word": "see in the dark",
+      "meaning": "在黑暗中看路"
+    },
+    {
+      "word": "operate on sb",
+      "meaning": "给某人动手术"
+    },
+    {
+      "word": "be used for",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "be used to do sth",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "make mistakes in sth",
+      "meaning": "在某事上犯错"
+    },
+    {
+      "word": "seem to do sth",
+      "meaning": "似乎要做某事"
+    },
+    {
+      "word": "some time",
+      "meaning": "一些时间某时（将来）有时"
+    },
+    {
+      "word": "over an open fire",
+      "meaning": "在户外篝火上"
+    },
+    {
+      "word": "fall into",
+      "meaning": "落入从掉下来"
+    },
+    {
+      "word": "It's believed that",
+      "meaning": "从句 人们认为"
+    },
+    {
+      "word": "take place",
+      "meaning": "意料之中）发生"
+    },
+    {
+      "word": "textbook",
+      "meaning": "教科书；教材谈话；交流大声地"
+    },
+    {
+      "word": "grammar",
+      "meaning": "语法重复笔记；记录"
+    },
+    {
+      "word": "pal",
+      "meaning": "朋友物理发音"
+    },
+    {
+      "word": "chemistry",
+      "meaning": "化学记住模式；方式"
+    },
+    {
+      "word": "increase",
+      "meaning": "增加创造速度"
+    },
+    {
+      "word": "born",
+      "meaning": "出生天生的搭档"
+    },
+    {
+      "word": "brain",
+      "meaning": "大脑活跃的注意；关注"
+    },
+    {
+      "word": "lifelong",
+      "meaning": "终身的明智地"
+    },
+    {
+      "word": "aloud",
+      "meaning": "大声地；出声地 ----大声的大声地"
+    },
+    {
+      "word": "in a loud voice",
+      "meaning": "大声地讲穿红色的衣服"
+    },
+    {
+      "word": "since",
+      "meaning": "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+    },
+    {
+      "word": "for",
+      "meaning": "其后接时间段，表示某事持续了多长时间"
+    },
+    {
+      "word": "has gone to",
+      "meaning": "表示某人已去了某地，（现未回来）"
+    },
+    {
+      "word": "mooncake",
+      "meaning": "月饼灯笼陌生人"
+    },
+    {
+      "word": "pound",
+      "meaning": "磅民间的女神"
+    },
+    {
+      "word": "steal",
+      "meaning": "偷；窃取放置；安置甜点"
+    },
+    {
+      "word": "tradition",
+      "meaning": "传统欣赏领带"
+    },
+    {
+      "word": "novel",
+      "meaning": "小说死的商业；生意"
+    },
+    {
+      "word": "stranger",
+      "meaning": "陌生人----陌生的----异常地"
+    },
+    {
+      "word": "haunted",
+      "meaning": "有鬼魂出没的；闹鬼的----常出没于萦绕于"
+    },
+    {
+      "word": "a time for cleaning",
+      "meaning": "清洁卫生的一段时间"
+    },
+    {
+      "word": "a traditional folk story",
+      "meaning": "传统的民间故事"
+    },
+    {
+      "word": "share sth. with sb",
+      "meaning": "与某人分享某物"
+    },
+    {
+      "word": "Mother's Day",
+      "meaning": "母亲节父亲节"
+    },
+    {
+      "word": "become more and more popular",
+      "meaning": "变得越来越流行"
+    },
+    {
+      "word": "show our love",
+      "meaning": "表达我们的爱"
+    },
+    {
+      "word": "the hottest month of the",
+      "meaning": "一年中最热的月份"
+    },
+    {
+      "word": "carry wishes to sb",
+      "meaning": "把祝福带给某人"
+    },
+    {
+      "word": "fly up to the moon",
+      "meaning": "飞上月亮天空"
+    },
+    {
+      "word": "on the second Sunday of",
+      "meaning": "五月的第二个星期日"
+    },
+    {
+      "word": "play a trick on sb",
+      "meaning": "和某人开玩笑"
+    },
+    {
+      "word": "used to do sth",
+      "meaning": "过去经常做某事"
+    },
+    {
+      "word": "warn sb",
+      "meaning": "警告某人(不要)做某事"
+    },
+    {
+      "word": "end up",
+      "meaning": "最终成为;最后处于"
+    },
+    {
+      "word": "remind sb. of sth",
+      "meaning": "提醒某人某事"
+    },
+    {
+      "word": "spread love and joy everywhere",
+      "meaning": "到处传播爱和欢乐"
+    },
+    {
+      "word": "the beginning of new life",
+      "meaning": "新生命的开始"
+    },
+    {
+      "word": "a symbol of new life",
+      "meaning": "新生命的象征"
+    },
+    {
+      "word": "trick or treat",
+      "meaning": "不招待就捣蛋"
+    },
+    {
+      "word": "a novel written by",
+      "meaning": "写的一本小说"
+    },
+    {
+      "word": "expect sb. to do sth",
+      "meaning": "期待某人做某事"
+    },
+    {
+      "word": "change one's life",
+      "meaning": "改变某人的生活"
+    },
+    {
+      "word": "treat everyone with kindness and",
+      "meaning": "用温暖和友善对待每一个人"
+    },
+    {
+      "word": "wonder",
+      "meaning": "想知道（惊奇奇迹（可数）"
+    },
+    {
+      "word": "put on",
+      "meaning": "穿上；上演；增加"
+    },
+    {
+      "word": "dress",
+      "meaning": "作名词，表示衣服"
+    },
+    {
+      "word": "put up with",
+      "meaning": "忍受收拾整理"
+    },
+    {
+      "word": "How long have you worked",
+      "meaning": "你在这儿工作多久了"
+    },
+    {
+      "word": "I've lived",
+      "meaning": "自年以来我就一直住在这儿"
+    },
+    {
+      "word": "spend",
+      "meaning": "可以用来花钱，也可以用来花时间"
+    },
+    {
+      "word": "warn sb. about sth",
+      "meaning": "提醒、警告某人注意某事"
+    },
+    {
+      "word": "warn sb. against",
+      "meaning": "警告某人某事"
+    },
+    {
+      "word": "introduce",
+      "meaning": "介绍--介绍；说明"
+    },
+    {
+      "word": "I think that mooncakes are",
+      "meaning": "我觉得月饼很好吃"
+    },
+    {
+      "word": "restroom",
+      "meaning": "公共厕所邮票书店"
+    },
+    {
+      "word": "postcard",
+      "meaning": "明信片原谅洗手间"
+    },
+    {
+      "word": "rush",
+      "meaning": "仓促；急促建议职工"
+    },
+    {
+      "word": "central",
+      "meaning": "中心的邮寄邮件"
+    },
+    {
+      "word": "inexpensive",
+      "meaning": "不贵的不拥挤的便利的"
+    },
+    {
+      "word": "corner",
+      "meaning": "角落礼貌地要求；请求"
+    },
+    {
+      "word": "correct",
+      "meaning": "正确的礼貌的直接的"
+    },
+    {
+      "word": "whom",
+      "meaning": "谁不礼貌的地址"
+    },
+    {
+      "word": "nearby",
+      "meaning": "附近的；临近的在附近；附近----接近；很快"
+    },
+    {
+      "word": "east",
+      "meaning": "东方的；东部的向东；朝东东；东方"
+    },
+    {
+      "word": "uncrowded",
+      "meaning": "不拥挤的----拥挤的----人群"
+    },
+    {
+      "word": "Italian",
+      "meaning": "意大利（人）的意大利人；意大利语----意大利"
+    },
+    {
+      "word": "mean",
+      "meaning": "用作动词有以下含义"
+    },
+    {
+      "word": "mean to do sth",
+      "meaning": "意图做、打算做、想做"
+    },
+    {
+      "word": "normal",
+      "meaning": "通常的；正常的正常地; 通常地"
+    },
+    {
+      "word": "Shall I",
+      "meaning": "让我我们做某事好吗"
+    },
+    {
+      "word": "on one' s right",
+      "meaning": "在某人的右边"
+    },
+    {
+      "word": "go along Main Street",
+      "meaning": "沿着主大街走"
+    },
+    {
+      "word": "hold one' s hand",
+      "meaning": "抓住某人的手"
+    },
+    {
+      "word": "something to eat",
+      "meaning": "一些吃的东西"
+    },
+    {
+      "word": "lead in to a request",
+      "meaning": "引人一个请求"
+    },
+    {
+      "word": "use proper language",
+      "meaning": "使用合适的语言"
+    },
+    {
+      "word": "meet sb. for the first",
+      "meaning": "第一次见到某人"
+    },
+    {
+      "word": "in a rush to do",
+      "meaning": "仓促地做某事"
+    },
+    {
+      "word": "be convenient to do sth",
+      "meaning": "做某事很方便"
+    },
+    {
+      "word": "humorous",
+      "meaning": "有幽默感的沉默的有用的"
+    },
+    {
+      "word": "deal",
+      "meaning": "对付害羞敢于"
+    },
+    {
+      "word": "ton",
+      "meaning": "吨私人的；私密的警卫；看守"
+    },
+    {
+      "word": "require",
+      "meaning": "要求欧洲的欧洲人"
+    },
+    {
+      "word": "ant",
+      "meaning": "蚂蚁昆虫很少"
+    },
+    {
+      "word": "absent",
+      "meaning": "缺席失败考试"
+    },
+    {
+      "word": "Pride",
+      "meaning": "自豪骄傲的普遍的"
+    },
+    {
+      "word": "silent",
+      "meaning": "不说话的；沉默的 ----沉默----沉默地"
+    },
+    {
+      "word": "interview",
+      "meaning": "采访; 面试访谈----参加面试者"
+    },
+    {
+      "word": "Asian",
+      "meaning": "亚洲的；亚洲人的亚洲人---亚洲"
+    },
+    {
+      "word": "guard",
+      "meaning": "警卫；看守守卫；保卫----监护人"
+    },
+    {
+      "word": "European",
+      "meaning": "欧洲（人）的欧洲人----欧洲"
+    },
+    {
+      "word": "African",
+      "meaning": "非洲（人）的非洲人----非洲"
+    },
+    {
+      "word": "public",
+      "meaning": "民众公开的；公众的----公然地"
+    },
+    {
+      "word": "general",
+      "meaning": "总的；普遍的；常规的将军 ----通常；一般地"
+    },
+    {
+      "word": "keep silent",
+      "meaning": "保持沉默 (沉默地"
+    },
+    {
+      "word": "be brave enough to do",
+      "meaning": "足够勇敢做某事"
+    },
+    {
+      "word": "help sb out",
+      "meaning": "帮助某人解决困难，脱离困境"
+    },
+    {
+      "word": "can't help doing sth",
+      "meaning": "忍不住做某事"
+    },
+    {
+      "word": "with the help of sb",
+      "meaning": "在某人的帮助之下"
+    },
+    {
+      "word": "be more",
+      "meaning": "对更感兴趣没那么感兴趣"
+    },
+    {
+      "word": "on the soccer team",
+      "meaning": "是足球队队员"
+    },
+    {
+      "word": "take up",
+      "meaning": "开始从事某事"
+    },
+    {
+      "word": "have the ability to do",
+      "meaning": "有能力做某事"
+    },
+    {
+      "word": "be popular with",
+      "meaning": "在人）当中受欢迎"
+    },
+    {
+      "word": "two kilos",
+      "meaning": "两千克吨苹果"
+    },
+    {
+      "word": "a small",
+      "meaning": "可数名词复数 ， 后面谓语动词用复数"
+    },
+    {
+      "word": "the number of",
+      "meaning": "的数量 ， 后面谓语动词用单数"
+    },
+    {
+      "word": "do well in",
+      "meaning": "在方面做得好"
+    },
+    {
+      "word": "It is unbelievable that",
+      "meaning": "从句 很难相信"
+    },
+    {
+      "word": "have difficulty",
+      "meaning": "做什么事有困难"
+    },
+    {
+      "word": "take a",
+      "meaning": "坐小时的火车"
+    },
+    {
+      "word": "be there for sb",
+      "meaning": "时刻在那儿（准备帮助和支持）"
+    },
+    {
+      "word": "general introduction",
+      "meaning": "总体介绍; 概述"
+    },
+    {
+      "word": "in the past",
+      "meaning": "在过去的几年里 (一般用现在完成时)"
+    },
+    {
+      "word": "be proud",
+      "meaning": "为感到骄傲自豪"
+    },
+    {
+      "word": "chopstick",
+      "meaning": "筷子硬币短上衣"
+    },
+    {
+      "word": "fork",
+      "meaning": "叉子玻璃棉花"
+    },
+    {
+      "word": "fair",
+      "meaning": "展览会草地叶子"
+    },
+    {
+      "word": "produce",
+      "meaning": "生产广泛地包装"
+    },
+    {
+      "word": "product",
+      "meaning": "产品法国本地的"
+    },
+    {
+      "word": "avoid",
+      "meaning": "避免手提包品牌"
+    },
+    {
+      "word": "boss",
+      "meaning": "老板德国表面"
+    },
+    {
+      "word": "traffic",
+      "meaning": "交通邮递员帽子"
+    },
+    {
+      "word": "competitor",
+      "meaning": "参赛者形式气球"
+    },
+    {
+      "word": "scissors",
+      "meaning": "剪刀高温加热"
+    },
+    {
+      "word": "widely",
+      "meaning": "广泛的---宽的；宽阔的----宽度"
+    },
+    {
+      "word": "process",
+      "meaning": "加工；处理过程----加工者；制造者"
+    },
+    {
+      "word": "international",
+      "meaning": "国际的----国家的；民族的"
+    },
+    {
+      "word": "heat",
+      "meaning": "热；高温加热；变热----热的"
+    },
+    {
+      "word": "complete",
+      "meaning": "完成完全的----完全地"
+    },
+    {
+      "word": "be known for",
+      "meaning": "以闻名后跟出名的原因"
+    },
+    {
+      "word": "the art and science fair",
+      "meaning": "艺术科学展览会"
+    },
+    {
+      "word": "a model plane",
+      "meaning": "一个飞机模型"
+    },
+    {
+      "word": "a beautiful painting",
+      "meaning": "一副漂亮的画作"
+    },
+    {
+      "word": "in many different areas",
+      "meaning": "在许多不同的地方"
+    },
+    {
+      "word": "make high-technology products",
+      "meaning": "制造高科技产品"
+    },
+    {
+      "word": "many different kinds of",
+      "meaning": "许多不同种类的"
+    },
+    {
+      "word": "all parts of the world",
+      "meaning": "全世界各个地方"
+    },
+    {
+      "word": "send out",
+      "meaning": "放出(动副短语，代词在中间，名词在后面)"
+    },
+    {
+      "word": "heel",
+      "meaning": "鞋跟电样式；款式"
+    },
+    {
+      "word": "zipper",
+      "meaning": "拉链日常的网站"
+    },
+    {
+      "word": "pioneer",
+      "meaning": "先锋列清单清单"
+    },
+    {
+      "word": "ruler",
+      "meaning": "统治者煮沸保持不变；剩余"
+    },
+    {
+      "word": "national",
+      "meaning": "国家的；民族的受欢迎；普及疑惑"
+    },
+    {
+      "word": "trade",
+      "meaning": "贸易冰箱低的；矮的"
+    },
+    {
+      "word": "sudden",
+      "meaning": "突然的铃声饼干"
+    },
+    {
+      "word": "musical",
+      "meaning": "音乐的乐器酥脆的"
+    },
+    {
+      "word": "sour",
+      "meaning": "酸的顾客加拿大的"
+    },
+    {
+      "word": "the Olympics",
+      "meaning": "奥运会分开篮筐"
+    },
+    {
+      "word": "smell",
+      "meaning": "气味发出气味；闻到"
+    },
+    {
+      "word": "Canadian",
+      "meaning": "加拿大的；加拿大人的加拿大人 ----加拿大"
+    },
+    {
+      "word": "be invented in",
+      "meaning": "地点时间 被发明于某时某地"
+    },
+    {
+      "word": "be invented by sb",
+      "meaning": "由某人发明的"
+    },
+    {
+      "word": "shoes with adjustable heels",
+      "meaning": "可调后跟的鞋"
+    },
+    {
+      "word": "see in the dark",
+      "meaning": "在黑暗中看路"
+    },
+    {
+      "word": "operate on sb",
+      "meaning": "给某人动手术"
+    },
+    {
+      "word": "be used for",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "be used to do sth",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "make mistakes in sth",
+      "meaning": "在某事上犯错"
+    },
+    {
+      "word": "seem to do sth",
+      "meaning": "似乎要做某事"
+    },
+    {
+      "word": "some time",
+      "meaning": "一些时间某时（将来）有时"
+    },
+    {
+      "word": "over an open fire",
+      "meaning": "在户外篝火上"
+    },
+    {
+      "word": "fall into",
+      "meaning": "落入从掉下来"
+    },
+    {
+      "word": "It's believed that",
+      "meaning": "从句 人们认为"
+    },
+    {
+      "word": "take place",
+      "meaning": "意料之中）发生"
+    },
+    {
+      "word": "textbook",
+      "meaning": "教科书；教材谈话；交流大声地"
+    },
+    {
+      "word": "grammar",
+      "meaning": "语法重复笔记；记录"
+    },
+    {
+      "word": "pal",
+      "meaning": "朋友物理发音"
+    },
+    {
+      "word": "chemistry",
+      "meaning": "化学记住模式；方式"
+    },
+    {
+      "word": "increase",
+      "meaning": "增加创造速度"
+    },
+    {
+      "word": "born",
+      "meaning": "出生天生的搭档"
+    },
+    {
+      "word": "brain",
+      "meaning": "大脑活跃的注意；关注"
+    },
+    {
+      "word": "lifelong",
+      "meaning": "终身的明智地"
+    },
+    {
+      "word": "aloud",
+      "meaning": "大声地；出声地 ----大声的大声地"
+    },
+    {
+      "word": "in a loud voice",
+      "meaning": "大声地讲穿红色的衣服"
+    },
+    {
+      "word": "since",
+      "meaning": "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+    },
+    {
+      "word": "for",
+      "meaning": "其后接时间段，表示某事持续了多长时间"
+    },
+    {
+      "word": "has gone to",
+      "meaning": "表示某人已去了某地，（现未回来）"
+    },
+    {
+      "word": "mooncake",
+      "meaning": "月饼灯笼陌生人"
+    },
+    {
+      "word": "pound",
+      "meaning": "磅民间的女神"
+    },
+    {
+      "word": "steal",
+      "meaning": "偷；窃取放置；安置甜点"
+    },
+    {
+      "word": "tradition",
+      "meaning": "传统欣赏领带"
+    },
+    {
+      "word": "novel",
+      "meaning": "小说死的商业；生意"
+    },
+    {
+      "word": "stranger",
+      "meaning": "陌生人----陌生的----异常地"
+    },
+    {
+      "word": "haunted",
+      "meaning": "有鬼魂出没的；闹鬼的----常出没于萦绕于"
+    },
+    {
+      "word": "a time for cleaning",
+      "meaning": "清洁卫生的一段时间"
+    },
+    {
+      "word": "a traditional folk story",
+      "meaning": "传统的民间故事"
+    },
+    {
+      "word": "share sth. with sb",
+      "meaning": "与某人分享某物"
+    },
+    {
+      "word": "Mother's Day",
+      "meaning": "母亲节父亲节"
+    },
+    {
+      "word": "become more and more popular",
+      "meaning": "变得越来越流行"
+    },
+    {
+      "word": "show our love",
+      "meaning": "表达我们的爱"
+    },
+    {
+      "word": "the hottest month of the",
+      "meaning": "一年中最热的月份"
+    },
+    {
+      "word": "carry wishes to sb",
+      "meaning": "把祝福带给某人"
+    },
+    {
+      "word": "fly up to the moon",
+      "meaning": "飞上月亮天空"
+    },
+    {
+      "word": "on the second Sunday of",
+      "meaning": "五月的第二个星期日"
+    },
+    {
+      "word": "play a trick on sb",
+      "meaning": "和某人开玩笑"
+    },
+    {
+      "word": "used to do sth",
+      "meaning": "过去经常做某事"
+    },
+    {
+      "word": "warn sb",
+      "meaning": "警告某人(不要)做某事"
+    },
+    {
+      "word": "end up",
+      "meaning": "最终成为;最后处于"
+    },
+    {
+      "word": "remind sb. of sth",
+      "meaning": "提醒某人某事"
+    },
+    {
+      "word": "spread love and joy everywhere",
+      "meaning": "到处传播爱和欢乐"
+    },
+    {
+      "word": "the beginning of new life",
+      "meaning": "新生命的开始"
+    },
+    {
+      "word": "a symbol of new life",
+      "meaning": "新生命的象征"
+    },
+    {
+      "word": "trick or treat",
+      "meaning": "不招待就捣蛋"
+    },
+    {
+      "word": "a novel written by",
+      "meaning": "写的一本小说"
+    },
+    {
+      "word": "expect sb. to do sth",
+      "meaning": "期待某人做某事"
+    },
+    {
+      "word": "change one's life",
+      "meaning": "改变某人的生活"
+    },
+    {
+      "word": "treat everyone with kindness and",
+      "meaning": "用温暖和友善对待每一个人"
+    },
+    {
+      "word": "wonder",
+      "meaning": "想知道（惊奇奇迹（可数）"
+    },
+    {
+      "word": "put on",
+      "meaning": "穿上；上演；增加"
+    },
+    {
+      "word": "dress",
+      "meaning": "作名词，表示衣服"
+    },
+    {
+      "word": "put up with",
+      "meaning": "忍受收拾整理"
+    },
+    {
+      "word": "How long have you worked",
+      "meaning": "你在这儿工作多久了"
+    },
+    {
+      "word": "I've lived",
+      "meaning": "自年以来我就一直住在这儿"
+    },
+    {
+      "word": "spend",
+      "meaning": "可以用来花钱，也可以用来花时间"
+    },
+    {
+      "word": "warn sb. about sth",
+      "meaning": "提醒、警告某人注意某事"
+    },
+    {
+      "word": "warn sb. against",
+      "meaning": "警告某人某事"
+    },
+    {
+      "word": "introduce",
+      "meaning": "介绍--介绍；说明"
+    },
+    {
+      "word": "I think that mooncakes are",
+      "meaning": "我觉得月饼很好吃"
+    },
+    {
+      "word": "restroom",
+      "meaning": "公共厕所邮票书店"
+    },
+    {
+      "word": "postcard",
+      "meaning": "明信片原谅洗手间"
+    },
+    {
+      "word": "rush",
+      "meaning": "仓促；急促建议职工"
+    },
+    {
+      "word": "central",
+      "meaning": "中心的邮寄邮件"
+    },
+    {
+      "word": "inexpensive",
+      "meaning": "不贵的不拥挤的便利的"
+    },
+    {
+      "word": "corner",
+      "meaning": "角落礼貌地要求；请求"
+    },
+    {
+      "word": "correct",
+      "meaning": "正确的礼貌的直接的"
+    },
+    {
+      "word": "whom",
+      "meaning": "谁不礼貌的地址"
+    },
+    {
+      "word": "nearby",
+      "meaning": "附近的；临近的在附近；附近----接近；很快"
+    },
+    {
+      "word": "east",
+      "meaning": "东方的；东部的向东；朝东东；东方"
+    },
+    {
+      "word": "uncrowded",
+      "meaning": "不拥挤的----拥挤的----人群"
+    },
+    {
+      "word": "Italian",
+      "meaning": "意大利（人）的意大利人；意大利语----意大利"
+    },
+    {
+      "word": "mean",
+      "meaning": "用作动词有以下含义"
+    },
+    {
+      "word": "mean to do sth",
+      "meaning": "意图做、打算做、想做"
+    },
+    {
+      "word": "normal",
+      "meaning": "通常的；正常的正常地; 通常地"
+    },
+    {
+      "word": "Shall I",
+      "meaning": "让我我们做某事好吗"
+    },
+    {
+      "word": "on one' s right",
+      "meaning": "在某人的右边"
+    },
+    {
+      "word": "go along Main Street",
+      "meaning": "沿着主大街走"
+    },
+    {
+      "word": "hold one' s hand",
+      "meaning": "抓住某人的手"
+    },
+    {
+      "word": "something to eat",
+      "meaning": "一些吃的东西"
+    },
+    {
+      "word": "lead in to a request",
+      "meaning": "引人一个请求"
+    },
+    {
+      "word": "use proper language",
+      "meaning": "使用合适的语言"
+    },
+    {
+      "word": "meet sb. for the first",
+      "meaning": "第一次见到某人"
+    },
+    {
+      "word": "in a rush to do",
+      "meaning": "仓促地做某事"
+    },
+    {
+      "word": "be convenient to do sth",
+      "meaning": "做某事很方便"
+    },
+    {
+      "word": "humorous",
+      "meaning": "有幽默感的沉默的有用的"
+    },
+    {
+      "word": "deal",
+      "meaning": "对付害羞敢于"
+    },
+    {
+      "word": "ton",
+      "meaning": "吨私人的；私密的警卫；看守"
+    },
+    {
+      "word": "require",
+      "meaning": "要求欧洲的欧洲人"
+    },
+    {
+      "word": "ant",
+      "meaning": "蚂蚁昆虫很少"
+    },
+    {
+      "word": "absent",
+      "meaning": "缺席失败考试"
+    },
+    {
+      "word": "Pride",
+      "meaning": "自豪骄傲的普遍的"
+    },
+    {
+      "word": "silent",
+      "meaning": "不说话的；沉默的 ----沉默----沉默地"
+    },
+    {
+      "word": "interview",
+      "meaning": "采访; 面试访谈----参加面试者"
+    },
+    {
+      "word": "Asian",
+      "meaning": "亚洲的；亚洲人的亚洲人---亚洲"
+    },
+    {
+      "word": "guard",
+      "meaning": "警卫；看守守卫；保卫----监护人"
+    },
+    {
+      "word": "European",
+      "meaning": "欧洲（人）的欧洲人----欧洲"
+    },
+    {
+      "word": "African",
+      "meaning": "非洲（人）的非洲人----非洲"
+    },
+    {
+      "word": "public",
+      "meaning": "民众公开的；公众的----公然地"
+    },
+    {
+      "word": "general",
+      "meaning": "总的；普遍的；常规的将军 ----通常；一般地"
+    },
+    {
+      "word": "keep silent",
+      "meaning": "保持沉默 (沉默地"
+    },
+    {
+      "word": "be brave enough to do",
+      "meaning": "足够勇敢做某事"
+    },
+    {
+      "word": "help sb out",
+      "meaning": "帮助某人解决困难，脱离困境"
+    },
+    {
+      "word": "can't help doing sth",
+      "meaning": "忍不住做某事"
+    },
+    {
+      "word": "with the help of sb",
+      "meaning": "在某人的帮助之下"
+    },
+    {
+      "word": "be more",
+      "meaning": "对更感兴趣没那么感兴趣"
+    },
+    {
+      "word": "on the soccer team",
+      "meaning": "是足球队队员"
+    },
+    {
+      "word": "take up",
+      "meaning": "开始从事某事"
+    },
+    {
+      "word": "have the ability to do",
+      "meaning": "有能力做某事"
+    },
+    {
+      "word": "be popular with",
+      "meaning": "在人）当中受欢迎"
+    },
+    {
+      "word": "two kilos",
+      "meaning": "两千克吨苹果"
+    },
+    {
+      "word": "a small",
+      "meaning": "可数名词复数 ， 后面谓语动词用复数"
+    },
+    {
+      "word": "the number of",
+      "meaning": "的数量 ， 后面谓语动词用单数"
+    },
+    {
+      "word": "do well in",
+      "meaning": "在方面做得好"
+    },
+    {
+      "word": "It is unbelievable that",
+      "meaning": "从句 很难相信"
+    },
+    {
+      "word": "have difficulty",
+      "meaning": "做什么事有困难"
+    },
+    {
+      "word": "take a",
+      "meaning": "坐小时的火车"
+    },
+    {
+      "word": "be there for sb",
+      "meaning": "时刻在那儿（准备帮助和支持）"
+    },
+    {
+      "word": "general introduction",
+      "meaning": "总体介绍; 概述"
+    },
+    {
+      "word": "in the past",
+      "meaning": "在过去的几年里 (一般用现在完成时)"
+    },
+    {
+      "word": "be proud",
+      "meaning": "为感到骄傲自豪"
+    },
+    {
+      "word": "chopstick",
+      "meaning": "筷子硬币短上衣"
+    },
+    {
+      "word": "fork",
+      "meaning": "叉子玻璃棉花"
+    },
+    {
+      "word": "fair",
+      "meaning": "展览会草地叶子"
+    },
+    {
+      "word": "produce",
+      "meaning": "生产广泛地包装"
+    },
+    {
+      "word": "product",
+      "meaning": "产品法国本地的"
+    },
+    {
+      "word": "avoid",
+      "meaning": "避免手提包品牌"
+    },
+    {
+      "word": "boss",
+      "meaning": "老板德国表面"
+    },
+    {
+      "word": "traffic",
+      "meaning": "交通邮递员帽子"
+    },
+    {
+      "word": "competitor",
+      "meaning": "参赛者形式气球"
+    },
+    {
+      "word": "scissors",
+      "meaning": "剪刀高温加热"
+    },
+    {
+      "word": "widely",
+      "meaning": "广泛的---宽的；宽阔的----宽度"
+    },
+    {
+      "word": "process",
+      "meaning": "加工；处理过程----加工者；制造者"
+    },
+    {
+      "word": "international",
+      "meaning": "国际的----国家的；民族的"
+    },
+    {
+      "word": "heat",
+      "meaning": "热；高温加热；变热----热的"
+    },
+    {
+      "word": "complete",
+      "meaning": "完成完全的----完全地"
+    },
+    {
+      "word": "be known for",
+      "meaning": "以闻名后跟出名的原因"
+    },
+    {
+      "word": "the art and science fair",
+      "meaning": "艺术科学展览会"
+    },
+    {
+      "word": "a model plane",
+      "meaning": "一个飞机模型"
+    },
+    {
+      "word": "a beautiful painting",
+      "meaning": "一副漂亮的画作"
+    },
+    {
+      "word": "in many different areas",
+      "meaning": "在许多不同的地方"
+    },
+    {
+      "word": "make high-technology products",
+      "meaning": "制造高科技产品"
+    },
+    {
+      "word": "many different kinds of",
+      "meaning": "许多不同种类的"
+    },
+    {
+      "word": "all parts of the world",
+      "meaning": "全世界各个地方"
+    },
+    {
+      "word": "send out",
+      "meaning": "放出(动副短语，代词在中间，名词在后面)"
+    },
+    {
+      "word": "heel",
+      "meaning": "鞋跟电样式；款式"
+    },
+    {
+      "word": "zipper",
+      "meaning": "拉链日常的网站"
+    },
+    {
+      "word": "pioneer",
+      "meaning": "先锋列清单清单"
+    },
+    {
+      "word": "ruler",
+      "meaning": "统治者煮沸保持不变；剩余"
+    },
+    {
+      "word": "national",
+      "meaning": "国家的；民族的受欢迎；普及疑惑"
+    },
+    {
+      "word": "trade",
+      "meaning": "贸易冰箱低的；矮的"
+    },
+    {
+      "word": "sudden",
+      "meaning": "突然的铃声饼干"
+    },
+    {
+      "word": "musical",
+      "meaning": "音乐的乐器酥脆的"
+    },
+    {
+      "word": "sour",
+      "meaning": "酸的顾客加拿大的"
+    },
+    {
+      "word": "the Olympics",
+      "meaning": "奥运会分开篮筐"
+    },
+    {
+      "word": "smell",
+      "meaning": "气味发出气味；闻到"
+    },
+    {
+      "word": "Canadian",
+      "meaning": "加拿大的；加拿大人的加拿大人 ----加拿大"
+    },
+    {
+      "word": "be invented in",
+      "meaning": "地点时间 被发明于某时某地"
+    },
+    {
+      "word": "be invented by sb",
+      "meaning": "由某人发明的"
+    },
+    {
+      "word": "shoes with adjustable heels",
+      "meaning": "可调后跟的鞋"
+    },
+    {
+      "word": "see in the dark",
+      "meaning": "在黑暗中看路"
+    },
+    {
+      "word": "operate on sb",
+      "meaning": "给某人动手术"
+    },
+    {
+      "word": "be used for",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "be used to do sth",
+      "meaning": "被用来做某事"
+    },
+    {
+      "word": "make mistakes in sth",
+      "meaning": "在某事上犯错"
+    },
+    {
+      "word": "seem to do sth",
+      "meaning": "似乎要做某事"
+    },
+    {
+      "word": "some time",
+      "meaning": "一些时间某时（将来）有时"
+    },
+    {
+      "word": "over an open fire",
+      "meaning": "在户外篝火上"
+    },
+    {
+      "word": "fall into",
+      "meaning": "落入从掉下来"
+    },
+    {
+      "word": "It's believed that",
+      "meaning": "从句 人们认为"
+    },
+    {
+      "word": "take place",
+      "meaning": "意料之中）发生"
+    },
+    {
+      "word": "textbook",
+      "meaning": "教科书；教材谈话；交流大声地"
+    },
+    {
+      "word": "grammar",
+      "meaning": "语法重复笔记；记录"
+    },
+    {
+      "word": "pal",
+      "meaning": "朋友物理发音"
+    },
+    {
+      "word": "chemistry",
+      "meaning": "化学记住模式；方式"
+    },
+    {
+      "word": "increase",
+      "meaning": "增加创造速度"
+    },
+    {
+      "word": "born",
+      "meaning": "出生天生的搭档"
+    },
+    {
+      "word": "brain",
+      "meaning": "大脑活跃的注意；关注"
+    },
+    {
+      "word": "lifelong",
+      "meaning": "终身的明智地"
+    },
+    {
+      "word": "aloud",
+      "meaning": "大声地；出声地 ----大声的大声地"
+    },
+    {
+      "word": "in a loud voice",
+      "meaning": "大声地讲穿红色的衣服"
+    },
+    {
+      "word": "since",
+      "meaning": "其后接时间点或时态为一般过去时的句子，表示某事是从什么时候开始的"
+    },
+    {
+      "word": "for",
+      "meaning": "其后接时间段，表示某事持续了多长时间"
+    },
+    {
+      "word": "has gone to",
+      "meaning": "表示某人已去了某地，（现未回来）"
+    },
+    {
+      "word": "mooncake",
+      "meaning": "月饼灯笼陌生人"
+    },
+    {
+      "word": "pound",
+      "meaning": "磅民间的女神"
+    },
+    {
+      "word": "steal",
+      "meaning": "偷；窃取放置；安置甜点"
+    },
+    {
+      "word": "tradition",
+      "meaning": "传统欣赏领带"
+    },
+    {
+      "word": "novel",
+      "meaning": "小说死的商业；生意"
+    },
+    {
+      "word": "stranger",
+      "meaning": "陌生人----陌生的----异常地"
+    },
+    {
+      "word": "haunted",
+      "meaning": "有鬼魂出没的；闹鬼的----常出没于萦绕于"
+    },
+    {
+      "word": "a time for cleaning",
+      "meaning": "清洁卫生的一段时间"
+    },
+    {
+      "word": "a traditional folk story",
+      "meaning": "传统的民间故事"
+    },
+    {
+      "word": "share sth. with sb",
+      "meaning": "与某人分享某物"
+    },
+    {
+      "word": "Mother's Day",
+      "meaning": "母亲节父亲节"
+    },
+    {
+      "word": "become more and more popular",
+      "meaning": "变得越来越流行"
+    },
+    {
+      "word": "show our love",
+      "meaning": "表达我们的爱"
+    },
+    {
+      "word": "the hottest month of the",
+      "meaning": "一年中最热的月份"
+    },
+    {
+      "word": "carry wishes to sb",
+      "meaning": "把祝福带给某人"
+    },
+    {
+      "word": "fly up to the moon",
+      "meaning": "飞上月亮天空"
+    },
+    {
+      "word": "on the second Sunday of",
+      "meaning": "五月的第二个星期日"
+    },
+    {
+      "word": "play a trick on sb",
+      "meaning": "和某人开玩笑"
+    },
+    {
+      "word": "used to do sth",
+      "meaning": "过去经常做某事"
+    },
+    {
+      "word": "warn sb",
+      "meaning": "警告某人(不要)做某事"
+    },
+    {
+      "word": "end up",
+      "meaning": "最终成为;最后处于"
+    },
+    {
+      "word": "remind sb. of sth",
+      "meaning": "提醒某人某事"
+    },
+    {
+      "word": "spread love and joy everywhere",
+      "meaning": "到处传播爱和欢乐"
+    },
+    {
+      "word": "the beginning of new life",
+      "meaning": "新生命的开始"
+    },
+    {
+      "word": "a symbol of new life",
+      "meaning": "新生命的象征"
+    },
+    {
+      "word": "trick or treat",
+      "meaning": "不招待就捣蛋"
+    },
+    {
+      "word": "a novel written by",
+      "meaning": "写的一本小说"
+    },
+    {
+      "word": "expect sb. to do sth",
+      "meaning": "期待某人做某事"
+    },
+    {
+      "word": "change one's life",
+      "meaning": "改变某人的生活"
+    },
+    {
+      "word": "treat everyone with kindness and",
+      "meaning": "用温暖和友善对待每一个人"
+    },
+    {
+      "word": "wonder",
+      "meaning": "想知道（惊奇奇迹（可数）"
+    },
+    {
+      "word": "put on",
+      "meaning": "穿上；上演；增加"
+    },
+    {
+      "word": "dress",
+      "meaning": "作名词，表示衣服"
+    },
+    {
+      "word": "put up with",
+      "meaning": "忍受收拾整理"
+    },
+    {
+      "word": "How long have you worked",
+      "meaning": "你在这儿工作多久了"
+    },
+    {
+      "word": "I've lived",
+      "meaning": "自年以来我就一直住在这儿"
+    },
+    {
+      "word": "spend",
+      "meaning": "可以用来花钱，也可以用来花时间"
+    },
+    {
+      "word": "warn sb. about sth",
+      "meaning": "提醒、警告某人注意某事"
+    },
+    {
+      "word": "warn sb. against",
+      "meaning": "警告某人某事"
+    },
+    {
+      "word": "introduce",
+      "meaning": "介绍--介绍；说明"
+    },
+    {
+      "word": "I think that mooncakes are",
+      "meaning": "我觉得月饼很好吃"
+    },
+    {
+      "word": "restroom",
+      "meaning": "公共厕所邮票书店"
+    },
+    {
+      "word": "postcard",
+      "meaning": "明信片原谅洗手间"
+    },
+    {
+      "word": "rush",
+      "meaning": "仓促；急促建议职工"
+    },
+    {
+      "word": "central",
+      "meaning": "中心的邮寄邮件"
+    },
+    {
+      "word": "inexpensive",
+      "meaning": "不贵的不拥挤的便利的"
+    },
+    {
+      "word": "corner",
+      "meaning": "角落礼貌地要求；请求"
+    },
+    {
+      "word": "correct",
+      "meaning": "正确的礼貌的直接的"
+    },
+    {
+      "word": "whom",
+      "meaning": "谁不礼貌的地址"
+    },
+    {
+      "word": "nearby",
+      "meaning": "附近的；临近的在附近；附近----接近；很快"
+    },
+    {
+      "word": "east",
+      "meaning": "东方的；东部的向东；朝东东；东方"
+    },
+    {
+      "word": "uncrowded",
+      "meaning": "不拥挤的----拥挤的----人群"
+    },
+    {
+      "word": "Italian",
+      "meaning": "意大利（人）的意大利人；意大利语----意大利"
+    },
+    {
+      "word": "mean",
+      "meaning": "用作动词有以下含义"
+    },
+    {
+      "word": "mean to do sth",
+      "meaning": "意图做、打算做、想做"
+    },
+    {
+      "word": "normal",
+      "meaning": "通常的；正常的正常地; 通常地"
+    },
+    {
+      "word": "Shall I",
+      "meaning": "让我我们做某事好吗"
+    },
+    {
+      "word": "on one' s right",
+      "meaning": "在某人的右边"
+    },
+    {
+      "word": "go along Main Street",
+      "meaning": "沿着主大街走"
+    },
+    {
+      "word": "hold one' s hand",
+      "meaning": "抓住某人的手"
+    },
+    {
+      "word": "something to eat",
+      "meaning": "一些吃的东西"
+    },
+    {
+      "word": "lead in to a request",
+      "meaning": "引人一个请求"
+    },
+    {
+      "word": "use proper language",
+      "meaning": "使用合适的语言"
+    },
+    {
+      "word": "meet sb. for the first",
+      "meaning": "第一次见到某人"
+    },
+    {
+      "word": "in a rush to do",
+      "meaning": "仓促地做某事"
+    },
+    {
+      "word": "be convenient to do sth",
+      "meaning": "做某事很方便"
+    },
+    {
+      "word": "humorous",
+      "meaning": "有幽默感的沉默的有用的"
+    },
+    {
+      "word": "deal",
+      "meaning": "对付害羞敢于"
+    },
+    {
+      "word": "ton",
+      "meaning": "吨私人的；私密的警卫；看守"
+    },
+    {
+      "word": "require",
+      "meaning": "要求欧洲的欧洲人"
+    },
+    {
+      "word": "ant",
+      "meaning": "蚂蚁昆虫很少"
+    },
+    {
+      "word": "absent",
+      "meaning": "缺席失败考试"
+    },
+    {
+      "word": "Pride",
+      "meaning": "自豪骄傲的普遍的"
+    },
+    {
+      "word": "silent",
+      "meaning": "不说话的；沉默的 ----沉默----沉默地"
+    },
+    {
+      "word": "interview",
+      "meaning": "采访; 面试访谈----参加面试者"
+    },
+    {
+      "word": "Asian",
+      "meaning": "亚洲的；亚洲人的亚洲人---亚洲"
+    },
+    {
+      "word": "guard",
+      "meaning": "警卫；看守守卫；保卫----监护人"
+    },
+    {
+      "word": "European",
+      "meaning": "欧洲（人）的欧洲人----欧洲"
+    },
+    {
+      "word": "African",
+      "meaning": "非洲（人）的非洲人----非洲"
+    },
+    {
+      "word": "public",
+      "meaning": "民众公开的；公众的----公然地"
+    },
+    {
+      "word": "general",
+      "meaning": "总的；普遍的；常规的将军 ----通常；一般地"
+    },
+    {
+      "word": "keep silent",
+      "meaning": "保持沉默 (沉默地"
+    },
+    {
+      "word": "be brave enough to do",
+      "meaning": "足够勇敢做某事"
+    },
+    {
+      "word": "help sb out",
+      "meaning": "帮助某人解决困难，脱离困境"
+    },
+    {
+      "word": "can't help doing sth",
+      "meaning": "忍不住做某事"
+    },
+    {
+      "word": "with the help of sb",
+      "meaning": "在某人的帮助之下"
+    },
+    {
+      "word": "be more",
+      "meaning": "对更感兴趣没那么感兴趣"
+    },
+    {
+      "word": "on the soccer team",
+      "meaning": "是足球队队员"
+    },
+    {
+      "word": "take up",
+      "meaning": "开始从事某事"
+    },
+    {
+      "word": "have the ability to do",
+      "meaning": "有能力做某事"
+    },
+    {
+      "word": "be popular with",
+      "meaning": "在人）当中受欢迎"
+    },
+    {
+      "word": "two kilos",
+      "meaning": "两千克吨苹果"
+    },
+    {
+      "word": "a small",
+      "meaning": "可数名词复数 ， 后面谓语动词用复数"
+    },
+    {
+      "word": "the number of",
+      "meaning": "的数量 ， 后面谓语动词用单数"
+    },
+    {
+      "word": "do well in",
+      "meaning": "在方面做得好"
+    },
+    {
+      "word": "It is unbelievable that",
+      "meaning": "从句 很难相信"
+    },
+    {
+      "word": "have difficulty",
+      "meaning": "做什么事有困难"
+    },
+    {
+      "word": "take a",
+      "meaning": "坐小时的火车"
+    },
+    {
+      "word": "be there for sb",
+      "meaning": "时刻在那儿（准备帮助和支持）"
+    },
+    {
+      "word": "general introduction",
+      "meaning": "总体介绍; 概述"
+    },
+    {
+      "word": "in the past",
+      "meaning": "在过去的几年里 (一般用现在完成时)"
+    },
+    {
+      "word": "be proud",
+      "meaning": "为感到骄傲自豪"
+    },
+    {
+      "word": "chopstick",
+      "meaning": "筷子硬币短上衣"
+    },
+    {
+      "word": "fork",
+      "meaning": "叉子玻璃棉花"
+    },
+    {
+      "word": "fair",
+      "meaning": "展览会草地叶子"
+    },
+    {
+      "word": "produce",
+      "meaning": "生产广泛地包装"
+    },
+    {
+      "word": "product",
+      "meaning": "产品法国本地的"
+    },
+    {
+      "word": "avoid",
+      "meaning": "避免手提包品牌"
+    },
+    {
+      "word": "boss",
+      "meaning": "老板德国表面"
+    },
+    {
+      "word": "traffic",
+      "meaning": "交通邮递员帽子"
+    },
+    {
+      "word": "competitor",
+      "meaning": "参赛者形式气球"
+    },
+    {
+      "word": "scissors",
+      "meaning": "剪刀高温加热"
+    },
+    {
+      "word": "widely",
+      "meaning": "广泛的---宽的；宽阔的----宽度"
+    },
+    {
+      "word": "process",
+      "meaning": "加工；处理过程----加工者；制造者"
+    },
+    {
+      "word": "international",
+      "meaning": "国际的----国家的；民族的"
+    },
+    {
+      "word": "heat",
+      "meaning": "热；高温加热；变热----热的"
+    },
+    {
+      "word": "complete",
+      "meaning": "完成完全的----完全地"
+    },
+    {
+      "word": "be known for",
+      "meaning": "以闻名后跟出名的原因"
+    },
+    {
+      "word": "the art and science fair",
+      "meaning": "艺术科学展览会"
+    },
+    {
+      "word": "a model plane",
+      "meaning": "一个飞机模型"
+    },
+    {
+      "word": "a beautiful painting",
+      "meaning": "一副漂亮的画作"
+    },
+    {
+      "word": "in many different areas",
+      "meaning": "在许多不同的地方"
+    },
+    {
+      "word": "make high-technology products",
+      "meaning": "制造高科技产品"
+    },
+    {
+      "word": "many different kinds of",
+      "meaning": "许多不同种类的"
+    },
+    {
+      "word": "all parts of the world",
+      "meaning": "全世界各个地方"
+    },
+    {
+      "word": "send out",
+      "meaning": "放出(动副短语，代词在中间，名词在后面)"
+    },
+    {
+      "word": "heel",
+      "meaning": "鞋跟电样式；款式"
+    },
+    {
+      "word": "zipper",
+      "meaning": "拉链日常的网站"
+    },
+    {
+      "word": "pioneer",
+      "meaning": "先锋列清单清单"
+    },
+    {
+      "word": "ruler",
+      "meaning": "统治者煮沸保持不变；剩余"
+    },
+    {
+      "word": "national",
+      "meaning": "国家的；民族的受欢迎；普及疑惑"
+    },
+    {
+      "word": "trade",
+      "meaning": "贸易冰箱低的；矮的"
+    },
+    {
+      "word": "sudden",
+      "meaning": "突然的铃声饼干"
+    },
+    {
+      "word": "musical",
+      "meaning": "音乐的乐器酥脆的"
+    },
+    {
+      "word": "sour",
+      "meaning": "酸的顾客加拿大的"
+    },
+    {
+      "word": "the Olympics",
+      "meaning": "奥运会分开篮筐"
+    },
+    {
+      "word": "smell",
+      "meaning": "气味发出气味；闻到"
+    },
+    {
+      "word": "Canadian",
+      "meaning": "加拿大的；加拿大人的加拿大人 ----加拿大"
+    },
+    {
+      "word": "be invented in",
+      "meaning": "地点时间 被发明于某时某地"
+    },
+    {
+      "word": "be invented by sb",
+      "meaning": "由某人发明的"
+    },
+    {
+      "word": "shoes with adjustable heels",
+      "meaning": "可调后跟的鞋"
+    },
+    {
+      "word": "see in the dark",
+      "meaning": "在黑暗中看路"
+    },
+    {
+      "word": "operate on sb",
+      "meaning": "给某人动手术"
+    },
+    {
+      "word": "be used for",
+      "meaning": "被用来做某事"
+    }
+  ],
+  "unchanged": 889
+}

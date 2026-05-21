@@ -1,0 +1,88 @@
+{
+  "removedGrammarNotes": 40,
+  "removedUnrelated": 10,
+  "mergedPhrases": 746,
+  "cleanedWords": 2190,
+  "emptyAfterClean": [
+    {
+      "word": "I",
+      "pos": "pron."
+    },
+    {
+      "word": "II",
+      "pos": ""
+    },
+    {
+      "word": "III",
+      "pos": ""
+    },
+    {
+      "word": "IV",
+      "pos": ""
+    },
+    {
+      "word": "I",
+      "pos": "pron."
+    },
+    {
+      "word": "II",
+      "pos": ""
+    },
+    {
+      "word": "III",
+      "pos": ""
+    },
+    {
+      "word": "IV",
+      "pos": ""
+    },
+    {
+      "word": "I",
+      "pos": "pron."
+    },
+    {
+      "word": "II",
+      "pos": ""
+    },
+    {
+      "word": "III",
+      "pos": ""
+    },
+    {
+      "word": "IV",
+      "pos": ""
+    },
+    {
+      "word": "I",
+      "pos": "pron."
+    },
+    {
+      "word": "II",
+      "pos": ""
+    },
+    {
+      "word": "III",
+      "pos": ""
+    },
+    {
+      "word": "IV",
+      "pos": ""
+    },
+    {
+      "word": "I",
+      "pos": "pron."
+    },
+    {
+      "word": "II",
+      "pos": ""
+    },
+    {
+      "word": "III",
+      "pos": ""
+    },
+    {
+      "word": "IV",
+      "pos": ""
+    }
+  ]
+}

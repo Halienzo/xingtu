@@ -1,0 +1,971 @@
+{
+  "totalSemesters": 24,
+  "totalWords": 52560,
+  "cleanedWords": 2247,
+  "emptyPos": 8538,
+  "multiPos": 7746,
+  "phraseEntries": 4840,
+  "grammarEntries": 305,
+  "chapterMarkers": 61,
+  "samples": [
+    {
+      "idx": 1,
+      "original": "festival",
+      "cleaned": "festival",
+      "pos": "n.",
+      "meanings": [
+        "节日"
+      ]
+    },
+    {
+      "idx": 2,
+      "original": "speaking",
+      "cleaned": "speaking",
+      "pos": "n.",
+      "meanings": [
+        "说话；演讲"
+      ]
+    },
+    {
+      "idx": 3,
+      "original": "will",
+      "cleaned": "will",
+      "pos": "modal v.",
+      "meanings": [
+        "将要；将会"
+      ]
+    },
+    {
+      "idx": 4,
+      "original": "I",
+      "cleaned": "I",
+      "pos": "pron.",
+      "meanings": [
+        "我"
+      ]
+    },
+    {
+      "idx": 5,
+      "original": "textbook",
+      "cleaned": "textbook",
+      "pos": "n.",
+      "meanings": [
+        "教科书；教材"
+      ]
+    },
+    {
+      "idx": 6,
+      "original": "pronunciation",
+      "cleaned": "pronunciation",
+      "pos": "n.",
+      "meanings": [
+        "发音；读音"
+      ]
+    },
+    {
+      "idx": 7,
+      "original": "expression",
+      "cleaned": "expression",
+      "pos": "n.",
+      "meanings": [
+        "表达；表情"
+      ]
+    },
+    {
+      "idx": 8,
+      "original": "grammar",
+      "cleaned": "grammar",
+      "pos": "n.",
+      "meanings": [
+        "语法"
+      ]
+    },
+    {
+      "idx": 9,
+      "original": "pal",
+      "cleaned": "pal",
+      "pos": "n.",
+      "meanings": [
+        "朋友；伙伴"
+      ]
+    },
+    {
+      "idx": 10,
+      "original": "chemistry",
+      "cleaned": "chemistry",
+      "pos": "n.",
+      "meanings": [
+        "化学"
+      ]
+    },
+    {
+      "idx": 11,
+      "original": "increase",
+      "cleaned": "increase",
+      "pos": "v./n.",
+      "meanings": [
+        "增加；提高",
+        "增加；增长"
+      ]
+    },
+    {
+      "idx": 12,
+      "original": "born",
+      "cleaned": "born",
+      "pos": "adj.",
+      "meanings": [
+        "出生的；天生的"
+      ]
+    },
+    {
+      "idx": 13,
+      "original": "brain",
+      "cleaned": "brain",
+      "pos": "n.",
+      "meanings": [
+        "大脑；头脑"
+      ]
+    },
+    {
+      "idx": 14,
+      "original": "connect",
+      "cleaned": "connect",
+      "pos": "v.",
+      "meanings": [
+        "连接；联系"
+      ]
+    },
+    {
+      "idx": 15,
+      "original": "lifelong",
+      "cleaned": "lifelong",
+      "pos": "adj.",
+      "meanings": [
+        "终身的；毕生的"
+      ]
+    },
+    {
+      "idx": 16,
+      "original": "conversation",
+      "cleaned": "conversation",
+      "pos": "n.",
+      "meanings": [
+        "交谈；谈话"
+      ]
+    },
+    {
+      "idx": 17,
+      "original": "aloud",
+      "cleaned": "aloud",
+      "pos": "adv.",
+      "meanings": [
+        "大声地；出声地"
+      ]
+    },
+    {
+      "idx": 18,
+      "original": "patient",
+      "cleaned": "patient",
+      "pos": "adj./n.",
+      "meanings": [
+        "有耐心的",
+        "病人"
+      ]
+    },
+    {
+      "idx": 19,
+      "original": "discover",
+      "cleaned": "discover",
+      "pos": "v.",
+      "meanings": [
+        "发现；发觉"
+      ]
+    },
+    {
+      "idx": 20,
+      "original": "secret",
+      "cleaned": "secret",
+      "pos": "n./adj.",
+      "meanings": [
+        "秘密；秘诀",
+        "秘密的"
+      ]
+    },
+    {
+      "idx": 21,
+      "original": "repeat",
+      "cleaned": "repeat",
+      "pos": "v./n.",
+      "meanings": [
+        "重复；重做",
+        "重复"
+      ]
+    },
+    {
+      "idx": 22,
+      "original": "note",
+      "cleaned": "note",
+      "pos": "n./v.",
+      "meanings": [
+        "笔记；记录",
+        "注意；指出"
+      ]
+    },
+    {
+      "idx": 23,
+      "original": "physics",
+      "cleaned": "physics",
+      "pos": "n.",
+      "meanings": [
+        "物理；物理学"
+      ]
+    },
+    {
+      "idx": 24,
+      "original": "memorize",
+      "cleaned": "memorize",
+      "pos": "v.",
+      "meanings": [
+        "记住；记忆"
+      ]
+    },
+    {
+      "idx": 25,
+      "original": "speed",
+      "cleaned": "speed",
+      "pos": "n./v.",
+      "meanings": [
+        "速度",
+        "加速"
+      ]
+    },
+    {
+      "idx": 26,
+      "original": "partner",
+      "cleaned": "partner",
+      "pos": "n.",
+      "meanings": [
+        "搭档；同伴"
+      ]
+    },
+    {
+      "idx": 27,
+      "original": "ability",
+      "cleaned": "ability",
+      "pos": "n.",
+      "meanings": [
+        "能力；才能"
+      ]
+    },
+    {
+      "idx": 28,
+      "original": "create",
+      "cleaned": "create",
+      "pos": "v.",
+      "meanings": [
+        "创造；创建"
+      ]
+    },
+    {
+      "idx": 29,
+      "original": "active",
+      "cleaned": "active",
+      "pos": "adj.",
+      "meanings": [
+        "活跃的；积极的"
+      ]
+    },
+    {
+      "idx": 30,
+      "original": "review",
+      "cleaned": "review",
+      "pos": "v./n.",
+      "meanings": [
+        "回顾；复习",
+        "评论"
+      ]
+    },
+    {
+      "idx": 31,
+      "original": "knowledge",
+      "cleaned": "knowledge",
+      "pos": "n.",
+      "meanings": [
+        "知识；学问"
+      ]
+    },
+    {
+      "idx": 32,
+      "original": "wisely",
+      "cleaned": "wisely",
+      "pos": "adv.",
+      "meanings": [
+        "聪明地；明智地"
+      ]
+    },
+    {
+      "idx": 33,
+      "original": "loud",
+      "cleaned": "loud",
+      "pos": "adj./adv.",
+      "meanings": [
+        "大声的；响亮的",
+        "大声地"
+      ]
+    },
+    {
+      "idx": 34,
+      "original": "secret",
+      "cleaned": "secret",
+      "pos": "n./adj.",
+      "meanings": [
+        "秘密；秘诀",
+        "秘密的"
+      ]
+    },
+    {
+      "idx": 35,
+      "original": "discover",
+      "cleaned": "discover",
+      "pos": "v.",
+      "meanings": [
+        "发现；发觉"
+      ]
+    },
+    {
+      "idx": 36,
+      "original": "invent",
+      "cleaned": "invent",
+      "pos": "v.",
+      "meanings": [
+        "发明；创造"
+      ]
+    },
+    {
+      "idx": 37,
+      "original": "find",
+      "cleaned": "find",
+      "pos": "v.",
+      "meanings": [
+        "找到；发现"
+      ]
+    },
+    {
+      "idx": 38,
+      "original": "increase",
+      "cleaned": "increase",
+      "pos": "v./n.",
+      "meanings": [
+        "增加；提高",
+        "增加；增长"
+      ]
+    },
+    {
+      "idx": 39,
+      "original": "ability",
+      "cleaned": "ability",
+      "pos": "n.",
+      "meanings": [
+        "能力；才能"
+      ]
+    },
+    {
+      "idx": 40,
+      "original": "It's",
+      "cleaned": "It's",
+      "pos": "contraction",
+      "meanings": [
+        "它是（It is 的缩写）"
+      ]
+    },
+    {
+      "idx": 41,
+      "original": "in a loud voice",
+      "cleaned": "in a loud voice",
+      "pos": "phr.",
+      "meanings": [
+        "大声地"
+      ]
+    },
+    {
+      "idx": 42,
+      "original": "by",
+      "cleaned": "by",
+      "pos": "prep.",
+      "meanings": [
+        "通过；被；在……旁边"
+      ]
+    },
+    {
+      "idx": 43,
+      "original": "by mistake",
+      "cleaned": "by mistake",
+      "pos": "phr.",
+      "meanings": [
+        "错误地；无意地"
+      ]
+    },
+    {
+      "idx": 44,
+      "original": "since",
+      "cleaned": "since",
+      "pos": "prep./conj.",
+      "meanings": [
+        "自从；由于"
+      ]
+    },
+    {
+      "idx": 45,
+      "original": "for",
+      "cleaned": "for",
+      "pos": "prep.",
+      "meanings": [
+        "为了；对于；持续……时间"
+      ]
+    },
+    {
+      "idx": 46,
+      "original": "has gone to",
+      "cleaned": "has gone to",
+      "pos": "phr.",
+      "meanings": [
+        "已经去了某地（未回）"
+      ]
+    },
+    {
+      "idx": 47,
+      "original": "has been to",
+      "cleaned": "has been to",
+      "pos": "phr.",
+      "meanings": [
+        "曾经去过某地（已回）"
+      ]
+    },
+    {
+      "idx": 48,
+      "original": "for",
+      "cleaned": "for",
+      "pos": "prep.",
+      "meanings": [
+        "其后接时间段，表示某事持续了多长时间"
+      ]
+    },
+    {
+      "idx": 49,
+      "original": "has gone to",
+      "cleaned": "has gone to",
+      "pos": "",
+      "meanings": [
+        "表示某人已去了某地，（现未回来）"
+      ]
+    },
+    {
+      "idx": 50,
+      "original": "has been to",
+      "cleaned": "has been to",
+      "pos": "",
+      "meanings": [
+        "表示去过某地，（现已回来）"
+      ]
+    },
+    {
+      "idx": 51,
+      "original": "mooncake n",
+      "cleaned": "mooncake",
+      "pos": "n.",
+      "meanings": [
+        "月饼",
+        "灯笼",
+        "陌生人"
+      ]
+    },
+    {
+      "idx": 52,
+      "original": "pound n",
+      "cleaned": "pound",
+      "pos": "n./adj./pron.",
+      "meanings": [
+        "磅",
+        "民间的",
+        "女神"
+      ]
+    },
+    {
+      "idx": 53,
+      "original": "steal v",
+      "cleaned": "steal",
+      "pos": "v./n.",
+      "meanings": [
+        "偷；窃取",
+        "放置；安置",
+        "甜点"
+      ]
+    },
+    {
+      "idx": 54,
+      "original": "tradition n",
+      "cleaned": "tradition",
+      "pos": "n./v.",
+      "meanings": [
+        "传统",
+        "欣赏",
+        "领带"
+      ]
+    },
+    {
+      "idx": 55,
+      "original": "trick n",
+      "cleaned": "trick",
+      "pos": "n./v.",
+      "meanings": [
+        "花招；把戏",
+        "招待；款待",
+        "圣诞节"
+      ]
+    },
+    {
+      "idx": 56,
+      "original": "novel n",
+      "cleaned": "novel",
+      "pos": "n./adj./v.",
+      "meanings": [
+        "小说",
+        "死的",
+        "商业；生意"
+      ]
+    },
+    {
+      "idx": 57,
+      "original": "warn v",
+      "cleaned": "warn",
+      "pos": "v./n./adj.",
+      "meanings": [
+        "警告；警戒",
+        "现在；礼物",
+        "现在的"
+      ]
+    },
+    {
+      "idx": 58,
+      "original": "stranger n",
+      "cleaned": "stranger",
+      "pos": "n./adj./adv.",
+      "meanings": [
+        "陌生人----",
+        "陌生的----",
+        "异常地"
+      ]
+    },
+    {
+      "idx": 59,
+      "original": "relative n",
+      "cleaned": "relative",
+      "pos": "n./adj./adv./v.",
+      "meanings": [
+        "亲属；亲戚----",
+        "相对的；有关系的----",
+        "相当地；相对地，比较地----"
+      ]
+    },
+    {
+      "idx": 60,
+      "original": "garden n",
+      "cleaned": "garden",
+      "pos": "n.",
+      "meanings": [
+        "花园；园子----",
+        "园丁；花匠；园艺家----",
+        "园艺"
+      ]
+    },
+    {
+      "idx": 61,
+      "original": "admire v",
+      "cleaned": "admire",
+      "pos": "v./n./adj./adv.",
+      "meanings": [
+        "欣赏；仰慕 ----",
+        "欣赏；仰慕----",
+        "令人钦佩的；极好的；值得赞扬的----"
+      ]
+    },
+    {
+      "idx": 62,
+      "original": "tie n",
+      "cleaned": "tie",
+      "pos": "n./v.",
+      "meanings": [
+        "领带",
+        "捆；束----",
+        "解开；解决；使自由"
+      ]
+    },
+    {
+      "idx": 63,
+      "original": "haunted adj",
+      "cleaned": "haunted",
+      "pos": "adj./v.",
+      "meanings": [
+        "有鬼魂出没的；闹鬼的----",
+        "常出没于",
+        "萦绕于"
+      ]
+    },
+    {
+      "idx": 64,
+      "original": "treat n",
+      "cleaned": "treat",
+      "pos": "n./v.",
+      "meanings": [
+        "款待；招待",
+        "招待；请（客）----",
+        "治疗"
+      ]
+    },
+    {
+      "idx": 65,
+      "original": "fool n",
+      "cleaned": "fool",
+      "pos": "n./v./adj.",
+      "meanings": [
+        "蠢人；傻瓜",
+        "愚弄",
+        "愚蠢的 ----"
+      ]
+    },
+    {
+      "idx": 66,
+      "original": "dead adj",
+      "cleaned": "dead",
+      "pos": "adj./v./n.",
+      "meanings": [
+        "死的；失去生命的----",
+        "死----",
+        "死的----"
+      ]
+    },
+    {
+      "idx": 67,
+      "original": "business n",
+      "cleaned": "business",
+      "pos": "n./adj.",
+      "meanings": [
+        "生意；商业----",
+        "忙碌的----",
+        "商人"
+      ]
+    },
+    {
+      "idx": 68,
+      "original": "punish v",
+      "cleaned": "punish",
+      "pos": "v./n./adj.",
+      "meanings": [
+        "处罚；惩罚----",
+        "被惩罚的"
+      ]
+    },
+    {
+      "idx": 69,
+      "original": "present n",
+      "cleaned": "present",
+      "pos": "n./adj./adv.",
+      "meanings": [
+        "现在；礼物",
+        "现在的 ----",
+        "目前，不久----"
+      ]
+    },
+    {
+      "idx": 70,
+      "original": "warmth n",
+      "cleaned": "warmth",
+      "pos": "n./adj./adv.",
+      "meanings": [
+        "温暖；暖和----",
+        "温暖的----",
+        "热情地；温暖地"
+      ]
+    },
+    {
+      "idx": 71,
+      "original": "spread v",
+      "cleaned": "spread",
+      "pos": "v./n.",
+      "meanings": [
+        "传播；展开",
+        "蔓延；传播 ---",
+        "过去式----"
+      ]
+    },
+    {
+      "idx": 72,
+      "original": "eat out",
+      "cleaned": "eat out",
+      "pos": "",
+      "meanings": [
+        "在外吃饭"
+      ]
+    },
+    {
+      "idx": 73,
+      "original": "put on five pounds",
+      "cleaned": "put on five pounds",
+      "pos": "",
+      "meanings": [
+        "体重增加",
+        "磅"
+      ]
+    },
+    {
+      "idx": 74,
+      "original": "be similar to",
+      "cleaned": "be similar to",
+      "pos": "",
+      "meanings": [
+        "与",
+        "相似"
+      ]
+    },
+    {
+      "idx": 75,
+      "original": "wash away",
+      "cleaned": "wash away",
+      "pos": "",
+      "meanings": [
+        "冲走;清洗"
+      ]
+    },
+    {
+      "idx": 76,
+      "original": "wash away bad things",
+      "cleaned": "wash away bad things",
+      "pos": "",
+      "meanings": [
+        "洗去坏运气"
+      ]
+    },
+    {
+      "idx": 77,
+      "original": "a time for cleaning",
+      "cleaned": "a time for cleaning",
+      "pos": "",
+      "meanings": [
+        "清洁卫生的一段时间"
+      ]
+    },
+    {
+      "idx": 78,
+      "original": "in the shape of",
+      "cleaned": "in the shape of",
+      "pos": "",
+      "meanings": [
+        "呈",
+        "的形状"
+      ]
+    },
+    {
+      "idx": 79,
+      "original": "a traditional folk story",
+      "cleaned": "a traditional folk story",
+      "pos": "",
+      "meanings": [
+        "传统的民间故事"
+      ]
+    },
+    {
+      "idx": 80,
+      "original": "the most touching",
+      "cleaned": "the most touching",
+      "pos": "",
+      "meanings": [
+        "最感人的"
+      ]
+    },
+    {
+      "idx": 81,
+      "original": "lay out",
+      "cleaned": "lay out",
+      "pos": "",
+      "meanings": [
+        "摆开;布置"
+      ]
+    },
+    {
+      "idx": 82,
+      "original": "share sth. with sb",
+      "cleaned": "share sth. with sb",
+      "pos": "",
+      "meanings": [
+        "与某人分享某物"
+      ]
+    },
+    {
+      "idx": 83,
+      "original": "Mother's Day",
+      "cleaned": "Mother's Day",
+      "pos": "",
+      "meanings": [
+        "母亲节",
+        "父亲节"
+      ]
+    },
+    {
+      "idx": 84,
+      "original": "become more and more popular",
+      "cleaned": "become more and more popular",
+      "pos": "",
+      "meanings": [
+        "变得越来越流行"
+      ]
+    },
+    {
+      "idx": 85,
+      "original": "show our love",
+      "cleaned": "show our love",
+      "pos": "",
+      "meanings": [
+        "表达我们的爱"
+      ]
+    },
+    {
+      "idx": 86,
+      "original": "sound like",
+      "cleaned": "sound like",
+      "pos": "",
+      "meanings": [
+        "听起来像"
+      ]
+    },
+    {
+      "idx": 87,
+      "original": "the hottest month of the",
+      "cleaned": "the hottest month of the",
+      "pos": "",
+      "meanings": [
+        "一年中最热的月份"
+      ]
+    },
+    {
+      "idx": 88,
+      "original": "from",
+      "cleaned": "from",
+      "pos": "prep.",
+      "meanings": [
+        "从",
+        "到"
+      ]
+    },
+    {
+      "idx": 89,
+      "original": "throw",
+      "cleaned": "throw",
+      "pos": "v./n.",
+      "meanings": [
+        "朝",
+        "扔"
+      ]
+    },
+    {
+      "idx": 90,
+      "original": "carry wishes to sb",
+      "cleaned": "carry wishes to sb",
+      "pos": "",
+      "meanings": [
+        "把祝福带给某人"
+      ]
+    },
+    {
+      "idx": 91,
+      "original": "shoot down",
+      "cleaned": "shoot down",
+      "pos": "",
+      "meanings": [
+        "射下;击落"
+      ]
+    },
+    {
+      "idx": 92,
+      "original": "refuse to do sth",
+      "cleaned": "refuse to do sth",
+      "pos": "",
+      "meanings": [
+        "拒绝做某事"
+      ]
+    },
+    {
+      "idx": 93,
+      "original": "fly up to the moon",
+      "cleaned": "fly up to the moon",
+      "pos": "",
+      "meanings": [
+        "飞上月亮",
+        "天空"
+      ]
+    },
+    {
+      "idx": 94,
+      "original": "one",
+      "cleaned": "one",
+      "pos": "n./pron./num.",
+      "meanings": [
+        "一个",
+        "另一个"
+      ]
+    },
+    {
+      "idx": 95,
+      "original": "the tradition of admiring the",
+      "cleaned": "the tradition of admiring the",
+      "pos": "",
+      "meanings": [
+        "赏月的传统"
+      ]
+    },
+    {
+      "idx": 96,
+      "original": "as a result",
+      "cleaned": "as a result",
+      "pos": "",
+      "meanings": [
+        "因此，结果"
+      ]
+    },
+    {
+      "idx": 97,
+      "original": "on the second Sunday of",
+      "cleaned": "on the second Sunday of",
+      "pos": "",
+      "meanings": [
+        "五月的第二个星期日"
+      ]
+    },
+    {
+      "idx": 98,
+      "original": "dress up as",
+      "cleaned": "dress up as",
+      "pos": "",
+      "meanings": [
+        "乔装打扮成"
+      ]
+    },
+    {
+      "idx": 99,
+      "original": "play a trick on sb",
+      "cleaned": "play a trick on sb",
+      "pos": "",
+      "meanings": [
+        "和某人开玩笑"
+      ]
+    },
+    {
+      "idx": 100,
+      "original": "the true meaning of",
+      "cleaned": "the true meaning of",
+      "pos": "",
+      "meanings": [
+        "的真正意义"
+      ]
+    }
+  ]
+}

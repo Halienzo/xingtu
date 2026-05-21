@@ -1,0 +1,746 @@
+英语一共有多少种时态
+时态是英语中一个重要的语法范畴，它表示不同时间发生的动作或存在的状态以及动作发生或存在的方式。动作发生的时间可分为现在、过去、将来和过去将来四种形式，动作发生的方式可分为一般、完成、进行和完成进行四种形式。将时间形式和动作方式结合起来，就构成了以下16种时态形式(以do为例)：
+
+一 般
+完 成
+进 行
+完 成 进 行
+
+现 在
+现在一般时
+do
+现在完成时
+have done
+现在进行时
+is doing
+现在完成进行时
+have been doing
+
+过 去
+过去一般时
+did
+过去完成时
+had done
+过去进行时
+was doing
+过去完成进行时
+had been doing
+
+将 来
+将来一般时
+will do
+将来完成时
+will have done
+将来进行时
+will be doing
+将来完成进行时
+will have been doing
+
+过去将来
+过去将来一般时
+would do
+过去将来完成时
+would have done
+过去将来进行时
+would be doing
+过去将来完成进行时
+would have been doing
+
+
+时态详解：一般现在时
+1. 一般现在时的应用
+(1) 表示经常发生的动作或存在的状态。常用频度副词sometimes, often, always, usually, seldom及时间副词every day / night / week / month / year, in the morning, in the afternoon, in the evening, at night做状语。如：
+He often stays up late. 他常熬夜。
+We go home every month. 我们每月都要回家。
+I watch TV at night. 我晚上看电视。
+(2) 表示客观真理或永恒的状态。如：
+The earth travels round the sun. 地球绕太阳旋转。
+Trees turn green in spring. 春天树木变绿。
+Liquid turns into gas when it is hot enough. 足够热时，液体变为气体。
+Practice makes perfect. 熟能生巧。
+(3) 现阶段的状态。常跟时间副词now连用。如：
+He lives in Beijing now. 他现在住在北京。
+She is at home. 她在家。
+They work in that factory. 他们在那家工厂工作。
+(4) 习惯性的爱好或行为。如：
+I like dancing while she likes singing. 我喜欢跳舞，而她喜欢唱歌。
+We get up at six. 我们六点起床。
+He studies very hard. 他学习很刻苦。
+(5) 表示已经计划、安排好了或时间表上所安排，并且一定要做的事情。用于这种句型的动词主要是瞬间动词：come, go, leave, arrive, begin, start, stop, close, open等。如：
+The train arrives at five past eight and leaves at ten past eight. 火车八点过五分到，八点过十分离开。
+Our class begins at 7:45. 我们的课七点四十五开始。
+The shop opens at eight o’clock. 商店八点开门。
+(6) 时间、条件、方式及让步状语从句中的谓语动词是将来的动作或状态时，用一般现在时表示。如：
+If you come, we will wait for you. 如果你来，我们就等你。
+When he gets here, the work will be finished. 当他到这儿时，工作将做完了。
+
+Though he disagrees with us, he will do as we decided. 尽管他不赞成我们当观点，他还是会按我们的决定去做。
+(7) 在某些习惯表达法中，常用一般现在时表示已经发生过的动作或存在的状态。如：
+They say Wu Dong is ill. 据说吴东病了。
+The paper says the disease is under control. 报纸上说这种病已经得到了控制。
+The diagram tells us that people’s living is improving. 这份图表告诉我们，人们的生活正在改善。
+2. 一般现在时对谓语动词的要求
+当主语为第一人称、第二人称或第三人称复数时，动词(除be第一人称单数用 am外) 用原形。当主语为第三人称单数时，动词须用第三人称单数形式。即：
+(1) 动词be为is；have为has。
+ (2) 动词后面一般加—s。如：play—plays, work—works, say—says, love—loves. 
+(3) 在以辅音字母加—y结尾的动词后，改y为i再加—es。如：study—studies, satisfy — satisfies, fly—flies. 
+(4) 在以s, x, sh, ch, o结尾的动词后面加—es。如：fix—fixes, finish—finishes, watch — watches, do — does, go — goes. 
+一般过去时
+
+1. 一般过去时的应用
+(1) 表示过去某时所发生的动作或存在的状态。如：
+Liu Ying was in America last year. 刘英去年在美国。
+Jim rang you just now. 吉姆刚才给你打了电话。
+(2) 表示过去经常或反复发生的动作。常接时间副词often, usually, always, sometimes, every day / week, etc. 如：
+We often went out for a walk after supper. 我们过去常在晚饭后散步。
+We usually played together. 我们通常一起玩。
+3. 一般过去时对谓语动词的要求
+一般过去时的谓语动词要用动词的过去式。动词过去式的构成分规则变化和不规则变化两种形式，不规则变化通常需要逐个记忆，规则变化则遵循以下原则：
+(1) 一般在动词后加-ed。如：play—played, offer—offered, weigh—weighed, destroy— destroyed, sign—signed. 
+(2) 在以字母e结尾的动词后，只加-d。如：like—liked, provide—provided, hate — hated, date—dated。
+(3) 在以“辅音字母+y”结尾的动词后，则改y为i，再加—ed。如：supply—supplied, fly—flied, study— studied. 
+(4) 在以单短元音的重读闭音节结尾且，末尾只有一个辅音字母的动词后，双写最后一个辅音字母，再加-ed。如：plan—planned, refer—referred, regret—regretted, ban—banned. 
+
+4. 特别说明
+有些动词的过去时，如：expect, hope, intend, plan, want 等一般过去时，后接不定式的完成时；或它们的过去完成时接不定式的一般式，都可表示过去未曾实现的意图、打算或希望。如：
+I hoped to have been invited to his wedding party. —I had hoped to be invited to his wedding ceremony. 我本希望他来邀请我参加他的婚礼。
+I intended to have joined their games. —I had intended to join their games. 我本打算参加他们的比赛。
+一般将来时
+
+1. 一般将来时的结构及应用
+(1) shall / will + 动词原形。表示即将发生的动作或存在的状态。特别是表示客观性的事情或在某条件下要发生的事情，只能用此结构。如：
+What shall we do if he doesn’t come? 如果他不来，我们该怎么办？
+Will you be free this evening? 今天晚上有空吗？
+I think he will tell us the truth. 我想他会告诉我们真实情况的。
+(2) be going to + 动词原形。表示已经计划或安排好了的事情，也可表示有迹象表明肯定要发生的事情。如：
+We are going to have a meeting to discuss the matter this evening. 今天晚上开会讨论这件事情。
+Look at the black clouds over there. I think it is going to rain soon. 看一看那边的乌云，我想天要下雨了。
+There is going to be an English evening this week. 本周要举行一个英语晚会。
+(3) be to + 动词原形。表示一种常规性的活动或注定要做的事情。如：
+Who is to clean the classroom today? 今天该谁打扫教室了？
+When are you to return your library book? 你什么时候要还图书？
+The bridge is to be completed by the end of this year. 这渡桥该在今年年底前完工。
+(4) be about to + 动词原形。表示就要做或正好要做的事情。往往暗含一种时间上的巧合，因此，句子不能再用时间状语。如：
+Don’t leave. Li Lei is about to come. 不要走了，李蕾就要来了。
+Be quiet. The concert is about to start. 安静下来，音乐演唱会就要开始了。
+(5) be +现在分词。表示即将发生的动作或存在的状态。这个句型中动词主要是瞬间动词：come, go, leave, arrive, begin, start, stop, close, open, die, join, borrow, buy等。如：
+Go ahead, and I’m coming. 走前面一点吧，我就来。
+The dog is dying. 那条狗要死了。
+Hurry up. The shop is closing. 快点，商店就要关门了。
+(6) 一般现在时。表示一种严格按照计划进行的动作。比方说，上课、飞机起飞、火车离站等。如：
+Don’t hurry. The meeting starts at a quarter past eight. 不要匆忙，会议八点过一刻开始。
+The bus goes back at four thirty. 汽车四点返回。
+现在进行时
+
+1. 现在进行时的结构
+现在进行时由“am / is / are + 现在分词”构成。如：
+I’m studying at Yu Cai Senior Middle school. 我在育才中学读书。
+He is writing on the desk. 他再课桌上写字。
+They are talking about their visiting the Great Wall. 他们在谈论游长城的事情。
+【说明】动词现在分词的构成方法：
+(1) 一般在动词后加-ing。如：say—saying, play—playing, think—thinking, study—studying, teach —teaching, blow—blowing, build—building. 
+(2) 动词若以-e结尾, 则去e再加-ing。如：love—loving, make—making, guide—guiding, date—dating. 
+(3) 在以单短元音的重读闭音节结尾，且末尾只有一个辅音字母的动词后，双写最后一个辅音字母，再加-ing。如：begin—beginning, regret—regretting, plan—planning, ban — banning. 
+(4) 在以ie结尾的动词后，改ie为y，再加-ing。如：lie—lying, die—dying, tie—tying. 
+(5) 在以-c[k] 结尾的动词后加-king。如：picnic—picnicking, panic—panicking. 
+
+2. 现在进行时的应用
+(1) 表示目前正在发生或进行的动作。如：
+They are planting trees on the mountain. 他们在山上植树。
+Mother is preparing supper in the kitchen. 母亲在厨房做晚饭。
+(2) 有些非持续性动词的进行时可以表示动作即将进行或发生，或表示动作的重复。如：
+He is joining the army. 他要参军了。
+They are buying the house. 他们要买那座房子。
+(3) 当现在进行时中有always, forever, constantly, continually修饰时，表示说话人的赞赏或厌烦的感情。如:
+Why is the baby always crying? 为什么那个老是在哭。
+They are always helping us. 他们总是帮助我们。
+注意：表示状态、感觉、心理活动的静态动词，一般不使用语进行时态。
+4. 现在进行时与一般现在时的区别
+(1) 现在进行时强调目前正在进行的动作，而一般现在时强调经常性或习惯性的动作。如：
+I’m reading a story now. 我在看一个故事。(目前正在干的事情) 
+I read stories in my spare time. 我有空时看故事。(经常性的行为) (from www.yygrammar.com)
+(2) 现在进行时强调现阶段一直在进行的动作，而一般现在时只表动作的重复，而不表示动作的持续。如：
+What are you doing these days? 这几天你在干什么？
+They are learning English in the summer holiday. 他们暑假在学英语。
+They read English every day. 他们每天读英语。
+They play volleyball every Sunday. 他们每周星期天都打排球。
+(3) 表示短促动作的动词(如 jump, knock, beat, pick, skip等)的进行时，表示动作的重复。如：
+The girls are jumping over there. 女孩子们在那边跳。
+His heart is beating fast. 他的心脏跳得很快。
+(5) 某些表示希望或想法的动词(如hope, wonder, want等)的进行时可以表示委婉客气。如：
+I’m wondering whether you can help us now. 我不知道你现在能否给我们帮一忙。
+I’m hoping that you will succeed. 我正在希望你成功呢。
+过去进行时
+
+1. 过去进行时的结构
+过去进行时由“was / were + 现在分词”构成。如： 
+I was doing my lessons then. 那时，我在做功课。
+We were cleaning the house. 我们在打扫房子。
+
+2. 使用过去进行时应注意的几点
+(1) 过去进行时可表示按计划、安排过去某时刻将要发生的动作。如：
+He said they were leaving for Beijing this afternoon. 他说他今天下午要去北京。
+(2) 动词hope, wonder等的过去进行时常用来表示提出要求，虽然表示现在的内容，但语气比一般现在时或一般过去时要委婉。如：
+I was wondering whether you could come to join us. 我想你能否过来跟我们一起活动？
+(3) 过去进行时中有always, forever, continually, constantly修饰时，表示说话人的赞赏或厌烦的感情。如：
+He was always thinking of others. 他总是想到人家。
+
+3. 过去进行时与一般过去时的区别
+(1) 过去进行时强调动作在过去某时刻正在进行或持续，而一般过去时表示动作的完成。如：
+He was writing his composition last night. 他昨晚在写作文。(不一定写完) 
+He wrote his composition last night. 他昨晚写了一篇作文。(已经写完) 
+(2) 表示过去的状态、感觉及心理活动的静态动词(如be, like, love, hate, fear, own, hear, see, know, want, notice)可用于一般过去时，但通常不用于进行时。如：
+I hated it when a man spoke with his mouth full of food. 我讨厌人们说话时口里含着食物。
+(3) 一般过去时与always, constantly, forever, continually等连用，表示“过去经常性、习惯性的动作”；而过去进行时与always, constantly, forever, continually等连用，表示动作的重复，常带有感情的色彩。如：
+He always got up at six. 他过去总是六点起床。
+He was always thinking of his work. 他总是一心想到工作。
+(4) 有时过去进行时可以用来替换一般过去时，但一般过去时表示主语的行为是经过认真考虑的；而过去进行时表示一种较随便或没有进行仔细考虑的行为。如：
+I thought that he would agree with us. 我原以为它会同意我们的。
+I was thinking of persuading him to follow my advice. 我想到了要说服他接受我们的建议。
+将来进行时用法说明
+
+1. 将来进行时的基本用法
+将来进行时表示将来某一时间正在进行的动作：
+Don’t phone me between 5 and 6. We’ll be having dinner then. 五点至六点之间不要给我打电话，那时我们在吃饭。
+When I get home, my wife will probably be watching television. 当我到家时，我太太可能正在看电视。
+2. 表示按计划或安排要发生的动作
+I will be seeing you next week. 我下个星期来看你。
+I’ll be taking my holidays soon. 不久我将度假了。
+We shall be going to London next week. 下周我们要去伦敦。
+3. 将来进行时表示委婉语气
+有时用将来进行时可使语气更委婉：
+Will you be having some tea? 喝点茶吧。
+Will you be needing anything else? 你还需要什么吗？
+4. 将来进行时与一般将来时的区别
+(1) 两者基本用法不一样：将来进行时表示将来某时正在进行的动作，一般将来时表示将来某时将要发生的动作： 
+What will you be doing this time tomorrow? 明天这个时候你会在做什么呢？
+What will you do tomorrow? 你明天干什么？
+(2) 两者均可表示将来，但用将来进行时语气更委婉，比较：
+When will you finish these letters? 你什么什候处理完这些信件？(直接询问，如上司对下属)
+When will you be seeing Mr White? 你什么时候见怀特先生？(委婉地询问，如下属对上司)
+When will you pay back the money? 你什么时候还钱？(似乎在直接讨债)
+When will you be paying back the money? 这钱你什么时候还呢？(委婉地商量)
+(3) 有时一般将来中的will含有“愿意”的意思，而用将来进行时则只是单纯地谈未来情况：
+Mary won’t pay this bill. 玛丽不肯付这笔钱。(表意愿)
+Mary won’t be paying this bill. 不会由玛丽来付钱。(单纯谈未来情况)
+瞬间动词进行时的用法与意义
+
+■表示反复或重复
+英语的现在进行时用于少数瞬间动词可以表示不断重复的动作，这类动词主要有jump, knock, kick, hit, nod, tap, wink, cough, shoot, drop等。如：
+Someone is knocking. 有人敲门。
+John is nodding his head. 约翰频频点头。
+He is jumping up and down. 他上下地跳着。
+Why is she blinking her eyes? 她为什么老眨眼睛? 
+如果主语为复数，某些动词的现在进行时往往有“不断”或“一个接一个”的含义，如：
+People are dying in that part of the world. 在那个地方人们不断地死去。
+Men are dropping with malaria, dysentery and simple starvation. 士兵们由于疟疾、痢疾或仅仅因为饥饿一个接一个地倒了下去。
+■表示即将发生
+注意有些瞬间动词的现在进行时并不表动作的重复，而是表动作即将发生。如：
+Mike is coming home on Thursday. 迈克星期四回来。
+They’re having a party next week. 下星期他们将开一个晚会。
+My sister is getting married next December. 我妹妹十二月结婚。
+You’re young people. You ate only beginning to live. 你们是年轻人，刚刚开始生活。
+■表示即将结束
+有些瞬间动词的现在进行时则表动作即将结束，如：
+I am finishing. 我快做完了。
+It is ceasing to rain. 雨快停了。
+The fruit is ripening. 这果子快熟了。
+It was my painful duty to tell him he was dying. 要我把他即将去世的事告诉他，这使我十分为难。
+静态动词用于进行时态的例子
+
+在通常情况下，静态动词不用于进行时态，但是有少数静态动词在特殊情况下可用于进行时态，有时比用一般时态显得更客气。如以下例子均摘自词典和名家的语法著作：
+I am hoping you will come. 我希望你能来。(比I hope…显得更客气)。
+Now I’m remembering it. 现在我想起来了。
+How are you liking Beijing? 你觉得北京如何?(问初步印象) 
+I’m always hearing strange stories about him. 我老听人讲关于他的奇奇怪怪的事。
+I’m forgetting that I promised to visit him tonight. 我差点忘了我答应今晚去看他的。
+Tina is resembling her sister more and more. 丁娜越来越像她姐姐了。
+I’m hoping that you will come and have a chat with me. 我倒希望你来聊聊天。
+I’m wondering if you have any questions. 我倒想知道你们有什么问题。
+Thank you so much for the binoculars. I’ve been wanting a pair for ages. 我非常感谢你送给我望远镜。我一直想要一副。
+
+现在完成时
+
+1. 现在完成时的定义
+现在完成时既可表示过去发生的动作对现在所造成的结果或影响(此时通常连用的时间状语有already, yet, just, ever, before)，也可表示动作从过去某时间开始，一直持续到现在，并且还有可能持续下去(此时通常连用的时间状语有this month / week / year, these days, recently / lately, in the past few + 时间段, since +时间点, for + 时间段)。如：
+I have just finished my work. 我把工作做完。
+Have you ever been to Beijing? 你曾经去过北京吗？
+I have lived for ten years. 我在这儿住了十年了。
+We have studied here since 2003. 我们自2003年来就在这儿读书了。
+
+2. 现在完成时的结构
+现在完成时由“have / has + 过去分词”构成。 
+
+3. 现在完成时的应用
+(1) 非持续性动词go, come, leave, borrow, buy, die, join的完成时的肯定式不能与时间段连用，若要接用时间段状语，则应换成相应的持续动词或状态动词。如：
+He has been away for an hour. 他走了一个小时了。
+Can I borrow that book? 我可以借那本书吗?
+How long can I keep the book? 这本书我可借多久？
+注意：非持续性动词的否定完成时可与时间段状语连用。如：
+He has not borrowed the book since then. 从此以后，他再也没有借这本书了。
+(2) have / has been to 表示曾经去过某地，但现在不在那儿；have / has gone to表示现在已去某地，现在不在这儿。如：
+He has been to Canada, but now he is working in our company. 他去过加拿大，现在在我们公司工作。
+Mr. Li is not at home. He has gone to Shanghai. 李先生不在家，他去上海了。
+(3) 完成时的肯定式常用already，而否定式和疑问句常用yet，但若already用于疑问句时，表示一种出乎意外的惊讶。如：
+Have you read it already? 你就看完了？
+
+4. 现在完成时与其他时态的区别
+(1) 现在完成时与一般过去时的区别：现在完成时强调动作的结果或对现在的影响，属于现在时的范畴；一般过去时强调动作所发生的时间，属于过去时的范畴。因此，过去时需跟过去时间连用或有表过去时间的上下文连用，而现在完成时不能与过去时间连用。如：
+I read the book two weeks ago. 我两周前读了这本书。
+I have read the book for two weeks. 这本书我读过两周了。
+(2) 现在完成时与现在进行时：现在完成时强调动作持续到现在或刚结束；而现在进行时只强调目前的状态。如：
+They have talked for about two hours. 他们谈了大约两个小时。(强调动作的持续) 
+They are talking. 他们在谈话。 (强调目前的状态) 
+ago习惯上不与现在完成时连用
+
+■在通常情况下 ago 只与过去时连用，而不与现在完成时连用。因为ago指的是多久以前的过去时间，而现在完成时表示的动作虽然发生在过去，但它强调的是与现在的联系或对现在的影响，因此两者不能用在一起。如：
+我两个月前见过他。
+误：I have seen him two months ago. 
+正：I saw him two months ago.
+■但是，有时为了行文的需要或使句子生动，ago可用于类似以下这样的句子：
+I had thought that he had died at least 20 years ago. 我原以为他至少在20年前就已经去世了。
+■以下句子 ago 虽然连用了动词的“完成式”，但并不是“完成时”。如：
+If she’d had the chance, she’d rather have lived 100 years ago. 如有可能，她宁愿生活在100年以前。
+If I had been Jane, I’d have walked out on him years ago. 如果我是珍妮，我几年前就离开他了。
+when习惯上不与现在完成时连用
+
+■when 表示“何时”“什么时候”时，可用于过去时态或将来时态，但通常不用于现在完成时。如：
+你什么时候和他首次见面的?
+误：When have you first met him? 
+正：When did you first meet him? 
+■但是，since when 可以与现在完成时连用。如：
+Since when have you lived here? 你从什么时候起住在这里的?
+Since when have you become active? 你什么时候开始变得积极了?
+Since when do you read newspapers? 你什么时候开始读报的?
+That was in 1949, since when things have been better. 那时是1949年，从那以后情况就好些了。
+
+过去完成时用法详说
+
+1. 过去完成时的基本用法
+过去完成时与现在完成时相似，也有“已完成”和“未完成”两种用法，所不同的是，过去完成时将时间推移到过去某一时间之前，即所谓的“过去的过去”。具体地说，它既可表示在过去某一时间之前已完成的动作，也可表示从一个较早的过去持续一个较迟的过去的动作：
+He had left when I arrived. 当我到达时他已经离开。
+By six o’clock he had worked twelve hours. 到6点钟时他就已工作了12小时。
+2. 如何正确运用过去完成时
+正确运用过去完成时最重要的是要正确理解“过去的过去”。“过去的过去”是一个相对时间，即它相对于一个过去时间而言，并在其过去。这种相对的“过去的过去”有时通过一定的时间副词(状语)体现出来，有时则可能是通过一定的上下文来体现：
+I found the watch which I had lost. 我找到了我丢失的表。
+The house was quiet. Everybody had gone to bed. 屋子里很安静，大家都睡觉了。
+"Was Jack at the office?" "No, he’d gone home." “杰克在办公室吗?”“不在，回家了。”
+【注】有些通常与现在完成时连用的词语，由于在一定的语境中，谓语动作移到了“过去的过去”，也应用过去完成时。比较：
+We haven’t seen each other since we left Paris. 自从离开巴黎后我们一直没见过面。
+I saw Mr Smith last Sunday. We hadn’t seen each other since we left Paris. 上周星期天我见到史密斯先生了，自从离开巴黎后我们还一直没见过面。
+3. 表示过去未曾实现的想法
+过去完成时可表示过去未曾实现的想法和打算，通常连用的动词是 want, think, hope, plan, mean, expect, intend, suppose 等：
+I had meant to come, but something happened. 我本想来，但有事就没有来。
+I had intended to speak, but time did not permit. 我本想发言，但时间不允许。
+We had hoped that you would come to see us, but you didn’t. 我们本想你来看我们的，但你没有来。
+将来完成时用法解说
+
+1. 将来完成时的基本用法
+表示到将来某个时间为止势必会完成或预计要完成的动作，由“will [shall]+have+过去分词”构成：
+He will have arrived by now. 他现在应当已经到了。
+He will have gone back to England.他想必回英国去了。
+When we get there，she’ll have gone to work. 我们到那里时她会已上班去了。
+On Monday he’ll have been in Britain for three years. 到星期一，他在英国就满三年了。
+2. 现在完成时、过去完成时与将来完成的区别
+现在完成时以现在时间为参照点，表示在“现在”以前完成的动作或持续到“现在”的状态，过去完成时则以过去时间为参照点，表示在“过去”某一时间以前发生的动作或持续到“过去”某一时间的状态，将来完成时则以将来时间为参照点，表示在“将来”某一时间为止已经完成的动作或持续到“将来”某一时间的状态：
+He has finished writing his novel. 他已写完了他的小说。
+He had finished writing his novel by the end of last year. 去年年底他就写完他的小说。
+He will have finished writing his novel by the end of next year. 到明年年底他就会写完他的小说了。
+与一般现在时代替一般将来时一样，在表示时间或者条件的状语从句，通常要用现在完成时来表示将来完成时，而不能直接使用将来完成时：
+I will go with you when I have finished my work. 等我完成工作之后我就同你去。
+若不强调动作的完成(且不致于引起歧义)，有时也可用一般现在时：
+I will go with you when I finish my work. 我完成工作后就同你去。
+
+时态详解：现在完成进行时
+
+1. 现在完成进行时的定义
+现在完成进行时表示某动作从过去某个时间开始，一直延续到现在，并且还有可能持续下去。如：
+We have been waiting for him for two hours. 我们等他等了两个小时。
+
+2. 现在完成进行时的结构
+现在完成进行时由“have /has been + 现在分词”构成。
+
+3. 现在完成进行时的应用
+现在完成进行时所用的时间状语：this month / week / year, these days, recently / lately, in the past few + 时间段, since +时间点, for + 时间段。如：
+They have been building the bridge for two month. 两个月来他们一直在修桥。
+They have been planting trees this month. 这个月来他们一直在植树。
+4. 现在完成进行时与现在完成时的区别
+(1) 现在完成时强调动作的完成，而现在完成进行时强调动作的延续，因此，表示动作的完成，只能用现在完成时，而不能用现在完成进行时。如：
+He has changed his idea. 他改变了想法。
+(2) 在表示动作的延续时，虽然既可用现在完成时，也可用现在完成进行时，但现在完成进行时强调动作的进行。因此在需要明确表示动作还要持续下去时，应用现在完成进行时。如：
+We have been studying here for two years. 我们在这儿已经学习了两年了。
+(3) 有些延续性动词(如 keep, learn, live, stay, study, work等)，用于现在完成时或现在完成进行时的区别不大。如：
+I have lived here for many years.=I have been living here for many years. 我在这儿住了多年了。
+
+现在完成进行时与现在完成时的区别
+
+(1) 现在完成时可以表示一个已经完成的动作，而现在完成进行时则表示一个正在进行的动作：
+I have read the book. 我读过这本书。
+I have been reading the book. 我一直在读这本书。
+【注】有少数动词(如work, study, live, teach, stay等)在表示持续一时间时用这两种时态含义差不多(只是用现在完成进行进更强调动作的持续性)：
+How long have you worked [been working] here? 你在这儿工作多久了？
+I’ve lived [been living] here since 1988. 自1988年以来我就一直住在这儿。
+(2) 现在完成时通常只陈述事实，而现在完成进行时还可表示一种感情色彩：
+I have waited for two hours. 我等了两小时。(陈述事实)
+I have been waiting for two hours. 我等了两个小时。(等得好辛苦)
+(3) 现在完成进行时通常用来谈论较短暂的动作或情况，若要谈论时间延续较长的动作或情况或永久性情况，则通常用现在完成时：
+He has lived in Paris. 他(一直)住在巴黎。
+He has been living in Paris. 他(目前)住在巴黎。(表暂时性)
+(4) 不用于进行时态的动词通常也不用于现在完成进行时，但它们可以用于现在完成时：
+I’ve only known her for two day. 我认识她刚刚两天。
+They’ve been married for twenty years. 他们结婚已二十年了。
+The war has lasted for a long time. 这场战争持续了很长时间。
+(5) 现在完成进行时不用于被动语态，若要用可用现在完成时的被动语态代替：
+The house has been painted for a month. 这房子已漆了一个月。
+The problem has been studied for five days. 这个问题已研究了五天。
+过去完成进行时用法详解
+
+一、结构形式
+过去完成进行时由“had been+现在分词”构成，因此无人称变化。
+二、用法归纳
+■过去完成进行时表示持续到过去某时的一个动作(可算是现在完成进行时的过去式)：
+The ground was wet. It had been raining. 地是湿的。此前一直在下雨。
+At last the bus came. I had been waiting for half an hour. 最后公共汽车来了，我已等了半小时。
+She was out of breath. She had been running. 她气喘吁吁，她一直在跑来着。
+He gave up smoking last year. He’d been smoking for twenty years. 去年他戒烟了。他抽烟已经二十年。
+■过去时间可用一个时间状语表示：
+When I first met her, she had been working in the company for ten years. 我第一次见到她时，她在那家公司已工作十年了。
+I had not been waiting long when a taxi drew up. 我没等多久就来了一辆出租车。
+She had been looking at the parcel for some time before she realized that it was for her mother. 这包裹她看了好一会儿才明白这是寄给她妈的。
+Until/Up till then she had been living with her daughter. 到那时为止她一直和她女儿一起住。
+■但在更多情况下过去时间由另一句子表示出来，毋需加上时间状语：
+Her eyes were red. It was obvious she had been crying. 她眼睛红红的，显然她是哭了。
+Jane was annoyed. Peter had been phoning her every night. 简很不高兴。彼得一直每晚给打电话。
+He was very tired. He had been working all day. 他很累。他干了一整天活。
+She couldn’t understand him. She hadn’t been learning English long. 她不懂他的话。她学语的时间还不长。
+I woke up—I had been having a bad dream. 我醒了，我做了个恶梦。
+She was very tired. She had been typing letters all day. 她很累了。她整天都在打信件。 
+Her eyes were red. It was obvious she had been crying. 她的眼睛红了，显然她刚哭过。
+We had been doing business with each other for years before we quarrelled. 在吵翻之前，我们多年来在业务上一直来往。
+When I first met Ann, she had been working for Exxon for 15 years. 我第一次遇到安的时候，她已在埃克森公司干了15年了。
+Jenny was annoyed. Jim had been phoning her every night for a whole week. 詹妮生气了。整整一星期，吉姆天天晚上都给她打电话。
+■有时上下文可说明是谈过去的事，因此不需要时间状语：
+She had been watching TV all day. 她看了一天的电视。
+I had been reading your book. 我一直在看你写的书。
+The rain had been pouring all night. 倾盆大雨下了一整夜。
+We had been travelling in many countries. 我们一直在许多国家旅游。
+■这个时态也可用在某些从句中，这时从句的动作发生在主句的动作之前而对其有影响：
+I heard you’d been looking for me. 我听说你一直在找我。
+That was just the letter I had been expecting. 这正是我一直期待的信。
+That was exactly what we had been trying to do. 这正是我们一直想做的事。
+I wanted to know what had been going on. 我想知道一直在发生什么事。
+The drive increased the fatigue she had been feeling. 开车增加了她一直感到疲惫感觉。
+They said that they had been fighting for their rights all these years. 他们说这些年来他们一直在为他们的权利而斗争。
+三、特别补充
+■凡不能用于进行时的动词均不能有这种时态，但动词want (有时还有wish) 除外。如：
+The boy was delighted with his new knife. He had been wanting one for a long time. 男孩对新小刀很高兴。他早就想要一把了。
+■过去完成进行时没有被动语态。
+
+将来完成进行时用法详解
+
+一、结构形式
+过去完成进行时由“will / shall have been+现在分词”构成。
+二、用法归纳
+用法一：表示动作从某一时间开始一直延续到将来某一时间，至于是否继续下去，要视上下文而定。如：
+She will have been having treatment all her life. 她将终生受到治疗。
+By the end of next month he will have been here for ten years. 到下月底，他在这儿就够十年了。
+By this time next year, we will have been doing business with each other for 20 years. 到明年这时候，我们的业务住来就满20年了。
+By the end of this year he’ll have been acting for thirty years. 到今年年底他当演员就满30年了。
+用法二：表示一种经常性反复进行的持续性动作。如：
+By the end of this month he will have been training horses for twenty years. 到了这个月底他驯马就满20年了。
+By the end of this month he will have been climbing mountains for twenty years. 到了这个月底他登山就满20年了
+
+过去将来时的用法说明
+
+1. 基本结构与用法
+过去将来时由“would+动词原形”构成，主要表示从过去某一时间来看将要发生的事情(尤其用于宾语从句中)：
+He told us he would help us. 他告诉我们他会帮助我们。
+I knew you would agree. 我当时就知道你会同意的。
+【注】在一定的语境中也可于其他从句或句子中：
+It was a problem whether they would support us. 他们是否会支持我们还是一个问题。
+It was six o’clock. The sun would soon set. 这时是六点钟。太阳即将落山。
+2. 过去将来时间的表示方法
+除“would+动词原形”外，过去将来时还有以下常见表达方式：
+(1) 用was (were) going to表示。表示过去某时准备做某事：
+Marsha was going to come with us. 玛莎准备和我们一道去。
+I was going to leave when he came in. 他进来时我正要离开。
+【注】was going to在一定的上下文中有时可表示过去未曾实现的想法或打算：
+She was going to attend the concert last night, but she was too busy. 她昨晚本想去听音乐会的，但她太忙了。
+(2) 用was (were) about+不定式表示。表示在过去看来正要做某事：
+I was just about to go to bed when he came to see me. 我正要睡觉，他来看我了。
+(3) 用于was (were) due to表示。表示定于过去某时将要做某事：
+They were due to leave at ten o’clock. 他们定于十点出发。
+(4) 用“was (were)+不定式”表示。表示定于过去某时将要做某事：
+He was to meet her at 10 on the street. 他约定和她10点钟在街上见面。
+【注】若表示过去没有实现(或被取消)的计划，则用was (were) to+动词完成式：
+We were to have left at 6 last night. 我们本来计划昨晚6点离开的。
+过去将来完成进行时用法详解
+
+一、结构形式
+过去完成进行时由“would have been+现在分词”构成。
+
+二、用法归纳
+过去将来完成进行时表动作从过去某一时间开始一直延续到过去将来某一时间。动作是否继续下去，由上下文决定。如：
+He said that by the end of the spring term he would have been studying English for three years. 他说到了春季学期末，他就学了三年英语了。
+I want you thinking of food and wine, because these last years would have been miserable for you. 我要你只想吃喝，因为最近几年你的生活够苦的。
+在间接引语中，将来完成进行时通常要改为过去将来完成进行时。如：
+I know by this time next week you’ll have been working here for 30 years.
+→I knew by that time he would have been working there for 30 years.
+She will have been teaching in this university for 20 years by this summer.
+→She told me she’d have been teaching in that university for 20 years by that summer
+判断动词时态技巧
+一、根据时间状语与时态的对应关系
+动词特定的时态常常与特定的时间状语联系在一起，如由this time yesterday可知用过去进行时；由so far, in the past three years, till now可知要用完成时，等等。
+At this time tomorrow ______ over the Atlantic. 
+A. we’re going to fly B. we’ll be flying C. we’ll fly D. we’re to fly
+解析：由时间状语at this time tomorrow可知用将来进行时，故选B。
+二、固定句型与动词时态间的对应关系
+在英语中，不少句型与一些动词在时态的运用方面都存在着特定的对应关系，如(1) 在“祈使句+and/or+陈述句”句型中，陈述句中用will表示的一般将来时；(2) 在This/That/It is the second time that…句型中用现在完成时，若is改为was，就用过去完成时；(3) 在no sooner…than…和hardly…when…句型中，前面常用过去完成时，when/than后的句子用一般过去时；(4) was/were about to do…when…或was/were doing…when…或was/were on the point of doing…when…句型中，when分句的谓语动词用一般过时；(5) 在一个含有时间状语从句的主从复合句中，如果主从句的谓语动词都是过去发生的动作，一般来说，表示短暂性动作的动词用一般过去时，表示持续性动作的动词用过去进行时；等等。
+Let’s keep to the point or we _______ any decisions. 
+A. will never reach B. have never reached C. never reach D. never reached 
+解析：这是“祈使句+or +陈述句”句型，陈述句的谓语要用“will+动词原形”，故选A。
+三、根据某些动词与时态的对应关系
+在英语里有些动词与时态有着特定的对应关系，如see(看见)，hear(听见)，find(找到) 等都不可用于进行时态；work表示机器不能正常运行、运转时，常用一般现在时的否定式；open, close, lock等词表示门、窗等不能正常关、开、锁的意思时，常用won’t open /close /lock等，这时它们是以主动形式表示被动意义。
+—Can I help you, sir? 
+—Yes. I bought this radio here yesterday, but it _____. 
+A. didn’t work　　　　B. won’t work C. can’t work　　　　 D. doesn’t work 
+解析：此处的work是指radio不能正常运行，应用一般现在时的否定式，故选D。
+四、根据上下语境来确定时态
+在绝大多数情况下，动词的时态是由上下文来决定的，这就要求我们一方面要熟记各种时态的适用范围，另一方面要求我们注意上下文的提示。
+— Is this raincoat yours?
+— No, mine ______ there behind the door. 
+A. is hanging B. has hung C. hangs D. hung
+解析：根据上下文的提示，hang表示的是目前的状态，故选A。
+over the years通常连用什么时态
+
+over the years 的意思是“这些年来”“经过这么多年之后”“最近几年”，通常表示的是从现在算起的过去几年，因此通常与现在完成时连用。如：
+My tastes have changed enormously over the years. 几年来我的爱好有了很大改变。
+She’s brought us so much happiness over the years. 这些年来，她给我们带来了不少的幸福。
+Life was difficult then but things have got better and better over the years. 那时生活很艰苦，但情况已一年比一年好了。
+有时连用其他时态。如：
+I recall his many politenesses over the years. 我还记得他多年来很多有礼貌的事情。
+句中的over the years不是状语，而是修饰politenesses的定语。
+英语中表示“本想”的6种时态
+
+1. 用come / go 等动词的过去进行时表示。如：
+We were coming to see you, but it rained (so we didn’t). 我们本打算来看你的，只是下起雨来了。
+I was trying to help but I screwed up again. 我本想帮忙，反而又把事情搞糟了。
+2. 用was [were] going to do sth 表示。如：
+She was going to attend the concert last night, but she was too busy. 她昨晚本想去听音乐会的，但她太忙了。
+3. 用think, hope, plan, mean, expect, intend, suppose 等动词的过去完成时表示。如：
+I had meant to come, but something happened. 我本想来，但有事就没有来。
+I had intended to speak, but time did not permit. 我本想发言，但时间不允许。
+We had hoped that you would come to see us, but you didn't. 我们本想你来看我们的，但你没有来。
+We had thought to return early but they wouldn't let us go. 我们本想早回来的，但他们不让我们走。
+若不至于引导误解，有时也可用以上动词的一般过去时表示“本想”。如：
+I thought I could go, but I can’t. 我原以为我能去，但我（现在）去不了。
+I meant to reason with you, but you won't reason. 我本想和你讲道理，但你不肯讲道理。。
+He hoped to come with us, but he was too busy. 他本想同我们一起来的，但他太忙了。
+4. 用hope, plan, mean, expect, intend, suppose 的过去式后接完成式不定式表示
+I expected to have come early, but I missed the early bus. 我本来想早点来的，但未赶上早班车。
+I meant to have told you about it earlier, but I could not come. 我本想早点把这事告诉你，但是我来不及了。
+比较同义表达：
+We had intended to go to London.=We intended to have gone to London. 我们本来打算到伦敦去的。
+5. 用would have done 表示。如：
+I would have written before, but I have been ill. 我本想给你写信的，但我生病了。
+I would have preferred a bed, but beggars can’t be choosers so I slept on the sofa. 我本想要张床, 但是叫花子不能挑肥拣瘦, 所以我就睡在沙发上了。
+6. 用should [would] like [love] have done 表示。如：
+I should like to have seen it (but it wasn't possible). 我本想事前看到的(但这不可能)。
+I would like to have gone to the party last night but I had to work extra hours to finish a report. 昨晚我本想去参加晚会的，但我要加班写一个报告。
+in the past通常连用什么时态
+
+in the past的意思是“在过去”，所连用的时态有以下几点值得注意：
+1. 如果是用作时间状语，可连用一般过去时或现在完成时，两者的区别是：用一般过去时，客观地叙述过去的情况；用现在完成时，强调持续到现在的状态或对现在影响。如：
+In the past he had to read by candlelight. 过去他只得在烛光下攻读。
+I’ve been there many times in the past. 我从前去过那儿很多次。
+2. 如果是用于名词后作定语，句子时态可根据情况选用。如：
+He could remember events far back in the past. 他能记得很早以前的事情。
+He will never forget his miserable childhood in the past. 他永远也忘不了自己过去的悲惨的童年。
+the other day通常连用什么时态
+
+the other day的意思是“几天前”，相当于a few days ago，所以通常与一般过去时态连用。如：
+He caught a bad cold the other day. 几天前他患了重感冒。
+He left for Shanghai the other day. 他几天前去上海了。
+I got an email from Jim the other day. 早几天我收到吉姆一封电子邮件。
+注意它修饰非谓语动词的情况。如：
+The man speaking to us the other day has gone to Japan. 那天同我们讲话的那个人到日本去了。(句中的speaking等于who spoke)
+类似的还有the other night（几天前的一个晚上）。如：
+I happened to see Alice the other night . 几天前一个晚上我碰巧看见了艾丽斯。
+one day与some day所连用的时态有何区别
+
+one day与some day均可用作状语，表示“有一天”，但两者所连用句子时态稍有区别： 
+1. one day可指过去或将来，即可用于过去时态或将来时态。如：
+One day the temperature was 30℃. 有一天温度达到30摄氏度。
+I will [am going to] climb that mountain one day. 总有一天我要爬那座山。
+One day people will be able to go to the moon on holiday. 总有一天人们可以到月球上去度假。
+2. some day通常只指将来，即只用于将来时态。如：
+We’re all going to be old some day. 总有一天我们都会老的。
+Some day I’ll come back and marry her. 总有一天我要回来娶她。
+注：有时虽然不是将来时态，但句子意思表示的是将来意义。如：
+You’re sure to regret one day. 你准有一天会后悔。
+I want to get married one day. But before that, I want to travel. 总有一天我要结婚。但在那之前，我要旅游。
+另外，在特定语境中some day有时可指过去将来。如：
+I never realized that some day I would be living in China. 我从未想到将来有一天会在中国居住。
+forget的时态问题
+
+一、用一般现在时
+forget用于一般现在时表示暂时忘了或一时记不起。如：
+I forget who told me this. 我忘了这是谁告诉我的。
+Oh, I forget where she lives. 啊，我忘了她在哪儿住了。
+二、用现在完成时
+用于现在完成时，表示遗忘的彻底性，即忘得精光。如：
+I've forgotten where I put it. 我忘了把它放在哪儿了。
+I've forgotten her telephone number. 我忘了她的电话号码了。
+三、用一般过去时
+用于一般过去时，指“过去”忘记。如：
+I forgot to ask Tom. 我忘了去问汤姆。
+To my shame, I forgot his birthday. 我把他的生日忘了，真不好意思。
+since可与现在完成时之外的时态连用吗
+
+1. 当since表示“自从”时，不管它是用作介词、连词还是副词，它都通常要与现在完成时连用。如：
+I’ve worn glasses since my childhood. 我从小就戴眼镜。
+The works have been closed since January. 一月份以来这些厂就关闭了。
+He’s put on a lot of weight since he gave up smoking. 他戒烟后体重增加了许多。
+Nothing has happened since. 从那以后未发生什么事。
+She moved to London last May and has since got a job on a newspaper. 她去年五月到伦敦 此后一直在报社工作。
+有时连用现在完成进行时。如：
+He has been working since noon. 他从中午就开始工作了。
+2. 在以下情况下可以连用除完成时态外的其他时态：
+①当主句表示“多长时间”时，动词可用一般现在时（当然也可用现在完成时）。如：
+It’s a long time since I met you last. 好久不见了。
+It’s just a week since we arrived here. 我们到这里才一个星期。
+It’s a long time since I met you last. 从上次见到你，已有很长时间了。
+以上各句的it is也可换成 it has been，不过在口语或非正式文体中，用一般现在时的情形比较普遍。
+②当主句谓语动词为seem, appear等连系动词时。如：
+It seems like years since we last met. 我们似乎几年未见面了。 
+It seems like years since I last saw you. 从上次见到你以来好像已经有许多年了。
+③当主句和从句表示情况“变化”时。如：
+She doesn’t come round to see us so much since her marriage. 自从结了婚，她不怎么过来看我们了。（原来经常来，结婚后就不怎么来了）
+Since he went on that course he thinks he knows everything. 自从他选了那门课程，他就认为自己什么都懂了。（原来不认为自己什么都懂，但选了那门课程后就认为自己什么都懂了）
+so far必须要连用现在完成时吗
+
+so far是否与现在完成时连用，与它所表示的意思有关。
+1. 表示“迄今”“到目前为止”时，若so far所描述的谓语是一直持续到现在的动作或状态，则谓语动词通常要用现在完成时。如：
+So far there has been no bad news. 到现在为止还没有什么坏消息。
+So far the work has been easy but things may change. 到目前为止，这工作很容易，但情况可能有变化。
+但是，若连用so far的谓语词作并不表示一个持续的状态，而只是表示现在的一时的状态时，谓语动词通常不用现在完成时，而用一般现在时或现在进行时。如：
+We’re (lying) ninetieth in the competition so far. 到目前为止，我们在比赛中排名第90。
+另外，有时so far并非描述谓语动作，而是间接地说明句中的某个名词，此时的句子谓语需要具体语境来使用时态。如：
+Production so far this year is on target. 今年到目前为止生产已达到指标。
+She gave us a brief resume of the project so far. 她给了我们一份该项目迄今历程的简介。
+2. 表示“仅到一定程度”“仅在有限的范围内”“如此之远”等时，不一定要连用现在完成时，而应根据句意的需要使用合适的时态。如：
+I trust you only so far and no further. 我对你的信任只到这一程度。 
+We may as well finish the job, now that we’ve got so far with it. 我们已干到这个程度了，不妨把这工作干完。
+My mother lives so far away that we hardly ever see her. 我母亲住得那么远，我们很少见到她。
+This is the first time后的从句通常用什么时态
+
+请看题：
+—Do you know our town at all? 
+—No，this is the first time I __________ here. 
+A. was B. have been C. came D. am coming 
+【分析】此题应选B。这与句中的this is the first time有关：一般说来，在It [This] is the first time＋that-结构中，that-从句通常用现在完成时：
+It’s the first time (that) the boy has spoken to a foreigner. 这个男孩还是第一次同外国人说话。
+It’s the first time that she’s seen an elephant. 这是她第一次见到大象。
+有时以上结构中的 first 也可换成 second，third，fourth 等；其中的time也可换成其他名词：
+It’s the first month that he has lived here. 这是他第一个月住在这里。
+This is the second cigarette that he has smoked today. 这是他今天抽的第二支烟。
+若It was the first time that-结构中，that-从句通常用过去完成时，有时也用一般过去时，有时若有包括现在在内的时间状语，偶尔还可用现在完成时：
+I was lucky because that was the second time I (had) visited Japan that year. 我很幸运，那是我那年第二次访问日本。
+It was the first time this year that he hadn’t [hasn’t] worked on a Saturday. 这是今年来他第一次在星期六不上班。
+
+英语16 种时态结构
+一般现在时
+1.be 动词 2.主语+be +其他
+
+一般过去时
+1.was/were 2.行为动词过去式
+
+一般将来时
+1.be+going to +do 2.will/shall +do 
+
+一般过去将来时
+1.was /were going to do 2.would/should do 
+
+
+
+
+现在进行时
+主语+am/is/are +doing 
+
+过去进行时
+主语+was/were +doing 
+
+将来进行时
+Will/shall +be doing 
+
+过去将来进行时
+Would/should +be doing 
+
+
+
+
+过去完成时
+Had done 
+
+现在完成时
+has /have done 
+
+将来完成时
+1.主语+be going to 2.will /shall +have +p.p(过去分词)
+
+过去将来完成时
+Would/should +have done 
+
+
+
+
+过去完成进行时
+had + done 
+
+现在完成进行时
+Have/has +been doing +其他
+
+将来完成进行时
+Will/shall been doing 
+
+过去将来完成进行时
+Would/dhould have been doing +其他
+
+
+
+时态名称
+定义
+时间状语
+结构
+例句
+
+一般现在时
+经常、反复发生的动作或行为现在的某种状况
+often, usually, always, sometimes, every day /week/ month, once a week, on Monday, etc 
+be 动词 
+行为动词 主语+be+其他
+陈述句：I am an office worker. 
+He is so lazy. They are at home now.
+否定句：She is not very beautiful.
+They are not in the office.
+一般疑问句：Are you an office assistant?
+ Is she beautiful?
+
+现在进行时
+表示现价段或说话时正在进行的动作或状态
+now, at this time, these days, etc 
+主语+am /is /are +doing 
+陈述句：I am going to shopping.
+ He is doing the housework at home now.
+ They are enjoying themselves.
+
+一般过去时
+过去某个时间里发生的动作或状态，习惯性经常性的动作行为
+Ago, yesterday, last week /month /year 
+In 2000, just now ,one day ,
+was/were 
+行为动词过去式
+陈述句：I was a writer in 2010.
+
+
+

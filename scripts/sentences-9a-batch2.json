@@ -1,0 +1,146 @@
+{
+  "review": {
+    "meanings": ["回顾", "复习"],
+    "pos": "v.",
+    "example": "I review my notes every weekend to keep knowledge fresh.",
+    "exampleCn": "我每周末复习笔记，让知识保持新鲜。"
+  },
+  "knowledge": {
+    "meanings": ["知识", "学问"],
+    "pos": "n.",
+    "example": "Reading widely opens the door to endless knowledge.",
+    "exampleCn": "广泛阅读打开了通往无尽知识的大门。"
+  },
+  "wisely": {
+    "meanings": ["聪明地", "明智地"],
+    "pos": "adv.",
+    "example": "Choose your friends wisely, for they shape who you become.",
+    "exampleCn": "明智地选择朋友，因为他们塑造了你会成为什么样的人。"
+  },
+  "loud": {
+    "meanings": ["大声的", "响亮的"],
+    "pos": "adj.",
+    "example": "The loud music at the concert made everyone excited.",
+    "exampleCn": "音乐会上响亮的音乐让每个人都兴奋起来。"
+  },
+  "invent": {
+    "meanings": ["发明", "创造"],
+    "pos": "v.",
+    "example": "Ancient Chinese people invented paper, changing human history forever.",
+    "exampleCn": "古代中国人发明了纸，永远改变了人类历史。"
+  },
+  "find": {
+    "meanings": ["找到", "发现"],
+    "pos": "v.",
+    "example": "I always find peace when walking among the old trees in the forest.",
+    "exampleCn": "当我在森林里的古树间漫步时，总能找到宁静。"
+  },
+  "It's": {
+    "meanings": ["它是", "这是"],
+    "pos": "abbr.",
+    "example": "It's important to help classmates who are in trouble.",
+    "exampleCn": "帮助有困难的同学是很重要的。"
+  },
+  "in a loud voice": {
+    "meanings": ["大声地"],
+    "pos": "phr.",
+    "example": "The teacher asked us to read the poem in a loud voice.",
+    "exampleCn": "老师让我们大声朗读这首诗。"
+  },
+  "by": {
+    "meanings": ["通过", "被", "在...旁边"],
+    "pos": "prep.",
+    "example": "We can learn English well by practicing every day.",
+    "exampleCn": "我们可以通过每天练习来学好英语。"
+  },
+  "by mistake": {
+    "meanings": ["错误地"],
+    "pos": "phr.",
+    "example": "I took her book by mistake, so I returned it immediately.",
+    "exampleCn": "我错拿了她的书，所以立刻还了回去。"
+  },
+  "since": {
+    "meanings": ["自从", "既然"],
+    "pos": "conj./prep.",
+    "example": "I have lived in Yunnan since I was five years old.",
+    "exampleCn": "我从五岁起就住在云南。"
+  },
+  "for": {
+    "meanings": ["为了", "因为", "持续"],
+    "pos": "prep./conj.",
+    "example": "I have studied English for six years with great passion.",
+    "exampleCn": "我怀着极大的热情学了六年英语。"
+  },
+  "has gone to": {
+    "meanings": ["去了某地（未回）"],
+    "pos": "phr.",
+    "example": "My brother has gone to Beijing for a summer camp.",
+    "exampleCn": "我哥哥去北京参加夏令营了（现在还没回来）。"
+  },
+  "has been to": {
+    "meanings": ["去过某地（已回）"],
+    "pos": "phr.",
+    "example": "I have been to Dali twice, and I still want to visit again.",
+    "exampleCn": "我去过大理两次，但我还想再去。"
+  },
+  "mooncake": {
+    "meanings": ["月饼"],
+    "pos": "n.",
+    "example": "My grandmother makes delicious mooncakes with red bean filling every year.",
+    "exampleCn": "我奶奶每年都做美味的红豆馅月饼。"
+  },
+  "pound": {
+    "meanings": ["磅", "英镑"],
+    "pos": "n.",
+    "example": "This bag of rice weighs about five pounds.",
+    "exampleCn": "这袋大米重约五磅。"
+  },
+  "steal": {
+    "meanings": ["偷", "窃取"],
+    "pos": "v.",
+    "example": "Stealing is wrong, no matter how small the thing may be.",
+    "exampleCn": "偷窃是错误的，无论东西多么小。"
+  },
+  "tradition": {
+    "meanings": ["传统", "惯例"],
+    "pos": "n.",
+    "example": "Passing down family traditions helps us remember where we come from.",
+    "exampleCn": "传承家庭传统帮助我们记住自己来自何方。"
+  },
+  "trick": {
+    "meanings": ["花招", "把戏", "诡计"],
+    "pos": "n.",
+    "example": "The magician performed an amazing trick that surprised everyone.",
+    "exampleCn": "魔术师表演了一个让所有人都惊讶的神奇把戏。"
+  },
+  "novel": {
+    "meanings": ["小说"],
+    "pos": "n.",
+    "example": "I am reading a novel about a young girl growing up in rural Yunnan.",
+    "exampleCn": "我正在读一本关于一个在云南农村长大的年轻女孩的小说。"
+  },
+  "warn": {
+    "meanings": ["警告", "提醒"],
+    "pos": "v.",
+    "example": "The sign warns visitors not to swim in the deep lake.",
+    "exampleCn": "告示牌警告游客不要在深湖里游泳。"
+  },
+  "stranger": {
+    "meanings": ["陌生人"],
+    "pos": "n.",
+    "example": "Never follow a stranger, even if they seem friendly at first.",
+    "exampleCn": "永远不要跟随陌生人，即使他们一开始看起来很友好。"
+  },
+  "relative": {
+    "meanings": ["亲戚", "亲属"],
+    "pos": "n.",
+    "example": "During Spring Festival, all my relatives gather for a big dinner.",
+    "exampleCn": "春节期间，我所有的亲戚都会聚在一起吃年夜饭。"
+  },
+  "garden": {
+    "meanings": ["花园", "园子"],
+    "pos": "n.",
+    "example": "My grandmother tends a beautiful garden full of colorful flowers.",
+    "exampleCn": "我奶奶照料着一个开满五颜六色花朵的美丽花园。"
+  }
+}

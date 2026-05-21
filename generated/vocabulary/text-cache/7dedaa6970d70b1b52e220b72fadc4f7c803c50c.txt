@@ -1,0 +1,841 @@
+[[SHEET:Sheet1]]
+序号 英文 中文
+Unit 1 
+1 Time to Relax 放松时刻
+2 free-time activities 业余活动
+3 spend free time 度过业余时间
+4 spend the time 度长留
+5 do calligraphy 写书法
+6 go painting 画画
+7 go skiing 滑雪
+8 go hiking 徒步
+9 go programming 编程
+10 express feelings 表达感受
+11 get some exercise 锻炼
+12 create an app 创建应用程序
+13 sports centre 体育中心
+14 get over fear 克服恐惧
+15 play the guitar 弹吉他
+16 give up 放弃
+17 ink smells 墨水气味
+18 fly kites 放风筝
+19 watch movies 看电影
+20 listen to music 听音乐
+21 chat with friends 和朋友聊天
+22 spend time together 共度时光
+23 family outing 家庭出游
+24 improve your life 改善你的生活
+25 make your life better 让你的生活更美好
+26 identify facts and opinions 辨别事实和观点
+27 calm down 冷静下来
+28 keep fit 保持健康
+29 mobile phone apps 手机应用程序
+30 study partners 学习伙伴
+31 sense of achievement 成就感
+32 learn about different places 了解不同的地方
+33 beautiful landscapes 美丽的风景
+34 take up a hobby 培养一个爱好
+35 get over fear 克服恐惧
+36 reduce stress 减轻压力
+37 find it fun to (do sth) 发现 (做某事) 有趣
+38 give up 放弃
+39 dance instructor 舞蹈教练
+40 free-time activity 业余活动
+41 go riding 骑马
+42 in nature 在大自然中
+43 stay fit 保持健康
+44 all work and no play makes Jack a dull boy 只工作不玩耍，聪明孩子也变傻
+Unit 2 
+1 Stay Healthy 保持健康
+2 health problems 健康问题
+3 physical conditions 身体状况
+4 give advice 给出建议
+5 stay healthy and safe 保持健康和安全
+6 sore throat 喉咙痛
+7 runny nose 流鼻涕
+8 bruised knee 膝盖瘀伤
+9 clean the area 清洁伤口
+10 cover it 覆盖伤口
+11 press down on your nose 按住鼻子
+12 see a dentist 看牙医
+13 take some medicine 吃药
+14 drink enough water 喝足够的水
+15 wear a mask 戴口罩
+16 take care of ourselves 照顾我们自己
+17 school nurse 校医
+18 get an X-ray 拍 X 光片
+19 in your hands 在你手中 (掌握之中)
+20 take care of his health 照顾他的健康
+21 live away from families 远离家人居住
+22 learn how to do sth themselves 学习自己做某事
+23 pour...into... 把…… 倒入……
+24 turn on the stove 打开炉灶
+25 leave...to heat 让…… 加热
+26 follow into 跟着进入
+27 in a panic 惊慌地
+28 turn off 关掉
+29 cry out 大喊
+30 throw oneself to the floor 扑倒在地
+31 put out the fire 灭火
+32 roll on the ground 在地上打滚
+33 make...worse 使…… 更糟
+34 fire extinguisher 灭火器
+35 run cool water over... 用凉水冲……
+36 anything but... 除了…… 什么都可以
+37 cry out in pain 痛苦地大喊
+38 catch the flu 得流感
+39 get an injury 受伤
+40 throw to the ground 扔到地上
+41 suffer from 遭受；患 (病)
+42 first aid 急救
+43 avoid doing sth 避免做某事
+44 invite sb to... 邀请某人到……
+45 feel warm 感觉发热
+46 be allergic to... 对…… 过敏
+47 jump into action 立即行动
+48 take sb to the hospital 带某人去医院
+49 give sb some medicine 给某人一些药
+50 food allergy 食物过敏
+51 eye strain 眼疲劳
+52 do research on... 对…… 做研究
+53 deal with 处理
+54 visit an eye doctor 看眼科医生
+Unit 3 
+1 close friends 亲密的朋友
+2 write to 给... 写信
+3 speak to 和... 交谈
+4 do it on purpose 故意做
+5 double your joy 让快乐加倍
+6 reduce problems by half 让问题减半
+7 take a break 休息一下
+8 clear your mind 理清思绪
+9 shut...away 把... 封闭起来
+10 reduce stress 缓解压力
+11 spend time doing 花时间做某事
+12 control your anger 控制愤怒
+13 say bad things about you 说你的坏话
+14 be happier 更快乐
+15 a light heart / a heavy heart 心情轻松 / 心情沉重
+16 feel blue / feel on top of the world 感到沮丧 / 感到欣喜若狂
+17 have a long face / be all smiles 愁眉苦脸 / 满面笑容
+18 in low spirits / in high spirits 情绪低落 / 情绪高涨
+19 greet sb 和某人打招呼
+20 let sb down 让某人失望
+21 be hard on oneself 对自己苛刻
+22 respect one's decision 尊重某人的决定
+23 look on the bright side 看积极的一面
+24 be proud of 为…… 骄傲
+25 learn from 从... 中学习
+26 repeat mistakes 重复错误
+27 work together as a team 作为团队一起努力
+28 try one's best 尽某人最大努力
+29 win them all 场场都赢
+30 achieve great things 取得伟大成就
+31 a sense of belonging 归属感
+32 be shocked to hear 听到…… 感到震惊
+33 say no to 对... 说不
+34 feel stressed 感到有压力
+35 be worried about 担心……
+36 try to get mad at others 试图对别人发火
+37 control one's anger 控制某人的愤怒
+38 express in bad ways 以不好的方式表达
+39 say mean things 说刻薄的话
+40 stay calm 保持冷静
+41 take a deep breath 深呼吸
+42 calm down 冷静下来
+43 a little less angry 不那么生气
+44 get angry 生气
+45 choose to do 选择做
+46 thank sb for being... 感谢某人作为……
+47 take the time to do sth 花时间去做某事
+48 encourage sb 鼓励某人
+49 grow more confident 变得更自信
+50 be kind to sb 对某人友善
+51 pass away 去世
+52 talk about 谈论
+53 listen to sb 倾听某人
+54 too much stress 压力过大
+55 poor relationships 人际关系差
+56 worries about the future 对未来的担忧
+57 school bullying 校园欺凌
+58 make friends 交朋友
+59 be afraid to talk to others 害怕和别人说话
+60 focus on 专注于
+61 work together with a team 和团队一起合作
+Unit 4 
+1 the 最高级 in the world 世界上最... 的
+2 deep sea 深海
+3 deep-sea animals 深海动物
+4 Yellow River 黄河
+5 Yangtze River 长江
+6 travel the farthest 流得最远
+7 ancient civilizations 古代文明
+8 mother river 母亲河
+9 protect...by all means 想尽一切办法保护……
+10 geographical features 地理特征
+11 the biggest desert 最大的沙漠
+12 the deepest point 最深点
+13 as well as 和…… 一样好
+14 grow taller 变得更高
+15 square kilometres 平方公里
+16 magical experience 神奇的经历
+17 go close to 靠近
+18 grow loud 变响
+19 as far as the eye could see 一望无际
+20 rush past 冲过
+21 amazing experience 令人惊叹的经历
+22 scary experience 可怕的经历
+23 Mount Qomolangma 珠穆朗玛峰
+24 the greatest wonders of the world 世界上最伟大的奇迹之一
+25 thin air 稀薄的空气
+26 high cliffs 高崖
+27 changeable weather 多变的天气
+28 the northern side 北侧
+29 “Death Road” “死亡之路”
+30 be determined to do sth 决心做某事
+31 reach the top 登顶
+32 the Second Step 第二台阶
+33 above sea level 海平面以上
+34 pull oneself up 奋力向上爬
+35 bit by bit 一点一点地
+36 the national flag 国旗
+37 do research 做研究
+38 freshwater lake 淡水湖
+39 reach the bottom 到达底部
+40 natural wonder 自然奇观
+41 coral reef 珊瑚礁
+42 square kilometres 平方公里
+43 islands and white sand beaches 岛屿和白色沙滩
+44 living structure 生物结构体
+45 schools of colourful fish 一群群五颜六色的鱼
+46 the dream of a lifetime 一生的梦想
+47 the largest lake 最大的湖泊
+48 visit islands 参观岛屿
+49 ride a bike or horse 骑自行车或马
+50 do some research 做一些研究
+51 make notes 做笔记
+52 give a report 做报告
+Unit 5 
+1 natural disasters 自然灾害
+2 have dinner 吃晚饭
+3 do homework 做作业
+4 do chores 做家务
+5 take a train 乘火车
+6 strong winds and heavy rain 强风和暴雨
+7 tall waves 巨浪
+8 the eye of a typhoon 台风眼
+9 cause tsunamis 引发海啸
+10 take place 发生
+11 weather report 天气预报
+12 topics of the interviews 采访的话题
+13 at home 在家
+14 help to do sth 帮助做某事
+15 be safe 安全
+16 at the time of 在... 时
+17 be careful 小心
+18 have any trouble 有麻烦
+19 know about sth 了解某事
+20 get into an accident 发生事故
+21 stay inside 待在室内
+22 read together 一起阅读
+23 the power went out 停电
+24 make dinner 做晚饭
+25 write a letter 写信
+26 rain cats and dogs 倾盆大雨
+27 run to 跑到
+28 clear the streets 清理街道
+29 on holiday 度假
+30 walk along 沿着... 散步
+31 remember something important 想起重要的事情
+32 cry out 大喊
+33 return to 回到
+34 jump into action 立即行动
+35 get off 离开
+36 make it to safety 到达安全地带
+37 rescue workers 救援人员
+38 built walls 建墙
+39 listen to 听...
+40 during the storm 在暴风雨期间
+41 avoid driving 避免开车
+42 sweep through 席卷
+43 put out the fires 灭火
+44 keep...safe 保护…… 安全
+45 refuse to give up 拒绝放弃
+46 manage to do sth 设法做成某事
+47 wake up late 起床晚了
+48 rush to the bus stop 冲向公交车站
+49 wait for 等待
+50 too...to... 太…… 而不能……
+51 be cold and wet 又冷又湿
+52 be worried about 担心
+53 be late 迟到
+54 wait at the door 在门口等候
+55 as a result 结果
+56 have a test 考试
+57 take turns to do sth 轮流做某事
+58 write down 写下
+59 vote for 投票选举
+60 bad weather 恶劣天气
+Unit 6 
+1 shake hands 握手
+2 bump fists 碰拳
+3 rub noses 碰鼻
+4 kiss cheeks 亲吻脸颊
+5 at a party 在派对上
+6 match...with... 把…… 和…… 匹配
+7 visit friends 拜访朋友
+8 offer sth 提供某物
+9 table manners 餐桌礼仪
+10 bring a small gift 带一份小礼物
+11 wait for 等待
+12 sit up straight 坐直
+13 as soon as 一…… 就……
+14 so...that... 如此…… 以至于……
+15 culture shock 文化冲击
+16 be different from 与…… 不同
+17 get off the plane 下飞机
+18 personal space 个人空间
+19 be curious about 对…… 好奇
+20 be interested in 对…… 感兴趣
+21 table manners 餐桌礼仪
+22 hear from sb 收到某人的来信
+23 be a little lonely 有点孤独
+24 make friends 交朋友
+25 learn about 了解
+26 be on time 准时
+27 bring a gift 带礼物
+28 false impression 错误印象
+29 good manners 良好的礼仪
+30 visiting others 拜访他人
+31 wearing the right clothes 穿着得体
+32 use chopsticks 用筷子
+33 cultural differences 文化差异
+34 so ... that 如此…… 以至于
+35 as soon as 一…… 就……
+36 communicate with 与... 人交流
+37 When in Rome, do as the Romans do. 入乡随俗
+Unit 7 
+1 mystery novel 悬疑小说
+2 alien attack 外星人袭击
+3 historical fiction 历史小说
+4 classic novel 经典小说
+5 events in the story 故事中的事件
+6 book title 书名
+7 your opinion 你的观点
+8 cover art 封面设计
+9 fantasy classic 奇幻经典
+10 magical world 魔法世界
+11 prefer the book to the movie 比起电影更喜欢书
+12 growing up 成长
+13 decide on 选定
+14 have you ever... 你曾经…… 吗
+15 have never... 从未……
+16 have just... 刚刚……
+17 have already... 已经……
+18 have...yet 已经…… 了吗
+19 try to read books 尝试读书
+20 decide to do sth 决定做某事
+21 begin with 以…… 开始
+22 read different books 读不同的书
+23 teach sb about sth 教某人关于某事
+24 allow sb to do sth 允许某人做某事
+25 see the world differently 以不同的方式看待世界
+26 join a reading club 加入读书俱乐部
+27 pass away 去世
+28 a painful memory 痛苦的回忆
+29 lock up 锁起来
+30 an old key 一把旧钥匙
+31 half-hidden door 半掩的门
+32 in a bad state 状态很差
+33 tell one's secret 说出某人的秘密
+34 hidden room 隐蔽的房间
+35 fresh air 新鲜空气
+36 prove to be 证明是
+37 get to one's feet 站起来
+38 day by day 一天天地
+39 return home 回家
+40 plot of a story 故事的情节
+41 attack the earth 袭击地球
+42 stop the attack 阻止袭击
+43 force sb into doing sth 强迫某人做某事
+44 state that 陈述
+45 in a terrible state 处于糟糕的状态
+46 base...on... 以…… 为基础
+47 the base of a story 故事的基础
+48 go on an adventure 进行一次冒险
+49 prove oneself 证明自己
+50 the story of ... 的故事
+51 main characters 主要人物
+52 type of novel 小说类型
+53 summary of the book 书籍摘要
+54 my opinion on the book 我对书籍的看法
+55 quote from the book 书中的引用
+56 share favourite books 分享最喜欢的书籍
+57 answer questions 回答问题
+Unit 8 
+1 clean up 清理
+2 guide visitors 引导游客
+3 visit the elderly 看望老人
+4 give directions 指路
+5 plant trees 植树
+6 sort waste 垃圾分类
+7 volunteer organization 志愿组织
+8 art organization 艺术组织
+9 pick up litter 捡垃圾
+10 collect donations 收集捐款
+11 take care of 照顾
+12 nursing home 养老院
+13 youth group 青年团体
+14 stay active 保持活跃
+15 play Chinese chess 下中国象棋
+16 teach sb 教某人...
+17 care for 关爱
+18 for a long time 很长时间
+19 be a doctor 当医生
+20 charity match 慈善比赛
+21 get lost 迷路
+22 give directions 指路
+23 ask sb to do 让某人去做某事
+24 live in 住在...
+25 start with 以... 开头
+26 call to action 行动号召
+27 medical aid 医疗援助
+28 search for 搜寻
+29 the power of ... 的力量
+30 voluntary work 志愿工作
+31 rush into 冲入
+32 sign up 报名
+33 provide aid 提供援助
+34 clean up 清理
+35 be worth the effort 值得付出努力
+36 student volunteers 学生志愿者
+37 international students 国际学生
+38 take sb on a tour 带某人游览
+39 daily use 日常使用
+40 Chinese culture 中国文化
+41 sign up 报名
+42 volunteer group 志愿小组
+43 guide visitors at museums 在博物馆引导游客
+44 take care of animals 照顾动物
+45 design a poster 设计海报
+[[SHEET:Sheet2]]
+序号 英文 中文
+Unit 1 
+1 Time to Relax 放松时刻
+2 free-time activities 业余活动
+3 spend free time 度过业余时间
+4 spend the time 度长留
+5 do calligraphy 写书法
+6 go painting 画画
+7 go skiing 滑雪
+8 go hiking 徒步
+9 go programming 编程
+10 express feelings 表达感受
+11 get some exercise 锻炼
+12 create an app 创建应用程序
+13 sports centre 体育中心
+14 get over fear 克服恐惧
+15 play the guitar 弹吉他
+16 give up 放弃
+17 ink smells 墨水气味
+18 fly kites 放风筝
+19 watch movies 看电影
+20 listen to music 听音乐
+21 chat with friends 和朋友聊天
+22 spend time together 共度时光
+23 family outing 家庭出游
+24 improve your life 改善你的生活
+25 make your life better 让你的生活更美好
+26 identify facts and opinions 辨别事实和观点
+27 calm down 冷静下来
+28 keep fit 保持健康
+29 mobile phone apps 手机应用程序
+30 study partners 学习伙伴
+31 sense of achievement 成就感
+32 learn about different places 了解不同的地方
+33 beautiful landscapes 美丽的风景
+34 take up a hobby 培养一个爱好
+35 get over fear 克服恐惧
+36 reduce stress 减轻压力
+37 find it fun to (do sth) 发现 (做某事) 有趣
+38 give up 放弃
+39 dance instructor 舞蹈教练
+40 free-time activity 业余活动
+41 go riding 骑马
+42 in nature 在大自然中
+43 stay fit 保持健康
+44 all work and no play makes Jack a dull boy 只工作不玩耍，聪明孩子也变傻
+Unit 2 
+1 Stay Healthy 保持健康
+2 health problems 健康问题
+3 physical conditions 身体状况
+4 give advice 给出建议
+5 stay healthy and safe 保持健康和安全
+6 sore throat 喉咙痛
+7 runny nose 流鼻涕
+8 bruised knee 膝盖瘀伤
+9 clean the area 清洁伤口
+10 cover it 覆盖伤口
+11 press down on your nose 按住鼻子
+12 see a dentist 看牙医
+13 take some medicine 吃药
+14 drink enough water 喝足够的水
+15 wear a mask 戴口罩
+16 take care of ourselves 照顾我们自己
+17 school nurse 校医
+18 get an X-ray 拍 X 光片
+19 in your hands 在你手中 (掌握之中)
+20 take care of his health 照顾他的健康
+21 live away from families 远离家人居住
+22 learn how to do sth themselves 学习自己做某事
+23 pour...into... 把…… 倒入……
+24 turn on the stove 打开炉灶
+25 leave...to heat 让…… 加热
+26 follow into 跟着进入
+27 in a panic 惊慌地
+28 turn off 关掉
+29 cry out 大喊
+30 throw oneself to the floor 扑倒在地
+31 put out the fire 灭火
+32 roll on the ground 在地上打滚
+33 make...worse 使…… 更糟
+34 fire extinguisher 灭火器
+35 run cool water over... 用凉水冲……
+36 anything but... 除了…… 什么都可以
+37 cry out in pain 痛苦地大喊
+38 catch the flu 得流感
+39 get an injury 受伤
+40 throw to the ground 扔到地上
+41 suffer from 遭受；患 (病)
+42 first aid 急救
+43 avoid doing sth 避免做某事
+44 invite sb to... 邀请某人到……
+45 feel warm 感觉发热
+46 be allergic to... 对…… 过敏
+47 jump into action 立即行动
+48 take sb to the hospital 带某人去医院
+49 give sb some medicine 给某人一些药
+50 food allergy 食物过敏
+51 eye strain 眼疲劳
+52 do research on... 对…… 做研究
+53 deal with 处理
+54 visit an eye doctor 看眼科医生
+Unit 3 
+1 close friends 亲密的朋友
+2 write to 给... 写信
+3 speak to 和... 交谈
+4 do it on purpose 故意做
+5 double your joy 让快乐加倍
+6 reduce problems by half 让问题减半
+7 take a break 休息一下
+8 clear your mind 理清思绪
+9 shut...away 把... 封闭起来
+10 reduce stress 缓解压力
+11 spend time doing 花时间做某事
+12 control your anger 控制愤怒
+13 say bad things about you 说你的坏话
+14 be happier 更快乐
+15 a light heart / a heavy heart 心情轻松 / 心情沉重
+16 feel blue / feel on top of the world 感到沮丧 / 感到欣喜若狂
+17 have a long face / be all smiles 愁眉苦脸 / 满面笑容
+18 in low spirits / in high spirits 情绪低落 / 情绪高涨
+19 greet sb 和某人打招呼
+20 let sb down 让某人失望
+21 be hard on oneself 对自己苛刻
+22 respect one's decision 尊重某人的决定
+23 look on the bright side 看积极的一面
+24 be proud of 为…… 骄傲
+25 learn from 从... 中学习
+26 repeat mistakes 重复错误
+27 work together as a team 作为团队一起努力
+28 try one's best 尽某人最大努力
+29 win them all 场场都赢
+30 achieve great things 取得伟大成就
+31 a sense of belonging 归属感
+32 be shocked to hear 听到…… 感到震惊
+33 say no to 对... 说不
+34 feel stressed 感到有压力
+35 be worried about 担心……
+36 try to get mad at others 试图对别人发火
+37 control one's anger 控制某人的愤怒
+38 express in bad ways 以不好的方式表达
+39 say mean things 说刻薄的话
+40 stay calm 保持冷静
+41 take a deep breath 深呼吸
+42 calm down 冷静下来
+43 a little less angry 不那么生气
+44 get angry 生气
+45 choose to do 选择做
+46 thank sb for being... 感谢某人作为……
+47 take the time to do sth 花时间去做某事
+48 encourage sb 鼓励某人
+49 grow more confident 变得更自信
+50 be kind to sb 对某人友善
+51 pass away 去世
+52 talk about 谈论
+53 listen to sb 倾听某人
+54 too much stress 压力过大
+55 poor relationships 人际关系差
+56 worries about the future 对未来的担忧
+57 school bullying 校园欺凌
+58 make friends 交朋友
+59 be afraid to talk to others 害怕和别人说话
+60 focus on 专注于
+61 work together with a team 和团队一起合作
+Unit 4 
+1 the 最高级 in the world 世界上最... 的
+2 deep sea 深海
+3 deep-sea animals 深海动物
+4 Yellow River 黄河
+5 Yangtze River 长江
+6 travel the farthest 流得最远
+7 ancient civilizations 古代文明
+8 mother river 母亲河
+9 protect...by all means 想尽一切办法保护……
+10 geographical features 地理特征
+11 the biggest desert 最大的沙漠
+12 the deepest point 最深点
+13 as well as 和…… 一样好
+14 grow taller 变得更高
+15 square kilometres 平方公里
+16 magical experience 神奇的经历
+17 go close to 靠近
+18 grow loud 变响
+19 as far as the eye could see 一望无际
+20 rush past 冲过
+21 amazing experience 令人惊叹的经历
+22 scary experience 可怕的经历
+23 Mount Qomolangma 珠穆朗玛峰
+24 the greatest wonders of the world 世界上最伟大的奇迹之一
+25 thin air 稀薄的空气
+26 high cliffs 高崖
+27 changeable weather 多变的天气
+28 the northern side 北侧
+29 “Death Road” “死亡之路”
+30 be determined to do sth 决心做某事
+31 reach the top 登顶
+32 the Second Step 第二台阶
+33 above sea level 海平面以上
+34 pull oneself up 奋力向上爬
+35 bit by bit 一点一点地
+36 the national flag 国旗
+37 do research 做研究
+38 freshwater lake 淡水湖
+39 reach the bottom 到达底部
+40 natural wonder 自然奇观
+41 coral reef 珊瑚礁
+42 square kilometres 平方公里
+43 islands and white sand beaches 岛屿和白色沙滩
+44 living structure 生物结构体
+45 schools of colourful fish 一群群五颜六色的鱼
+46 the dream of a lifetime 一生的梦想
+47 the largest lake 最大的湖泊
+48 visit islands 参观岛屿
+49 ride a bike or horse 骑自行车或马
+50 do some research 做一些研究
+51 make notes 做笔记
+52 give a report 做报告
+Unit 5 
+1 natural disasters 自然灾害
+2 have dinner 吃晚饭
+3 do homework 做作业
+4 do chores 做家务
+5 take a train 乘火车
+6 strong winds and heavy rain 强风和暴雨
+7 tall waves 巨浪
+8 the eye of a typhoon 台风眼
+9 cause tsunamis 引发海啸
+10 take place 发生
+11 weather report 天气预报
+12 topics of the interviews 采访的话题
+13 at home 在家
+14 help to do sth 帮助做某事
+15 be safe 安全
+16 at the time of 在... 时
+17 be careful 小心
+18 have any trouble 有麻烦
+19 know about sth 了解某事
+20 get into an accident 发生事故
+21 stay inside 待在室内
+22 read together 一起阅读
+23 the power went out 停电
+24 make dinner 做晚饭
+25 write a letter 写信
+26 rain cats and dogs 倾盆大雨
+27 run to 跑到
+28 clear the streets 清理街道
+29 on holiday 度假
+30 walk along 沿着... 散步
+31 remember something important 想起重要的事情
+32 cry out 大喊
+33 return to 回到
+34 jump into action 立即行动
+35 get off 离开
+36 make it to safety 到达安全地带
+37 rescue workers 救援人员
+38 built walls 建墙
+39 listen to 听...
+40 during the storm 在暴风雨期间
+41 avoid driving 避免开车
+42 sweep through 席卷
+43 put out the fires 灭火
+44 keep...safe 保护…… 安全
+45 refuse to give up 拒绝放弃
+46 manage to do sth 设法做成某事
+47 wake up late 起床晚了
+48 rush to the bus stop 冲向公交车站
+49 wait for 等待
+50 too...to... 太…… 而不能……
+51 be cold and wet 又冷又湿
+52 be worried about 担心
+53 be late 迟到
+54 wait at the door 在门口等候
+55 as a result 结果
+56 have a test 考试
+57 take turns to do sth 轮流做某事
+58 write down 写下
+59 vote for 投票选举
+60 bad weather 恶劣天气
+Unit 6 
+1 shake hands 握手
+2 bump fists 碰拳
+3 rub noses 碰鼻
+4 kiss cheeks 亲吻脸颊
+5 at a party 在派对上
+6 match...with... 把…… 和…… 匹配
+7 visit friends 拜访朋友
+8 offer sth 提供某物
+9 table manners 餐桌礼仪
+10 bring a small gift 带一份小礼物
+11 wait for 等待
+12 sit up straight 坐直
+13 as soon as 一…… 就……
+14 so...that... 如此…… 以至于……
+15 culture shock 文化冲击
+16 be different from 与…… 不同
+17 get off the plane 下飞机
+18 personal space 个人空间
+19 be curious about 对…… 好奇
+20 be interested in 对…… 感兴趣
+21 table manners 餐桌礼仪
+22 hear from sb 收到某人的来信
+23 be a little lonely 有点孤独
+24 make friends 交朋友
+25 learn about 了解
+26 be on time 准时
+27 bring a gift 带礼物
+28 false impression 错误印象
+29 good manners 良好的礼仪
+30 visiting others 拜访他人
+31 wearing the right clothes 穿着得体
+32 use chopsticks 用筷子
+33 cultural differences 文化差异
+34 so ... that 如此…… 以至于
+35 as soon as 一…… 就……
+36 communicate with 与... 人交流
+37 When in Rome, do as the Romans do. 入乡随俗
+Unit 7 
+1 mystery novel 悬疑小说
+2 alien attack 外星人袭击
+3 historical fiction 历史小说
+4 classic novel 经典小说
+5 events in the story 故事中的事件
+6 book title 书名
+7 your opinion 你的观点
+8 cover art 封面设计
+9 fantasy classic 奇幻经典
+10 magical world 魔法世界
+11 prefer the book to the movie 比起电影更喜欢书
+12 growing up 成长
+13 decide on 选定
+14 have you ever... 你曾经…… 吗
+15 have never... 从未……
+16 have just... 刚刚……
+17 have already... 已经……
+18 have...yet 已经…… 了吗
+19 try to read books 尝试读书
+20 decide to do sth 决定做某事
+21 begin with 以…… 开始
+22 read different books 读不同的书
+23 teach sb about sth 教某人关于某事
+24 allow sb to do sth 允许某人做某事
+25 see the world differently 以不同的方式看待世界
+26 join a reading club 加入读书俱乐部
+27 pass away 去世
+28 a painful memory 痛苦的回忆
+29 lock up 锁起来
+30 an old key 一把旧钥匙
+31 half-hidden door 半掩的门
+32 in a bad state 状态很差
+33 tell one's secret 说出某人的秘密
+34 hidden room 隐蔽的房间
+35 fresh air 新鲜空气
+36 prove to be 证明是
+37 get to one's feet 站起来
+38 day by day 一天天地
+39 return home 回家
+40 plot of a story 故事的情节
+41 attack the earth 袭击地球
+42 stop the attack 阻止袭击
+43 force sb into doing sth 强迫某人做某事
+44 state that 陈述
+45 in a terrible state 处于糟糕的状态
+46 base...on... 以…… 为基础
+47 the base of a story 故事的基础
+48 go on an adventure 进行一次冒险
+49 prove oneself 证明自己
+50 the story of ... 的故事
+51 main characters 主要人物
+52 type of novel 小说类型
+53 summary of the book 书籍摘要
+54 my opinion on the book 我对书籍的看法
+55 quote from the book 书中的引用
+56 share favourite books 分享最喜欢的书籍
+57 answer questions 回答问题
+Unit 8 
+1 clean up 清理
+2 guide visitors 引导游客
+3 visit the elderly 看望老人
+4 give directions 指路
+5 plant trees 植树
+6 sort waste 垃圾分类
+7 volunteer organization 志愿组织
+8 art organization 艺术组织
+9 pick up litter 捡垃圾
+10 collect donations 收集捐款
+11 take care of 照顾
+12 nursing home 养老院
+13 youth group 青年团体
+14 stay active 保持活跃
+15 play Chinese chess 下中国象棋
+16 teach sb 教某人...
+17 care for 关爱
+18 for a long time 很长时间
+19 be a doctor 当医生
+20 charity match 慈善比赛
+21 get lost 迷路
+22 give directions 指路
+23 ask sb to do 让某人去做某事
+24 live in 住在...
+25 start with 以... 开头
+26 call to action 行动号召
+27 medical aid 医疗援助
+28 search for 搜寻
+29 the power of ... 的力量
+30 voluntary work 志愿工作
+31 rush into 冲入
+32 sign up 报名
+33 provide aid 提供援助
+34 clean up 清理
+35 be worth the effort 值得付出努力
+36 student volunteers 学生志愿者
+37 international students 国际学生
+38 take sb on a tour 带某人游览
+39 daily use 日常使用
+40 Chinese culture 中国文化
+41 sign up 报名
+42 volunteer group 志愿小组
+43 guide visitors at museums 在博物馆引导游客
+44 take care of animals 照顾动物
+45 design a poster 设计海报
+[[SHEET:Sheet3]]

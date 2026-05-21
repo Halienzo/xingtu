@@ -1,0 +1,369 @@
+句子的基本结构和成分
+
+
+
+一、句子基本结构
+1. 主谓宾结构：
+“主谓宾”结构是英文表达中最基本的结构，表达“谁做了什么事”，句中的“谁”即主语；“做了”即谓语；“什么事”为宾语。
+1). 主语：可以作主语的成分有名词(如boy)，主格代词(如you)，数词，动词不定式，动名词等。主语一般在句首。注意名词单数形式常和冠词不分家，如：
+The boy comes from America. 这个男孩来自美国。
+He made a speech. 他做了演讲。
+Tow and two is four. 二乘二等于四。
+To be a teacher is my dream. 成为老师是我的梦想。
+Doing a research is a necessary step when you write an essay.
+当你写论文时，做调查是很有必要的一步。
+2). 谓语：谓语由动词构成，是英语时态、语态变化的主角，一般在主语之后，后接宾语。但谓语可以是不及物动词(vi.)，没有宾语，形成主谓结构，如：
+I have arrived. 我已经到了
+Many changes took place in my hometown.
+家乡发生了很多变化。
+注：以下这些词是不及物动词：表发生、出现的，如：take place, appear, happen, break out; 表来、去，如：come, go 等
+3). 宾语：宾语位于及物动词之后，一般同主语构成一样，不同的是构成宾语的代词必须是宾格形式，如：me，him，them等。除了代词宾格可以作宾语外，名词，动名词，不定式等可以作宾语，如：
+I will do it tomorrow. 我明天在做（这件事）。
+The boy needs a pen. 这个男孩需要一只钢笔。
+I like swimming. 我喜欢游泳。
+I like to swim this afternoon. 我今天下午喜欢游泳。
+
+2. 主系表结构：
+“主系表”结构可以认为是一种特殊的主谓宾，它表达一种状态，或感受，如：
+Tom is a boy. 汤姆是个男孩
+1). 主语：与“主谓宾”中的主语相同。
+2). 系动词语：连系动词(Link verb)：be动词(am, is, are, was, were等);其他连系动词如：become，turn，get和感官动词如：sound, look, smell, taste, feel等。其特点是连系动词与其后的表语没有动宾关系，表语多为形容词或副词。感官动词用作连系动词最常见，如：
+He looks well.他面色好。
+It sounds nice.这个听起来不错。
+I feel good.我感觉好。
+The egg smells bad.这个鸡蛋难闻。
+3). 表语：说明主语的状态、性质、等。可为形容词、副词、名词、代词、不定式、分词。当联系动词不是be，而其后是名词和形容词时，多表达‘转变为’之意，注意与动宾关系的区别。
+He became a teacher at last. 他最终成为了一名老师。
+His face turned red. 他的脸变红了。
+
+3. There be 结构：
+There be 表示“某地/某时有”。这里的there没有实际意义，不可与副词“there那里”混淆，很多同学把它翻译成“那有”，实际是有问题的。此结构后跟名词，表示（存在)有某事物，试比较：
+There is a boy there. 那儿有一个男孩。
+前一个there无实意，后一个there为副词“那里”。
+
+二、其他成分
+1. 定语
+定语是对名词或代词起修饰、限定作用的词、短语或句子，汉语中常用‘……的’表示。定语通常位于被修饰的成分前。若修饰some，any，every，no构成的复合不定代词时，如：something，nothing或不定式，分词短语作定语，从句作定语时，则定语通常置后。副词用作定语时须放在名词之后。形容词，介词短语，名词，不定式，分词，从句都可以充当定语成分，如：
+
+类型
+例句
+
+形容词作定语
+The little boy needs a blue pen. 小男孩需要一支蓝色的钢笔。
+
+介词短语作定语
+The boy in blue is Tom. 穿兰色衣服的孩子是汤姆。
+
+名词作定语
+The boy needs a ball pen. 男孩需要一支圆珠笔。
+
+不定式作定语
+The boy to write this letter needs a pen. 写这封信的男孩需要一支钢笔。
+
+现在分词作定语
+The smiling boy needs a pen bought by his mother.
+那个微笑的男孩需要一支他妈妈买的钢笔。
+
+从句作定语
+The boy who is reading needs a pen.那个在阅读的男孩需要一支钢笔。
+
+
+2. 状语
+状语修饰动词、形容词、副词或全句，说明方式、因果、条件、时间、地点、让步、方向、程度、目的等。
+状语在句子中的位置很灵活，常见情况为：通常在句子基本结构之后，强调时放在句首;修饰形容词或副词时，通常位于被修饰的词之前;表示时间、地点、目的的状语一般位于句子两头，强调时放在句首，地点状语一般须在时间状语之前;一些表示不确定时间，如：often或程度，如：almost的副词状语通常位于be动词、助动词、情态动词之后，动词之前。可以充当状语成分的词众多，如：
+状语类型
+例句
+
+短语表程度状语
+The boy needs a pen very much.
+男孩非常需要一支钢笔。
+
+介词短语作时间状语
+On Sundays, there is no student in the classroom.
+星期天,教室里没有学生.
+
+分词作伴随状语
+He sits there, asking for a pen.
+他坐在那儿要一支笔。
+
+不定式作目的状语
+The boy needs a pen to do his homework.
+男孩需要一支笔写家庭作业。
+
+从句作时间状语
+It was 6:00 P.M. when the boy got home.
+当男孩到家的时候已经是晚上6点了。
+
+
+3. 宾语补足语
+位于宾语之后对宾语作出说明的成分叫做宾语补足语，简称宾补。宾语与其补足语有逻辑上的主谓关系，它们一起构成复合宾语，多当做固定句型使用，如：
+The war made him a soldier.战争使他成为一名战士.
+New methods make the job easy.新方法使这项工作变得轻松.
+I often find him at work.我经常发现他在工作.
+The teacher ask the students to close the windows.老师让学生们关上窗户.
+I saw a cat running across the road.我看见一只猫跑过了马路.
+
+4. 同位语
+同位语是在名词或代词之后并列名词或代词对前者加以说明的成分，近乎于后置定语。如：
+We students should study hard. 我们学生应该努力学习。
+students是we的同位语，都是指同一批‘学生’
+We all are students. 我们都是学生。
+all是we的同位语，都指同样的“我们”。
+
+一、重点：
+本节重点在于掌握句子的基本构成，以及句子中的基本成分，即主语，谓语，宾语，表语，定语，状语，补语以及同位语。成分的判断考试中不会直接考查，但对于长难句的分析，句子理解和作文语病的排除都有直接的影响。
+
+二、易错点：系动词的辨别
+我们之前讲系动词分为三类，即be动词，感官动词和表转变的几个动词。这里面需要注意的是感官动词中look，smell，feel，以及表转变的动词turn，get都有实意动词的用法，试比较：
+1. This kind of cloth feels good. 这种面料摸上去很舒服。（系动词）
+ The Doom has come. I can feel it! 末日已经降临，我能感受到它。（实意动词）
+2. Leaves turn yellow in Autumn. 秋天树叶变黄。
+Go along the street and turn right. 沿街走到头右转。
+
+
+题模一：句子结构
+
+例1.1.1 分析下列句子成分
+1. All of us considered him honest.
+____________________________________________
+2. My grandfather bought me a pair of sports shoes.
+____________________________________________
+
+例1.1.2 翻译下列句子
+1. 这个村子过去只有一口井。
+____________________________________________
+2. 我们叫她爱丽丝。
+____________________________________________
+题模二：句子成分
+
+例1.2.1 The weather is _________.
+A． bad
+B． badly
+C． well
+D． worse
+
+
+例1.2.2 I find the movie Harry Potter very _________. I like it very much.
+A． interest
+B． interesting
+
+C． bore
+D． boring
+
+
+例1.2.3 I can't find my pen. Could you help____________ find it?
+A． me
+B． her
+C． him
+D． them
+
+
+
+
+随练1.1 划分句子成分
+1. The old man lives a lonely life.
+____________________________________________
+
+2. He broke a piece of glass.
+____________________________________________
+
+3. Our school is not far from my home.
+____________________________________________
+
+4. It is a great pleasure to talk with you
+____________________________________________
+
+5. He made it clear that he would leave the city.
+____________________________________________
+
+6. I love you more than her child.
+____________________________________________
+
+7. Trees turn green when spring comes.
+____________________________________________
+
+8. They pushed the door open.
+____________________________________________
+
+9. Grandma told me an interesting story last night.
+____________________________________________
+
+10. He wrote some letters to his friends carefully.
+____________________________________________
+
+随练1.2 The weather here _________.
+A． is wet and cold
+B． was wet and cold
+C． wet and cold
+D． are wet and cold
+
+随练1.3 Aunt Tina will visit us soon. _________ is arriving tomorrow morning.
+A． He
+B． She
+C． His
+D． Her
+
+
+随练1.4 My friend show _________ some old photos of his family.
+A． my
+B． I
+C． me
+D． mine
+
+
+随练1.5 He got up _________ yesterday morning.
+A． lately
+B． late
+C． latest
+D． latter
+
+
+随练1.6 He found the Center Street _________ on Sunday.
+A． crowd
+B． crowded
+
+C． crowding
+D． crowdly
+
+
+
+
+
+
+作业1 翻译句子
+1. 那天早上我们谈了很多。
+____________________________________________
+
+2. 昨晚我写了一封信。
+____________________________________________
+
+3. 奶奶昨晚给我们讲了一个有趣的故事。
+____________________________________________
+
+4. 我父亲已经给我买了一辆新自行车。
+____________________________________________
+
+5. 树叶变黄了。
+____________________________________________
+
+6. 十五岁他就成为有名的钢琴家了。
+____________________________________________
+
+7. 我们大家都认为他是诚实的。
+____________________________________________
+
+8. 我们要使学校变得更美丽。
+____________________________________________
+
+9. 这个学校有一名音乐老师和一名美术老师。
+____________________________________________
+
+10. 天气预报说下午有大风。
+____________________________________________
+
+作业2 Please send _________ postcard when you travel abroad.
+A． I
+B． me
+C． my
+D． mine
+
+
+作业3 Tom is a book lover. _________ likes reading very much.
+A． He
+B． Him
+C． She
+D． her
+
+
+作业4 _________ were all very tired, but none of _________ would stop to take a rest.
+A． We; us
+B． Us; we
+
+C． We; our
+D． We; we
+
+
+作业5 Please keep the classroom _________ when you left.
+A． clean
+B． cleanly
+
+C． cleaning
+D． clear
+
+答案解析
+
+
+
+
+题模一：句子结构
+例1.1.1
+【答案】 1. 主语+谓语+宾语+宾补；2. 主语+谓语+宾语1+宾语2
+【解析】 考查句子结构划分，具体解析略。
+例1.1.2
+【答案】 1. There was only one well in the village. 2. We call her Alice.
+【解析】 略。
+题模二：句子成分
+例1.2.1
+【答案】A
+【解析】 考查表语的句子成分。句意：天气很糟（好）。形容天气，表语应该为形容词原形，故选A。
+例1.2.2
+【答案】B
+【解析】 考查宾补的句子成分。结构为find+宾语+宾补，宾补为形容词描述宾语，故排除AC；又根据后一句说他很喜欢，故选B。
+例1.2.3
+【答案】A
+【解析】 代词，根据句子中的主语I与所填的词做宾语，故用me。
+
+
+随练1.1
+【答案】 1. 主语+谓语+宾语
+2. 主语+谓语+宾语
+3. 主语+系动词+表语
+4. 主语+系动词+表语（形式主语）
+5. 主语+谓语+宾语+宾补（形式宾语）
+6. 主语+谓语+宾语
+7. 主语+系动词+表语
+8. 主语+谓语+宾语+宾补
+9. 主语+谓语+宾语1+宾语2
+10主语+谓语+宾语1+宾语2
+【解析】 考查句子结构划分。具体解析略。
+随练1.2
+【答案】A
+【解析】 考查系表结构。根据句意：这里的天气又湿又冷。为主系表结构，排除C；又主语为单数，排除D；为现象描述用一般时，故选A。
+随练1.3
+【答案】B
+【解析】 考查主语成分。第二句动词前，缺主语，排除CD；又前文中提及Aunt Tina为女性，故选B。
+随练1.4
+【答案】C
+【解析】 考查宾语成分。动词之后缺宾语，排除BD；又根据句意，朋友给我展现，故选C。
+随练1.5
+【答案】B
+【解析】 考查状语成分。根据句意：他昨天早上很晚起床，缺少修饰起床的状语，A．最近；B．晚，迟；C．最新的；D．后来，故选B。
+随练1.6
+【答案】B
+【解析】 考查宾补成分。结构为主语+find+宾语+补语，补语为形容词，故选B。
+
+
+作业1
+【答案】 1. We talked a lot that morning.
+2. I wrote a letter last night.
+3. Grandma told us an interesting story last night.
+4. My father has bought me a new bicycle.
+5. Leaves turn yellow.
+6. He became a famous pianist at the age of 18.
+7. All of us consider him honest.
+8. We will make our school more beautiful.
+9. There is a music teacher and an art teacher in the school.
+10. The weatherman says there’ll be a strong wind in the afternoon.
+【解析】 略。
+作业2
+【答案】B
+【解析】 考查宾语成分。动词之后缺宾语，故选B。
+作业3
+【答案】A
+【解析】 考查主语成分。第二句动词前，缺主语，排除BD；又前文中提及汤姆为男性，故选A。
+作业4
+【答案】A
+【解析】 考查主语和宾语成分。前一句中动词前，缺主语，排除B；后一句中缺宾语，故选A。
+作业5
+【答案】A
+【解析】 考查补语成分。根据句意：离开时请保持教室清洁。缺少宾语补足语，应为形容词，排除BD；A．干净的；D．清楚的，故选A。

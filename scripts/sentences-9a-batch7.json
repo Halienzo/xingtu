@@ -1,0 +1,5 @@
+{
+  "dead": {"meanings": ["死的", "失去生命的"], "pos": "adj.", "example": "The dead tree in the yard still provides a home for birds.", "exampleCn": "院子里那棵枯死的树仍然为鸟儿提供了一个家。"},
+  "wonder": {"meanings": ["想知道", "惊奇"], "pos": "v./n.", "example": "I wonder what life will be like when I grow up.", "exampleCn": "我想知道我长大后生活会是什么样子。"},
+  "suggest": {"meanings": ["建议", "提议"], "pos": "v.", "example": "My teacher suggests that we read one book every month.", "exampleCn": "我的老师建议我们每个月读一本书。"}
+}

@@ -1,0 +1,706 @@
+{
+  "generatedAt": "2026-05-21T01:23:58.080Z",
+  "calendarPath": "E:\\xsc\\app\\src\\data\\calendarData.json",
+  "totals": {
+    "plans": 24,
+    "placements": 52560,
+    "uniqueWords": 7551,
+    "multiPosPlacements": 27965,
+    "multiPosUniqueWords": 2270,
+    "missingDetails": 0,
+    "invalidDetails": 0
+  },
+  "assertions": {
+    "balloonExpectedPos": [
+      "n.",
+      "vi.",
+      "vt.",
+      "adj."
+    ],
+    "balloonActualPos": [
+      "n.",
+      "vi.",
+      "vt.",
+      "adj."
+    ],
+    "balloonMissingPos": [],
+    "balloonRows": [
+      {
+        "planKey": "1a",
+        "dateISO": "2026-01-13",
+        "word": "balloon",
+        "pos": "n./vi./vt./adj.",
+        "meanings": [
+          "气球；热气球",
+          "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+          "使成气球状；使膨胀；使激增",
+          "气球状的；像气球般鼓起的"
+        ],
+        "posDetails": [
+          {
+            "pos": "n.",
+            "meaning": "气球；热气球",
+            "example": "The word \"balloon\" can add a real detail to my essay about school life and class activities.",
+            "exampleCn": "“balloon”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+          },
+          {
+            "pos": "vi.",
+            "meaning": "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "vt.",
+            "meaning": "使成气球状；使膨胀；使激增",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "adj.",
+            "meaning": "气球状的；像气球般鼓起的",
+            "example": "The word \"balloon\" helps describe a feeling or detail in an essay about school life and class activities.",
+            "exampleCn": "“balloon”可以在校园生活、英语俱乐部、班级活动、毕业回忆作文中描写感受或细节。"
+          }
+        ]
+      },
+      {
+        "planKey": "1a",
+        "dateISO": "2026-01-27",
+        "word": "balloon",
+        "pos": "n./vi./vt./adj.",
+        "meanings": [
+          "气球；热气球",
+          "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+          "使成气球状；使膨胀；使激增",
+          "气球状的；像气球般鼓起的"
+        ],
+        "posDetails": [
+          {
+            "pos": "n.",
+            "meaning": "气球；热气球",
+            "example": "The word \"balloon\" can add a real detail to my essay about school life and class activities.",
+            "exampleCn": "“balloon”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+          },
+          {
+            "pos": "vi.",
+            "meaning": "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "vt.",
+            "meaning": "使成气球状；使膨胀；使激增",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "adj.",
+            "meaning": "气球状的；像气球般鼓起的",
+            "example": "The word \"balloon\" helps describe a feeling or detail in an essay about school life and class activities.",
+            "exampleCn": "“balloon”可以在校园生活、英语俱乐部、班级活动、毕业回忆作文中描写感受或细节。"
+          }
+        ]
+      },
+      {
+        "planKey": "1a",
+        "dateISO": "2026-02-10",
+        "word": "balloon",
+        "pos": "n./vi./vt./adj.",
+        "meanings": [
+          "气球；热气球",
+          "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+          "使成气球状；使膨胀；使激增",
+          "气球状的；像气球般鼓起的"
+        ],
+        "posDetails": [
+          {
+            "pos": "n.",
+            "meaning": "气球；热气球",
+            "example": "The word \"balloon\" can add a real detail to my essay about school life and class activities.",
+            "exampleCn": "“balloon”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+          },
+          {
+            "pos": "vi.",
+            "meaning": "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "vt.",
+            "meaning": "使成气球状；使膨胀；使激增",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "adj.",
+            "meaning": "气球状的；像气球般鼓起的",
+            "example": "The word \"balloon\" helps describe a feeling or detail in an essay about school life and class activities.",
+            "exampleCn": "“balloon”可以在校园生活、英语俱乐部、班级活动、毕业回忆作文中描写感受或细节。"
+          }
+        ]
+      },
+      {
+        "planKey": "1a",
+        "dateISO": "2026-02-24",
+        "word": "balloon",
+        "pos": "n./vi./vt./adj.",
+        "meanings": [
+          "气球；热气球",
+          "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+          "使成气球状；使膨胀；使激增",
+          "气球状的；像气球般鼓起的"
+        ],
+        "posDetails": [
+          {
+            "pos": "n.",
+            "meaning": "气球；热气球",
+            "example": "The word \"balloon\" can add a real detail to my essay about school life and class activities.",
+            "exampleCn": "“balloon”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+          },
+          {
+            "pos": "vi.",
+            "meaning": "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "vt.",
+            "meaning": "使成气球状；使膨胀；使激增",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "adj.",
+            "meaning": "气球状的；像气球般鼓起的",
+            "example": "The word \"balloon\" helps describe a feeling or detail in an essay about school life and class activities.",
+            "exampleCn": "“balloon”可以在校园生活、英语俱乐部、班级活动、毕业回忆作文中描写感受或细节。"
+          }
+        ]
+      },
+      {
+        "planKey": "1a",
+        "dateISO": "2026-03-10",
+        "word": "balloon",
+        "pos": "n./vi./vt./adj.",
+        "meanings": [
+          "气球；热气球",
+          "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+          "使成气球状；使膨胀；使激增",
+          "气球状的；像气球般鼓起的"
+        ],
+        "posDetails": [
+          {
+            "pos": "n.",
+            "meaning": "气球；热气球",
+            "example": "The word \"balloon\" can add a real detail to my essay about school life and class activities.",
+            "exampleCn": "“balloon”可以给校园生活、英语俱乐部、班级活动、毕业回忆作文增加一个真实细节。"
+          },
+          {
+            "pos": "vi.",
+            "meaning": "如气球般膨胀；膨胀如气球, 激增；膨胀；激增；乘气球飞行",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "vt.",
+            "meaning": "使成气球状；使膨胀；使激增",
+            "example": "In a Yunnan English writing task about school life and class activities, I can learn the word \"balloon\".",
+            "exampleCn": "在云南英语写作的校园生活、英语俱乐部、班级活动、毕业回忆主题中，可以学习“balloon”这个词。"
+          },
+          {
+            "pos": "adj.",
+            "meaning": "气球状的；像气球般鼓起的",
+            "example": "The word \"balloon\" helps describe a feeling or detail in an essay about school life and class activities.",
+            "exampleCn": "“balloon”可以在校园生活、英语俱乐部、班级活动、毕业回忆作文中描写感受或细节。"
+          }
+        ]
+      }
+    ]
+  },
+  "samples": {
+    "multiPosWords": [
+      {
+        "word": "like",
+        "placements": 56,
+        "maxPosDetails": 7,
+        "pos": "n./vi./vt./v./adj./adv./prep."
+      },
+      {
+        "word": "achieve",
+        "placements": 7,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "bully",
+        "placements": 2,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "care",
+        "placements": 15,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "clean",
+        "placements": 48,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "clear",
+        "placements": 6,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "close",
+        "placements": 34,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "fine",
+        "placements": 31,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "help",
+        "placements": 32,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "light",
+        "placements": 71,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "off",
+        "placements": 6,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./adj./adv./prep."
+      },
+      {
+        "word": "own",
+        "placements": 8,
+        "maxPosDetails": 6,
+        "pos": "n./pron./vi./vt./v./adj."
+      },
+      {
+        "word": "part",
+        "placements": 19,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "round",
+        "placements": 38,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./adj./adv./prep."
+      },
+      {
+        "word": "separate",
+        "placements": 12,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "shock",
+        "placements": 5,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "sound",
+        "placements": 8,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "spell",
+        "placements": 32,
+        "maxPosDetails": 6,
+        "pos": "n./pron./vi./vt./v./adj."
+      },
+      {
+        "word": "total",
+        "placements": 6,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "trust",
+        "placements": 5,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./adj./adv."
+      },
+      {
+        "word": "will",
+        "placements": 13,
+        "maxPosDetails": 6,
+        "pos": "n./vi./vt./v./aux./modal v."
+      },
+      {
+        "word": "accept",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "add",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "advance",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "anger",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "appear",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./v./adj./adv."
+      },
+      {
+        "word": "back",
+        "placements": 34,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "before",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "pron./v./adv./prep./conj."
+      },
+      {
+        "word": "bound",
+        "placements": 3,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "break",
+        "placements": 8,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "broadcast",
+        "placements": 3,
+        "maxPosDetails": 5,
+        "pos": "n./vt./v./adj./adv."
+      },
+      {
+        "word": "budget",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "calm",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "can",
+        "placements": 54,
+        "maxPosDetails": 5,
+        "pos": "n./vt./v./aux./modal v."
+      },
+      {
+        "word": "club",
+        "placements": 20,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "compare",
+        "placements": 7,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "create",
+        "placements": 7,
+        "maxPosDetails": 5,
+        "pos": "n./vt./v./adj./adv."
+      },
+      {
+        "word": "cut",
+        "placements": 41,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "develop",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "die",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adv."
+      },
+      {
+        "word": "dress",
+        "placements": 86,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "dry",
+        "placements": 27,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "enough",
+        "placements": 16,
+        "maxPosDetails": 5,
+        "pos": "n./pron./adj./adv./interj."
+      },
+      {
+        "word": "even",
+        "placements": 7,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "express",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vt./v./adj./adv."
+      },
+      {
+        "word": "firm",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "fit",
+        "placements": 9,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "forget",
+        "placements": 9,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "graduate",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "head",
+        "placements": 34,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "honeycomb",
+        "placements": 2,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "imagine",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "joy",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "last",
+        "placements": 15,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "lay",
+        "placements": 30,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "lead",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "live",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "vi./vt./v./adj./adv."
+      },
+      {
+        "word": "loose",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "mean",
+        "placements": 18,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "measure",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "meet",
+        "placements": 14,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "need",
+        "placements": 9,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./aux."
+      },
+      {
+        "word": "panic",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "parcel",
+        "placements": 33,
+        "maxPosDetails": 5,
+        "pos": "n./vt./v./adj./adv."
+      },
+      {
+        "word": "polish",
+        "placements": 3,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "pop",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "post",
+        "placements": 14,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adv."
+      },
+      {
+        "word": "prepare",
+        "placements": 8,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "promise",
+        "placements": 18,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "put",
+        "placements": 32,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "record",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "reflect",
+        "placements": 5,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "refuse",
+        "placements": 7,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "relax",
+        "placements": 7,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "rent",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "return",
+        "placements": 6,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "right",
+        "placements": 14,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "roast",
+        "placements": 4,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      },
+      {
+        "word": "rough",
+        "placements": 36,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./adj./adv."
+      },
+      {
+        "word": "run",
+        "placements": 81,
+        "maxPosDetails": 5,
+        "pos": "n./vi./vt./v./adj."
+      }
+    ],
+    "missingDetails": [],
+    "invalidDetails": []
+  }
+}

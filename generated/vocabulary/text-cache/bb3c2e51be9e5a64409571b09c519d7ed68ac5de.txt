@@ -1,0 +1,2865 @@
+初中英语语法梳理和提高
+名 词
+表示人、事物、地方、现象或抽象概念等的名称的词。
+知识梳理：提纲挈领，抓住重点和难点！
+名词的分类
+ 
+名
+
+词
+类 别
+意 义
+例 词
+
+
+专有名词
+表示具体的人名、事物、国家、地名、机构、团体等的专有名称
+Jim , China, Qingdao, the UK, the Great Wall
+
+
+普通名词
+可
+数
+名
+词
+个体名词
+表示单个人的人或事物
+girl, student, factory, desk, cat , country
+
+
+
+
+集合 名词
+表示一群人或一些事物的总称
+people, police, team, clothes, group, crew
+
+
+
+不
+可
+数
+名
+词
+物质名词
+表示无法分为个体的物质
+water, ice, pork, cheese, cotton, broccoli
+
+
+
+
+抽象名词
+表示抽象概念的词
+fun, healthy, happiness, courage, love, care
+
+注：1.专有名词是指人、地方、团体、机构等特有的名称。第一个字母必须大写。专有名词前一般不加冠词。
+ 2、有普通名词构成的专有名词前要用定冠词“the”，但它不大写。
+ 3、有些不可数名词有时表示为具体的东西时，则变为可数名词，而且以四上也有了变化。eg. beer ----a beer 一杯啤酒， work--- a work 工厂，著作 ，glass---a glass 一个玻璃杯， room空间---a room一个房间
+名词的数：表示可以计算数目的人或物称为可数名词。
+1、可数名词有单、复数两种形式：可数名词的单数形式要在名词前加 “a或an”；复数形式是在名词后加 “-s或-es”。名词复数形式有规则变化和不规则变化两种，规则变化及其读音可依照下表：
+当名词为：
+词尾变化
+读 音
+例 词
+
+一般情况
+加s
+在清辅音后读/s/
+chips, jeeps, pats , clocks
+
+
+
+在浊辅音或元音后读/z/
+boys, sharpeners, sofas, drawers
+
+以s,x,ch,sh结尾的单词
+加es
+/iz/
+watches, boxes, classes, brushes
+
+以字母o结尾的单词
+加s或es
+/z/
+zoos, photos, bamboos, 
+tomatoes, potatoes, heroes,
+
+以辅音字母+y结尾的单词
+去y 变i加es
+/z/
+dictionaries, strawberries,
+
+以f 或fe结尾的单词
+去f或fe 变v 加 es
+/vz/
+leaves, wives, halves
+
+以th结尾的词
+加s
+/ðz/; /θz/
+mouths, paths; months, deaths
+
+
+2. 可数名词复数的不规则变化
+ ①改变单数名词中的元音字母
+ eg. man--men, woman—women, tooth—teeth, foot—feet, goose—geese, mouse--mice
+ ②单复数同形 eg. Chinese-Chinese, deer-deer, fish-fish, sheep-sheep,…
+ ③由man 和woman构成的合成词, 每个名词都要变复数
+ eg. a man doctor— men doctors, a woman teacher--women teachers
+ 注意: 有些名词表示一种物体具有不可分割的相同的两部分,在使用时只有复数形式
+ eg. trousers, clothes, glasses, shorts,scissors, etc;有些名词从形式上看是复数, 
+ 实际上是单数(其后的谓语动词要用单数). eg. maths, phyiscs, politics, news
+ 3. 不可数名词：表示不能计算数目的人或物，称为不可数名词。他们前面不能用a/an,没有复数形式。物质名词和抽象名词都属于不可数名词。不可数名词一般只有单数形式, 但有其特殊用法:
+同一个词,变成复数形式, 意义不同。eg. food 食物--- foods 各种食物，
+time 时间 --- times 时代，green 绿色 ---greens 青菜
+有些不可数名词用复数代指具体的事物
+eg. hope ---hopes 希望 hardship --- hardships 艰苦
+物质名词在表示数量时,常用某个量词+of来表示 
+eg. a cup of tea, seven pieces of bread, several bags of rice, … 
+三、名词的所有格
+名词的所有格是表示名词之间的所有关系,有两种表示形式, 一种是在名词后+’s；另一种是用of, 表示 “……的”。
+1. (1) 一般词的所有格, 直接在词尾 +’s。 eg. Mr. Mott’s robot, children’s clothes
+ (2) 以s结尾的名词所有格只在词尾 +’ eg. teachers’ books
+ (3) 两人共有的物体, 则在第二个名词后+’s; 如果分别是两人所有, 则在每个名词后面 
+ +’s。 eg. Lucy and Lily’s room. (指两人共住一个房间)
+ Mrs Green’s and Mrs Brown’s son. (指两人各自的儿子)
+ (4) 表示某具体场所时, 所有格后面的名词可省略
+ eg. the doctor’s (office) Mr. White’s
+2.(1) 没有生命的事物一般用of 短语来表示所属关系。 
+ eg. the wall of the classroom，a picture of the bedroom， 
+ (2) 名词的的定语较长时,有生命的事物也可用of短语表示。
+ eg. a long story of a 50-year-old man 
+双重所有格 eg. a friend of his, the big nose of Tom’s
+有些表示时间、距离、国家、城市等无生命的东西的名词，也可以加’s来构成所有格。
+eg. ten minutes’ walk, today’s newspaper
+例题解析：举一反三，学的更轻松！
+1. They got much _____ from those new books.
+ A. ideas B. photos C. news D. stories
+ 解析: much 是用来修饰不可数名词的, A B D三个选项均是可是名词的复数形式, C项为不可数名词, 因此选C.
+2. I have two _______ and three bottles of _________ here.
+ A. orange, orange B. oranges, oranges
+ C. oranges, orange D. orange, oranges
+解析: orange 有两种含义, 一种可数名词橘子, 另一种是不可数名词橘汁, 此题第一空应填可数名词, 第二空填不可数名词, 因此选 C。
+3. Every evening M r. King takes a _________ to his home .
+ A. 25 minutes’ walk B. 25 minute’s walk
+ C. 25 minute walk D. 25 minutes walk
+解析: 句中的 minute应该用其复数的所有格形式,只+’,而不能+s,因此选A。
+4. An old _______ wants to see you.
+ A. people B. person C. the people D. the person 
+解析: person 与people 都有”人” 的意思, 但用法不同. “一个人”用 “a person”,
+“两个人” 用 “two persons”; people 泛指 “人们”是集合名词,表示复数, the people 指 “人民”, a people 指 “一个民族”. 应选B。
+5. Help yourself to __________.
+ A. chickens and apples B. chickens and apple
+ C. chicken and apple D. chicken and apples
+解析: chicken 可用作可数名词指小鸡,用作不可数名词指鸡肉,根据词题意应理解为鸡肉;apple为可数名词, 故应+s, 因此选D。
+6. Oh, dear. I forgot the two _________.
+ A. room’s number B. rooms’ number C. room numbers D. rooms’ numbers
+解析: room number 房间号码. room可直接用作定语修饰后面的名词 . 类似的还有my phsics teacher, two bus drivers 等. 应选C。
+7. She has been in Tianjin for ten years. Tianjin has become her second _________.
+ A. family B. house C. home D. room
+解析: family指的是家庭或是家庭成员; house指的是房子(住所); room 指的是房间;而home 指的是家, 因此选C.
+8. ________ mothers couldn’t go to the meeting, because they have gone to Shanghai .
+ A. Mary and Peter’s B. Mary and Peter
+ C. Mary’s and Peter D. Mary’s and Peter’s
+解析: 此句中 “mothers”是复数,表示两个人各自的母亲,因此应选D。
+9. Li Lei has been to __________ many times this month.
+ A. her uncle B. her uncle’s C. her uncles D. aunt’s 
+解析: 此句意为 “李雷这个去她舅舅家多次”. 表示具体场所时, 可省去所有格后面的名词.
+因此选B。
+10. He is a success as a leader but he hasn’t ________ in teaching.
+ A. many experiences B. much experience
+ C. an experience D. a lot experience
+解析: experience 作 “经验” 讲时是不可数名词, 作 “经历”讲时是可数名词. 本句中应理解为 “经验”,因此是不可数名词,排除 A C. 又因 a lot of , lots of, plenty of 只用于肯定句, 不用于否定句, 因此选B。
+11. A classmate of _________ was here ten minutes ago.
+ A. you B. your C. your sister D. your sister’s
+解析: 此题考查名词的双重所有格.应选D。
+12. A group of _________ are talking with two ___________.
+ A. Frenchmen, Germans B. Germans ,Frenchmans 
+ C. Frenchmans , Germen D. Germen , Frenchmen 
+解析: Frenchman 是复合词,其复数形式为 Frenchmen; German 的复数为直接在单词末尾+S, 应选A.
+13.The team ________ having a meeting .
+ A. is B. are C. am D. be
+解析: team 是一个集合名词,即可表示复数意义(指整个小组) , 也可指小组中的成员(表示复数), 此题意为后者, 因此选B。
+14. “Would you like _________?” “________, please.”
+A. drink, Three coffees B. a cup of drink, Coffees
+C. a drink, A coffee D. a drink, Three cups of coffees
+解析: drink 和coffee是不可数名词, 可以用…of来表示数量, eg, three cups of coffee, 
+当前面加a 时,则表示　“一杯”．因此选C。
+15. The Great Wall was made not only by _______, but also the flesh and blood of ________ men.
+ A.earth and stone, millions of B. earths and stones, millions
+ C. the earth and stone, million of D. the earths and stones, millions
+解析：earth 是不可数名词，因此删除B D,数以百万的应为millions of . 
+因此选A。
+练习与巩固：熟能生巧，取得好成绩！
+ 选择最佳答案：
+1． Last night, there was a food accident. The _______ were ill, but no _______ were lost.
+A. child, lives B. children, life C. children, lives D. child, life
+2. ---This is a photo of _________ when they were young.
+ ---OK, how happy they both looked!
+ A. my father and mother B. my mother and father's
+ C. my mother's and father's D.my father's and my mother
+3. The new student is in __________ , Grade Two.
+ A. Class Third B. Third Class C. Class Three D. Three class
+4. Today is September 10th. It's __________ Day. Let's go and buy some flowers for our teachers.
+ A. Teachers B. Teachers' C. the Teachers' D. Teacher's
+5. The market isn't far from here. It's only _________ bicycle ride.
+ A.half an hours' B. half an hour's C. half an hour D. an hour and a half
+6. --- What would you like to drink, girls?
+ --- _________, please.
+ A.Two cup of coffee B. Two cups of coffe
+ C. Two cups of coffee D. Two cups of coffees
+7. During Christmas, people get together and sing Christmas songs for _________.
+ A. fun B. wishes C. interest D. thanks
+8. Some _________ are flying kites near the river.
+ A. child B. boy C. boys D. childs
+9. After the exam, we'll have________ holiday.
+ A. two weeks B. two-weeks C. two weeks' D. two week's
+10. They are those _________ bags.Please put them on the bus.
+ A. visitor B. visitors C. visitor's D. visitors'
+11.--- How many workers are there in your factory?
+ --- There are two ___________.
+ A. hundreds B. hundred C. hundred of D. hundreds of
+12. ---What do you think of the _______ the Moonlight Sonata by Beethoven?
+ --- It sounds really wonderful. 
+ A. subject B. music C. book D. animal
+13. There is not enough _________ in the corner for the fridge.
+ A. place B. room C. field D. ground
+ 14. _________ comes from sheep and some people like eating it
+A. Wool B. Pork C. Mutton D. Milk
+15. If you don't take more ________, you'll get fat.
+A. medicine B. lessons C. photos D. exercise
+16. My school is about twenty ________ walk from here.
+ A. minute B. minutes' C. minutes's D. minutes
+17. Mum, I have _______ to tell you!
+ A. a good news B. some good news C. some good newes D. much good news
+18. Which is the ________ to the post office?
+ A. street B. way C. road D. address
+19. I stayed at ________ last Sunday.
+ A. my uncles B. my uncles' C. my uncle's D. my uncle's family
+20. Maths ________ not easy to learn.
+ A. are B. is C. am D. were
+ 1-5 CBCBB 6-10 CACCD 11-15 ABBCD 16-20 BBBCB
+
+冠　　　　词
+
+冠词分为不定冠词(a, an )和定冠词 (the)
+
+知识梳理：提纲挈领，抓住重点和难点！
+一、 不定冠词的用法
+ 1)用与可数名词的单数形式前,指人或事物的某一种类：例如：
+ She is a girl. 
+ Pass me an apple , please.
+ 2)、指某人或某物,但不具体说明何人或何物。例如：
+ A boy is waiting for you
+ We work six days a week.
+ 3). 表示 “一”这个数量,但数的概念没有one 强烈.例如:
+ We are going to have an English lesson tomorrow.
+ I have a mouth , a nose, two eyes and two ears.
+ 4). 用于某些固定的词组中.例如:
+ a few, a little, a lot of
+注: 用a 还是an, 要看后面的词读音以辅音开头还是以元音开头.
+二、定冠词的用法
+ 1) 特指某(些)人或某(些)物.例如: the photo of the boy
+ 2) 指双方都知道的人或物.例如:
+ -Where are the new books, Jim?
+ - They are on the small table.
+ 3) 指上文提过的人或物.例如:
+ Today he is making a machine.
+ He wants to ride the machine like a bike and fly it like a plane.
+ 4). 用在世界上独一无二的事物前.例如:
+ The sun is bigger than the moon.
+ 5). 用在序数词或形容词最高级前.例如:
+ The first truck is carrying a few baskets.
+ The third one is carrying the fewest of all.
+6). 用在由普通名词构成的专有名词前.例如:
+ the Great Wall 
+ the North Street Hospital
+7). 用在一些习惯用语中.例如:
+ in the morning (afternoon, evening), 
+ on the left(right)
+ at the end of
+
+三、不用冠词的情况
+ 1）在专有名词前和不可数名词前。例如：
+China, Grade Two, Bill Smith, milk
+ 2）名词前已有作定语用的this, that, my, your, some, any 等代词。例如：
+ The letter is in her pocket.
+I think the shop is closed at this time of day.
+ 3）复数名词表示一类人或事物时。例如：
+ My father and mother are teachers.
+I like cakes.
+ 4）在星期、月份、季节、节日前。例如：
+ It is Sunday (Monday, Tuesday, etc.)
+ Today is Mid-Autumn Day.
+It is cold in winter.
+ 5）在称呼语或表示头衔的名词前。例如：
+ Uncle Wang likes making things.
+What colour are Mrs Green’s shoes?
+ 6）在三餐饭和球类运动的名称前。例如：
+ He went to school after breakfast.
+ Can you play basketball?
+注： 在某些固定词组中，如：at home, by bus, go to school 等的名词前不用冠词。
+
+例题解析：举一反三，学的更轻松！
+1. _______ milk is food. ________ milk in this cup has gone bad.
+2. ---Do you like playing _________ football?
+ ---Yes. But I have only _________ basketball.
+3. Do you know _______girl on ________another side of ________ lake?
+4. There’s ________ “u” and ________ “s” in ________work “use”.
+5. She says ________animals cant’s live without __________air, either.
+6. His father, who is ________honest man, is teaching in ________ university.
+7. Which is heavier, ________elephant or ________ horse?
+8. ________ cold wind was blowing from the north.
+9. He is always ready to help _________ old and ________ young.
+10. ________ Greens are traveling in _________ South China.
+11. Although ________ most of us like to drink beer, those who drink ________most are _______ least healthy.
+12.Xiaomei saw _________ interesting film last night. ________ film was about _________ kind doctor.
+13. You can have _________ second try if you fail _______ first time.
+14. Tom went to _________ school as usual, but he didn’t know his father went to ________school for a parent meeting.
+15. ________ knowledge begins with _________ practice.
+解析：１．/, the (milk 是物质名词，一般不用冠词，　但后面加上一个定语in the cup 后，使其成为特指，所以需要用定冠词the.)
+2. / , the (球类运动前不用the ; 指一个物体要用不定冠词a )
+3. the,/, the ( 特指这个女孩用the;名词前已有定语another;)
+4. a, an, the (“u” 发音以辅音开头所以用a;“s” 发音以元音开头所以用an; 特指这个单词用the)
+5. /,/ (泛指动物所以不用任何冠词; air 不可数名词，其前一般不用冠词)
+6. an, the ( honest 发音以元音开头，故用an, 在大学里为in the university)
+7. an, a 或the ,the ( 不定冠词a , an 和 定冠词the与名词单数连用表示种类)
+8. a (物质名词coffee, food, tea, fog, rain, snow, wind等，在表示　“一种”或　“一场”的意义时，前面要加不定冠词。
+9. the, the ( 形容词前加定冠词，表示一类人)
+10. The ,/ ( 姓氏的复数前加定冠词the 表示一家人；在华南是in South China)
+11. /, the, the ( most当大多数讲时前面不用the；后两空均为形容词的最高级，前面要加the)
+12. a, the, a ( 第一空和第三空都指一个事物，第二空是特指前面提到的电影)
+13. a, the (a second try 指的是第二次)
+14./, the (go to school 去上学，　go to the school 去那所学校)
+15./,/ (具有单纯意义的物质名词或抽象名词前，一般不用冠词)
+
+练习与巩固：熟能生巧，取得好成绩！
+一、在空白处填入a / an 或the。
+1. ---Mum, what shall we have for _______dinner?
+ ---Dumplings.
+ ---Oh, what _______ wonderful dinner! I enjoy it very much.
+2. _________ PLA was founded on __________August 1st,1927
+3. _______ Kings came to us at _________ noon.
+4. The scientists from ________ United States live in __________ Ninth Street.
+5. The doctor to him, “Take ________ medicine twice ________day. Stay in _________ bed and you’ll be better soon.”
+6. September 10th is ____________ Teachers’ Day.
+7. Mr Black arrived here on __________ Tuesday morning.
+8. There are four seasons in _______year. ________ first season is spring. It is __________ best one of __________ four.
+9. Some people have been to _________moon, in _______ spaceship.
+10. _______ China is _________ old country with _________ long history
+答案
+1. /, a 2. the, / 3.the , / 4. the, the 5. the, a, / 6. / 7. / 8. a, the ,the , the 9.the, / 10../,an,/ a 
+二、选择填空： A. / B. a C. an D. the
+They are living ______happy life now.
+______bag on ______desk is mine.
+There is ______empty box on the table.
+Do you like ______music of the film “Titanic”?
+On ______Saturday, I stay in ______bed till 12:00.
+______Browns have been to China twice.
+Don’t make any noise in ______class.
+This is such ______interesting story that you must listen to it.
+Next week they will go to Australia by ______air.
+Which is bigger, ______sun or ______moon?
+ Key: 1----5 BDCDA 6----10 DACAD
+三、在空白处填入a / an或the。
+1. This morning I bought _____ newspaper and _____ magazine. _______ newspaper is in my bag but I don’t know where I put ______ magazine.
+2. I saw ______ accident this morning. ______ car crashed into ______ tree. ______ driver of ______ car wasn’t hurt but ______ car was badly damaged.
+3. There are two cars parked outside: ______ blue one and _______ grey one. _______ blue one is my neighbour’s; I don’t know who ______ owner of _______ grey one is.
+4. My friends live in _______ old house in _______ small village. There is _______ beautiful garden behind _______ house. I would like to have ______ garden like that.
+1．a ,a, The the 2.an, a, a, The ,the, the 3. A, a, the the, the 4. an, a, a, the, a
+
+代 词
+
+知识梳理：提纲挈领，抓住重点和难点！
+代词的分类英语中常把代词分为人称代词、无主代词、反身代词、指示代词、疑问代词、连接代词、不定代词和相互代词。
+代词的用法
+人称代词：人称代词是指人的代词，有性、数、格的区别。表示“我” “你” “他” “我们” “你们” “他们”。请看下表：
+ 
+ 数
+ 格
+
+ 人 称 
+单 数
+复 数
+
+
+主 格
+宾 格
+主 格
+宾 格
+
+ 第一人称
+we
+me
+we
+us
+
+ 第二人称
+
+you
+
+you
+you
+you
+
+ 第三人称
+he
+him
+they
+them
+
+
+ she 
+ her 
+
+
+
+
+ it 
+ it 
+
+
+
+人称代词主格在句中作主语。例如：She is my English teacher.
+宾格在句中作宾语。例如：They don’t want me to go there alone.
+ Don’t worry. I can look after her.
+宾格还可以作宾格。特别是在口语中。例如：--- Who’s that? --- It’s me.
+注意：①人称代词we, you, they 可以用来表示一般人。例如：
+ You cannot go into the hall with slippers. 不准穿拖鞋进入大厅。
+ ②人称代的主格作表语，一般都在正中的谈话中， 表示强调。例如：
+ It was he who took away the necklace. 是他拿走了那条项链。
+ ③人称代词she可以用指代祖国、大地、月亮、轮船等。 例如：
+ The ship is leaving. She’s on her first trip to Boston. 轮船要起航了。 这时她第一次去波士顿。
+ We love our country, we hope she’ll be stronger and stronger. 我们热爱我们的祖国，我们希望她越来越强大。
+ ④It作为人称代词时，可以表示天气、距离、时间、环境等。 例如：
+ It is about 10 kilometres from here. 离这儿大约有10公里。
+ ⑤It 还可用作形式主语或形式宾语，来代替由不定式，动词的-ing,形式或主语从句构成的真正的主语或宾语， 以避免句子头重脚轻。例如：
+ It is not easy to learn English well.
+ It is good for you taking a walk after supper.
+ I found it difficult to sleep.
+ ⑥英语里当主语是并列的几个人时，人称代词的排列顺序和汉语不同， I 在最后， you 在最前；但是， 当受到批评或时承认错误时正好相反，I 在最前， you在最后。 例如：
+ You, he and I are all the winners.
+ I, Li lei and you are wrong. We should do more for the project.
+2．物主代词：表示所有关系的代词叫物主代词。物主代词包括名词性物主代词和形容词性物主代词。
+ 词 义
+ 类 型
+我的
+你的
+他的
+她的
+它的
+我们的
+你们的
+他/她/它们的
+
+形容词性物主代词
+my
+your
+his
+her
+its
+our
+your
+their
+
+名 词性物主代词
+mine
+yours
+his
+hers
+its
+ours
+yours
+theirs
+
+形容词性物主代词在句中具有形容词的特征。在句中作定语， 后面跟名词。例如：
+To our surprise, he has passed the exam.
+ (2) 名词性的物主代词具有名词的特征， 在句中作主语、表语、宾语。例如：
+ May I use your bike? Mine is at school. (作主语)
+ Whose glasses are these? They are hers. ( 作表语)
+ My dictionary is lost. Can I use yours? (作宾语)
+ (3) 名词性物主代词可以与of 连用， 作定语。 例如：A friend of ours are waiting for us.
+3．反身带词：用来表示“某人自己”的代词称为反身代词。如下表所示：
+ 词 义
+ 数
+我(们)自己
+你(们)自己
+他/ 她/ 它 自 己 / 他 们 自 己
+
+单 数
+myself
+yourself
+himself
+herself
+itself
+
+复 数
+ourselves
+yourselves
+themselves
+
+ 
+ （1）反身代词在句中常用宾语,主语或宾语的同位语。例如：
+ Her sister is too young to dress herself. (作宾语)
+ He himself is always making such mistakes. (主语同位语)
+ You’d better ask your wife herself. (宾语同位语)
+反身代词可与其他词构成固定搭配，例如：
+make oneself at home, teach oneself, learn by oneself, help oneself to…,etc
+4．指示代词：表示时间和空间远近关系的代词叫指示代词。见下表
+这，这个
+那，那个
+这些
+那些
+
+this
+that
+these
+those
+
+ 指示代词可在句中作主语、宾语、表语、定语等。例如：
+ Those are my parents. ( 作主语)
+ Throw it like that. (作表语)
+ The toys little Tom likes are those in the basket. ( 作表语)
+ These pictures are drawn by an old blind man. ( 作定语)
+注意：（1）前面刚刚提到过的东西， 常用that, those 表示。 例如：
+ I’m sorry to hear that.
+( 2 )下文将要提到的事情， 可用these, this 表示， 起启下的作用。 例如：
+Tell the children to do like this: knock the stick into the earth first, then tie the tree to it.
+5．疑问代词：用来构成特殊疑问句的代词叫疑问代词。常用的有：who, what, which, whose, whom， 在句中常作主语、宾语、定语、表语。
+作主语： What make you so happy?
+作宾语： Who / Whom is your manager talking with?
+在口语中， 作宾语时 who和whom可以通用，但在介词后面只能用whom.例如：
+About whom they are talking just now?
+作定语： Which subject do you like best?
+作表语： What’s your mother.
+6．相互代词：用于表示相互关系的代词。 常用的有：each other, one another. 相互代词可以作宾语、定语。例如：
+ We should help each other. 
+ The villagers have looked after one another these year.
+ 相互代词后可以加’s,表示所有关系。 例如：
+ We put the presents in each other’s stocking.
+7．连接代词： 用来连接宾语从句、表语从句、主语从句的代词叫连接代词。常用的有：what, which, who, whom whose, that例如：
+ I know what he said at the meeting.
+ The problem is who will mend it.
+ Could you tell me which is the way to the post office?
+8. 不定代词：不定代词没有确定的对象， 常用的有：all, each, every, both, either, neither, one, none, little, few, many， much, other, another, some any, no以及由some, no, any, every 构成的复合词。
+ 不定代词通常可以做主语、宾语、表语、定语， 而none及含有some, an every 的合成代词不能做定语，no和every 只能做定语。
+代词
+many, few, a few修饰可数名词，much, little, a little修饰不可数名词。both, either, neither, each用于指两者，all, any, none, every, another用于指三者或三者以上。
+例题解析：举一反三，学的更轻松！
+This isn’t ______ pencil case. I left ______ at home.
+A. my, mine B. me, my C. I, my D. my, myself
+解析：此类题主要用于考查学生对人称代词、物主代词和反身代词的掌握情况。要做好这类题，就必须熟练掌握这三类词的用法。应选A。
+The English novel is quite easy for you. There are ______ new words in it.
+A. a little B. little C. a few D. few
+解析：历年来中考始终将little, a little, few, a few作为一个重要考点，要做好这类题，必须明确几点：（1）little, a little修饰或代替不可数名词；few, a few修饰或代替可数名词复数。（2）few, little 一般表示否定意义；a few, a little表示肯定意义。应选D。
+------ Can I come this evening or tomorrow morning?
+------ ______ OK. I’m free today and tomorrow.
+ A. Either B. Neither C. Both D. None
+解析：此类题主要是针对each, every, both, all, either, neither, none等不定代词的考查。Both指两个人或物；all表示三者或三者以上“都”，它们都表示肯定意义，均与of连用，作主语时，谓语动词用复数形式，作定语修饰复数名词。all也可代替不可数名词或一个整体，这时谓语动词用单数形式，either指两者只任何一个，表肯定，表示三者或三者以上中的任何一个用any, neither是either的否定形式，表示两者都不是。应选A。
+The population of China is much large than ______
+this B.those C.it D.that
+解析：在比较级的句型中，经常用that指代前面提到过的不可数名词，用those指代可数名词的复数。 选D。
+5 . ------ When shall we meet again?
+ ------ Make it ______day you like. It’s all the same to me.
+A. one B.any C.another D.all
+解析：any表示任何一个。选B。
+He said ______ at the meeting and just sat there silently. 
+A. something B. anything C. nothing D. everything
+解析：此句的意思是“他在会上一言不发，只是静静地坐在那里。”根据句意，应选C。
+------ Do you know the lady ______ is interviewing our headmaster?
+------ Yes, she is a journalist from CCTV.
+A. which B. who C. whom D. whose
+解析：先行词指人且在定语从句中作主语，所以应选B。
+练习与巩固：熟能生巧，取得好成绩！
+一、用适当的代词填空
+Help ______ to some ice cream, girls.
+He came up with an idea at last, the idea of ______ was very good.
+Hurry, up, there’s ______ time left.
+There is hardly ______ in the basket, it’s empty.
+Lili and Coco don’t know ______ address. Lili has never been to Coco’s home and Coco has never been to Lily’s home, either.
+He is ______ a kind friend that ______of us like him.
+He have two English novels, but he has read ______ of them.
+I don’t like the color of this jacket. Could you show me ______ one?
+You may take ______ of them, they’re both good.
+Don’t worry. ______ goes well here.
+二、选择最佳答案填空：
+1. These two books are very interesting. You can choose _________ of them.
+A. both B. each C. either D. any
+2. He had ________milk but_________ bread for breakfast.
+A. many; few B. much; little C. few; much D. little; many
+3. Is there ________you want to say?
+A. something else B. anything else C. else anything D. else something
+4. A: _________ are you going to visit?
+B: I am going to visit the Palace Museum.
+A. Where B. What C. Why D. When
+5. One should keep ________ promise.
+A. one’s own B. every C. himself D. herself
+三、完成句子
+There’s two apples here, you can take ______（任意一个）.
+Lisa has two daughters. ______(没有一个喜欢)traveling.
+______ (所有的)girls like singing.
+To say is ______ (一回事), to do is ______ (另一回事).
+They keep one black cat and ______ (两只黑的).
+He has ______ (许多) money, but he has ______ (没有) friends.
+Can she speak French? ______ (只会一点).
+______ (他们中很少有人) can talk in Chinese.
+______ (没人) has been reached farther than the moon.
+We looked at ______ (相互) in great surprise.
+Key: 一、1.yourselves 2.his 3.no 4.anything 5.each other’s 6.such,all 7.neither 8.another 9.either 10.everything
+ 二、CBBAA
+ 三、1.either 2.neither 3.all 4.one thing, another thing 5.two black ones 6.a lot of/much, no
+ 7.A little 8.Few of them 9. No one /Nobody 10.each other
+
+数 词
+
+ 英语数词表示数目或者顺序， 可分为基数词和序数词。基数词表示数量，序数词表示顺序。
+知识梳理：提纲挈领，抓住重点和难点！
+ 一、基数词的构成
+ 1．1—12的基数词是独立的单词，即： one，two，three，four，five，six，seven，eight， nine，ten，eleven，twelve。 
+ 2．13—19的基数词以-teen结尾。如： fourteen，seventeen等，但13，15，18较特殊， 13—thirteen 15—fifteen 18—eighteen。 
+ 3．20—90的整十位均以-ty结尾。如： sixty，ninety，但20，30，40，50，80较特殊， 20—twenty 30—thirty 40—forty 50—fifty 80—eighty。 
+ 4．十位数与个位数之间要加连字符号“-”，如：28—twenty-eight，96—ninety-six。
+ 5．百位和十位（若无十位则和个位）之间加and，如：148—one hundred and forty-eight 406—four hundred and six。 
+ 6．hundred（百），thousand（千），million（百万），billion（十亿）等前面即使有具体的数词，也不能在它们的后面加s。如：600—six hundred，8百万—eight million。
+ 7．1000以上的数字，从后往前数每三位加一个逗号“，”第一个逗号前为千（thousand），第二个逗号前为百万（million），第三个逗号前为billion（十亿）。英语中无“万”这个词，我们可以用“几十个千（thousand）”表示几万，“几百个千（thousand）”表示“几十万”。如：2，510＝two thousand five hundred and ten；84，296＝eight-four thousand two hundred and ninety-six；274，350＝two hundred and seventy-four thousand three hundred and fifty。 
+ 二、序数词的构成
+序数词一般是以与之相应的基数词尾加-th构成，例如 fourth, tenth,但以下的这些基数词变为序数词时， 有特别之处。
+1.one--- first, two --- second, three --- third, five --- fifth, nice --- ninth, twelve --- twelfth 
+2. 以ty 结尾的单词， 要先变y为I, 在加-eth. 例如：thirty ---thirtieth, fifty ---fiftieth
+3. 以one, two, three 等结尾的多位数词， 要将各位数变成序数词。 例如： twenty-one --- twenty-first, one hundred and one --- one hundred and first
+ 注意： 序数词前常用定冠词， 有时还可以用不定冠词 a/an 则表示 “又一 ”的意思。 
+ 例如：Mr Brown has a second car. 布朗先生另外还有一辆车。
+He has tried a second time. 他又尝试了一次。
+三、数词的应用 
+1．时刻的表示：小时、点钟、分钟、秒钟要用基数词。 
+ ①“几点钟”用基数词加o'clock。o'clock可省略。如： 5点钟—five（o'clock）．
+ ②“几点过几分 ”，≤30分钟”用介词past。如： 7：05—five past seven；7：15—fifteen （a quarter）past seven；7：30—half past seven。
+ ③“差几分几点”用介词“to”。如：7：40—twenty to eight；7：45—fifteen（a quarter to eight。 
+ ④日常生活中的时间读法常常简化，直接按基数词的顺序读。如：7：05—seven o five；7：15— seven fifteen。 
+2．年月日的表示：
+年份用基数词，如：1999年—nineteen ninety-nine； 1900年—nineteen hundred； 2000—two thousand；1905—nineteen o five；
+年用基数词，日用序数词。如：1998年6月8日 写作：June 8，1998；读作：June the eighth， nineteen ninety-eight或the eighth of June， nineteen ninety-eight。
+3. 世纪、年代表示法：
+ （在）90年代 (in) the nineties
+ （在）19世纪 (in) the nineteenth century
+ （在）18世纪30年代 (in) 1730s或1730’s
+4．编号的表示：
+Lesson One ＝the first lesson第一课；
+Bus No．3＝the No．3bus 3路公共汽车；
+表示住所时不用“No．”如：302房间—Room 302（读作：room three o two）；
+如果编号的数词比较长，一般用基数词。如：Page 457第457页；
+电话号码，用基数词,如：3855633—three eight five five（double five） six three three（double three）。 
+5．分数的表达：
+分子用基数词，分母用序数词，分子大于“1”，分母则加“s”。如：1／3 one third，2／3two thirds； 
+另外：1／2 a（one）half; 1／4one fourth或a（one）quarter;3／4threefourths或three quarters。 
+ half a second; a quarter of a second四分之一秒 
+6. 表示有小数的词用基数词。 　　　　　　　　　　　　　　　　　　　　　 
+　　5.5 five point five 　　　　　　　　　　　　　　　　　　　　 
+12.135 twelve point one three five 
+7．表示百分数
+5℅：five percent (per cent)， 0.8℅ zero point eight percent (per cent).
+8．表示有小数的词用基数词。 　　　　　　　　　　　　　　　　　　　　　 
+　　5.5 five point five 　　　　　　　　　　　　　　　　　　　　 
+　　12.135 twelve point one three five 　　　　　　　　　　　　　　　　　　
+9．其他用法：
+1）基数词＋单数名词＋形容词构成合成形容词。如：一个五岁的男孩a five-year-old boy； 
+ 一座800米长的桥an 800-metre-long bridge；女子400米接力girls'400-metre relay race。
+2）具体数词＋metre（s）／kilometre（s）／kilo（s）long ／ high ／tall ／deep ／away等。如：长江长6300公里。The Changjiang River is 6，300 kilometres long． 
+3）表示"几十岁"用序数词，eg. 在他三十几岁时 in his thirties
+4）倍数的表达：(一倍用once，两倍用 twice，两倍以上用基数词＋times。如：5倍five times)。 
+例如：He is as tall a boy as I. 
+He is a head taller than I . 
+He is two years older than I
+China is four times as large as Europe.
+I am twice as old as you. (=I am twice older than you. /I am twice the age of you.)
+My books are twice as many as yours.
+China is four times larger than Europe.(=China is four times the size of Europe.)
+I pay twice as much as it was worth.
+I pay twice as much for the house. 
+例题解析：举一反三，学的更轻松！
+ 1. _______ Chinese are looking for ways to learn English well before Beijing 2008 Olympic. 
+ A. Thousand B. Thousands C. Thousand of D. Thousands of
+ 2. Both of the rules are broken. I want to buy a ______ one. 
+ A. three B. third C. forth D. /
+3). --- Which is the smallest number of the four? --- _________.
+ A. Two- thirds B. A half C. A quarter D. Three-fourths
+4). Please write down the new words in the text of _______. 
+ A. Lesson Eleven B. the Lesson Eleven C. Lesson Eleventh
+解析：1.基数词hundred, thousand, million, billion 等前有具体数字时，它们后面不能加s,若这些词后面有介词of (几百，成百上千) ，thousands of (几千，数千个)，millions of, billions of 前不可用数词修饰。但可用many, some, several 等修饰。故选答案D.
+ 2．答案： B。此题主要考查序数词的运用。
+ 3．答案：C。此题主要考查英语中的分数表示法。英语中表示分数时，分母用序数词，分子用基数词，当分子大于1时，表示分母的序数词后要加s.
+ 4．答案： A。 此题主要考查基数词的编号。在通常情况下，名词编号有这几种表示法： 1。事物名词+基数词，且每个单词的首字母都要大写。如：Lesson Eleven；2。定冠词+基数词+事物名词。如： No. 6 Middle School
+
+练习与巩固：熟能生巧，取得好成绩！
+选择填空：
+_______ of people in the world are sending information by E-mail ever day.
+ A. Many million B. Several million C. Several millions D. Many millions
+About _______ of the surface of the earth _______ covered with water. 
+ A. three quarter, is B. three quarters, has C. three quarters, is D. three quarter, are 
+It will take _______ time to finish the work.
+ A. one and a half years’ B. a year and half C. one and a half year’s D. a year and half’s
+4．--- How long will your stay here ?、
+ ---For ________ .
+ A. one and two day’s B. one and two day C. a day or two D. one or two day
+5．When he moved to Germany in ______ , he was already in _______ .
+ A. the fifties; his sixties B. fifties; his sixties 
+ C. the fifties; his sixty D. fifty; sixty
+6．My brother lives in ______ on ______ floor.
+ A. six Room ;second B. Room six ;the second 
+ C. Room six; two floor D. the room six ; the second
+7．December is _______ month of the year.
+ A. twelve B. twelfth C. the twelfth D. the twelve
+8．This took place in the ______ .
+ A. 1940 B. 1940s C. 1940es D. 1940th 
+9．It is only _____ from my home to the train station.
+ A. ten minutes walk B. ten-minutes walk C. ten minutes ‘s walk D. ten minutes’ walk
+10．There are ______ in this building , I live on ______.
+A. nine floors ,the ninth floor B. nine floor, the ninth floor
+C. nine floor , nine floors D.ninth floor,the ninth floor 
+11．The water behind the Three Gorges Dams (三峡大坝) should be ______ higher than downstream（ 下游）。
+ A. sixty-five meter B. sixty-fifth meter 
+C. sixty-five meters D. sixty-fifth meters
+12. There are _______ days in a year.
+ A. three hundred sixty-five B. three hundred and sixty-five
+ C. three hundred and sixty –five D. two hundreds and sixty-five
+13. ---How many teachers are there in your school?
+ --- __________. , but I'm not sure.
+ A. Hundreds B. Hundred C. Hundreds of D. One hundred
+14. There are _________ doctors and nurses working hard in that hospital.
+ A. thousand B. two thousand C. two thousands D. two thousands of
+15. --- What's one fourth and a half, do you know?
+ --- Yes, it's _________.
+ A. two sixths B. three fourths C. one three D. three sixth
+16. Now children, turn to page ________ and look at the _______ picture in Lesson Two.
+ A. twentieth, one B. twenty, one C. twentieth, first D. twenty, first
+17. Both of the two rulers are broken. I want to buy a _______ one.
+ A. three B. third C. forth D. /
+18. December is the __________ month in year.
+ A. twenty B. twelve C. twentieth D. twelfth
+19. --- What is the date today?
+ --- It's _________.
+ A. Thursday B. June the sixteenth C. the best day D. June fifteen
+20. She knows a lot about China as she has been to China ________.
+ A. for the forth time B. four times C. a fourth time D. for four times
+ 1-5 CCACA 6-10 BCBD 11-15 CCCDA 16 –20 DBDBB 
+
+动 词
+动词是表示动作（study, find, swim 等）或状态（be, like, feel 等）的词。动词具有人称、数量、时态、语态和语态变化。
+
+知识梳理：提纲挈领，抓住重点和难点！
+动词分类：动词有助动词、情态动词、联系动词和行为动词四类。
+一）助动词
+助动词没有任何含义，不能单独做谓语，只能和行为动词一起构成谓语，帮助行为动词组成各种时态、语态、语气以及疑问或否定形式。常见的助动词有be, do, does, did, have, will, shall等。具体用法如下：
+1、助动词be的用法如下：
+1）构成各种进行时态。如：
+It was raining all day yesterday.
+昨天整天下雨。
+2）构成被动语态。如：
+The meeting was held yesterday afternoon.
+会议是昨天下午举行的。
+3）与不定式连用表示按照计划、预先安排或规定要发生的动作。如：
+They are to see an English film this evening.
+他们今天晚上看英语电影。
+2、助动词do的用法如下：
+1）构成疑问式或否定式。如：
+Does he think so?
+I didn’t say anything about the result.
+2)在动词前加上do, does, did表示强调，意为“的确，确实”。如：
+They do study hard.
+She does love him.
+He did want to help the old man.
+3、have: 助动词have 的过去式是had。have和had均可与动词过去分词一起构成完成时态。如：
+He has lived here for three years.
+As soon as the sun had set they returned.
+4、shall, should: 助动词shall只用于第一人称的将来时态；助动词should 是shall的过去式，构成过去将来时。如：I shall send ten letters to my good friend.
+She wanted to know if I should go to the palace.
+二）情态动词
+情态动词本身有一定含义，但不能单独作谓语，要和行为动词一起构成谓语。它们也能表明句子的否定、疑问或时态上的区别。常见的情态动词有：can, may, must, need, should等。
+表示能力
+表示能力一般用can, could。如：Rose can speak now, but she couldn’t a week ago.
+be able to 也表示能力，它和can 的区别如下：
+1）表示做事的能力，两者可通用。但can 只能用于一般现在时和一般过去时。be able to 可用于任何时态。如：
+She could / was able to eat four pieces of bread when she was young.
+They will be able to finish the drawing soon.
+2) 表示过去经过努力而成功的某一次动作，只能用was/were able to, 但在否定句中可互换。如：
+She was weak, but was able to finish the task last night.
+can (could) 在疑问句中与第二人称连用时，表示征求对方意见或提出请求，表示委婉语气。虽然could是can的过去式，但是could 只是表示比can语气更加委婉客气，没有时间上的差别。如：
+-Could you lend me your pen?
+-Yes, I can.
+表示许可
+表示许可一般用may/might, can/could, 而且常可互换。Might, could语气比较委婉。要特别注意：回答以might, could开头的疑问句只能用may, can 给予直截了当的回答。
+-Might/Could I borrow your book?
+-Yes, you may/can.
+表示必需、必要
+ must和have to都有“必须” ，一般情况下可互换。如：You must / have to finish the work..
+但他们有如下区别：
+1）must 表示说话人的主观看法；have to 表示客观需要。如：
+I must have a talk with him.
+He has to give up smoking because of badly cough.
+2) 否定式mustn’t 表示禁止，意为“不准，不可以做”；don’t have to 意为“不必”。如：
+You mustn’t hit her.
+You don’t have to explain it to me if you dislike the job.
+注：表示推测的情态动词有表示“一定”的must, 表示“很有可能”的should, ought to 和表示“可能”的can, could, may, might。具体用法如下：
+must 表示较有把握的推测，只用于肯定句，不能用语否定句或疑问句。用法如下：
+1）对目前动作的推测，用must+动词原形。如：
+You must lose in the mountain.
+2) 对目前状态的推测，用must + be + 表语。如：You speak for 4 hours, you must be thirsty.
+在肯定句中，表示对现在或将来把握不大的推测用may (might) +动词原形，might 比 may　的可能性更小；对过去把握不大的推测用may (might) have+ 过去分词。如：
+The package might come tomorrow.
+They may have killed the enemies.
+3、在疑问句中，对现在表示推测用can (could) …+动词原形，对过去表示怀疑则用can (could) …have+过去分词；在否定句中，对现在表示推测用can’t+动词原形，对过去表示推测用can’t (couldn’t) have+过去分词。如：
+It can’t be John. He has gone to UK.
+4、need的双重身份
+need 既可作情态动词又可作实意动词，它们的用法不同，如不注意区分，就容易用错。
+三）系动词
+连词动词的种类
+联系动词含有一定意义，它们要与其后做表语的形容词、名词或介词（短语）一起构成合成谓语。系动词按意义可分为三类，而且有自己的特定用法。
+1、按意义联系动词有：be, appear, seem, keep, remain, continue, stay, prove 等，如：Jim appears very old.
+２、表示感觉的联系动词有look, feel, smell, sound, taste等。如：It smells bad.
+3、表示转变的联系动词有become, fall, get, go, grow, turn等。如：
+ She becomes more beautiful than three years ago.
+四）行为动词
+ 行为动词又称实义动词，它们都含有实在的意义，表示动作或状态，可在句中独立作谓语。行为动词又分为及物动词和不及物动词。
+１、及物动词
+及物动词后一定要跟宾语，意思才能完整。如：
+My mother told me she wanted to buy some books for me.
+2、不及物动词
+ 不及物动词意义完整，不需带宾语，但如果有些不及物动词非要带宾语时，必须先加介词后加宾语。如：
+He only worried about his daughter.
+二、动词的时态
+ 动词的时态有很多。初中阶段主要掌握八种：一般现在时、一般过去时、现在进行时、过去进行时、一般将来时、过去将来时、现在完成时、过去完成时。
+1．一般现在时
+1）一般现在时态的构成：主语是I, we, you, they和名词复数时作谓语的行为动词用原形。主语是he, she , it和名词单数时，作谓语的行为动词的词尾变化如下：
+一般情况
+＋s
+
+以s, x, ch, sh　或　o结尾
+＋es
+
+以辅音＋y结尾
+去y变i＋es
+
+2）一般现在时态的肯定句、否定句和疑问句形式（以be和like为例）：
+主 语
+肯 定 式
+否 定 式
+疑 问 式
+
+
+
+第一、二人称和第三人称复数以及名词复数
+I am a student.
+We/You/ They are students.
+He/ She is a student.
+
+I / We/ You/ They/ like music.
+Many people like music.
+I am not a student.
+We/You/ They are not students.
+He/ She is not a student.
+I / We/ You/ They/ don’t like music.
+Many people don’t like music.
+Are you a student.
+Are you/ they students?
+Is he/ she a student?
+
+Do you/ they like music?
+Do many people like music?
+
+
+3）一般现在时态的用法：
+ 现阶段经常性，习惯性的动作 。例如：
+ I get up at six every morning. 
+ He plays tennis once a week.
+现在的状态 例如：
+My mother is a teacher. She teaches English in a school.
+客观真理 例如：
+The earth goes around the sun.
+4）常用于一般现在时态的时间状语：
+ often usually sometimes always every day never in the morning 等。
+例题解析：举一反三，学的更轻松！
+--- May I help you, sir?
+--- Yes, I bought the TV the day before yesterday, but it ______.
+A. didn’t work B. doesn’t work C. won’t work D. can’t work
+解析：电视虽然是前天买的， 但坏了是现在的状态， 应该用一般现在时态。选B.
+2．______ the bus until it ______..
+ A. Get off, stops B. Get off, will stop C. Don’t get off, stops D. Don’t get off, will stop
+解析：这是一个以until引导的时间状语从句，主句是祈使句，因此从句要用一般现在时表示将要发生的动作。根据句意此题应用not …until（直到……才）句型。应选C。
+3．The 70-year-old man ______ exercises in the morning.
+ A. takes B. are taking C. took D. will take
+解析：“这个70岁的老人早晨锻炼。”这里锻炼是一个经常性、习惯性的动作。因此，应选A.
+
+2. 现在进行时
+ 1）现在进行时的构成：Am/is/ are+ v-ing是现在进行时的构成形式
+ v-ing现在分词的构成：
+一般情况
++ing
+
+以不发音字母e结尾的单词。去e,加ing
++ing
+
+以辅音字母＋y结尾的单词
+去e+ing
+
+以重读闭音节结尾的单词，末尾只有一个辅音字母时.
+双写词尾字母+ing
+
+ 
+ 2) 现在进行时的肯定肯定句、否定句、疑问句形式：
+主 语
+肯 定 式
+否 定 式
+疑 问 式
+
+
+第一、二人称和第三人称复数以及名词复数
+
+I am driving.
+He/She/It is working.
+We/You/They are doing something.
+
+
+I am not driving.
+He/She/It is not working.
+We/You/They are not doing anything.
+
+
+Are you driving?
+Is he/she/it working?
+Are you/they doing something?
+
+
+
+3）现在进行时的用法：
+ 1. 说话时正在进行或发生的动作（动作是在说话时正在进行）。例如：
+ She is having a bath now.
+ 2. 现阶段正在进行或发生的动作（但是动作并不是必须在说话时正在进行）。例如：
+ You are working hard today.
+ Kate wants to work in Italy, so she is learning Italian.
+ The population of the world is growing very fast.
+频度副词always, forever等词连用时， 表示某种强烈的感情。如：
+He is always trying out new ideas. (表示欣赏，表扬)
+表示按计划即将发生的动作（仅限于go, come, arrive, leave, start, fly, begin, stay 等动词）。如：
+ The party is beginning at 8:00 o’clock.
+6) 常用于现在进行时态的时间状语： now 等。
+ often usually sometimes always every day never in the morning 等。
+例题解析：举一反三，学的更轻松！
+ 1．I don’t think that it’s true. She’s always ______ lies.
+ A. tell B. tells C. telling D. told
+解析：always在这里应现在进行时连用， 带有感情色彩， 表示讨厌。选C.
+How ______ you ______ with the new job?
+A. do, do B. do, get along C. are, doing D. are, getting on
+解析：表示现阶段正在发生的动作，用现在进行时。选D.
+3．--- Are these socks yours?
+ --- No. Mine ______ outside on the clothes line.
+ A. are hanging B. have hung C. hang D. hung
+解析：hang意为悬挂， hung意为上吊、绞死，先排除答案B、D。根据前后句意可判断出现在的状态，应用现在进行时。应选 A.
+
+3．一般将来时
+1）一般将来时的构成：
+ 1. 助动词will(shall)+动词原形 
+ 2. am / is / are +going to +动词原形 
+2）一般将来时的用法：
+ 1．将要发生的动作。例如：
+ I will leave for Beijing tomorrow.
+ 2．将要存在的状态。例如：
+ This time next year I will be in Japan. Where will you be?
+ 3．打算要做的事。 例如：
+ Are you going to watch the film on television tonight?
+ 3) 常用于一般将来时的时间状语：
+tomorrow next week in 2008 等。 
+例题解析：举一反三，学的更轻松！
+1. I______ for Hong Kong on Saturday. Will you go to see me off at the airport？
+A. am leaving B. am left C. am going to leaving D. left
+解析：趋向动词leave 可用现在进行时表将来。选A。
+2.I______ to see grandma and help her with some housework every week.
+A. came B. am going come C. come D. will come
+解析：此题虽然有every week, 但句意中表达的事将要去做的经常性动作。应该用一般将来时。因此选D。
+We Chinese ______ the Olympic Games in 2008.
+A. held B. shall holding C. are holding D. are going to hold
+解析：本题的时间状语是将来的时间， 所以选用一般将来时，A、D都删去。shall后面应跟动词原型，
+故应选D.
+
+4．一般过去时
+ 1）一般过去时的构成：
+ 用动词的过去式。作谓语的行为动词的词尾变化如下：
+一般情况
++ed
+
+以e字母结尾的辅音
++d
+
+以辅音字母＋y结尾
+去y变i＋ed
+
+重读闭音节结尾的单词，末尾只有一个辅音字母
+ 双写词尾字母+ed
+
+2）一般过去时态的肯定句、否定句和疑问句形式（以be和like为例）：
+主 语
+肯 定 式
+否 定 式
+疑 问 式
+
+
+
+第一、二人称和第三人称复数以及名词复数
+I was a student.
+We/You/ They were students.
+He/ She was a student.
+
+I / We/ You/ They/ liked music.
+Many people liked music.
+I was not a student.
+We/You/ They were not students.
+He/ She was not a student.
+I / We/ You/ They/ didn’t like music.
+Many people didn’t like music.
+Were you a student.
+Were you/ they students?
+Was he/ she a student?
+
+Did you/ they like music?
+Did many people like music?
+
+
+3）一般过去时的用法：
+过去发生的动作。例如：
+ The police stopped me on my way home last night.
+过去存在的状态。例如：
+They weren't able to come because they were so busy.
+3. 常用于一般过去时的时间状语：
+ yesterday，three months ago，last year，in 1979，often，always等。
+例题解析：举一反三，学的更轻松！
+r. Mott is out. But he ______ here a few minutes ago.
+A. was B. is C. will be D. would be
+解析：时分钟前发生的动作， 应该用一般过去时。 应选 A，
+2．---Hi, Tom.
+ ---Hello, Fancy. I ______ you were here.
+ A.don’t know B.won’t think C. think D. didn’t know
+解析：虽然句中没有明确的时间状语， 但是可以通过上下文语境判断出， 这句话指的是我这段时间并不知道， 你前一阵子在这儿。 所以应选A。
+3．He promised to tell me by himself when I ______.
+A. come B. would come C. come D. had come
+解析：在时间状语从句中，用一般过去时表示过去将来。应选C。
+
+5．现在完成时
+现在完成时的构成：have / has + v-ing
+2）现在完成时态的肯定句、否定句和疑问句形式（以be和see为例）：
+主 语
+肯 定 式
+否 定 式
+疑 问 式
+
+
+
+第一、二人称和第三人称复数以及名词复数
+ I /We/You/ They have been here before.
+He/ She has been here before.
+.I / We/ You/ They/ Many people have seen the film.
+
+I /We/You/ They haven’t been here before.
+He/ She hasn’t been here before .
+.I / We/ You/ They/ Many people haven’t seen the film.
+Have you/ they been here before?
+Has he/ she been here before?
+Have you/ they/ many people seen the film?
+
+
+
+在完成时的用法：
+1、表示过去发生的动作对现在造成的影响或结果.常与already, just, ever, never, before等词连用. 如:
+ She has never read this novel.他从未读过这本小说.(他对小说的内容不了解)
+2、表示 “过去的动作”一直延续到现在并有可能继续延续下去. 常与for (后跟段时间)或since (后跟点时间)等连用.如:
+I have been a member of the Party for 10 years.
+ I have been a member of the Party since 10 years ago.
+注：在有for 和since 引导时间状语的句子中不能用短暂性动词，应用与之相应的表示状态的词。如：
+ He has died for 3 years.(F)
+He has been dead for 3 years.(T)
+注意：①现在完成时不能和表示明确的过去时间连用。如：in 1998, last morning等
+ ②have/has been to 表示“去过”（去了又回来了）
+ have/has gone to 表示“去过”（去了没回来了）
+ 如：Where has she gone?(句中所指的人不在)
+ Where has she been?(句中作指的人在)
+例题解析：举一反三，学的更轻松！
+--How long ______ he ______ a fever?
+--- Ever since last night.
+A. have, got B. have , had C. have, caught D. did, have 
+解析：此句表示从昨晚起持续到现在的状态，应用现在完成时，去掉答案D。因为是段时间， 所以不能用短暂行动词，get和catch 都是短暂行动词。 因此选B.
+My bowl is empty. Who ______ all my soup?
+A. drinks B. had drunk C. has drunk D. drank
+解析：碗是空的了，这里强调的是所发生的动作造成的结果。 “谁把我的汤都喝了。应选C.
+3. I ______ you for a long time. Where ______ you ______?
+ A. Didn’t seen; did, go B. didn’t see; have, gone C. haven’t seen; have, been D. haven’t seen; have gone
+解析：for+段时间一般预先在完成时连用。“你去哪儿了？ ”（在这段时间你不在）应选C。
+
+6、过去进行时
+1）过去进行时的构成： was / were +v-ing
+2) 过去进行时的用法：
+ 过去某一阶段或某一时刻正在进行的动作。 例如：
+ This time last year I was living in Brazil.
+ What were you doing at 10 o'clock last night?
+3)常用于过去进行时的时间状语：
+ at four yesterday afternoon，then，at that time/moment 等。
+例题解析：举一反三，学的更轻松！
+Daddy promised me he ______ me a computer 
+A. was bought B. had bought C bought D. would buy 
+解析：“爸爸答应我给我买一台电脑”。宾语从句中的动作是以过去为起点将要发生的动作，应用过去将来时。 
+选D。
+They said they ______ do some sports if it was fine.
+A. were going to B. went C. would going D. were going
+解析：“他们说如果天气好的话他们打算去运动。”去做运动发生在说话之后，所以应选用过去将来时，答案B不合适，“打算作某事”为“be going to do ”.would 后面应跟动词原形，应选A.
+
+7、过去完成时态
+1）过去完成时态的构成： 
+ 肯定式：had + 动词的过去分词 
+ 否定式：hadn’t + 动词的过去分词
+ 疑问式：Had … + 动词的过去分词
+ 简略回答: Yes, 主 + have/has had.
+ No, 主 + had现在完成时的用法
+过去完成时的用法：
+1、表示在过去某一时间或动作之前已经发生或完成的动作。 他表示的时间是“过去 的过去 ”常与by last year, by the time of yesterday,等连用。如：
+ She said she had seen the film 4 times. 
+ When Mr Li got to the classroom, all the students had begun reading.
+ By the time they arrived, the bus had left.
+2、表示 从过去某一时间开始一直延续到过去另一时间的动作或状态。常与for (后跟段时间)或since (后跟点时间)等连用.如:
+ She had worked in this school since it opened 25 years ago.
+例题解析：举一反三，学的更轻松！
+1. He ______ in Shanghai University for four years before he ______ Beijing.
+A. studied, had gone B. had studied, went
+C. has studied, goes D. had studied, had gone 
+解析：“他去北京之前在上大学学习了4年 ”。在上海学习的动作发生在去北京之前，因此第一个空应用过去完成时。此题选B。
+2. Mary said it was at least five years since he ______ a good drink.
+A. enjoyed B. was enjoying C. had enjoyed D. would enjoy
+解析：It was + 时间段+since 引导的从句中用过去完成时。应选C。
+3. Xiao Pei said she ______ Hainan for 3 months.
+A. has been in B. had been in C. had been to D. had gone to
+解析：“小培说她去了海南三个月 ”。have been to 和have gone to 都是短暂性的动词短语。所以适应表示状态的have been in. 应选B.
+时态综合例题解析：
+１--What are Mr and Mrs Black doing ?
+---They _____ tea in the garden. 
+ A. are drinking B. drank C. have drunk D. drink 
+2. My mother often asks me _____early . 
+ A. get up B. got up C. getting up D. to get up 
+3. Soon Wu Dong ____ up with Li Lei, then they were neck and neck. 
+ A. taught B. caught C. bought D. brought 
+4. The car ____and stopped at the red traffic light. 　
+ A. got on B. got off C. slowed down D. picked up 
+5. Tom ____ the CD player for two weeks. 
+ A. has lent B. has borrowed C. has bought D. has had 
+6. ---Do you know ______?
+ ---Sorry, but if he _____ back, I ____ you know as soon as possible. 
+ A. when will he be back, comes, will let B. when he will be back, will come, will let 
+ C. what time will he be back, will come, let D. what time he will be back, comes, will let 
+7. We ____ to the park if it is fine tomorrow. 
+ A. will go B. have gone C. go 
+8. A new shoe factory will ______ in this part of the city. 
+ A. be building B. be built C. build 
+9. ---______ all your things, Tom! I hate them here and there. 
+ ---Ok, Mom.
+ A. Put up B. Put on C. Put down D. Put away 
+10. --- How about going hiking this weekend? 
+ --- Sorry, I prefer ____ rather than _____.
+ A. to stay at home, go out B. to go out, stay at home 
+ C. staying at home, go out D. going out, stay at home 
+解析：
+1.根据问句的时态现在进行时，答句时态要一致，故选答案: A
+ 2.根据句中的谓语动词ask的固定搭配 ask sb to do sth. 故答案：D
+ 3.根据第一句的固定动词词组 catch up with sb 及第二句的过去时态，故选答案: B
+ 4.此题主要考查四个动词词组的掌握.根据后半句在红灯时停下来,故选答案: C
+ 5.此题主要考查现在完成时的延续和非延续动词，根据for two weeks 时间短语。故选答案: C
+ 6.此题主要考查宾语丛句和状语丛句的习惯用法。第一句是特殊疑问句的宾语丛句，要用陈述句语序。第二句是if 条件句。丛句用一般现在时，主句用一般将来时。故选答案：B
+ 7.此题考查if 条件句的主句时态，要用一般将来时，故选答案； A 
+ 8.此题考查语态。根据全句的意思，使用被动语态。故选答案： B
+ 9.此题考查四个动词词组put up ,张贴，举起; put on 穿上，上演； put away 把---收拾好。 根据后半句“我讨厌到处乱放”， 故选答案: D
+ 10.此题主要考查一个固定词组：prefer to do sth rather than do sth. 故选答案：C.
+练习与巩固：熟能生巧，取得好成绩！
+一、选择最佳答案填空(动词及搭配)：
+1. A policeman saw two thieves ______a girl’s mobile phone on the bus and hecaught them at once.
+A. to steal B. stealing C. stole D. stolen
+2. The Chinese pingpong players will join in the match.Let’s ______them success.
+wish B.to wish C.hope D.to hope
+3. He is so careless that he always ______his school things at home.
+forgets B.forgot C.leaves D.left
+4. ----Who ______the computer? I want to use it.
+ ----Timmy. He ______ it for a week.
+borrowed, has borrowed B.has borrowed, bought 
+C.has borrowed, has kept D.bought, has borrowed
+5. Look! One of the girls ______the door.
+cleans B.is cleaning C.clean D.are cleaning
+6. If you don’t feel well, you may just ______.
+stopped reading B.stop reading C.stopped to read D.stop to read
+7. ----Where can we get a baseball?
+ ----Let’s ______.
+A. lend Jim one B.lend one to Jim 
+C.borrow one from Jim D.borrow one of Jim
+8. ----My model ship doesn’t work.
+ ----Don’t worry. I’ll have it ______this afternoon.
+A. repairing B.made C.repaired D.mend
+9. You ______wash your hands before meals.
+A. need B.must C.can D.may
+10. Will you ______the light? It’s dark in the room.
+get on B.get off C.trun on D.turn off
+11. My name is Zhang Mingjian. You may ______me Zhang Mingjian or Mr Zhang.
+A. ask B.say C.tell D.call
+12. There is going to ______a game in our school this afternoon.
+has B.have C.be D.are
+13. You’d better______smoking. It’s bad for your health.
+eat up B.give up C.come up D.get up
+14. ----How do you like this book?
+ ----I think it has nothing to______with our study.
+A. make B.do C.take D.hold
+15. ----Where is Mr Brown? I have some questions to ask him.
+ ----He ______the office.
+A. has been to B.has been in C.has gone to D.has gone in
+16.The bus kept the people ______for twenty minutes.
+A. wait B.to wait C.waiting D.waits
+17.I believe the scientists will______a better way to heal the disease.
+A. get on with B.come up with C.go on with D.catch up with
+18.----Why do you often ______this pink blouse?
+ ----Because it fits me well.
+A. put on B.wear C.buy D.try on
+19. Jack always runs faster than Peter, but this time he ______him.
+A. went over B.fell behind C.put off D.dropped off
+20. The Internet ______it easy to get much new information in a short time.
+A. finds B.makes C.feels D.takes
+参考答案：1--5 BACCB 6—10 BCCBC 11--15 DCBBC 16—20 CBBBB
+
+二、选择最佳答案填空(动词时态)：
+1. We __________out by that time that he_________ a thief for a longtime.
+A. had found, had been B. had found, was
+C. found, had been D. found, was
+2. It so happened that they________ the novel before.
+ A. had read B. would read C. were reading D. read
+She________ for nearly two hours.
+ A. kept talking B. kept to talk C. has kept talking D. kept to talking
+Spring_______ after winter.
+A. comes B. came C. has come D. had come
+5.—I hear some noise in the next room.
+ —Oh, yes. Your sister_______ there.
+A. cries B. is crying C. cried D. was crying
+All the students__________ to plant trees and there’s nobody in the classroom.
+A. go B. will go C. have gone D. wound go
+7. Stop! A little boy_________ the street.
+A. is crossing B. crosses C. crossed D. has crossed
+8. The girl________ to milk since last winter.
+A. learns B. learned C. has learned D. would learn
+9. What__________ to you this morning?
+A. happens B. is happened C. happened D. was happened
+10. —The old man looks healthy.
+—Yes. He________ some running after he gets up.
+ A. does B. did C. has done D. will do
+11. She didn’t pass the exams because she________ her lessons well.
+A. wasn’t prepared B. wasn’t been prepared
+C. hadn’t prepared D. was preparing
+12. This story_______ in a faraway village in Europe many years ago.
+A. is happened B. was happened C. happened D. has been happened
+13. —Mr King came back to our village.
+—Really? For what?
+ —The old man________ the noise in the city.
+A. is hating B. hates C. was hating D. has hated
+14. His father ________ for a week.
+A. died B. will die C. has been died D. has been dead
+15. My mother is ill. I _______stay at home and look after her.
+A. has to B. must C. would D. have to
+16.---Do you know the Frenchman?
+ ---Yes. I ______him for two years.
+A. know B. have known C. knew D. have been known
+17. They______ all their money, so they have to walk home.
+spend B. had spent C. have spent D. will spend
+18. Great changes_______ in the city, and a lot of factories_______.
+ A.have been taken place, have been set up
+ B.have taken place, have been set up
+ C.have taken place, have set up
+ D.were taken place, were set up
+19. ---When did Kate’s grandma die?
+ ---While the doctors______ on her.
+ A. are operating B. were operating C. operate D. operated
+20. ---Who are you looking for?
+ ---Mr White.
+ ---Wait here for a while. The class meeting_______ over in half an hour.
+ A. is B. will be C. was D. has been
+21. If she’s not at home, you ______ try telephoning her at the office.
+ A. will B. could C. would D. need
+22. All the new words ______ up in the dictionary yet.
+ A. have looked B. haven’t looked C. have been looked D. haven’t been looked
+23.I don’t want to speak to her, but I ______.
+ A. do B. have to C. have to speak D. must to
+24. Hurry up, or you _____ the train.
+ A. miss B. lose C. will miss D. will lose
+25.The new library ____ next week.
+ A.. will build B . will be built C. would build D. would be built
+26.---Where’s Mabel?
+ ---She _____ ping pong behind the teaching building.
+ A. is playing B. was playing C. played D. had played
+27. Quite a few tall buildings _______ the last two years.
+ A. have been put up B. were put up C. had put up D. put up
+28. Man-made-satellites______ into space by many countries.
+ A. was sent up B. is sent up C. have been sent up D. has been sent up
+29. I _______ all the words on the black board. May I go home now?
+copy B. will coup C. copied D. have copied
+30. Nobody knew _______ a living in that country.
+ A. to do B. to make C. how to do D. how to make
+31.The old man needs at most five hour’s sleep a night ,but he__________ for over seven hours tonight.
+ A. has fallen asleep B has slept C has gone to bed D. has gone to sleep
+32.I’m really getting too fat. From now on, I________ more exercise and eat less food.
+ A have done B do C am doing D will do 
+33. You don’t need__________ her. I_________ her for several times.
+ A describe, had met B describe, meet C to describe, have met D describe, met
+ 34. His speech in English was difficult__________.
+ A in following B for being followed C to follow D to be followed by
+35. When he was a child, he tried to find ways_______ people________ life more.
+ A. to help, enjoy B. help, to enjoy C. help, enjoying D. to be helped, to enjoy
+36.What did your class teacher ________you to _______at the meeting?
+A. tell, say B. ask, speak C. tell, speak D. ask, talk
+37.______the bus until it _______.
+A. Get off, stops B. get off, will stop
+C. Don’t get off, stops D. Don’t get off, will stop
+38 The living standard of the people in Shanghai_______ in the last ten years.
+A. has raised B. has risen C. has been raised D. has been risen
+39 –What did Mr Jones do before he moved here?
+ -He_______ a city bus for over twenty-five years.
+A. has driven B. drove C. drives D. is driving 
+40. Hurry up! The play _______ for ten minutes. A. had begun B. began C. has been on D. has begun
+1-5 CAAAB 6-10 CACCC 11-15 CCBCD 16-20 BCBBB 
+21-25 ADBCB 26-30 AACDD 31-35 BDCCA 36-40 ACBBC
+
+形 容 词 和 副 词
+
+知识梳理：提纲挈领，抓住重点和难点！
+一、形容词
+用来修饰名词，表示人或事物的性质、状态和特征的词，叫形容词。
+形容词的作用，见下表：
+作 用
+例 句
+
+定 语
+You can see a lot of beautiful flowers in the garden.
+
+表 语
+Your coat is too small.
+
+宾语补足语
+The old woman keeps everything clean and tidy.
+
+注意：有些形容词只能作表语，如：alone, afraid, asleep 等。例如：
+Don’t wake the sleeping baby up. He is asleep.
+The old man is alone.
+形容词用来修饰something, anything, nothing, everything等不定代词，要放在这些词的后面。例如：
+You’d better tell us something interesting.
+The police found nothing strange in the room.
+多个形容词做定语时排列的先后顺序是：1）冠词或人称代词 2）数词 3）性质 4）大小 5）形状
+6）表示老少，新旧 7）颜色 8）事务、质地、人的国籍、用途。例如：
+His grandpa still lives in this small short house.
+他爷爷还住在这个矮小的房子里。
+The woman bought two beautiful Chinese plates.
+那个妇女买了两个漂亮的中国盘子。
+形容词名词化：有些形容词前加定冠词后变成名词，表示一类人，谓语常用复数。这类词有：rich / poor; 
+good / bad ; young / old ; healthy / ill ; living / dead ; black / white (表示人种等)。例如：
+The young should take good care of the old. 
+年轻人应该好好照顾老人。
+The rich never help the poor in this country.
+在这个国家，富人从来不帮助穷人。
+表示数量的词组。如：
+One day, a young man, twenty-five years old, came to visit the professor.
+有一天，一位25岁的年轻人来拜访这位教授。
+I live in a building about fifty meters high.
+我住在一做大约50米高的大楼里。
+形容词短语做定语时要后置。如：
+They are the students easy to teach.
+他们是很容易较的学生。
+We live in a house much larger than yours.
+我们住的房子比你们的大得多。
+else要放在疑问代词或复合不定词之后。如：
+Did you see anybody else?
+你看到别的人了吗？
+二、副词
+英语中副词的位置和汉语不尽相同，它的位置比较灵活。通常用作状语修饰动词、形容词、副词等。下面来介绍一下副词的分类方法：
+多数副词都可以放在它所修饰的动词后面。如：
+We are living happily.
+我们幸福的生活着。
+He runs slowly.
+他跑的很慢。
+时间副词、地点副词和方式副词一般放在句末。如：
+They went to the park yesterday morning.
+昨天上午他们去公园了。
+I heard him sing English songs over there.
+我听见他在那边唱英语歌曲。
+He drove the jeep carefully.
+他小心地开着吉普。
+注意： 有时表示时间的副词也可放在句首，起强调作用。如：
+Yesterday I got up late.
+昨天我起床很晚。
+频度副词一般放在be动词、情态动词及第一个助动词之后，实义动词之前
+如：He is seldom ill.
+ 他很少生病。
+ You must always remember this.
+ 你一定要记住这一点。
+ I often write to my parents.
+ 我经常写信给父母。
+ Do you usually go to school on foot.
+ 你经常走路去上学？
+ He has never been to Beijing.
+ 他从来没有去过北京。
+注意： 有时为了加强语气，频度副词也可放在句首。如：
+Sometimes she goes to school by bus and sometimes she goes to school by bike.
+有时她乘公共汽车上学，有时骑自行车去。
+程度副词修饰动词时，与频度副词相同，修饰形容词和副词时，放在它所修
+饰的词前面。如：
+That’s quite early.
+那很早。
+I nearly missed the bus.
+我几乎错过了公交车。
+She did rather badly.
+她干得相当糟。
+否定副词一般放在动词之前、系动词be或助动词之后。如：
+She seldom goes out at night.
+她晚上很少出门。
+I am never late for school.
+我上学从不迟到。
+We had hardly got to the station when the train left.
+火车离开时，我们差不多/几乎到了车站。
+疑问副词放在特殊疑问句的句首。如：
+When can you come?
+你什么时候来？
+How many days are there in a month?
+一个月有多少天？
+What are you going to do when you grow up?
+张大以后，你打算干什么？
+Where were you born?
+你是在那里出生的？
+Why didn’t he come?
+他为什么没有来？
+关系副词when, where, why 引导定语从句时，位于从句之前、所修饰的词之后。如：
+Tell me the reason why you did it.
+把你这样做的理由告诉我。
+It’s the sort of day when you’d like to stay in bed.
+这是个令人恋床不起的日子。
+I don’t know the place where we will go.
+我不知道我们将要去的地方。
+同时存在时间状语和地点状语时，时间状语一般放在后面。如：
+The meeting will be held in the classroom tomorrow.
+明天会议将在教室里举行。
+He watched TV in his room last night.
+他作晚在房间里看电视。
+They arrived in Beijing at 8 o’clock last evening.
+他们昨天晚上8:00到达北京。
+注：有些词既可用做形容词也可副词。如：
+late, wide, well, fast, easy, early 等
+The road is so wide that 8 buses can go throw it at a time.
+Open your mouth wide.
+三、形容词和副词的比较级和最高级
+形容词和副词的比较级和最高级的变化方法如下：
+1) 符合规则的：
+情 况
+加 法
+例 词
+
+一 般 情 况
+直接加 -er ; -est
+tall-taller-tallest
+
+以e结尾的词
+加 –r ; -st
+nice-nicer-nicest
+
+以“辅音+y”结尾的词
+变y为i再加-er ; -est
+dry-drier-driest
+heavy-heavier-heaviest
+
+以一个辅音字母结尾的词
+辅音字母双写，再加-er ; -est
+thin-thinner-thinnest
+
+多音节和部分双音节单词
+在词前加 more ; most
+more delicious
+most delicious
+
+2）几个不规则的形容词和副词的比较级和最高级如下表：
+原 级
+比较级
+最高级
+
+good , well
+better
+best
+
+bad , ill
+worse
+worst
+
+many , much
+more
+most
+
+little
+less
+least
+
+far
+farther / further
+farthest / furthest
+
+形容词和副词比较级的用法
+级别
+比较程度
+表达方式和意义
+例 句
+备 注
+
+原
+
+级
+同
+等
+程
+度
+肯
+定
+形
+式
+As+原级+as
+(像……一样)
+Art is as interesting as music.
+Play as well as you can.
+
+
+
+
+否
+定
+形
+式
+not + so (as) +原级+as
+(不如……那样)
+English is not so difficult as science.
+She does not study so well as I do.
+
+
+比较级
+不同程度
+（用于两者比较）
+比较级+than
+(比……)
+Jim is older than Luky.
+I like pork better than beef.
+比较级前面可以加
+much, far, even, still,
+a lot, a little, a bit等
+
+
+程度加深
+比较级+and+比较级
+（越来越……）
+The + 比较级，the + 比较级
+（越……, 越……）
+He is growing taller and taller.
+He studies better and better.
+The more books she reads, the better she understand.
+
+
+最高级
+最高程度
+（用于三者或三者以上）
+The +最高级+of (in)
+(最……)
+Spring is the best season of the year.
+Lin Tao jumped (the) farthest of all.
+副词最高级前面的the 往往省略
+
+注意：有些形容词，如 dead, empty, round, sure, woolen 等受本身含义的限制，没有比较级。
+例题解析：举一反三，学的更轻松！
+He is ________ friends than I.
+A. much more B. many more C. very more D. too more
+解析： 后面有可数名词复数时， many的比较级形式为many more 修饰。 应选B.
+2. Which is the _________ country, Japan or Australia?
+ A. more developed B. more developing C. most developed D. most developing
+ 解析： 两者比较用比较级， 表示“发达”用 developed, 而developing 是 “发展中的“ 意思
+There were _______ shops in the city in 1982 than in 1990.
+A. little B. few C. fewer D. less
+解析：little 不能修饰可数名词，两者比较需用比较级， 所以应选C.
+4. If you are not free today, come another day __________.
+ A. too B. so C. instead D. yet
+ 解析：instead 作副词用时意为“代替，顶替”， 表示前面的事情没做， 而是做了后面的事。Instead一般位于句首。应选C.
+5．He can’t tell us ________, I think.
+ A. important anything B. anything important 
+C. important something D. something important.
+ 解析：不定代词与形容词联用需后置，否定句中应该用anything而不是something. 因此应选B
+6. The Huang River is the second __________ river in our country.
+ A. long B. longer C. longest D. the longest
+ 解析：“定冠词the+ 序数词 + 形容词最高级 “ 表示“第几大……” 应选C.
+7. The light in the office wasn’t ________for him to read.
+ A. enough bright B. bright enough C. brightly D. enough brightly
+ 解析：enough修饰名词时可前可后， 修饰形容词或副词时， 要后置。应选B.
+8. There was an accident at the corner. ________, the girl wasn’t _________hurt.
+ A. luckily, badly B. luck, hardly C. Lucky, heavily D. Lucky, strongly
+ 解析：第一空修饰全句需用副词，第二空修饰形容词hurt也要用副词， 因此选A.
+9. You must keep your eyes _________ when you do eye exercises.
+ A. close B. open C. closed D., opened
+ 解析: 此处需用形容词做宾语补足语。 应选C.
+10. Five days has passed , but I haven’t finished half of the work. ________, 
+ A. already B. still C. too D. yet
+ 解析：already 与 yet 都可用于现在完成时态。Already常用于肯定句， 而yet 常用与否定句。应选D. 
+练习与巩固：熟能生巧，取得好成绩！
+选择最佳答案填空：
+Don’t worry, sir. I’m sure I can run _________ to catch up with them.
+A. slowly enough B. enough slowly C. fast enough D. enough fast
+2. The text is very easy for you. There are ________ new words in it.
+ A. a few B. a little C. few D. little
+3. It’s such an ________ film that all the students are ______ in it.
+ A. interesting; interested B. interested; interesting C. interesting; interesting D. interested; interested; interested
+4. Mingming got up very _______,so he came to school half an hour ______.
+ A. late; lately B. lately; late C. lately; lately D. late; late
+5. I am ________ worried about y parents’ healthy conditions.
+ A. some times B. sometime C. sometimes D. some times 
+6. We don’t have ________ every day.
+ A. a lot of school works B. many school work C. any school works D. much school work
+7. –Look! How fast the two horses are running!
+ --Oh, yes! They are nearly _______.
+ A. up and down B. slower and slower C. more or less D. neck and neck
+8. ______ children there are in family,_______ their life will be.
+ A. The less; the better B. The fewer; the better C. Fewer; richer D. More; poorer
+9. Most of the people in Guangdong are getting ________.
+ A. more and more rich B. more rich and more rich C. richer and richer D. richer and richest
+10. Which lesson is _______, this one or that one?
+ A. difficult B. much difficult C. more difficult D. the most difficult
+11. “A ______ accident happened at 7:30 a.m.” said the policeman _______.
+ A. serious, serious B. seriously, seriously C. seriously, serious D. serious, seriously
+12. ________ is it from our school to Lupu Bridge?
+ A. How long B. How often C. How far D. How much
+13. In our city, it is ______ in July, but it is even _______ in August.
+ A. hotter; hottest B. hot; hot C. hotter; hot D. hot; hotter
+14. This pencil is ______ that one.
+ A. so long as B. as longer as C. longer than D. not as longest as
+15. The station is two kilometers _______ the hospital.
+ A. away to B. far away C. far from D. away from
+16. Beijing has ______ many buses that there is often a traffic jam in rush hours.
+ A. so B. very C. too D. much
+17. This box is ______ heavy ________ I can’t carry it.
+ A. too, to B. so, that C. very, that D. too, that
+18. India has the second _______ population in the world.
+ A. larger B. most C. smallest D. largest
+19. Mary received ________ many postcards at Christmas.
+ A. so B. such C. too D. even
+20. The cake smells ______. Please throw it away.
+ A. good B. badly C. bad D. well
+21. --- What was the weather like yesterday?
+ --- It was terrible. It rained so ________ that people could _______ go out.
+ A. hardly…hard B. hardly… hardly C. hard… hardly D. hard… hard
+22. The meeting will be held in half an hour, but they haven't got everything ready_____.
+ A. ever B. already C. yet D. still
+23. --- What about the English novel?
+ --- It's not very difficult. There are only ________ new words in it.
+ A. few B. a few C. many D. a little
+24. How beautiful she sings! I've never heard ________.
+ A. the better voice B. a good voice C. the best voice D. a better voice
+25. Mr Smith always has ________ to tell us.
+A. some good pieces of news B. some pieces of good news
+C.some good piece of news D. some piece of good new
+26. I'm afraid the headmaster is _________ busy to meet the visitors.
+ A. too much B. much too C. so much D. very much
+27. – Dad , when will you be free? You agreed to go to the seaside with me four days ago.
+ -- I am sorry, Jean. But I think I will have a ______ holiday soon.
+ A. four-days B. four-day C. four days D. four day
+28. The scenery in Sanya looks ________, especially "Tian Ya Hai Jiao" is ________.
+ A, well, best B. fine, the most famous C. nice, better D. beautifully, the best
+29. What a _______ day it is! Let's go out for a walk.
+A. windy B. lovely C. rainy D.cloudy
+30. Of the two..Australian students , Masha is ________ one. I think you can find her easily.
+ A, tallest B, the taller C. taller D. the tallest
+1-5 CCADC 6-10 DDBCC 11-15 DCDCD 16-20 ABDAC 
+21-25 CCADB 26-30 BBBBB
+介 词
+介词是一种虚词，用来表示它后面的名词或代词同句中其他某个成分之间的关系。介词在句中不能单独使用，必须连用它的宾语即后面的名词或代词构成介词词组后才能作句子成分。
+知识梳理：提纲挈领，抓住重点和难点！
+常用介词的主要用法
+
+意义
+介词 
+地点、方位
+时间
+动作方向
+其他
+
+about 
+above 
+across
+after
+against 
+along 
+among 
+around
+
+at 
+before
+behind
+below
+beside 
+between 
+by 
+during
+for 
+from 
+in
+inside
+into
+like
+near
+of
+on
+like
+outside
+over
+
+past
+since 
+till
+to
+towards
+under
+until
+with
+without 
+
+在。。。之上
+
+在。。。之后
+
+在。。。之中
+在。。。周围、附近
+在
+在。。。前面
+在。。。后面
+在。。。以下
+在。。。旁边
+在。。。之间
+在。。。旁边
+
+在。。。里面
+在。。。里面
+
+靠近
+
+在。。。上面
+
+在。。。之外
+越过
+
+在。。。下面
+
+
+
+在。。。之后
+
+在。。。点钟
+在。。以前
+
+在。。。之间
+到。。。为止
+在。。。期间
+长达
+从。。。起
+在。。。（内、后）
+
+接近
+
+在。。。日
+
+过了。。。
+自从。。。
+直到。。。之时
+到
+
+直到。。。为止
+
+
+横过
+
+沿着
+
+从。。。来
+
+进入
+
+到。。。
+对，向，朝
+关于、大约
+
+反对，对着
+
+为了
+
+像。。。一样
+
+.。。。的
+
+像
+
+超过，在。。。以上（表示数目、程度）
+
+用；有
+没有
+
+例题解析：举一反三，学的更轻松！
+ 1. ---What time did you get there this morning? 
+ --- _________ eight.
+ A. In B. On C. At D. From
+2. He has got a chair to sit _______, but nobody to talk ________. 
+ A. on, to B. / , with C. on, / D. / , to 
+Where’s Lily? We are all here ________ her. 
+ A. beside B. about C. except D. with
+Shanghai lies ________ the east of China. 
+ A. to B. in C. on D. at
+ 精析： 1. 答案：C.此题考查学生是否掌握了at\in \on 表示时间的用法。表示几点用at.
+ 2. 答案: A.此题考查位置介词on 和词组talk to .
+ 3. 答案： C. 此题考查四个介词的意思。能根据上、下文正确使用。
+ 4. 答案： B. 此题考查学生是否掌握了表达位置的用法。在表达东、西、南、北的方位时。在范围之内用in , 在范围之外用to，相邻用on。
+练习与巩固：熟能生巧，取得好成绩！
+用适当的介词填空：
+Last Saturday I was busy ______ my homework .
+My teacher was very angry ______ me because I was late ______ school again.
+Kathy prefers a hula hoop ______ a book.
+I will invite some friends ______ my eighteenth birthday party.
+How long has he worked ______ an inventor.
+My uncle arrived ______ the airport ______ the morning of May 3.
+I will always help my friends when they are ______ trouble.
+There is nothing ______ air ______ space.
+I won’t be back ______ June.
+ ______ the age ______ twenty, he had written two books.
+ Mary fell ______ her bike and hurt her right leg.
+ He has been away ______ China ______ three years ago.
+ When I was ______ school, I was ______ the school football team.
+ I think he will be ______ two o’clock.
+ The teacher was given some flowers ______ his students.
+ Look, the birds are singing ______ the tree.
+ He left the classroom ______ all the windows open.
+ My sister is ill today. She doesn’t feel ______ eating anything.
+ It’s too dangerous. You must keep the children away ______ the fire.
+ My parents arrived ______ a cold night.
+ You should apologize ______ her ______ stepping on her foot.
+ The students are sitting ______ the table, reading the newspaper.
+ The city is famous ______ its football, and people there are very proud ______ their city football team.
+ We are doing better ______ English ______ our teacher’s help.
+ Don’t worry ______ me. Everything is going well ______ me.
+ He was late ______ school today, and she came late ______ 
+school, too.
+ ------ Do you know what happened ______ Peter yesterday?
+------ He was hit ______ a car.
+ I like clothes made ______ cotton.
+ He will go to Hangzhou ______ his car tomorrow.
+ ______ my surprise, the Englishman gave up halfway ______ 
+the end.
+ I saw the great changes ______ my own eyes.
+ You look tired. Instead ______ working indoors you should be 
+out ______ a walk.
+ Wushu is becoming more and more popular ______ foreigners.
+ If you are able to get the tickets tomorrow, please tell me ______ 
+phone.
+ There is going to be a report ______ Chinese history ______ our 
+school this evening.
+ Before 1990 there was no airline ______ the two cities.
+ She is dressed ______ a white skirt ______ red flowers.
+ It’s bad ______ you to go to work ______ breakfast.
+ It’s very nice ______ you to get me two tickets ______ the World 
+Cup.
+ ------ Where have you been these days?
+------ I have been to Bei Daihe ______ a friend ______ Canada.
+------ Would you like some coffee?
+------ Yes, and please get me some milk, too. I prefer coffee ______ milk.
+------ When did Mr Smith come here?
+------ ______ nine o’clock yesterday morning.
+ You must stand ______ line when you are waiting ______ a bus.
+ ------ Jack, will you be home ______ time to see the children before they go to bed?
+------ No problem.
+China lies ______ the east of Asia and ______ the North of Australia.
+46. If you can’t pass the exam, you’ll fall ______ others.
+47. I have a swim every day ______ yesterday.
+48. We all know that the earth moves ______ the sun.
+49. The sunlight is coming in ______ the window.
+50. This room is full______students and that one is filled______ teachers.
+Key: 1. with 2. with, for 3. to 4. to 5. as 
+6. at, in 7. in, 8. but, in 9. until 10.At, of 11. off 12. from, since 13. in, on/in 14. in 15. by 16. in 17. with 18. like 19. from 20. on 21. to, for 22. at 23. for, of 24. in, with 
+25. about, with 26. for, to 27. to, by 28. from 29. in 30. To, in 
+31. with 32. of, for 33. among 34. by 35. on, in 36. between 
+37. in, with 38. without 39. of, for 40. with, from 41.to 42. At 43. in, for 44. in 45. in, to 46. behind 47. except 48. around 
+49. through 50. of, with
+ 连 词
+ 连词是连接词、短语、从句语句子的词，它是虚词，所以不能单独担任句子成分。
+知识梳理：提纲挈领，抓住重点和难点！
+连词的分类：
+连词主要分为两大类：并列连词和从属连词。
+1、并列连词：用来连接并列关系的词、词组或分句。它包括：and，or，but，for，both…and，either…or，neither…nor，not only…but also。
+2、从属连词：用来引导从句，它包括：that，when，till，until after，before，since，because，if，whether。though，although，so…that，so that，as soon as， as…as等。
+连词用法示例与解析:
+“ and”
+ 1. He got up and left the room.
+ 2. He went to Kunming and I went Harbin last year.
+特别用法: 句型 “祈使句, and …”= If you…, you will…
+ 3. Work hard, and you will do well in the exam.
+“or” 
+ 1. Tom or I am right. (or连接两个名词或代词做主语时谓语动词依照后面的词而定)
+ 2. Would you like coffee or tea?
+特别用法: 句型 “祈使句, or…”= If you don’t …, you will…
+ 3. Hurry up, or you will miss the bus.
+“but”
+ 1. She is sixty, but she still looks young.
+ 2. She is tired but happy.
+ 3. I came here not for myself but for my son.
+ 4. Mary likes piano but Tom doesn’t (like可以省略).
+“for” 
+ 1. I went to sleep soon, for I was very tired.
+ 2. The sun has risen，for the birds are singing.
+ 比较：表示原因,译为”因为”, 表示说明、解释。与because不同，用语解释某事的原因、动机，强调因果关系。用语回答why引导的问句。
+“both …and …” 
+ 1. Both you and I are Chinese.
+ 2. I like both sports and music.
+特别用法: both…and…的否定句表示部分否定。
+ 3. He can’t play both tennis and volleyball. 它并不是既会打网球又会打排球。
+either…or…, neither…nor… 
+ 1. Either you or she is wrong. 
+ 2. Can you speak either French or English?
+ 3. Neither the teacher nor the students like this song.
+特别提示:
+用either…or…, neither…nor…连接两个名词或代词做主语时谓语动词依照后面的词而定。
+比较: both…and…, either…or…, neither…nor…的相互关系:
+肯定句: 1. I like both A and B.
+否定句: 2. I don’t like both A and B.= I like either A or B.
+否定句: 3. I don’t like either A or B.= I like neither A nor B.
+“Not only…but also…”
+ 1. Not only you but also your father is coming. (连接两个名词或代词做主语时谓语动词依照后面的词而定)
+ 2. She learns not only English but also Japanese.
+说明: 从属连词的用法见各种从句。
+练习与巩固：熟能生巧，取得好成绩！
+1．Which is bigger, the sun _________ the moon?
+ A. or B. and C. but D. so
+2. Hurry up, __________ we will miss the train.
+ A. but B. and C. or D. so
+3. He hurt her _________ badly _______ she had to see a doctor.
+ A. too, that B. so , that C. either, or D. too, to
+4. Look out! The traffic is moving fast. It's ________ dangerous ________ cross the street.
+ A. very, to B. so, to C. much, to D. too, to
+5. It's _______ far _______ walk home from here. Let's take a bus.
+ A. so, that B. too, to C. enough, to D. such, that
+6. "Why didn't Nick come to school yesterday?"
+ " _______ he was ill. "
+ A. After B. Where C. When D. Because
+7. John fell asleep _________ he was listening to the music.
+ A. after B. before C. while D. as soon as
+8." I won't go to the party tomorrow."
+ " __________ you told me you would . What 's happening?"
+ A. But B. So C. And D. Or
+9. Stop cutting trees, ________ the earth will become worse and worse.
+ A. and B. then C. but D. or
+10. " Be careful! Don't break the bottles. Do you hear _______ I said, David?"
+ " Yes, mum."
+ A. What B. that C. how D. if 
+11. Mr Smith comes from Australia, but he has worked in China for five years. So you can talk with him ______________.
+ A. either in English or in Chinese B. not in Chinese but in English
+ C. just in English, not in Chinese D. neither in Chinese nor in English
+12. I can ________ swim _______ skate. Will you please teach me?
+ A. either…or B. not only… but also C. both… and D. neither… nor
+13. When I got the news that the ship would sink, I was _________ frightened ________ my legs couldn't move forward.
+ A. so, that B. very, that C. too, that D. too, to
+14. She bought a digital camera online __________ she saved a lot of time.
+ A, so that B. as soon as C. no matter D. such that 
+15.Beijing has ________ many buses that there is often a traffic jam in rush hours,
+ A. so B. very C. too D. much 
+16. Hurry up, ________ you will miss the train. It's leaving in ten minutes.
+ A. and B. so C. however D. or
+17.Not only his parents but also his brother ________ to the Summer Palace. They haven't 
+ been back. 
+ A. have been B. have gone C. has been D. has gone
+18. You'd better do it ________ your mother did.
+ A. when B. as C. like D. because
+19. ______ they are brothers, they don't look like each other at all.
+ A. Because B. Though C. When D. As
+20. --- When did you know the news?
+ --- I knew nothing about it _________ my friend told me. 
+ A. after B. it C. because D. until
+ 1-5 ACBDB 6-10 DCADA 11 – 15 A D A AA 16-20 DDBBD
+动 词 的 语 态
+
+知识梳理：提纲挈领，抓住重点和难点！
+英语动词有两种语态，即主动语态（The Active Voice）和被动语态（The Passive Voice）。主动语态表示主语是动作的执行者，被动语态表示主语是动作的承受者，例如：
+Many people speak English . (主动语态)
+English is spoken by many people. (被动语态)
+1、被动语态的构成
+被动语态由“助动词be +及物动词的过去分词”构成。助动词be 有人称、数和时态的变化，其变化规则与be作为连系动词时完全一样。被动语态的肯定式、否定式及疑问式列表如下： 
+肯 定 句： 主语+ be+ 过去分词 +（by…） eg. He is often asked to do this work (by his boss).
+否 定 句：主语+ be not +过去分词 +（by…） eg. I am not invited to the party (by him).
+一般疑问句：Be + 主语+过去分词+ （by…）？ eg. Are your clothes washed by yourself?
+特殊疑问句：疑问词+ be+主语 +过去分词+ （by…）？ eg. What is this sweater made of?
+
+现以动词give为例，其被动语态的各种时态如下：
+
+ 式
+ 时
+
+一 般
+
+进 行
+
+完 成
+
+现在
+Am / is /are + given
+Am/is/are +being + given
+Have / has +been +given
+
+过去
+Was / were + given
+Was / were + being + given
+Had +been + given
+
+将来
+Shall/ will + given
+Shall / will +be + given
+Should /would + be + given 
+
+含情态词的
+Can / may /must +be +given
+
+
+3、被动语态的用法：
+ 1）当我们不知道谁是动作的执行者，或者没有必要指出谁是动作的执行者时，或者只需强调动作的承受者时，要用被动语态。 例如：
+ This jacket is made of cotton.
+ English is spoken in many countries in the world.
+强调动作的承受者时。如：The boy was saved at last.这个男孩最后得救了。
+主动语态变被动语态的步骤:
+主动句: The boy broke the window yesterday.
+ 
+被动句: The window was broken by the boy yesterday.
+步骤一：原句中的宾语the window变成主语。
+步骤二：谓语动词broke改为被动形式：was broken
+步骤三：原句中的主语The boy放在介词by的后面。
+步骤四：其他成分如：yesterday不变。
+5) 有两个宾语的句子的被动语态：
+A. 可有两种被动语态的常用动词有：buy，give，leave，lend，offer，pay，teach，tell，show，等。
+1. He gave me the book just now.
+ The book was given to me( by him) just now. = I was given the book (by him) just now.
+2. They show the guard their passports at the entrance to the building.
+ The passports were shown to the guard by them at the entrance to the building.
+= The guard was shown the passports by them at the entrance to the building.
+B. 通常用直接宾语作被动语态主语的一些动词有: bring，do，make，pass，sell，send，sing，write，等。
+1. He wrote her a letter.
+ A letter was written to her.
+My mother made me a skirt.
+A skirt was made (for me) by my mother.
+练习与巩固：熟能生巧，取得好成绩！
+一、选择填空
+1.The question ______by us soon.
+ A.is going to discuss B.will discuss
+C.is going to be discussed D.has been discussed
+2.The old man was quite weak after the accident, so he______.
+A.must look after B.must be taken care 
+C.must be looked after D.must take care of 
+3. All the new words ______up in the dictionary yet.
+A.have looked B.haven’t looked 
+C.have been looked D.haven’t been looked
+4.There was no room for you. All the seats ______.
+are taken B.was taken C.had taken D.had been taken 
+5. A model ship ______his son by Mr More.
+A.was made for B.was made to C.made for D.makes for
+6.----Dad, please open the door, it ______.
+----OK, dear. I am coming. 
+A.was locked B.locks C.is locked D.locked
+7. This kind of sweater______very soft.
+A.is felt B.feels C.feel D.is feeling
+8.----Have all the students known that our class will visit the factory this afternoon?
+----Yes. Every student______about it.
+A.told B.has told C.was told D.tells
+9.The cake ______delicious.
+A.smell B.is smelled C.is smelling D.smells
+10.My father has given up smoking since he ______on.
+A.will operate B.will be operated C.operated D.was operated 
+11.A new school ______ these days.
+A. is building B. is built
+C. well build D. is being built 
+12. The cake ______delicious.
+ A. smell B. is smelled
+ C. is smelling D. smells
+13.I________there would be a football match on Channel 8 tomato
+ A. will tell B. have told C. was told D. will be told
+14.The librarian told me that the book______for two weeks.
+ A. can be borrowed B. can be kept C. could be borrowed D. could be kept
+15.When______this kind of computer _______?
+is; used B. was; used C. did; use D. are; used
+16.The new computers_______to the village school as present last month.
+are given B. given C. were given D. gave
+17.I really don’t know_______about it.
+A.what to do B.how to do C. to do what D. how can I do
+18.Your shoes_______. You’d better come to get them in half an hour.
+are mending B. have mended C. are being mended D. have been mended
+19.Though he had often made his little sister______,today he was made____by her.
+A.cry; to cry B.crying; crying C. cry; cry D.to cry; cry
+20.When_____the accident________?
+A.was; happened B.has; happened C.was happebeing D.did; happen
+Key: 1----5 CCDDA 6----10 CBCDD 11-15 BDCDB 16-20 CACAD
+二、用所给动词的正确形式填空。
+Some ideas ______(give) to college students by him yesterday.
+----Do you like the music “Moonlight”?
+----Yes, it ______really beautiful!(sound)
+He won’t come to the party unless Sue ______.(invite)
+The chair needs______.(repair)
+“Quick” is another way of ______“fast”.(say)
+This kind of bike ______in that factory, but you can’t buy it now.(make)
+Cotton ______in the country.(plant)
+Man-made satellites ______by Chinese people.(send)
+This kinds of shoes ______out by now.(sell)
+The room must ______ clean every day.(keep)
+Key: 1.were given 2.sounds 3.is invited 4.repairing/ to be repaired 5.saying 6.is made 7.is planted 8.have been sent 9.have been sold 
+ 10.be kept
+
+动 词 不 定 式
+不定式：to + 动词原形
+
+知识梳理：提纲挈领，抓住重点和难点！
+
+动词不定式的基本形式是“to + 动词原形”，有时可以不带to。动词不定式（或不定式短语）没有人称和数的变化，在句子中不能作谓语。动词不定式仍可保留动词的特点，即可以有自己的宾语和状语。动词不定式同它的宾语或状语构成不定式短语。如：to read the newspaper, to speak at the meeting 等
+动词不定式具有名词、形容词和副词的特征，因此在句子中可以作主语、表语、宾语、宾语补足语、定语和状语：
+
+ 句法作用
+ 例 句 
+
+作宾语
+She wanted to borrowed my radio.
+They began to read and write.
+
+ 作状语
+She went to see her grandma last Sunday .
+He came to give us a talk yesterday.
+
+
+作宾语补足语
+Lucy asked him to turn off the radio.
+She asked me to speak more loudly
+Jim told Ling Feng to go home at once .
+The father made his son study hard.
+
+ 作定语
+Have you got anything to say?
+I had something to eat this morning .
+
+作主语
+To learn a foreign language is not easy.
+
+注：作主语用的动词不定式常常为it替代，动词不定式（或短语）放在后面。例如：
+ It is not easy to learn a foreign language.
+ It took us three days to do the work.
+动词不定式的否定形式由“not+动词不定式”构成. 如:
+Tell him not to be late.
+The policeman told the boys not to play in the street.
+4) 不定式省去to的情况: 在感官动词see，watch，look at，hear， listen to，feel和使役动词make，have，let等所接的宾语中（不定式做宾语不足语），不定式应省去to。但是在被动语态中不能省。如：
+Let me listen to you sing the song.
+He watched his son play computer games.
+I saw him run away.------He was seen to run away.
+The boss make the workers work the whole night.----The workers were made to work the whole night.
+5) 动词不定式和疑问词连用
+ 动词不定式可以和疑问词what ,which, how, where, when 等连用，构成不定式短语。如：
+ The question is when to start.
+ I don’t know where to go .
+ He showed me how to use a computer.
+ What to do is a big problem.
+例题解析：举一反三，学的更轻松！
+翻译下列句子，说出句中不定式的作用：
+1. To grow plants is very important.
+2. It is so nice to hear your voice.
+3. My dream is to be a pilot.
+4. He began to read and write at the age of five.
+5. The teacher asked me to speak more loudly.
+6. Tom came to see me last night.
+7. I am glad to see you.
+8.Have you got anything to say?
+9.There are many places to see in China.
+10.I asked him not to open the window.
+11. I don’t know what to buy for you.
+12. I saw him dance.
+13. He often helps me clean the room.
+14. They are too shy to speak English.
+15. He was lucky enough to find his watch.
+16. I want you to go there together with me.
+解析：1、To grow plants做主语；2、to hear your voice做主语；3、to be a pilot作表语；4、to read and write作宾语；5、to speak more loudly作宾语补足语；6、to see me作状语；7、to see you作状语；8、to say作定语；9、to see作定语；10、not to open the window作宾语补足语；11、what to buy作宾语；12、dance作宾语补足语（省略to）；13、clean the room作宾语补足语（省略to）；14、to speak English作状语；15、to find his watch作状语；16、to go there together with me作宾语补足语。
+练习与巩固：熟能生巧，取得好成绩！
+选择最佳答案填空：
+1. Tell him ______ the light.
+ A. to turn B. not to turn on C. to not turn D. not to turn
+2. It took us more than two hours _______ the dinner.
+ A. prepare B. preparing C. to prepare D. to be prepared
+3. We felt the earth _______.
+ A. move B. moveing C. to move D. be moved
+4. The students were made ______ the text ten times.
+ A. read B. reading C. to read D. to be read
+5. The chair looks rather hard _______, but in fact it is very comfortable.
+ A. to sit B. to sit on C. sitting D. sit
+6. Nobody knows __________next.
+ A. what to do B. to do what C. which to do D. how to do
+7. It is very important ______ us ________these words.
+ A. to, to remember B. for, to remember C. for, remember D. for, remembering
+8. _______ English well, one must have a lot practice.
+ A. For speaking B. Speaking C. To speak D. Speak
+9. I’m going to the library ______ the books.
+ A. return B. borrow C. to return D. to lend
+10. We went to town _________ some shopping.
+ A. doing B. did C. to make D. to do
+11. The funny story _______ me laugh.
+ A. make B. making C. to make D. made
+12. After the final exam, I think all the students want _________.
+ A. stop to have a rest B. to stop having a rest 
+ C. to stop to have a rest D. stopping to have a rest
+13. It is very kind _______ you to help me with my housework. It is hard _____me to do all
+ the work.
+ A. of, for B. for, of C. of, to D. to, for
+14. Many people think it very difficult _______ English.
+ A. to say B. to learn C. speak D. for speaking
+15. The teacher asked the students __________ her _______ the word again.
+ A. listen to; to read B. to hear; say 
+ C. to listen to; speak D. to listen to; pronounce
+16.Remember ______ the book here tomorrow.
+ A. bring B. to bring C. take D. to take
+17. ---Let's have a rest, shall we?
+ --- Not now. I don't want to stop _______ the letter yet.
+ A. write B. to write C. writing D. and write
+18. ---This physics problem is too difficult. Can you show me __________, Wang Lin?
+ --- Sure.
+ A. what to work it out B. what to work out it
+ C. how to work it out D. how to work out it
+19.--- How can I improve my spoken English?
+ --- You have to practise ______ as much as you can.
+ A. speak B. speaking C. spoken D. to speak
+20. --- How about going hiking this weekend? 
+ --- Sorry. I prefer _______ rather than _______.
+ A. to stay at home, go out B. to go out, stay at home
+ C. staying at home, go out D. going out, stay at home
+ 1-5 BBACB 6-10 ABCCD 11-15 DCABD 16-20 BCCBA
+
+宾 语 从 句
+
+知识梳理：提纲挈领，抓住重点和难点！
+1．在句中担当宾语的从句叫宾语从句，宾语从句可作谓语动词的宾语，也可做介词的宾语。eg, He said he was good at drawing. (动词宾语)
+ He asks him how long Mike has been down . (动词宾语)
+ Miss Zhang is angry at what you said. (介词宾语)
+ 2． 宾语从句的引导词有三类：
+以that 引导的宾语从句，主要用来引导句形式的宾语从句， that可以省略。eg, The radio says (that) the clouds will lift later on.
+She told me (that) she would like to go with us.
+以连接代词which, what, who等或连接副词how, where, why 等引导的宾语从句，从句是陈述语序
+eg, Could you tell me what’s the matter with u?
+I want to know how soon it will begin.
+以 whether 或 if 引导的宾语从句, 主要用来引导一般疑问句意思或选择疑问句意思的宾语从句，从句同样是陈述语序
+ eg, I wonder if /whether u have told the new to Li Lei .
+3．宾语从句的时态 
+当主句为一般现在时态、现在进行时态、或一般将来时态时，从句可用所需要的任何时态。 eg, I want to know what time he got up this morning.
+You are telling me that you won’t stop until tomorrow?
+当主句为一般过去时态时， 从句要用于过去有关的时态。
+eg,They asked what Jean was doing now .
+ Linda said that the train had left.
+当从句表述的是客观真理或自然现象时，宾语从句要使用一般现在时。
+eg, Lisa asked whether light travels faster than sound.
+ Polly said no news is a good news
+注意：一般情况下，whether 和if 可以互用， 但有些情况例外。
+当从句做介词的宾于是只用whether 不用if
+eg, We are talking about whether we’ll go on the pinic.
+引导词与动词不定式或 not 连用时， 只用whether.
+eg, Please let me know what to do next.
+ Could you tell me whether u go or not?
+if当如果讲时， 引导的是条件状语从句， 这时不能用whether.
+eg, You can’t work the plan out if you don’t have the meeting .
+例题解析：举一反三，学的更轻松！
+The teacher asked the students ________.
+A. if they were interested in dinosaurs B. when was Albert Einstein born
+C. what they will do with the computers D. how many trees they have planted
+解析：宾语从句中从句应保持陈述语序，答案B首先删去，主句一般过去式，从句要用于过去有关的时态，删去答案C和D,答案A中的if 意为如果.
+应选A
+Could you tell me _______ ?
+what the matter is with you B. what was the matter with you
+C. hat’s the matter with you D. what’s the wrong with you .
+解析：what 就是从句的主语，what’s the matter with you 本身就是陈述语序，因此删掉A; 主句可看作是委婉的请求，并是一般过去式，可删去答案B; wrong 前不用加the, 因此此题选 C.
+3.He asked me _______ I could sing the song “My Heart will Go On.”
+ A. if B. weather C.what D. that
+解析：此句应选含有疑问意思的关系代词， 故删去D；weather 意为天气，根据句意应选A.
+4.Our teacher told us that the moon _________ round the earth.
+ A. went B. turned C.go D. turns
+解析：从句是一个客观真理，因此从句的时态不受主句影响。 应选 D
+
+5. It makes no difference __________.
+whether will you come tomorrow.
+Whether or not will be pass the exam
+If he will come to the meeting or not 
+Whether he will come to the meeting or not
+解析：答案A和B从句不是陈述语序先删掉,if 不能与 not 连用。因此此题选D
+6. They don’t know _______ their parents are.
+ A.that B. what C. why D. which
+解析：what 表示职业， 因此选B.
+7. I am sure _______ you said is true.
+ A. what B. that C. which D. who 
+解析：根据句意应用what , 做said 的内容， 你所说的话。应选A.
+8. The old man told us _______ and ________.
+ A. to do what , to do how B. what to do it, how to do it
+ C. what to do, how to do it D. what to do , how to do 
+解析： 疑问词what 即连接不定式，又做 do 的宾语； 而在how 引导的不定式短语中， how 表示方式， do 为及物动词， 因此需接宾语才正确
+应选C
+练习与巩固：熟能生巧，取得好成绩！
+1.---Do you know when the World Cup ________ next week?
+ --- Next Friday. When it ________, I will ring you.
+ A. begins, begins B. begins, will begin C. will begin, will begin D. will begin, begins
+2.--- Today or tomorrow?
+ --- What are you talking about?
+ --- We are talking about _______ to give a talk on WTO.
+ A. how B. where C. when D. what
+3. I wonder _________.
+ A. where does he live B. where he live
+ C. he lives where D. where he lives
+4. --- Are you sure you have to ? It's been very late.
+ --- I don't know _____ I can do it if not now.
+ A. where B. why C. when D. how
+5. ---Would you please tell me _________? 
+ --- In a small village near Niingbo.
+ A. where was your mother born B. where your mother was born
+ C. when was your mother born D. when your mother was born
+6. The photograph will show you ________.
+ A. what does our village look like B. what our village looks like
+ C. how does our village look like D. how our village looks like
+7. --- Can you guess if they _______ to play basketball with us?
+ --- I think they'll come if they _________ free.
+ A.will come, will be B. will come, are C. come, are D. come, will be
+8. ---Where does he come from ?
+ --- Pardon?
+ --- I asked where_________.
+ A…. did he come from B. he came from 
+ C. he comes from D. does he come from
+9. She wondered __________.
+ A. how much he cost the computer B. how much he paid for the computer
+ C. how much the computer will cost him D. how much did he spend on the computer
+10. ---Do you know ________?
+ --- I'm not sure. Maybe he is a businessman.
+ A. who he is B. who is he C. what he does D. what does he do
+ 1-5 DCDCB 6-10 BBBBA
+
+状 语 从 句
+ 状语从句在复合句中作状语，修饰动词、形容词或副词等。状语从句可以表示时间、条件、原因、地点、目的、结果、让步、方式、比较等意义。
+知识梳理：提纲挈领，抓住重点和难点！
+ 各类状语从句连接词（短语）一览表：
+时间
+when, while, as, as soon as, since, until, after, before
+
+条件
+If, unless
+
+原因
+As, because, since
+
+地点
+Where
+
+目的
+So that, in order that
+
+结果
+So that, so…that, such…that
+
+让步
+though, although, even if, however
+
+方式
+As 
+
+比较
+than, (not)as…as, 
+
+时间状语从句：
+Whenever he comes, he brings a friend. 他每次来都带个朋友。
+条件状语从句：
+As long as I am alive, I will go on studying. 只要我活着， 我就要学习。
+原因状语从句：
+Since we live near the sea, we enjoy nice weather.由于我们住在海边，能享受到好的天气。
+地点状语从句：
+Put it where we can all see it.把它放在我们都能看到的位置。
+目的状语从句：
+Finish this so that you can start another.把这个做完，你可以开始另一个。
+结果状语从句：
+He was so angry that he couldn’t say a word. 他气得说不出话了。
+让步状语从句：
+Though he is in poor health, he works hard.虽然他身体不好，但是他工作很努力。
+方式状语从句：
+Students do as the teachers say.学生们按照老师说的去做。
+比较状语从句：
+The work isn’t as easy as I thought.这项工作比我想象得难。
+
+例题解析：举一反三，学的更轻松！
+易混引导词while, when, as的区别： 
+when既可以指“时间点”,与瞬间动词连用，也可以指“时间段”，与延续性动词连用（=while）。如：
+When he came in, his mother was cooking.
+When (While) we were at school, we went to the library every day.
+While表示时间段,因此，while 从句的谓语动词要用延续性动词。如：
+Please don’t talk so loud while others are working.
+As与when用法相似，但着重强调主句动作与从句动作同时发生，有“随着……”或“一边……一边……”之意。如：
+As you get older, you get more knowledge.随着年龄的增长，你获得的知识就越多。
+2．Because,as,since 的区别：
+Because用于表示直接原因,回答why提出的问题，语气最强；As用于说明原因, 着重点在主句，常译成“由于”；since表示显然的或已知的理由或事实，常译成“既然”。如：
+Water is very important because we can’t live without it.
+He didn’t come yesterday as his mother was ill.
+I’ll do it for you since you are busy.
+3．such…that, so…that, so that 引导结果状语从句的区别：
+such是形容词，修饰名词; so 是副词，修饰形容词或副词。其结构如下：
+1) such + a (n)+ 形容词+单数可数名词+that……
+2) such+形容词+复数可数名词+that ……
+3) such +形容词+不可数名词+that……。如：
+This was such a good film that I went to see it several times.
+It was such good books that they sell well.
+It was such bad weather that I had to stay at home.
+He spoke so fast that I couldn’t follow him.
+He is such a lovely boy that we all like him.
+=He is so lovely a boy that we all like him.
+注：在“形容词+可数名词复数/不可数名词”结构中，当名词前有many, much, few, little表示数量的多少时，名词前用so。如：
+She made so many mistakes that she didn’t pass the exam.
+练习与巩固：熟能生巧，取得好成绩！
+选择合适的连接词，完成下列句子。
+1.Jim spends a lot of money on books______he is not rich. 
+2.Kate fell into sleep ______she was listening to the music.
+3.----Is David at school today?
+ ----No. He is at home ______he has a bad cold.
+4.We won’t have supper ______my mother comes back.
+5.Speak to him slowly ______he may understand you better.
+6. ______ she doesn’t come on Sunday, I’ll go fishing by myself.
+7.It is four years ______I had left that small village.
+8. ______the air moves, it is called wind.
+9.We will go to the park ______it doesn’t rain tomorrow.
+10.______little boys did ______much work. 
+11.There are few new words in the passage ______we can’t understand it.
+12.Go back ______you come from.
+13.He reached the station ______the train had left.
+14.----Do you have a swimming pool?
+ ----No, we don’t. At least, not ______big ______yours.
+15.Give me your paper ______you have finished it.
+16.It is raining hard, ______we have to stay at home.
+17. ______you work harder, you’ll never pass the final exam.
+18.Look after te children ______I am out.
+19.The village is ______far away ______I can’t get there on foot.
+20.That is ______an interesting book ______I can’t stop reading it.
+Keys: 1.though 2.while 3.because 4.until 5. so that
+ 6.Even if 7.since 8.when 9.if 10.Such, do 
+ 11.but 12.where 13.before 14.as(so), as 15.after 
+ 16.so 17.unless 18.while 19.so, that 20.such, that
+
+定 语 从 句
+在复合句中，修饰某一名词或代词的从句叫做定语从句。
+知识梳理：提纲挈领，抓住重点和难点！
+定语从句所修饰的词 叫先行词。 定语从句放在先行词后面。定语从句分为限定性定语从句和非限定性定语从句。本章只介绍限定性定语从句。引导定语从句的词有关系代词that、which、who、 which、 whose和关系副词where 、when，关系代词和关系副词是引导词， 在定语从句中担当某一成份。
+关系代词和关系副词的作用：
+先行词指物时， 关系代词用that 或which（在句中作主语或宾语）。
+如：China is a country which / that has a large population.
+The computer game which/ that he is playing is his favorite.
+先行词指人时， 关系代词用（who）作主语或宾语，whom (作宾语)，whose (作定语)，that (作主语或宾语)。 如：
+The man who is mending the machine has been retired.
+This is the policeman who/ whom they were talking about yesterday.
+I like the girl whose mother is an actor.
+注意：下列情况下关系代词只用that 而不用which 或 who。
+先行词是指物的不代词，如：all, little, few, much, none, anything, nothing, everything等时。如：I didn’t understand the words all that he said.
+ 2．先行词由最高级、序数词以及any, very, only, all, no, just 等所修饰。如：This is the most beautiful place that I have been to .
+行词既包括人，也包括物。如：They always like to talk about the man and the things that they see on the road.
+当主句是以which 或who 开头的特殊疑问句时。如：who is the man that opened up the lab.
+例题解析：举一反三，学的更轻松！
+He is a friend ______ can help you in time of need.
+A. who he B. whose C. / D. who
+ 解析：引导词在定语从句中做主语，指人。 应选D 。
+The most important thing ______ we should pay attention to is the first thing ______ I have said.
+A. which, that B. that, which C. which, which D. that, that
+解析：先行词前有序数词， 最高级时，引导次只能用 that. 应选D.
+This is the only one of these books that ______worth reading.
+A．has B. have C. is D. are 
+ 解析：引导词that在句中作主语，代指one ，应选C。
+The man ______ talked to you just now is my father.
+A. who B. he C. which D. whose解析：引导词在句中作主语指人，应选A.
+They thought too much about ______.
+A. which I had said B. what I had said
+C. that I had said D. I had said
+解析：此题引导词作在从句中作宾语，表示说话的内容，应 选B。
+
+练习与巩固：熟能生巧，取得好成绩！
+一、选择最佳答案填空：
+Did you find the notebook ______ Jim had given me for my birthday?
+A. who B. whom C. which D. whose
+2. That’s all ______ I have seen and heard. A. which B. that C. where D. what
+3. Have you seen the man ______ plan we were talking about ______ yesterday ?
+ A. who, them B. its, them C. whose,/ D. whose, them 
+4.The Oscar is one of the film prizes ______ offered to any Chinese actor or actress so far.
+ A. which are not B. that have not been C. that has not D. that has not been
+5. He never reads anything ______ is not worth reading.
+ A. that B. as C. who D. which
+6. The man ________ coat is black is waiting at the gate.
+ A. who's B. whose C. that D. of which
+7. _________ cleans the classroom can go home first.
+ A. Anyone B. those whoo C. However D. The one who
+8. The police caught the man _______ stole my handbag.
+ A. he B. that C. whom D. which
+9. The girl ________ is reading under the tree ________ my sister.
+ A. which, is B. whom, was C. who , is D. who, was
+10. George Mallory was an English teacher _______ loved climbing.
+ A. who B. whom C. he D. which
+1-5 CDCBA 6-10 BDBCA
+
+综 合 练 习
+一、用所给词的适当形式填空：
+1.Please make ______for my bike.(room)
+2.The beautiful scenery of Qingdao ______a large number of people to visit every year.(attract)
+3.Our room is on the eleventh floor. What about ______? (you)
+4.Summer is the ______ season of the year. (hot)
+5.We must ______our classroom clean and tidy every day.(keep)
+6. ______of Chinese are looking for ways to learn English well before Beijing 2008 Olympic.(thousand)
+7.The book is rather interesting. It’s ______reading again.（worth）
+8.Thank you for ______me your dictionary. I’ll return it to you soon.(lend)
+9.Hard work brings ______.(successful)
+10.We should do something to stop waste water from ______rivers and seas.（pollute）
+11.The old man put on his sweater and ______out alone.(go)
+12.One of the ______comes from South Africa.（science）
+13.I think I can do ______in French this year than last year. （well）
+14.After three ______study, we worked out the physics problem.（month）
+15. I went upstairs and ______at the door. (knock)
+16.The children are playing ______in the park. (happy)
+17.Her brother enjoys ______very much. (surf)
+18.I have ______a seat on the plane, but the flight was canceled.(book)
+19.She lay______for hours thinking over her business.(wake)
+20.Please turn to another ______. I don’t like this show. (channel)
+21.“Help! Help! I ______!”the little boy cried in the river.(dead)
+22.There is a big difference between you and ______.(I)
+23.He often ______speaking English with foreigners.(practice)
+24.We have some problems______there.(get)
+25.Katy thinks ______in town is more exciting than in the country.(live)
+26.I heard her ______when I walked past her room.(sing)
+27.Telll me the ______number, don’t use “about”or “or so”.(exactly)
+28.We lived in a place ______Gum Tree. (call)
+29.My daughter says he’s feeling even______today.(ill)
+30.The weather gets warmer, and the days get ______. (long)
+31.In which country is the weather most like ______?(China)
+32.----Jim, have you written a letter to your aunt?
+ ----Yes, Mum. I ______ one last week.(write)
+33.Look at the sign:“No ______!”. I am afraid you can’t smoke here.(smoke)
+34.Don’t keep me ______for a long time.(wait)
+35.The police have caught the thief who matches the man’s ______.(describe)
+36.Help ______to some fish, children.(you)
+37.You’d better go to see the doctor and have your bad teeth______out. (pull)
+38.Bad luck!I had my purse______.(steal)
+39.The cars made in America are much cheaper than ______in Germany.(that)
+40.John became a doctor after he ______up.(grow)
+41.The match ______in the league last month was wonderful.(hold)
+42.I am sure that our team will ______theirs.(beat)
+43.Both of the two rulers are______. I want to buy a third one.(break)
+44.----This digital camera is really cheap!
+ ----The cheaper, the ______. I am short of money , you see.(good)
+45.How long has your mother ______here?(be)
+46.All the students are busy______ ready for the coming exam.(get)
+47.The children looked ______.(happy)
+48. How ______you are living in Qingdao! (luck)
+49.When we arrived here, all the apples had ______up.(eat)
+50.Talk about your plan and how to make it ______.(work)
+51.I can see______ in the picture.(baby)
+52. It has developed a lot because So many______ cities are around it.(satellite)
+53.She stopped ______and listened to her mother.(cry)
+54.I like ______the dolphin swim and jump.(watch)
+55.Be ______to others and they will be the same to you.(friend)
+56.”Nut” ______”jianguo”.(mean)
+57.They often do some ______in the morning.(clean)
+58.----The fridge in the middle is very nice.
+ ----I think so, but it ______too much.(cost)
+59.What a poor boy, he was ______ in the forest.(lose)
+60.----Don’t touch the papers.
+ ----Certainly, I’ll not ______the papers be touched.(let)
+61.He felt very sorry when he realized what a terrible mistake he ______.(make)
+62.I prefer ______(swim) to ______(run).
+63.There are a lot ______apples in this basket than in that one.(many)
+64.Florence took lessons in music and drawing, and read ______.(wide)
+65. ______the button and you can get what you want.(press)
+66.He was not the only ______in this terrorist attacks.(victim)
+67.Teachers ______our exam papers already.(score)
+68.The police have caught then thief who ______our description.(match)
+69.They ______me as their family member.(regard)
+70.After he graduated from middle school, he ______his education.(continue)
+71.I couldn’t hear what he said. Ask him to speak more ______, please.(clear)
+72.I ______ him to a game of tennis and at last he won.(challenge)
+73.Many doctors are ______to the village.(send)
+74.The flood ______the old bridge away last night.(wash)
+75.How many ______fossils can you see in the museum?(dinosaur)
+76.Lessons learned easily are soon ______.(forget)
+77.The ______boy hid behind the door.(frighten)
+78.The first part of the 20th century ______more great inventions.(see)
+79.The past has______with the wind.(go)
+80.Last Sunday I spent $20 ______these books.(buy)
+81.He appeared to the ______and they were very excited.(audience)
+82.He ______to catch the early bus because he got up late.(fail)
+83.As a good doctor, he ______a lot of people’s lives till now.(save)
+84.The hard work made him feel______.(frustrate)
+85.Believe me, I have ______in you.(confident)
+86.It was the first newspaper ______on the train.(sell)
+87.They are very busy these days because they have ______a bookshop.(start)
+88.The sharks ______ on fish or other sea animals.(feed)
+89.There was no machines ______a person to breathe under water for a long time.(allow)
+90.He has ______ a TV show for a long time.(run)
+91.Mr Black has taught in our school since 2002. He ______us very well.(teach)
+92.September is ______month of a year.(nine)
+93.Have you ever ______things about?(litter)
+94.Can we stop the factory from ______ the waste water into the river?(pour)
+95.It’s not polite ______in a public place.(spit)
+96.She has made a major ______to our work.(contribution)
+97.I ______my umbrella on the bus because the rain stopped when I got off the bus.(leave) 
+98.We were ______of our Chinese players in this Olympic Games.(pride)
+99.Some ______are learning Chinese now.(Italy)
+100.My good hobby is ______.(read)
+Answers:
+1.room 2.attracts 3.yours 4.hottest 5.keep 6.Thousands 7.worth 8.lending 9.success 10.polluting 11.went 12.scientists 13.better 14.months’ 15.knocked 16.happily 17.surfing 18.booked 19.awake 20.channel 21.am dying 22.me 23.practises 24.getting 25.living 26.singing 27.exact 28.called 29.worse 30.longer 31.China’s 
+32.wrote 33.smoking 34.waiting 35.description 36.yourselves 37.pulled 
+38 stolen 39. those 40.grow 41. held 42. beat 43. broken 44. better 45. been 46. getting 47.happy 48.luckily 49.been eaten 50.work 51.babies 52.satellite 53.crying 54.watching 55.friendly 56.means 57.cleaning 58.costs 59.lost 60.let 61.had made 62.swimming, running 63.more 64.widely 65.Press 66.victim 67.have scored 68.matches 69.regarded 70.continued 71.clearly 
+72.challenged 73.sent 74.washed 75.dinosaur 76.forgotten/forgot 
+77.frightened 78.saw 79.gone 80.buying 81.audience 
+82.failed 83.had saved 84.frustrated 85.confidence 86.sold 
+87.started 88.feed 89.allowing 90.run 91.teaches 
+92.the ninth 93.littered 94.pouring 95.to spit 
+96.contribution 97.left 98.proud 99.Italians 100.reading
+二、选择最佳答案填空：
+Please ______ a coat with you whenyou go out.
+bring B.put C.get D.take
+He finished ______the book yesterday evening.
+seeing B.watching C.reading D.looking
+It’s getting warmer and warmer. The flowers start to ______.
+come in B.come over C.come out D.come on
+They will ______Qingdao tonight.
+arrive B.get C.reach D.go
+Soon Cathy ______up with me, then we were neck and neck.
+taught B.caught C.bought D.brought
+Again and again the doctor ______the crying girl, but he couldn’t find what was wrong with her.
+looked over B.looked after C.looked for D.looked out
+You ______go and ask Lily . She ______know the answer.
+must, can B.must, may C.need, can D.can, may
+8. I bought a new dictionary and it ______me $30.
+paid B.spent C.took D.cost
+9.The children planted more trees and flowers after they______Greener China.
+joined B.took part in C.became D.were
+10.Could you tell me something more about Hong Kong?
+ I am ______going there for a holiday soon.
+looking up B.thinking about C.trying out D.finding out
+11.What a nice bag! But she ______only thirty dollars for it.
+cost B.took C.spent D.paid
+12.No matter how hard it is, we’ll keep ______until we make it.
+failed B.failing C.tried D.trying
+13.I must return the camera to Cindy. I ______it for two weeks.
+keep B.borrowed C.have kept D.have lent
+14.I am sure our volleyball team will______the team from No. 3 Middle School.
+win B.fail C.lose D.beat
+15.Tracy can’t play the match now. Please ______instead.
+have Gina do it B.have Linda to do it 
+C.make Jane to do it D.let Daisy to do it
+16.----Do you like______a doctor for the children?
+----Yes. To be a children’s doctor is rewarding.
+be B.being C.are D.become
+17.----What do you think of her voice?
+ ----It______very sweet, I should say.
+hears B.sounds C.listens D.sings
+18.----How much does it ______to fly from Beijing to Qingdao one-way?
+ ----About 1,000 yuan.
+cost B.pay C.spend D.take
+19.----Water-skiing and surfing are my favourite. How about you ?
+ ----I ______surfing to water-skiing.
+think B.agree C.want D.prefer
+20.----It’s more and more important to protect our earth.
+ ----I think so. If everyone ______a contribution to it, our world will be more beautifu..
+make B.makes C.will make D.make
+21.You ______swim in this part of the lake. It’s dangerous.
+mustn’t B.needn’t C.won’t D.may
+22.Jenny is a nurse and ______in Town Hospital.
+works B.worked C.had worked D. working
+23.----Where is Sandy?
+ ----He ______to anwer the phone. He’ll be back in a minute.
+had gone B.has gone C.has been D.went
+24.---- ______all your things, Mary! I hate them here and there! 
+ ----OK, Mum.
+Put up B.Put on C.Put down D.Put away
+25.----How do you go to work every day?
+ ----I ______on my bike.
+ride B.drive C.take D.walk
+26.----Oh, you painted the walls yourself?
+ ----Yes. It was not hard. The whole work didn’t ______.
+ A.want B.cost C.spend D.pay 
+27.----How about going hiking this weekend?
+----Sorry. I prefer______rather than______.
+to stay at home, go out B.to go out, stay at home 
+C.staying at home, go out D.going out, stay at home
+28.----May I ______your Chinese-Russian dictionary?
+ ----Sorry, I ______it at home.
+borrow, forgot B.lend,left C.lend, forgot D.borrow, left
+29.----Your T-shirt looks nice. Is it ______wool?
+ ----Yes, and it’s a ______Inner Mongolia.
+made of, made by B.made of, made in 
+C.made by, made for D.made by, made from
+30.Could you tell me how to ______it in French?
+say B.speak C.talk D.tell
+31.Bob______nearly two hours doing his work yesterday.
+spent B.took C.paid D.cost
+32.----Awould you please______this old lady?
+ ----Sure. Have my seat, please.
+take room for B.give a room for C.make room for D.have rooms with
+33.Jim was so busy______the answer from Lily’s paper that he forgot ______her name into his.
+to copy, to change B.to copy, changing 
+C.copying, to change D.copying, changing
+34.The young man broke his arm in the accident and had to ______his job.
+send up B.put up C.get up D.give up
+35.The woman hasn’t heard from her son for months. It______her a lot.
+interests B.moves C.worries D.pleases
+36.It’s rather cold outside. Heree’s a coat. ______, please.
+Pick it up B.Put it on C.Take it off D.Turn it down
+37.They are busy______ready for the exam.
+get B.getting C.to get D.got
+38.----What are you doing, Emily?
+ ----I’m ______the radio. The music is so beautiful.
+watching B.listening to C.hearing D.mending
+39.He ______the bus and found a seat next to the window.
+got down B.got off C.got on D.got out
+40.----Do you think Jim will pass the Chemistry exam?
+ ----Sure. He ______a lot of time on it.
+ A.took B.cost C.paid D.spent
+41.We enjoy______the moon in the open air on the Mid-autumn Day.
+to see B.seeing C.to watch D.watching
+42. A lot of meetings were ______because of the dangerous disease.
+taken off B.put off C.turned off D.set off
+43.Would you please go and ______some water for me? I am thirsty.
+to bring B.to carry C.take D.get
+44.----HI, Pete! Why are you in such a hurry?
+ ----______the 7:30 train.
+Catch B.To catch C.Catching D.Caught
+45.Alice, we are going to spend our holiday in Canada. If you ______, we can go to Italy instead.
+hope B.wish C.prefer D.agree
+46.----Awould you like to have a try?
+ ----Yes, very much. It ______to be exciting.
+seem B.is looking C.seems D.will look
+47.----Mike! What are you doing there?
+ ----Listen, Mum! I hear somebody______upstairs.
+going B.goes C.go D.to go
+48.It was raining heavily outside. The father made the children ______in the room.
+to stay B.stay C.staying D.stayed
+49.After years of hard work, his dream______in the end.
+came out B.came true C.came over D.came up
+50.----Hello! Would you like to go to the concert with me tonight?
+ ----I’m sorry I can’t. Mother won’t ______me to go out in the evening.
+let B.allow C.offer D.ask
+51.It took us a long time ______Hawaii but we thought the journey was enjoyable.
+to get B.getting C.to reach D.reaching
+52.The teacher asked us to stop______because she wanted to tell us something.
+talking B.to talk C.hearing D.to hear
+53.The car ______and stopped at the red traffic light.
+got on B.got off C.slowed down D.picked up
+54.I think this is the best way to solve the problem. Do you ______me?
+play with B.hear of C.agree with D.get on well with
+55.Let him______a rest. I think he must be tired after the long walk.
+have B.gets C.to take D.has
+56.The film ______for ten minutes.
+has begun B.has been begun C.has been on D.began
+57.----Shall we go and ______hello to foreign teachers?
+ ----Good idea! Let’s go.
+say B.speak C.shout D.talk
+58.Our teacher did what she could ______us with English.
+help B.helped C.helping D.to help
+59.We must do something to stop people from ______.
+to throw litter about B.to throw litter into 
+C.throwing litter about D.throwing litter into
+60.----Have you ever ______Lintong to see the Terra Cotta Warriors?
+ ----Yes, I have.
+went to B.gone to C.been in D.been to
+61.I hope that you ______a good time this evening.
+have B.are having C.will have D.had
+62.----Hi, Carol, how was your trip to Disney World?
+ ----Hi, we ______a good time there.
+are having B.have had C.had D.have
+63.I won’t go to the concert because I ______my ticket.
+lost B.don’t lose C. will lose D. have lost
+64.The bottle is empty. Who ______the juice?
+has drunk B.drinks C.drank D.is drinking
+65.The world ______. Things never stay the same.
+ A.changes B.is changing C.was changing D.will change
+66._______ a cold morning, I opened the window and was glad to find that It was snowing 
+ outside.
+ A. By B. In C. At D. On
+67. There is ________ today's newspaper.
+ A. nothing new in B. something new on
+ C. important something in D. nothing important on 
+68. The headmaster _________ a noisy boy from the library.
+ A. sent for B. sent out C. sent back D. sent away
+69. _______ it goes on, hour ________ hour.
+A. So, after B. Such, by C. That, after D. / by
+70. Silk ________ in _______ China.
+ A. produce, the southeast B. is produced, southeast
+ C. is grown, southeast D. is produced, the southeast of
+71. " Do you know if the old man is still living?"
+ " I'm sorry. He _________. He ______ for two months.
+A. died, has died B. has died, has been dead
+C. has been dead, died D. has died, has dead
+72. Don't rush. There's still ______ time left.
+ A. more B. a lot C. a little D. a few
+73. Would you please _______ fill the same bottle _______ full?
+ A. not, too much B. not to, too much
+ C. not, much too D. not to, much too
+74. He asked ______ they wouild hold the meeting _____ it rained the next day.
+ A. if, whether B. whether, if C. whether, whether D. if, whether
+75. English is taught _________ a foreign language in almost all school in China.
+A. with B. by C. as D. for
+76. "Which boy do you want to see now? "
+ "The _______ in the red hat."
+ A. man B. person C. people D. one
+77. Peter could hardly see the words on the blackboard, ________?
+ A. did he B. couldn't he C. didn't he D. could he
+78. The lady always ________ in white at the party.
+ A. wears B. dresses C. is worn D. gets dressed
+79. Britain is only 30 kilometers _______ from France.
+ A. far B. far away C. away far D. away
+80. Don't ask me to goo with him, ________? 
+ A. shall we B. won't you C. will you D. don't you
+81. " You 've got a new dress, too"
+ " Yes. Mine is _______ , but not so _______ as yours."
+A. better, cheap B. more better, expensive
+C. better, more expensive D. good, cheaper
+82. Lily was busy _______ ready for the exam and was made ______ in her room the
+ whole afternoon.
+A. getting, study B. get , to study
+C. getting, to study D. to get, study
+83. She didn't tell me ________.
+A. which room she lived B. she lived in which room
+C. which room did she lived D. which room she lived in
+84. The _______now is that we have lots of ________ to ask.
+A. problem, questions B. question, problems
+C. question, problem D. problem, question
+85. Would you please speak slowly? I can hardly ______ you.
+ A. talk with B. agree with C. follow D. hear of
+86. Please let me know if you ________ your address.
+ A. move B. change C. choose D. find
+87. The sign " ________" is usually seen on the box with glass in.
+ A. PULL B. CLOSED C.DANGER D. FRAGILE
+88. At weekends I prefer _______ at home to _______out. 
+A. stay, going B. staying, go C. staying, going D. to stay, go
+89. The tree must ________ three times a week.
+ A. water B. is watering C. be watered D. waters
+90. They _______ some books from the liarary last week.
+ A. lend B. lends C. buy D. borrowed
+91. ---Do you still have a headache, Billy?
+ --- No, it's ________. I'm all right now, mum.
+ A. dropped B. run C. left D. gone
+92. He is kind and always _______ his help to others.
+ A. receives B. brings C. takes D. offers
+93. I'm sure our football team will ________ the team from NO. 3 Middle School.
+A. win B. fail C. lose D. beat
+94. ---Most hotels are very full today.
+ --- Don't worry! I have ______ a room already in the Changjiang Hotel.
+ A. bought B. booked C. visited D. seen
+95. To their _______, they all passed the exam.
+A. surprise B. surprised C. surprising D. surprises
+96. ---Our English teacher often _____ us stories in class.
+ --- Yes, he's so popular.
+ A. tells B. asks C. says D. speaks
+97. They were all out _________ the missing child.
+ A. found B. to look for C. find out D. to look after
+98. The boy fell off the bike and ___________ on the road.
+A. lied B. lie C. lay D. laid
+99. I think the headmaster is proud of us because he usually _________ us at thee 
+ school meeting.
+ A. speak loudly B. thinks highly C, is pride of D. speaks highly of
+100. The funny boy _______ his pockets _______ sand.
+ A. filled … in B. filled…with C. full…with D. full…of
+Key:1----5 DCCCB 6----10 ADDAB 11----15 DDCDA 16----20 BBADB
+21--25 AABDA 26--30 BADBA 31---35 ACCDC 36---40 BDBCD
+41--45 DBDBC 46--50 CABBB 51—55 CACCA 56—60 CADCD
+61---65 CCDAB 66-70 DAAAD 71-75 BCDBC 76-80 DDBDC
+81-85 ACDAC 86-90 BDCCD 91-95 DBDBA 96-100 ABCDB

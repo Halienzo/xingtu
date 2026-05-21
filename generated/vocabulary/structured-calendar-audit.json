@@ -1,0 +1,218 @@
+[
+  {
+    "key": "1a",
+    "name": "一年级上学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 83,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "1b",
+    "name": "一年级下学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 51,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "2a",
+    "name": "二年级上学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 51,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "2b",
+    "name": "二年级下学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 59,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "3a",
+    "name": "三年级上学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 75,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "3b",
+    "name": "三年级下学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 69,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "4a",
+    "name": "四年级上学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 67,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "4b",
+    "name": "四年级下学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 97,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "5a",
+    "name": "五年级上学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 83,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "5b",
+    "name": "五年级下学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 73,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "6a",
+    "name": "六年级上学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 271,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "6b",
+    "name": "六年级下学期",
+    "sourceNote": "小学词汇1166（1-6年级+P35）.doc",
+    "sourceWords": 180,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "7a",
+    "name": "七年级上学期",
+    "sourceNote": "01/02/03 初中本地资料综合抽取",
+    "sourceWords": 976,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "7b",
+    "name": "七年级下学期",
+    "sourceNote": "01/02/03 初中本地资料综合抽取",
+    "sourceWords": 1809,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "8a",
+    "name": "八年级上学期",
+    "sourceNote": "01/02/03 初中本地资料综合抽取",
+    "sourceWords": 1459,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "8b",
+    "name": "八年级下学期",
+    "sourceNote": "01/02/03 初中本地资料综合抽取",
+    "sourceWords": 1832,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "9a",
+    "name": "九年级上学期",
+    "sourceNote": "九年级本地资料前半部分",
+    "sourceWords": 279,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "9b",
+    "name": "九年级下学期",
+    "sourceNote": "九年级本地资料后半部分",
+    "sourceWords": 279,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "10a",
+    "name": "十年级上学期",
+    "sourceNote": "3-高中3500词汇 - 带音标.docx",
+    "sourceWords": 634,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "10b",
+    "name": "十年级下学期",
+    "sourceNote": "3-高中3500词汇 - 带音标.docx",
+    "sourceWords": 634,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "11a",
+    "name": "十一年级上学期",
+    "sourceNote": "3-高中3500词汇 - 带音标.docx",
+    "sourceWords": 634,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "11b",
+    "name": "十一年级下学期",
+    "sourceNote": "3-高中3500词汇 - 带音标.docx",
+    "sourceWords": 634,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "12a",
+    "name": "十二年级上学期",
+    "sourceNote": "3-高中3500词汇 - 带音标.docx",
+    "sourceWords": 634,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  },
+  {
+    "key": "12b",
+    "name": "十二年级下学期",
+    "sourceNote": "3-高中3500词汇 - 带音标.docx",
+    "sourceWords": 632,
+    "days": 365,
+    "dailyWords": 6,
+    "generatedWordPlacements": 2190
+  }
+]

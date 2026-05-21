@@ -1,0 +1,524 @@
+状语从句
+
+
+
+一、状语从句概述
+定义
+状语从句用作状语，是起副词作用的句子。
+
+位置
+状语从句可以放在主句之前，也可以放在主句之后，时间、条件、原因和让步状语从句放在句首时需要用逗号和主句隔开。
+
+分类
+根据其作用可以分为时间、地点、原因、条件、目的、让步、方式和比较等状语从句。
+
+作用
+它可以修饰谓语、非谓语动词、定语、状语和整个句子。
+
+
+二、状语从句的分类
+1. 时间状语从句
+用表示时间的连词连接一个句子作状语，这样的主从复合句就是时间状语从句，具体用法如下表。
+从句引导词
+用法
+例句
+
+when/while/as
+(当……时)
+when引导的从句的谓语动词可以是延续性动词，又可以是瞬时动词。when有时表示“就在那时”。
+1 1. When she came in, I stopped eating.(瞬时动词)
+当她进来的时候，我停下吃东西。
+2 2. When I lived in the countryside, I used to carry some water for him.(延续性动词）
+当我住在乡下的时候，我经常带些水给他。
+
+
+while引导的从句的谓语动作必须是延续性的，并强调主句和从句的动作同时发生（或者相对应）。while有时还可以表示对比。
+1 1. While my wife was reading the newspaper, I was watching TV. (同时发生)
+当我妻子在读报纸的时候，我在看电视。
+2 2. I like playing football while you like playing basketball.（对比）
+我喜欢踢足球，而你喜欢打篮球。
+
+
+as表示“一边……一边”，as引导的动作是延续性的动作，一般用于主句和从句动作同时发生；as也可以强调“一先一后”。
+1. We always sing as we walk. (一边……一边)
+我们总是边唱边走。
+2. As we were going out, it began to snow.
+（as强调句中两个动作紧接着先后发生）
+我们刚一出门就开始下雪了。
+
+before 
+(在……之前) 
+before的本意为“在……之前”，根据具体语境还可理解为“就/才……”
+1 1. Make sure that all the lights are off before you go to bed. 睡前确定所有的灯都关上。
+2 2. You can’t watch TV before you finish your homework.
+写完作业才能看电视。
+
+since (自从)
+表示自过去的一个起点时间到目前(说话时间)为止的一段持续时间。主句一般用现在完成时，从句用一般过去时。
+1. It’s a long time since I met you last. 好久不见。
+2. Mr. Green has taught in that school since he came to China three years ago.
+自从三年前来到中国，Mr. Green就在那所学校教书。
+
+
+since可以引导原因状语从句；一般放于主句之前表示已知的、显然的理由(通常被翻译成“既然”)，较为正式，语气比because弱。
+1 Since you are free today, you had better help me with my mathematics.
+既然今天你有时间，最好能帮我补补数学。
+
+till/until
+(直到)
+主句为肯定式，主句谓语动词必须为持续性动词，且该动词所表示的动作或状态一直延续到 until / till 从句所表示的时间为止。
+1. He waited until/till I returned.
+他会等到我回来。
+2. He kept learning Math till his mother came back.
+直到他妈妈回来，他一直在学数学。
+
+
+主句为否定式（包括含no, nobody, nothing, never, hardly, little 等否定词的肯定句）一般先译从句“直到……”，后译主句，not译成“才”，即“直到……才……” 
+1. He didn’t leave until/till he was asleep.
+直到他睡着，他才离开。
+2. She didn’t sleep until/till I returned.
+她直到我回来才睡下。
+
+
+
+2. 结果状语从句
+结果状语从句的从句部分是补充说明主句中谓语动词发生的结果的，通常位于主句之后。引导结果状语从句的从属连词如下表。
+引导词
+构成
+备注
+例句
+
+so…that
+（如此……以至于）
+1. so+adj./adv.+that 
+2. so+adj.(a/an)+n.
++that 
+so与表示数量的代词many，few，much，little等连用
+1. It was so hot that we wanted to go swimming.
+天如此热以至于我们想去游泳。
+2. The poor family has so little money that they can’t afford the expensive car.
+这个家庭有如此少的钱，以至于买不起这昂贵的车。
+
+such…that
+（如此……
+以至于）
+
+
+such(+a/an)(+adj.)+n.+that
+such与a lot of 组成固定搭配，此时a lot of 为名词性的，只能用such搭配如：such a lot of people 
+1. He is such a marvelous joker that you can’t help laughing.
+他是如此出色的一个段子手，以至你会不禁大笑。
+2. There are such a lot of people on the beach that we have no place to enjoy our holiday.
+海滨有如此多的人，以至我们没地度假。
+
+
+
+3. 目的状语从句：从句部分是用以补充说明主句中谓语动词发生的目的。
+1). so that 以便……（达到某种目的）如：
+You must speak louder so that you can be heard by all.
+你要大点声说，这样大家就都能听到你了。
+2). in order that 为了……，如：
+She got up early in order that she could get to school on time.
+=She got up early in order to get to school on time.
+为了能够准时到校，她很早起床。
+
+4. 条件状语从句
+由连接词if或unless引导的状语从句叫做条件状语从句。
+引导词
+用法
+例句
+
+if
+(如果)
+1. 由if引导的条件状语从句表示在某种条件下某事很可能发生。（真实条件句）构成：
+1) 主句：主语+ 一般将来时
+从句：if+主语+ 一般现在时
+2) 主句：祈使句
+从句：主语+ 一般现在时
+3) 主句：主语+情态动词
+从句：if+主语+ 一般现在时
+1. If you ask him, he will help you.
+如果你让他帮忙，他会帮的。
+2. Study hard, if you want to pass the exam.
+如果想通过考试，要努力学习。
+3. I can go with you if you want.
+如果你想，我可以跟你走。
+
+
+2. if从句还表示不可实现的条件或根本不可能存在的条件,也就是一种虚拟的条件或假设；（非真实条件句）表示与现在事实相反的情况，构成：
+从句：if+主语+过去时(be动词均用were)
+主句：主语+should/would/could/might+do
+1. If I were you, I would invite him to the party.
+如果我是你，我就会邀请他去派对。
+2. If I had any money with me, I could lend you some.
+如果那会我有钱，我就会借给你。
+
+unless
+（除非）
+表示强烈的否定；意思上=if not
+翻译为：除非,若不,除非在……的时候；
+1. You will fail unless you work harder.
+你如果不努力，就会失败。
+2. Don’t come unless I call you.
+除非我叫你，否则不要来。
+
+as long as
+(只要……就)
+as long as也表示一种条件，但不是很强烈，是一种假设的条件。
+I will be ready to help you as long as you need me.
+只要你需要，我随时可以帮忙。
+
+
+
+注意：
+1). unless 从句里的谓语只能是肯定式，因为unless本身表示否定；unless=if not，如：
+Let's go out for a walk unless you are too tired. =If you are not too tired, let's go out for a walk.
+如果你不是很累，我们出去散个步吧。
+2). 在真实条件句中，主句不能用be going to表示将来，该用shall, will.如：
+If you will(愿意) wait a minute, I’ll go and tell my mother that you are here.
+如果你愿意等一分钟，我将去告诉我妈妈你在这里。
+3). 下列从句中的will不是将来时助动词，而是情态动词。翻译为“愿意”，如：
+If you will read the book, I will lend it to you.
+如果你愿意读书，我就会借给你。
+Will you marry me? 你愿意嫁给我吗？
+
+5. 让步状语从句
+1). 让步状语从句一般翻译为“尽管……”或“即使……”，就是我们日常生活中用的“退一步说……”的感觉。
+2). 引导让步状语从句的连词有:although, though, as, if, even if, even though, while, whether (...) or not, whatever, no matter what/how/why，如：
+Though they are twin brothers, they don’t look like each other.
+尽管他们是双胞胎，但看起来一点都不像。
+
+6. 地点状语从句
+引导词
+用法
+示例
+
+where
+（在……地方）
+“where引导的地点状语从句，（there+）主句” “哪里……哪里就……”。主句在从句后面时，there可用可不用；主句在从句的前面时，一般都不用there.
+Where there is a will, there is a way.
+有志者事竟成。
+You should have put the book where you found it.
+你应该把书放回原处。
+
+wherever
+（无论在哪）
+anywhere/wherever引导地点状语从句+主句。anywhere本身是个副词，但是常可以引导从句，相当于连词，意思相当于wherever, anywhere引导的从句可位于主句之前，也可以位于主句之后。而wherever本身就是个连词，表示“在何处，无论何处”。
+Wherever the sea is, you will find seaman.
+无论海在何处，你都能找到海员。
+I’ll go anywhere you go.
+我会跟你去任何地方。
+
+
+7. 原因状语从句
+引导词
+用法
+示例
+
+as
+（既然）
+引导原因状语从句时表示附带。说明“双方已知的原因”，语气比since弱，较为正式，位置较为灵活（常放于主句之前）。
+As the weather is cold, I stay at home.
+既然天很冷，我还是待在家里吧。
+As it is raining, you’d better take a taxi.
+既然碗面下着雨，你最好打个车。
+
+since
+（因为）
+引导的原因状语从句一般放于主句之前表示已知的、显然的理由（通常被翻译成“既然”），较为正式，语气比because弱。
+Since everybody is here, let's begin our meeting.
+既然人都到齐了，我们就开始开会吧。
+
+because
+（因为）
+引导的原因状语从句一般放于主句之后，表述直接原因，语气较强，最适合why引导的疑问句。Because引导的原因状语从句有时可以与because of短语互换。
+The woman prefers winter because she can skate.
+这个女人更喜欢冬天，因为那时她可以滑冰。
+
+for
+（因为）
+引导的原因状语从句并不说明主句行为发生的直接原因，只提供一些辅助性的补充说明，for引导的原因状语从句只能放于主句之后，并且必须用逗号将其与主句隔开。
+He must be ill, for he is absent today.
+他一定是生病了，因为今天他没来。
+
+
+
+一、重难点：
+状语从句在三大从句中较为简单，不涉及语序变换，先行词判断等复杂过程，我们只需要根据实际语境进行判断句子中缺什么东西，对应性地选出相应的关系词。然而有些关系词的意思比较多变，区分这些词在不同语境中的意思是这一部分的唯一难点。
+
+二、易错点：
+1. 状语从句的区分和转换
+so…that…与…enough to…的转换
+当主句和从句的主语一致，且that从句是肯定句时，可用“enough to do sth.”来转换
+The man is so strong that he can lift the heavy box.
+→ The man is strong enough to lift the heavy box.
+
+
+当主句和从句的主语不一致，且that从句是肯定句时，可以用“enough for sb. to do sth.”来替换，但注意不定式的宾语要省略。
+The question is so easy that I can work it out.
+→ The question is easy enough for me to work out.
+
+so...that...与
+too...to...
+的转换
+当主句和从句的主语一致，且that从句是否定句时，可以用“too...to...”来替换。
+The girl is so young that she can't dress herself. 
+→ The girl is too young to dress herself. 
+
+
+当主句和从句的主语不一致，且that从句是否定时，如果要用“too...to...替换“so...that...”，则用介词for引出动词不定式的逻辑主语，可以用“too...for sb. to do sth.”来替换，注意不定式的宾语要省略。
+The bag is so heavy that she can't move it. 
+→ The bag is too heavy for her to move. 
+It is so hot that we can't sleep. 
+→ It is too hot for us to sleep. 
+
+so...that...与
+such…that
+的转换
+
+so…that与such…that之间的转换既为so与such之间的转换。
+It’s such an interesting film that we all want to see it. 
+→ It’s so interesting a film that we all want to see it. 
+
+从用法上看，so后应接形容词或副词，而such后接名词(参见以上例句)。但有时“so+形容词”后还可接一个名词，且这个名词总是带不定冠词的单数可数名词(不能是复数名词或不可数名词)。试比较：
+正：He is so clever a child that we all like him.
+这小孩很聪明，我们都喜欢他。
+正：They are such clever children that we all like them. 
+误：They are so clever children that we all like them. 
+
+2. if在宾语从句和状语从句中不同的含义。
+在宾语从句中我们说过if在宾语和状语从句中意义不同，宾语从句中意为“是否”，而条件状语从句中作“如果”理解，如：
+I don’t know if they will come tomorrow. 我不知道明天他们会不会来。
+If we I get any information about him, I will tell you.
+如果我得到他的任何信息，我都会告诉你。
+
+
+题模一：时间，结果，目的状语从句
+
+例1.1.1 John fell asleep _________ he was listening to the music.
+A． after
+B． before
+
+C． while
+D． as soon as
+
+
+例1.1.2 Can you play game with us when your homework _________?
+A． is finished
+B． will finish
+C． finish
+D． will be finished
+
+例1.1.3 Lin Shuhao is _________ famous _________ all the basketball fans in China know him.
+A． too; to
+B． enough to
+
+C． so; that
+D． as; as
+
+
+例1.1.4 Mr. Green speaks very loudly _________ all the students can hear him clearly.
+A． when
+B． so that
+
+C． because
+D． in order to
+
+题模二：条件，原因，让步状语从句
+
+例1.2.1 You will fall behind others _________ you work hard.
+A． if
+B． unless
+C． though
+D． since
+
+
+例1.2.2 We should give the boy another chance _________ he has made some mistakes.
+A． though
+B． when
+
+C． unless
+D． because
+
+
+例1.2.3 根据中文提示完成句子，每空一词。
+李明昨天没来上学，因为他病了。
+Li Ming didn’t come to school _________ _________ _________ _________.
+
+
+
+随练1.1 Tom was sleeping _________ his brother was reading a magazine.
+A． until
+B． while
+C． before
+D． after
+
+
+随练1.2 _________ he’s old, he can still carry this heavy bag.
+A． Though
+B． Since
+C． For
+D． So
+
+
+随练1.3 I was late for class yesterday _________ there was something wrong with my bike.
+A． when
+B． that
+
+C． until
+D． because
+
+
+随练1.4 We will stay at home if my aunt _________ to visit us tomorrow.
+A． comes
+B． come
+
+C． will come
+D． is coming
+
+
+随练1.5 根据中文提示完成句子
+1. 无论他跟我开什么玩笑，我都不生气。
+I am not angry with him, _________ _________ _________ jokes he _________ on me.
+2. 布鲁斯太太对学生非常亲切，以至于学生把她当做母亲。
+Mrs. Bruce was _________ kind to her students _________ they _________ her _________ their mother.
+3. 只要我们竭尽全力，父母就会满意我们的表现。
+Our parents will be pleased with our performance _________ _________ _________ we try our best.
+4. 你一到上海就给我打个电话好吗？
+Will you please call me _________ _________ _________ you get to Shanghai?
+5. 这个七岁的女孩如此酷爱钢琴，以至于他已经坚持练习两年了。
+The seven-year-old girl likes playing the piano _________ _________ _________ she has kept practicing for two years.
+
+随练1.6 ---Do you know if he _________ to play basketball with us?
+---I think he will come if he _________ free tomorrow.
+A． comes; is
+B． comes; will be
+C． will come; is
+D． will come; will be
+
+
+
+
+
+作业1 You should finish your lessons _________ you go out to play.
+A． before
+B． after
+C． when
+D． while
+
+
+作业2 I hurried _________ I wouldn’t be late for class.
+A． since
+B． so that
+
+C． as if
+D． unless
+
+
+作业3 When you read the book, you’d better make a mark _________ you have any questions.
+A． which
+B． that
+C． where
+D． though
+
+
+作业4 根据中文提示完成句子
+1. 他长大后想当一名记者。
+He wants to be a journalist _________ _________ _________ _________.
+2. 既然他的腿受伤了，他今天就不能来上学了
+_________ _________ _________ his leg, he can’t get to school today.
+3. 如果人人为保护环境做出贡献，世界将会变得更美好。
+_________ _________ _________ _________ _________ to protecting the environment, the world will become much more beautiful.
+4. 虽然她很忙，他还坚持自学英语。
+_________ _________ _________ _________, she kept on learning English by herself.
+5. 无论你逃到天涯海角，我都会找到你！
+_________ _________ _________ you go, I will find you at last!
+
+作业5 _________ well you can drive, you must drive carefully.
+A． So long as
+B． In order that
+
+C． No matter how
+D． The moment
+
+答案解析
+
+
+
+
+题模一：时间，结果，目的状语从句
+例1.1.1
+【答案】C
+【解析】 考查时间状语从句。从句过去进行时表正在进行，一般用while引导，故选C。
+例1.1.2
+【答案】A
+【解析】 考查状语从句时态和被动语态。首先从句主语为homework，所以应该用被动语态，排除BC；又根据语境，为对将来的一种询问，而从句可用一般现在时表将来，故选A。
+例1.1.3
+【答案】C
+【解析】 考查结果状语从句。根据句意：林书豪如此有名，以至于所有中国篮球粉丝都知道他。如此以至于，后又为形容词，所以用so…that…句型，故选C。
+例1.1.4
+【答案】B
+【解析】 考查目的状语从句。根据句意：格林先生说话声音很大，以便所有学生都能清楚地听到他。so that表示大声说话的目的，符合题意，故选B。
+题模二：条件，原因，让步状语从句
+例1.2.1
+【答案】B
+【解析】 考查条件状语从句。根据句意：如果你不努力，就会落后。unless=if not如果不，符合题意，故选B。
+例1.2.2
+【答案】A
+【解析】 考查让步状语从句。根据句意：尽管他犯了些错误，我们应该再给这个男孩一次机会。表尽管，故选A。
+例1.2.3
+【答案】 because he was ill
+【解析】 考查原因状语从句。生病是李明没来上学的原因，所以用because引导的原因状语从句。
+
+
+随练1.1
+【答案】B
+【解析】 考查时间状语从句。根据句意：当他哥哥读杂志的时候，汤姆在睡觉。表示两个动作同时进行，而且有一种对比的意味，故选B。
+随练1.2
+【答案】A
+【解析】 考查让步状语从句。根据句意：尽管他很老，他仍能搬动这个很重的箱子。前后两句有种让步转折的关系，故选A。
+随练1.3
+【答案】D
+【解析】 考查原因状语从句。根据句意：昨天我迟到了，因为我的自行车坏了。自行车坏了是迟到的原因，故选D。
+随练1.4
+【答案】A
+【解析】 考查条件状语从句时态。if引导的条件状语从句在表述将来的事情时，遵循“主将从现”原则，即主句用将来时，从句用一般现在时表将来，故选A。
+随练1.5
+【答案】 1. no matter what; plays
+2. so; that; regarded; as
+3. as long as
+4. as soon as
+5. so much that
+【解析】 1. 考查让步状语从句。no matter what无论什么；play jokes开玩笑。
+2. 考查结果状语从句。so…that如此以至于；regard sb. as把某人当做……。
+3. 考查条件状语从句。as long as只要……就。
+4. 考查时间状语从句。as soon as一……就，同时注意“主将从现”。
+5. 考查结果状语从句。so…that如此……以至于。
+随练1.6
+【答案】C
+【解析】 考查宾语从句和条件状语从句的时态。本题两个if引导的从句，但第一句为宾语从句，意思为“是否”；第二句是条件状语从句，意思为“如果”。宾语从句主句一般现在时，从句时态根据实际情况而定，根据回答可知打篮球的事情还未发生，故用将来时，排除AB；又第二句为if引导的时间状语从句，对未来描述遵循“主将从现”，故选C。
+
+
+作业1
+【答案】A
+【解析】 考查时间状语从句。根据语境，出去玩之前应该完成功课，故选A。
+作业2
+【答案】B
+【解析】 考查目的状语从句。根据句意：我健步如飞，以保证自己不迟到。不迟到是自己很快地走的目的；A．自从；B．以至；C．好像；D除非，故选B。
+作业3
+【答案】C
+【解析】 考查地点状语从句。根据句意：当你读书的时候，你最好在有问题的地方作标记。后面缺在哪，即地点状语，故选C。
+作业4
+【答案】 1. when he grows up
+2. Since he broke
+3. If everyone makes a contribution to
+4. Though she was busy
+5. No matter where
+【解析】 1. 考查时间状语从句。当……时候用when引导的时间状语从句，注意时态的同意和三单动词变化。
+2. 考查原因状语从句。腿受伤是不能来上学显而易见的原因，所以用since；腿肯定是以前伤的，用过去时。
+3. 考查条件状语从句。“如果”明显用if引导的条件句，注意“主将从现”的时态，以及make a contribution的固定表达。
+4. 考查让步状语从句。根据语境，应该用though引导的让步状语从句，再根据主句判断时态为过去时。
+5. 考查地点状语从句。无论哪里，地点状语从句，用no matter where或wherever引导。
+作业5
+【答案】C
+【解析】 考查让步状语从句。根据句意：无论你开车开得多好，你都必须要非常小心。A．只要……就；B．为了……；C．无论多么……；D．当那一刻，故选C。

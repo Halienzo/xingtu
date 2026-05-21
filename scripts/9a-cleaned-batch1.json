@@ -1,0 +1,143 @@
+[
+  {
+    "idx": 1, "word": "festival", "phonetic": "[ˈfestəvl]", "syllables": "fes-ti-val", "syllableParts": ["fes","ti","val"], "syllableColors": ["#E11D48","#F59E0B","#10B981"], "pos": "n.", "meanings": ["节日"], "phrases": ["the Spring Festival 春节","the Mid-Autumn Festival 中秋节","a music festival 音乐节"], "example": "The Spring Festival brings families together to share warmth and stories.", "memoryTip": "fes-ti-val：节日就是大家聚在一起庆祝（fes-tive）的时刻。", "posDetails": [{"pos":"n.","meaning":"节日","example":"The Spring Festival brings families together to share warmth and stories.","exampleCn":"春节让家人团聚，分享温暖与故事。"}]
+  },
+  {
+    "idx": 2, "word": "speaking", "phonetic": "[ˈspiːkɪŋ]", "syllables": "spea-king", "syllableParts": ["spea","king"], "syllableColors": ["#3B82F6","#8B5CF6"], "pos": "n.", "meanings": ["说话；演讲"], "phrases": ["public speaking 公开演讲","generally speaking 一般来说","speaking of 谈到"], "example": "Public speaking helped me find my voice when I felt invisible.", "memoryTip": "speak + ing：说话的能力（-ing 名词化）。", "posDetails": [{"pos":"n.","meaning":"说话；演讲","example":"Public speaking helped me find my voice when I felt invisible.","exampleCn":"当众演讲帮助我在感到被忽视时找到了自己的声音。"}]
+  },
+  {
+    "idx": 3, "word": "will", "phonetic": "[wɪl]", "syllables": "will", "syllableParts": ["will"], "syllableColors": ["#EC4899"], "pos": "modal v.", "meanings": ["将要；将会"], "phrases": ["will do 会做","free will 自由意志","strong will 坚强的意志"], "example": "I will keep trying, even when no one sees my effort.", "memoryTip": "will：心中有一个意志（will），所以将来一定会做到。", "posDetails": [{"pos":"modal v.","meaning":"将要；将会","example":"I will keep trying, even when no one sees my effort.","exampleCn":"即使没人看见我的努力，我也会继续坚持。"}]
+  },
+  {
+    "idx": 4, "word": "I", "phonetic": "[aɪ]", "syllables": "I", "syllableParts": ["I"], "syllableColors": ["#F97316"], "pos": "pron.", "meanings": ["我"], "phrases": ["I think 我认为","I believe 我相信"], "example": "I am learning to be kind to myself, not just to others.", "memoryTip": "I：字母 I 就像一个人站立的样子，代表自我。", "posDetails": [{"pos":"pron.","meaning":"我","example":"I am learning to be kind to myself, not just to others.","exampleCn":"我正在学习善待自己，而不仅仅是对他人友善。"}]
+  },
+  {
+    "idx": 5, "word": "textbook", "phonetic": "[ˈtekstbʊk]", "syllables": "text-book", "syllableParts": ["text","book"], "syllableColors": ["#06B6D4","#84CC16"], "pos": "n.", "meanings": ["教科书；教材"], "phrases": ["English textbook 英语课本","textbook example 典型例子"], "example": "A textbook can teach facts, but life teaches wisdom.", "memoryTip": "text + book：写满文字（text）的书（book）就是课本。", "posDetails": [{"pos":"n.","meaning":"教科书；教材","example":"A textbook can teach facts, but life teaches wisdom.","exampleCn":"教科书能教给我们知识，但生活教会我们智慧。"}]
+  },
+  {
+    "idx": 6, "word": "pronunciation", "phonetic": "[prəˌnʌnsiˈeɪʃn]", "syllables": "pro-nun-ci-a-tion", "syllableParts": ["pro","nun","ci","a","tion"], "syllableColors": ["#E11D48","#F59E0B","#10B981","#3B82F6","#8B5CF6"], "pos": "n.", "meanings": ["发音；读音"], "phrases": ["correct pronunciation 正确的发音","British pronunciation 英式发音"], "example": "Her careful pronunciation showed respect for every language she spoke.", "memoryTip": "pro-nun-ci-a-tion：发出（pro-）声音的方式。", "posDetails": [{"pos":"n.","meaning":"发音；读音","example":"Her careful pronunciation showed respect for every language she spoke.","exampleCn":"她认真的发音体现了对每一种所说语言的尊重。"}]
+  },
+  {
+    "idx": 7, "word": "expression", "phonetic": "[ɪkˈspreʃn]", "syllables": "ex-pres-sion", "syllableParts": ["ex","pres","sion"], "syllableColors": ["#EC4899","#06B6D4","#F97316"], "pos": "n.", "meanings": ["表达；表情"], "phrases": ["facial expression 面部表情","freedom of expression 言论自由"], "example": "A smile is the most honest expression of a brave heart.", "memoryTip": "ex-press-ion：把内心压（press）出来的东西就是表达。", "posDetails": [{"pos":"n.","meaning":"表达；表情","example":"A smile is the most honest expression of a brave heart.","exampleCn":"微笑是一颗勇敢的心最真诚的表达。"}]
+  },
+  {
+    "idx": 8, "word": "grammar", "phonetic": "[ˈɡræmə]", "syllables": "gram-mar", "syllableParts": ["gram","mar"], "syllableColors": ["#10B981","#3B82F6"], "pos": "n.", "meanings": ["语法"], "phrases": ["English grammar 英语语法","grammar rules 语法规则"], "example": "Grammar is not a cage but a bridge between cultures.", "memoryTip": "gram-mar：Grandma（奶奶）也懂语法，因为语言是传承。", "posDetails": [{"pos":"n.","meaning":"语法","example":"Grammar is not a cage but a bridge between cultures.","exampleCn":"语法不是牢笼，而是文化之间的桥梁。"}]
+  },
+  {
+    "idx": 9, "word": "pal", "phonetic": "[pæl]", "syllables": "pal", "syllableParts": ["pal"], "syllableColors": ["#F59E0B"], "pos": "n.", "meanings": ["朋友；伙伴"], "phrases": ["pen pal 笔友","old pal 老朋友"], "example": "A true pal listens not to reply, but to understand.", "memoryTip": "pal：朋友就是能互相拍肩膀的人。", "posDetails": [{"pos":"n.","meaning":"朋友；伙伴","example":"A true pal listens not to reply, but to understand.","exampleCn":"真正的朋友倾听不是为了回应，而是为了理解。"}]
+  },
+  {
+    "idx": 10, "word": "chemistry", "phonetic": "[ˈkemɪstri]", "syllables": "chem-is-try", "syllableParts": ["chem","is","try"], "syllableColors": ["#E11D48","#10B981","#3B82F6"], "pos": "n.", "meanings": ["化学"], "phrases": ["organic chemistry 有机化学","chemistry lab 化学实验室"], "example": "Chemistry reveals the hidden beauty inside every leaf and drop of water.", "memoryTip": "chem-is-try：化学就是不断尝试（try）的学科。", "posDetails": [{"pos":"n.","meaning":"化学","example":"Chemistry reveals the hidden beauty inside every leaf and drop of water.","exampleCn":"化学揭示了每一片叶子和每一滴水中隐藏的美。"}]
+  },
+  {
+    "idx": 11, "word": "increase", "phonetic": "[ɪnˈkriːs]", "syllables": "in-crease", "syllableParts": ["in","crease"], "syllableColors": ["#8B5CF6","#EC4899"], "pos": "v./n.", "meanings": ["增加；提高","增加；增长"], "phrases": ["increase by 增加了","on the increase 在增长中"], "example": "Small acts of kindness can increase the warmth of an entire community.", "memoryTip": "in-crease：往里（in）折（crease）叠，数量就增加了。", "posDetails": [{"pos":"v.","meaning":"增加；提高","example":"We should increase our understanding of different cultures through travel.","exampleCn":"我们应该通过旅行来增加对不同文化的理解。"},{"pos":"n.","meaning":"增加；增长","example":"There has been a slow increase in his confidence this year.","exampleCn":"今年他的自信心有了缓慢的增长。"}]
+  },
+  {
+    "idx": 12, "word": "born", "phonetic": "[bɔːn]", "syllables": "born", "syllableParts": ["born"], "syllableColors": ["#F97316"], "pos": "adj.", "meanings": ["出生的；天生的"], "phrases": ["be born 出生","born with 天生具有"], "example": "She was born with a curiosity that never faded.", "memoryTip": "born：bear（出生）的过去分词，天生带来的。", "posDetails": [{"pos":"adj.","meaning":"出生的；天生的","example":"She was born with a curiosity that never faded.","exampleCn":"她天生就带着一份永不消退的好奇心。"}]
+  },
+  {
+    "idx": 13, "word": "brain", "phonetic": "[breɪn]", "syllables": "brain", "syllableParts": ["brain"], "syllableColors": ["#06B6D4"], "pos": "n.", "meanings": ["大脑；头脑"], "phrases": ["use your brain 动动脑筋","brain storm 头脑风暴"], "example": "The brain grows stronger when we face challenges with courage.", "memoryTip": "brain：b + rain（雨），大脑像下雨一样不断产生想法。", "posDetails": [{"pos":"n.","meaning":"大脑；头脑","example":"The brain grows stronger when we face challenges with courage.","exampleCn":"当我们勇敢面对挑战时，大脑会变得更加强大。"}]
+  },
+  {
+    "idx": 14, "word": "connect", "phonetic": "[kəˈnekt]", "syllables": "con-nect", "syllableParts": ["con","nect"], "syllableColors": ["#84CC16","#F59E0B"], "pos": "v.", "meanings": ["连接；联系"], "phrases": ["connect with 与……联系","connect to 连接到"], "example": "Music can connect two strangers without a single word.", "memoryTip": "con-nect：共同（con）联结（nect），就是连接。", "posDetails": [{"pos":"v.","meaning":"连接；联系","example":"Music can connect two strangers without a single word.","exampleCn":"音乐能在不说一句话的情况下连接两个陌生人。"}]
+  },
+  {
+    "idx": 15, "word": "lifelong", "phonetic": "[ˈlaɪflɒŋ]", "syllables": "life-long", "syllableParts": ["life","long"], "syllableColors": ["#E11D48","#10B981"], "pos": "adj.", "meanings": ["终身的；毕生的"], "phrases": ["lifelong learning 终身学习","lifelong dream 毕生的梦想"], "example": "Lifelong learning keeps our minds young and open.", "memoryTip": "life + long：像生命一样长，就是终身的。", "posDetails": [{"pos":"adj.","meaning":"终身的；毕生的","example":"Lifelong learning keeps our minds young and open.","exampleCn":"终身学习让我们的头脑保持年轻和开放。"}]
+  },
+  {
+    "idx": 16, "word": "conversation", "phonetic": "[ˌkɒnvəˈseɪʃn]", "syllables": "con-ver-sa-tion", "syllableParts": ["con","ver","sa","tion"], "syllableColors": ["#3B82F6","#EC4899","#F59E0B","#10B981"], "pos": "n.", "meanings": ["交谈；谈话"], "phrases": ["have a conversation 进行一次谈话","in conversation 在交谈中"], "example": "A real conversation is when both people feel heard and seen.", "memoryTip": "con-ver-sa-tion：共同（con）翻转（vers）思想，就是交谈。", "posDetails": [{"pos":"n.","meaning":"交谈；谈话","example":"A real conversation is when both people feel heard and seen.","exampleCn":"真正的交谈是当双方都感到被倾听和被看见的时候。"}]
+  },
+  {
+    "idx": 17, "word": "aloud", "phonetic": "[əˈlaʊd]", "syllables": "a-loud", "syllableParts": ["a","loud"], "syllableColors": ["#8B5CF6","#F97316"], "pos": "adv.", "meanings": ["大声地；出声地"], "phrases": ["read aloud 大声朗读","think aloud 自言自语"], "example": "Reading aloud helps us feel the rhythm and soul of a language.", "memoryTip": "a + loud：发出 loud（大声的）声音，就是 aloud。", "posDetails": [{"pos":"adv.","meaning":"大声地；出声地","example":"Reading aloud helps us feel the rhythm and soul of a language.","exampleCn":"大声朗读帮助我们感受一种语言的节奏和灵魂。"}]
+  },
+  {
+    "idx": 18, "word": "patient", "phonetic": "[ˈpeɪʃnt]", "syllables": "pa-tient", "syllableParts": ["pa","tient"], "syllableColors": ["#06B6D4","#84CC16"], "pos": "adj./n.", "meanings": ["有耐心的","病人"], "phrases": ["be patient with 对……有耐心","a patient teacher 一位有耐心的老师"], "example": "The patient teacher saw potential in every quiet student.", "memoryTip": "pa-tient：拍（pa）着学生的头，就是有耐心的老师。", "posDetails": [{"pos":"adj.","meaning":"有耐心的","example":"The patient teacher saw potential in every quiet student.","exampleCn":"这位有耐心的老师在每个安静的学生身上都看到了潜力。"},{"pos":"n.","meaning":"病人","example":"The patient waited quietly, trusting the doctor's care.","exampleCn":"病人安静地等待，信任医生的照料。"}]
+  },
+  {
+    "idx": 19, "word": "discover", "phonetic": "[dɪˈskʌvə]", "syllables": "dis-co-ver", "syllableParts": ["dis","co","ver"], "syllableColors": ["#E11D48","#3B82F6","#10B981"], "pos": "v.", "meanings": ["发现；发觉"], "phrases": ["discover the truth 发现真相","discover oneself 认识自我"], "example": "We discover ourselves not by looking inward alone, but by reaching out to the world.", "memoryTip": "dis-cover：揭开（dis-）覆盖物（cover），就是发现。", "posDetails": [{"pos":"v.","meaning":"发现；发觉","example":"We discover ourselves not by looking inward alone, but by reaching out to the world.","exampleCn":"我们发现自己不是只靠内省，而是通过向外界伸出手。"}]
+  },
+  {
+    "idx": 20, "word": "secret", "phonetic": "[ˈsiːkrət]", "syllables": "se-cret", "syllableParts": ["se","cret"], "syllableColors": ["#F59E0B","#8B5CF6"], "pos": "n./adj.", "meanings": ["秘密；秘诀","秘密的"], "phrases": ["keep a secret 保守秘密","in secret 秘密地","the secret to ……的秘诀"], "example": "The secret to true friendship is showing up, even on hard days.", "memoryTip": "se-cret：分开（se-）隐藏（cret），就是秘密。", "posDetails": [{"pos":"n.","meaning":"秘密；秘诀","example":"The secret to true friendship is showing up, even on hard days.","exampleCn":"真正友谊的秘诀是即使在艰难的日子也出现。"},{"pos":"adj.","meaning":"秘密的","example":"She shared her secret dream of becoming a photographer.","exampleCn":"她分享了自己成为摄影师的秘密梦想。"}]
+  },
+  {
+    "idx": 21, "word": "repeat", "phonetic": "[rɪˈpiːt]", "syllables": "re-peat", "syllableParts": ["re","peat"], "syllableColors": ["#EC4899","#06B6D4"], "pos": "v./n.", "meanings": ["重复；重做","重复"], "phrases": ["repeat after me 跟我重复","history repeats itself 历史重演"], "example": "We must repeat acts of kindness until they become habits.", "memoryTip": "re-peat：再次（re-）做（peat），就是重复。", "posDetails": [{"pos":"v.","meaning":"重复；重做","example":"We must repeat acts of kindness until they become habits.","exampleCn":"我们必须重复善意的行为，直到它们成为习惯。"},{"pos":"n.","meaning":"重复","example":"The repeat of that beautiful melody brought tears to her eyes.","exampleCn":"那段美妙旋律的重复让她热泪盈眶。"}]
+  },
+  {
+    "idx": 22, "word": "note", "phonetic": "[nəʊt]", "syllables": "note", "syllableParts": ["note"], "syllableColors": ["#10B981"], "pos": "n./v.", "meanings": ["笔记；记录","注意；指出"], "phrases": ["take notes 做笔记","make a note of 记录下","note down 记下"], "example": "She wrote a note of encouragement and left it on my desk.", "memoryTip": "note：音似\"诺特\"，记笔记就是承诺自己不会忘记。", "posDetails": [{"pos":"n.","meaning":"笔记；记录","example":"She wrote a note of encouragement and left it on my desk.","exampleCn":"她写了一张鼓励的便条，放在了我的桌上。"},{"pos":"v.","meaning":"注意；指出","example":"I note that every small act of kindness leaves a mark on the world.","exampleCn":"我注意到每一个小小的善举都会在世界上留下印记。"}]
+  },
+  {
+    "idx": 23, "word": "physics", "phonetic": "[ˈfɪzɪks]", "syllables": "phy-sics", "syllableParts": ["phy","sics"], "syllableColors": ["#F97316","#3B82F6"], "pos": "n.", "meanings": ["物理；物理学"], "phrases": ["physics teacher 物理老师","modern physics 现代物理"], "example": "Physics teaches us that every action creates a reaction in the universe.", "memoryTip": "phy-sics：物理研究物质（phy-sical）的科学（-ics）。", "posDetails": [{"pos":"n.","meaning":"物理；物理学","example":"Physics teaches us that every action creates a reaction in the universe.","exampleCn":"物理学教会我们，每一个动作都会在宇宙中产生反应。"}]
+  },
+  {
+    "idx": 24, "word": "memorize", "phonetic": "[ˈmeməraɪz]", "syllables": "mem-o-rize", "syllableParts": ["mem","o","rize"], "syllableColors": ["#E11D48","#F59E0B","#10B981"], "pos": "v.", "meanings": ["记住；记忆"], "phrases": ["memorize words 记单词","memorize a poem 背诵一首诗"], "example": "I do not just memorize words; I try to feel their stories.", "memoryTip": "mem-o-rize：记忆（mem-ory）让它（-ize）成为自己的。", "posDetails": [{"pos":"v.","meaning":"记住；记忆","example":"I do not just memorize words; I try to feel their stories.","exampleCn":"我不只是记住单词；我试着感受它们的故事。"}]
+  },
+  {
+    "idx": 25, "word": "speed", "phonetic": "[spiːd]", "syllables": "speed", "syllableParts": ["speed"], "syllableColors": ["#8B5CF6"], "pos": "n./v.", "meanings": ["速度","加速"], "phrases": ["at high speed 高速地","speed up 加速","full speed 全速"], "example": "The speed of growth matters less than the direction of growth.", "memoryTip": "speed：像飞（sp）一样快（eed），就是速度。", "posDetails": [{"pos":"n.","meaning":"速度","example":"The speed of growth matters less than the direction of growth.","exampleCn":"成长的速度不如成长的方向重要。"},{"pos":"v.","meaning":"加速","example":"Time seems to speed up when we are truly present in the moment.","exampleCn":"当我们真正活在当下时，时间似乎会加速。"}]
+  },
+  {
+    "idx": 26, "word": "partner", "phonetic": "[ˈpɑːtnə]", "syllables": "part-ner", "syllableParts": ["part","ner"], "syllableColors": ["#EC4899","#06B6D4"], "pos": "n.", "meanings": ["搭档；同伴"], "phrases": ["business partner 商业伙伴","dance partner 舞伴","partner with 与……合作"], "example": "A good partner does not walk ahead or behind, but beside you.", "memoryTip": "part-ner：参与（part）你人生的人（-ner），就是搭档。", "posDetails": [{"pos":"n.","meaning":"搭档；同伴","example":"A good partner does not walk ahead or behind, but beside you.","exampleCn":"一个好的搭档不会走在前面或后面，而是走在你旁边。"}]
+  },
+  {
+    "idx": 27, "word": "ability", "phonetic": "[əˈbɪləti]", "syllables": "a-bil-i-ty", "syllableParts": ["a","bil","i","ty"], "syllableColors": ["#F59E0B","#10B981","#3B82F6","#8B5CF6"], "pos": "n.", "meanings": ["能力；才能"], "phrases": ["have the ability to 有能力做","mental ability 智力"], "example": "The ability to listen is often greater than the ability to speak.", "memoryTip": "a-bil-i-ty：能够（a-ble）的状态（-ity），就是能力。", "posDetails": [{"pos":"n.","meaning":"能力；才能","example":"The ability to listen is often greater than the ability to speak.","exampleCn":"倾听的能力往往大于说话的能力。"}]
+  },
+  {
+    "idx": 28, "word": "create", "phonetic": "[kriˈeɪt]", "syllables": "cre-ate", "syllableParts": ["cre","ate"], "syllableColors": ["#E11D48","#F97316"], "pos": "v.", "meanings": ["创造；创建"], "phrases": ["create opportunities 创造机会","create art 创作艺术"], "example": "We create our own sunshine on rainy days through hope and action.", "memoryTip": "cre-ate：生长（cre-）出来（-ate），就是创造。", "posDetails": [{"pos":"v.","meaning":"创造；创建","example":"We create our own sunshine on rainy days through hope and action.","exampleCn":"我们通过希望和行动在雨天创造自己的阳光。"}]
+  },
+  {
+    "idx": 29, "word": "active", "phonetic": "[ˈæktɪv]", "syllables": "ac-tive", "syllableParts": ["ac","tive"], "syllableColors": ["#10B981","#3B82F6"], "pos": "adj.", "meanings": ["活跃的；积极的"], "phrases": ["take an active part in 积极参加","active lifestyle 积极的生活方式"], "example": "An active mind sees opportunities where others see obstacles.", "memoryTip": "act-ive：行动（act）的状态（-ive），就是活跃的。", "posDetails": [{"pos":"adj.","meaning":"活跃的；积极的","example":"An active mind sees opportunities where others see obstacles.","exampleCn":"活跃的头脑在别人看到障碍的地方看到机会。"}]
+  },
+  {
+    "idx": 30, "word": "review", "phonetic": "[rɪˈvjuː]", "syllables": "re-view", "syllableParts": ["re","view"], "syllableColors": ["#8B5CF6","#F59E0B"], "pos": "v./n.", "meanings": ["回顾；复习","评论"], "phrases": ["book review 书评","review lessons 复习功课"], "example": "Before moving forward, I like to review the path I have walked.", "memoryTip": "re-view：再次（re-）看（view），就是回顾。", "posDetails": [{"pos":"v.","meaning":"回顾；复习","example":"Before moving forward, I like to review the path I have walked.","exampleCn":"在向前迈进之前，我喜欢回顾自己走过的路。"},{"pos":"n.","meaning":"评论","example":"The book review opened my eyes to a world I had never imagined.","exampleCn":"这篇书评让我看到了一个我从未想象过的世界。"}]
+  },
+  {
+    "idx": 31, "word": "knowledge", "phonetic": "[ˈnɒlɪdʒ]", "syllables": "know-ledge", "syllableParts": ["know","ledge"], "syllableColors": ["#EC4899","#06B6D4"], "pos": "n.", "meanings": ["知识；学问"], "phrases": ["gain knowledge 获得知识","knowledge is power 知识就是力量"], "example": "Knowledge becomes wisdom only when it touches the heart.", "memoryTip": "know-ledge：知道（know）的边界（-ledge），就是知识。", "posDetails": [{"pos":"n.","meaning":"知识；学问","example":"Knowledge becomes wisdom only when it touches the heart.","exampleCn":"知识只有触碰到心灵时才会变成智慧。"}]
+  },
+  {
+    "idx": 32, "word": "wisely", "phonetic": "[ˈwaɪzli]", "syllables": "wise-ly", "syllableParts": ["wise","ly"], "syllableColors": ["#F97316","#10B981"], "pos": "adv.", "meanings": ["聪明地；明智地"], "phrases": ["choose wisely 明智地选择","act wisely 明智地行动"], "example": "She wisely chose to listen before judging a quiet classmate.", "memoryTip": "wise + ly：wise（明智的）+ ly（副词后缀），就是明智地。", "posDetails": [{"pos":"adv.","meaning":"聪明地；明智地","example":"She wisely chose to listen before judging a quiet classmate.","exampleCn":"她明智地选择在评判一个安静的同学之前先倾听。"}]
+  },
+  {
+    "idx": 33, "word": "loud", "phonetic": "[laʊd]", "syllables": "loud", "syllableParts": ["loud"], "syllableColors": ["#E11D48"], "pos": "adj./adv.", "meanings": ["大声的；响亮的","大声地"], "phrases": ["loud and clear 清晰响亮","out loud 大声地"], "example": "Her loud laughter filled the room with warmth and light.", "memoryTip": "loud：音似\" loud \"，本身就是响亮的意思。", "posDetails": [{"pos":"adj.","meaning":"大声的；响亮的","example":"Her loud laughter filled the room with warmth and light.","exampleCn":"她响亮的笑声让房间充满了温暖和光明。"},{"pos":"adv.","meaning":"大声地","example":"Speak loud enough so that even the quietest voice feels heard.","exampleCn":"说得足够大声，让即使最安静的声音也能被听见。"}]
+  },
+  {
+    "idx": 34, "word": "secret", "phonetic": "[ˈsiːkrət]", "syllables": "se-cret", "syllableParts": ["se","cret"], "syllableColors": ["#F59E0B","#8B5CF6"], "pos": "n./adj.", "meanings": ["秘密；秘诀","秘密的"], "phrases": ["keep a secret 保守秘密","in secret 秘密地"], "example": "Every flower has a secret language that only patient hearts can read.", "memoryTip": "se-cret：分开（se-）隐藏（cret），就是秘密。", "posDetails": [{"pos":"n.","meaning":"秘密；秘诀","example":"Every flower has a secret language that only patient hearts can read.","exampleCn":"每一朵花都有自己的秘密语言，只有耐心的心才能读懂。"},{"pos":"adj.","meaning":"秘密的","example":"He kept his secret garden behind the old house.","exampleCn":"他在老房子后面保留着自己秘密的花园。"}]
+  },
+  {
+    "idx": 35, "word": "discover", "phonetic": "[dɪˈskʌvə]", "syllables": "dis-co-ver", "syllableParts": ["dis","co","ver"], "syllableColors": ["#E11D48","#3B82F6","#10B981"], "pos": "v.", "meanings": ["发现；发觉"], "phrases": ["discover new things 发现新事物","discover oneself 发现自我"], "example": "To discover the beauty of Yunnan, one must walk slowly and look closely.", "memoryTip": "dis-cover：揭开（dis-）覆盖物（cover），就是发现。", "posDetails": [{"pos":"v.","meaning":"发现；发觉","example":"To discover the beauty of Yunnan, one must walk slowly and look closely.","exampleCn":"要发现云南的美，必须慢慢地走，细细地看。"}]
+  },
+  {
+    "idx": 36, "word": "invent", "phonetic": "[ɪnˈvent]", "syllables": "in-vent", "syllableParts": ["in","vent"], "syllableColors": ["#84CC16","#EC4899"], "pos": "v.", "meanings": ["发明；创造"], "phrases": ["invent a machine 发明机器","invent stories 编故事"], "example": "We do not need to invent a new world; we just need to see this one with fresh eyes.", "memoryTip": "in-vent：走进（in-）来 vent（通风口），就是发明新通道。", "posDetails": [{"pos":"v.","meaning":"发明；创造","example":"We do not need to invent a new world; we just need to see this one with fresh eyes.","exampleCn":"我们不需要发明一个新世界；我们只需要用新鲜的眼睛看待这个世界。"}]
+  },
+  {
+    "idx": 37, "word": "find", "phonetic": "[faɪnd]", "syllables": "find", "syllableParts": ["find"], "syllableColors": ["#06B6D4"], "pos": "v.", "meanings": ["找到；发现"], "phrases": ["find out 查明","find one's way 找到路"], "example": "I find courage not in being fearless, but in moving forward despite fear.", "memoryTip": "find：寻找（find）就是发现（find）的过程。", "posDetails": [{"pos":"v.","meaning":"找到；发现","example":"I find courage not in being fearless, but in moving forward despite fear.","exampleCn":"我发现勇气不是无所畏惧，而是尽管害怕仍然前进。"}]
+  },
+  {
+    "idx": 38, "word": "increase", "phonetic": "[ɪnˈkriːs]", "syllables": "in-crease", "syllableParts": ["in","crease"], "syllableColors": ["#8B5CF6","#EC4899"], "pos": "v./n.", "meanings": ["增加；提高","增加；增长"], "phrases": ["increase by 增加了","on the increase 在增长中"], "example": "Small acts of kindness can increase the warmth of an entire community.", "memoryTip": "in-crease：往里（in）折（crease）叠，数量就增加了。", "posDetails": [{"pos":"v.","meaning":"增加；提高","example":"Small acts of kindness can increase the warmth of an entire community.","exampleCn":"小小的善举可以增加整个社区的温度。"},{"pos":"n.","meaning":"增加；增长","example":"There has been a steady increase in students who love reading aloud.","exampleCn":"热爱大声朗读的学生数量一直在稳步增长。"}]
+  },
+  {
+    "idx": 39, "word": "ability", "phonetic": "[əˈbɪləti]", "syllables": "a-bil-i-ty", "syllableParts": ["a","bil","i","ty"], "syllableColors": ["#F59E0B","#10B981","#3B82F6","#8B5CF6"], "pos": "n.", "meanings": ["能力；才能"], "phrases": ["have the ability to 有能力做","mental ability 智力"], "example": "The ability to forgive is the ability to set yourself free.", "memoryTip": "a-bil-i-ty：能够（a-ble）的状态（-ity），就是能力。", "posDetails": [{"pos":"n.","meaning":"能力；才能","example":"The ability to forgive is the ability to set yourself free.","exampleCn":"原谅的能力就是让自己自由的能力。"}]
+  },
+  {
+    "idx": 40, "word": "It's", "phonetic": "[ɪts]", "syllables": "It's", "syllableParts": ["It's"], "syllableColors": ["#F97316"], "pos": "contraction", "meanings": ["它是（It is 的缩写）"], "phrases": ["It's time to 是时候……了","It's important to ……很重要"], "example": "It's never too late to become the person you want to be.", "memoryTip": "It's = It is：它是，两个词缩写成带撇号的一个词。", "posDetails": [{"pos":"contraction","meaning":"它是（It is 的缩写）","example":"It's never too late to become the person you want to be.","exampleCn":"成为你想成为的人，永远不会太晚。"}]
+  },
+  {
+    "idx": 41, "word": "in a loud voice", "phonetic": "[ɪn ə laʊd vɔɪs]", "syllables": "in-a-loud-voice", "syllableParts": ["in","a","loud","voice"], "syllableColors": ["#E11D48","#F59E0B","#10B981","#3B82F6"], "pos": "phr.", "meanings": ["大声地"], "phrases": [], "example": "She spoke in a loud voice so that everyone in the back could hear her story.", "memoryTip": "in a loud voice：用响亮的声音，就是大声地。", "posDetails": [{"pos":"phr.","meaning":"大声地","example":"She spoke in a loud voice so that everyone in the back could hear her story.","exampleCn":"她大声说话，让后排的每个人都能听到她的故事。"}]
+  },
+  {
+    "idx": 42, "word": "by", "phonetic": "[baɪ]", "syllables": "by", "syllableParts": ["by"], "syllableColors": ["#8B5CF6"], "pos": "prep.", "meanings": ["通过；被；在……旁边"], "phrases": ["by bus 乘公交","by oneself 独自","by the way 顺便说一下"], "example": "We grow not by comparing ourselves to others, but by comparing ourselves to who we were yesterday.", "memoryTip": "by：在旁边（by），通过（by），被（by）——多面手介词。", "posDetails": [{"pos":"prep.","meaning":"通过；被；在……旁边","example":"We grow not by comparing ourselves to others, but by comparing ourselves to who we were yesterday.","exampleCn":"我们的成长不是通过与他人比较，而是通过与昨天的自己比较。"}]
+  },
+  {
+    "idx": 43, "word": "by mistake", "phonetic": "[baɪ mɪˈsteɪk]", "syllables": "by-mis-take", "syllableParts": ["by","mis","take"], "syllableColors": ["#EC4899","#06B6D4","#F59E0B"], "pos": "phr.", "meanings": ["错误地；无意地"], "phrases": [], "example": "By mistake, I sent the encouraging message to the wrong person, but it turned out to be exactly what they needed.", "memoryTip": "by + mistake：通过错误的方式，就是错误地。", "posDetails": [{"pos":"phr.","meaning":"错误地；无意地","example":"By mistake, I sent the encouraging message to the wrong person, but it turned out to be exactly what they needed.","exampleCn":"我错误地把鼓励的信息发错了人，但结果那恰好是他们需要的。"}]
+  },
+  {
+    "idx": 44, "word": "since", "phonetic": "[sɪns]", "syllables": "since", "syllableParts": ["since"], "syllableColors": ["#10B981"], "pos": "prep./conj.", "meanings": ["自从；由于"], "phrases": ["since then 从那以后","ever since 从那时起"], "example": "Since that rainy afternoon, I have learned to find beauty in every storm.", "memoryTip": "since：从那时（sin-ce）起，一直到现在。", "posDetails": [{"pos":"prep.","meaning":"自从","example":"Since that rainy afternoon, I have learned to find beauty in every storm.","exampleCn":"自从那个下雨的下午，我学会了在每一场暴风雨中发现美。"},{"pos":"conj.","meaning":"由于；既然","example":"Since we all make mistakes, we should learn to forgive each other.","exampleCn":"既然我们都会犯错，我们就应该学会互相原谅。"}]
+  },
+  {
+    "idx": 45, "word": "for", "phonetic": "[fɔː]", "syllables": "for", "syllableParts": ["for"], "syllableColors": ["#3B82F6"], "pos": "prep.", "meanings": ["为了；对于；持续……时间"], "phrases": ["wait for 等待","look for 寻找","for example 例如"], "example": "For every door that closes, another one opens with new possibilities.", "memoryTip": "for：为了（for）梦想，我们不断前行。", "posDetails": [{"pos":"prep.","meaning":"为了；对于；持续……时间","example":"For every door that closes, another one opens with new possibilities.","exampleCn":"每一扇关闭的门后面，另一扇门都会带着新的可能性打开。"}]
+  },
+  {
+    "idx": 46, "word": "has gone to", "phonetic": "[hæz ɡɒn tuː]", "syllables": "has-gone-to", "syllableParts": ["has","gone","to"], "syllableColors": ["#E11D48","#F59E0B","#10B981"], "pos": "phr.", "meanings": ["已经去了某地（未回）"], "phrases": [], "example": "My friend has gone to the mountains to find peace and quiet.", "memoryTip": "has gone to：去了还没回，人在远方。", "posDetails": [{"pos":"phr.","meaning":"已经去了某地（未回）","example":"My friend has gone to the mountains to find peace and quiet.","exampleCn":"我的朋友去了山里寻找平静与安宁。"}]
+  },
+  {
+    "idx": 47, "word": "has been to", "phonetic": "[hæz biːn tuː]", "syllables": "has-been-to", "syllableParts": ["has","been","to"], "syllableColors": ["#8B5CF6","#EC4899","#06B6D4"], "pos": "phr.", "meanings": ["曾经去过某地（已回）"], "phrases": [], "example": "I have been to Lijiang, where time moves as gently as the ancient canals.", "memoryTip": "has been to：去过已回，有经验了。", "posDetails": [{"pos":"phr.","meaning":"曾经去过某地（已回）","example":"I have been to Lijiang, where time moves as gently as the ancient canals.","exampleCn":"我去过丽江，在那里时间像古老的运河一样缓缓流淌。"}]
+  }
+]

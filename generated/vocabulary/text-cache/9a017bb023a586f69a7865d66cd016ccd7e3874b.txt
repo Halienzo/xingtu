@@ -1,0 +1,655 @@
+[[SHEET:Sheet1]]
+课本 主题 单词 中文 音标 
+九年级 Unit 1 Unit 1 
+九年级 Unit 1 textbook n.教科书；课本 /'tekstbʊk/ 
+九年级 Unit 1 conversation n.交谈；谈话 /,kɒnvə'seɪʃn/,
+/,kɑ:nvər'seɪʃn/ 
+九年级 Unit 1 aloud adv.大声地；出声地 /ə'laʊd/ 
+九年级 Unit 1 pronunciation n.发音；读音 /prə,nʌnsi'eIʃn/ 
+九年级 Unit 1 sentence n.句子 /'sentəns/ 
+九年级 Unit 1 patient adj.有耐心的 n.病人 /'peɪʃnt/ 
+九年级 Unit 1 secret n.秘密；秘诀 adj.秘密的；保密的 /'si:krət/ 
+九年级 Unit 1 expression n.表情；表示；表达方式 /ɪk'spreʃn/ 
+九年级 Unit 1 discover v.发现；发觉 /dɪ'skʌvə(r)/ 
+九年级 Unit 1 look up （在词典、参考书中或通过电脑）查阅；抬头看 
+九年级 Unit 1 grammar n.语法 /'græmə(r)/ 
+九年级 Unit 1 repeat v.重复；重做 /rɪ'pi:t/ 
+九年级 Unit 1 note n.笔记；记录 v.注意；指出 /nəʊt/ 
+九年级 Unit 1 pal n.朋友；伙伴 /pæl/ 
+九年级 Unit 1 physics n.物理；物理学 /'fɪzɪks/ 
+九年级 Unit 1 chemistry n.化学 /'kemɪstri/ 
+九年级 Unit 1 memorize v.记忆；记住 /'meməraɪz/ 
+九年级 Unit 1 pattern n.模式；方式 /'pætn/,/'pætərn/ 
+九年级 Unit 1 novel n.（长篇）小说 
+九年级 Unit 1 pronounce v.发音 /prənauns/ 
+九年级 Unit 1 increase v.增加；增长 /ɪn'kri:s/ 
+九年级 Unit 1 speed n.速度 /spi:d/ 
+ Unit 1 review v. & n. 回顾；复习 
+九年级 Unit 1 partner n.搭档；同伴 /'pɑ:(r)tnə(r)/ 
+九年级 Unit 1 born v.出生 adj.天生的 /bɔ:(r)n/ 
+九年级 Unit 1 be born with 天生具有 
+九年级 Unit 1 ability n.能力；才能 /ə'bɪləti/ 
+九年级 Unit 1 create v.创造；创建 /kri'eɪt/ 
+九年级 Unit 1 brain n.大脑 /breɪn/ 
+九年级 Unit 1 active adj.活跃的；积极的 /'æktɪv/ 
+九年级 Unit 1 attention n.注意；关注 /ə'tenʃn/ 
+九年级 Unit 1 pay attention to 注意；关注 
+九年级 Unit 1 connect v.（使）连接；与……有联系 /kə'nekt/ 
+九年级 Unit 1 connect … with 把……和……连接或联系起来 
+九年级 Unit 1 overnight adv.一夜之间；在夜间 /,əʊvə (r)'naɪt/ 
+九年级 Unit 1 knowledge n.知识；学问 /'nɒlɪdʒ/，/'nɑ:lɪdʒ/ 
+九年级 Unit 1 lifelong adj.终身的；毕生的 /'laɪflɒŋ/ 
+九年级 Unit 1 wisely adv.明智地；聪明地 /'waɪzli/ 
+ Unit 2 mooncake n. 月饼 [ˈmuːnkeɪk] 
+ Unit 2 lantern n. 灯笼 [ˈlæntən] 
+ Unit 2 stranger n. 陌生人 [ˈstreɪndʒə(r)] 
+ Unit 2 relative n. 亲属；亲戚 [ˈrelətɪv] 
+ Unit 2 put on 增加（体重）；发胖 [pʊt ɒn] 
+ Unit 2 pound n. 磅（重量单位）；英镑（英国货币单位） [paʊnd] 
+ Unit 2 folk adj. 民间的；民俗的 [fəʊk] 
+ Unit 2 goddess n. 女神 [ˈgɒdɪs] 
+ Unit 2 whoever pron. 无论谁；不管什么人 [huːˈevə(r)] 
+ Unit 2 steal v. (stole,stolen) 偷；窃取 [stiːl] 
+ Unit 2 lay v. (laid,laid)放置；安放；产（卵）；下（蛋） [leɪ] 
+ Unit 2 lay out 摆开；布置 [leɪ aʊt] 
+ Unit 2 dessert n.（饭后）甜点；甜食 [dɪˈzɜːt] 
+ Unit 2 garden n. 花园；园子 [ˈɡɑːdn] 
+ Unit 2 tradition n. 传统 [trəˈdɪʃn] 
+ Unit 2 admire v. 欣赏；仰慕 [ədˈmaɪə(r)] 
+ Unit 2 treat n. 款待；招待v. 招待；请（客） [triːt] 
+ Unit 2 tie n. 领带 v. 捆；束 [taɪ] 
+ Unit 2 dinosaur n. 恐龙 [ˈdaɪnəsɔː(r)] 
+ Unit 2 mushroom n. 蘑菇 [ˈmʌʃruːm] 
+ Unit 2 togetherness n. 和睦相处；亲密无间 [təˈɡeðənəs] 
+ Unit 2 happiness n. 快乐；高兴 [ˈhæpinəs] 
+ Unit 2 lunar adj. 月球的；月亮的 [ˈluːnə(r)] 
+ Unit 2 riddle n. 谜；谜语 [ˈrɪdl] 
+ Unit 2 celebration n. 庆典；庆祝活动 [ˌselɪˈbreɪʃn] 
+ Unit 2 firework n. 烟火；烟花；(pl.) 烟花表演 [ˈfaɪəwɜːk] 
+ Unit 2 take place 发生 [teɪk pleɪs] 
+ Unit 2 gather v. 聚集；集合 [ˈɡæðə(r)] 
+ Unit 2 count down 倒计时 [ˈkaʊnt daʊn] 
+ Unit 2 custom n. 风俗；习俗 [ˈkʌstəm] 
+ Unit 2 involve v. 包含；牵涉 [ɪnˈvɒlv] 
+ Unit 2 crowd n. 人群；观众 [kraʊd] 
+ Unit 2 bottom n. 底部；最下部 [ˈbɒtəm] 
+ Unit 2 dust n. 沙土；尘土v. 擦灰；掸去 [dʌst] 
+ Unit 2 couplet n. 对联；对句 [ˈkʌplət] 
+ Unit 2 set off (sth.) 点燃；使......爆炸 [set ɔːf] 
+ Unit 2 eve n. 前夕；前夜 [iːv] 
+ Unit 2 express v. 表达；表示 [ɪkˈspres] 
+ Unit 2 reunion n. 团圆；团聚 [ˌriːˈjuːniən] 
+ Unit 2 smell v. (smelt, smelt;smelled, smelled) 闻到；发出......气味 n. 气味；臭味 [smel] 
+ Unit 2 breeze n. 微风；和风 [briːz] 
+ Unit 2 picnic n. & v. 野餐 [ˈpɪknɪk] 
+ Unit 2 coming adj. 即将发生的；下一个的 n. 到来 [ˈkʌmɪŋ] 
+ Unit 2 Macao 澳门 [məˈkaʊ] 
+ Unit 2 Chiang Mai 清迈（泰国城市） [tʃiˈæŋmaɪ] 
+ Unit 2 Egypt 埃及 [ˈiːdʒɪpt] 
+ Unit 2 Scottish adj. 苏格兰的；苏格兰人的 [ˈskɒtɪʃ] 
+ Unit 2 Water Festival 泼水节 [ˈwɔːtə ˈfestəvəl] 
+ Unit 2 Mid-Autumn Festival中秋节 [mɪd ˈɔːtəm] 
+ Unit 2 Mother’s Day 母亲节 [ˈmʌðəz deɪ] 
+ Unit 2 Father’s Day 父亲节 [ˈfɑːðəz deɪ] 
+ Unit 2 Spring Festival 春节 [sprɪŋ ˈfestəvəl] 
+ Unit 2 Big Ben 大本钟 [bɪɡ ben] 
+ Unit 2 Auld Lang Syne 《 友谊地久天长》 [ˌɔːld læŋ ˈsaɪn] 
+ Unit 2 Times Square 时代广场 [taɪmz skweə] 
+ Unit 2 Sham El-Nessim （埃及） 闻风节 [ʃæm elˈnesɪm]. 
+九年级 Unit 3 restroom n.（美）洗手间；公共厕所 /'restru:m/ 
+九年级 Unit 3 stamp n.邮票；印章 /stæmp/ 
+九年级 Unit 3 bookstore n.书店 /'bʊkstɔ:(r)/ 
+九年级 Unit 3 beside prep.在...旁边；在...附近 /bɪ'saɪd/ 
+九年级 Unit 3 postcard n.明信片 /'pəʊstkɑ:(r)d/ 
+九年级 Unit 3 pardon v.原谅 interj.请再说一遍 /'pɑ:(r)dn/ 
+九年级 Unit 3 washroom n.洗手间；厕所 /'wɒʃru:m/，
+/'wɑ:ʃru:m/ 
+九年级 Unit 3 bathroom n.浴室；洗手间 /'bɑ:θru:m/ 
+九年级 Unit 3 normally adv.通常；正常情况下 /'nɔ:(r)məli/ 
+九年级 Unit 3 rush v.& n.仓促；急促 /rʌʃ/ 
+九年级 Unit 3 suggest v.建议；提议 /sə'dʒest/ 
+九年级 Unit 3 pass by 路过；经过 
+九年级 Unit 3 staff n.管理人员；职工 /stɑ:f/,/stæf/ 
+九年级 Unit 3 grape n.葡萄 /greɪp/ 
+ Unit 3 policeman n.（pl. policemen）男警察 
+九年级 Unit 3 central adj.中心的；中央的 /'sentrəl/ 
+九年级 Unit 3 nearby adj.附近的；邻近的 adv.在附近；附近 /,nɪə'baɪ/ 
+九年级 Unit 3 pardon me 抱歉，对不起；什么，请再说一遍 
+九年级 Unit 3 mail v.邮寄；发电子邮件 n.邮件；信件 /meɪl/ 
+九年级 Unit 3 east adj.东方的；东部的 adv.向东；朝东 n.东；东方 /i:st/ 
+九年级 Unit 3 fascinating adj.迷人的；极有吸引力的 /'fæsɪneɪtɪŋ/ 
+九年级 Unit 3 inexpensive adj.不昂贵的 /,ɪnɪk'spensɪv/ 
+九年级 Unit 3 uncrowded adj.不拥挤的；人少的 /ʌn'kraʊdɪd/ 
+九年级 Unit 3 convenient adj.便利的；方便的 /kən'vi:niənt/ 
+九年级 Unit 3 mall n.商场；购物中心 /mɔ:l/ 
+九年级 Unit 3 clerk n.职员 /klɑ:k/， /klɜ:rk/ 
+九年级 Unit 3 corner n.拐角；角落 /'kɔ:(r)nə(r)/ 
+九年级 Unit 3 politely adv.礼貌地；客气地 /pə'laɪtli/ 
+九年级 Unit 3 request n.&.v.要求；请求 /rɪ'kwest/ 
+九年级 Unit 3 direction n.方向；方位 /də'rekʃn, daɪ'rekʃn/ 
+九年级 Unit 3 correct adj.正确的；恰当的 /kə'rekt/ 
+九年级 Unit 3 polite adj.有礼貌的；客气的 /pə'laɪt/ 
+九年级 Unit 3 direct adj.直接的；直率的 /də'rekt, daɪ'rekt/ 
+九年级 Unit 3 speaker n.讲（某种语言）的人；发言者 /'spi:kə(r)/ 
+九年级 Unit 3 whom pron.谁；什么人 /hu:m/ 
+九年级 Unit 3 impolite adj.不礼貌的；粗鲁的 /,ɪmpə'laɪt/ 
+九年级 Unit 3 address n.住址；地址；通讯处 /ə'dres/, /'ædres/ 
+九年级 Unit 3 underground adj.地下的 n.地铁 /'ʌndə(r)graʊnd/ 
+九年级 Unit 3 parking lot 停车场；停车区 
+九年级 Unit 3 course n.课程；学科 /kɔ:(r)s/ 
+九年级 Unit 3 Italian adj.意大利（人）的 n.意大利人；意大利语 /ɪ'tæliən/ 
+九年级 Unit 4 humorous adj.有幽默感的；滑稽有趣的 /'hju:mərəs/ 
+九年级 Unit 4 silent adj.不说话的；沉默的 /'saɪlənt/ 
+九年级 Unit 4 helpful adj.有用的；有帮助的 /'helpfl/ 
+九年级 Unit 4 from time to time 时常；有时 
+九年级 Unit 4 score n.& v.得分；进球 /skɔ:(r)/ 
+九年级 Unit 4 background n.背景 /'bækgraʊnd/ 
+九年级 Unit 4 interview v.采访；面试 n.面试；访谈 /'ɪntə(r)vju:/ 
+九年级 Unit 4 Asian adj.亚洲（人）的； n.亚洲人 /'eɪʃn, 'eɪʒn / 
+九年级 Unit 4 deal v.对付；对待 /di:l/ 
+九年级 Unit 4 deal with 应对；处理 
+九年级 Unit 4 shyness n.害羞；腼腆 /'ʃaɪnəs/ 
+九年级 Unit 4 dare v.敢于；胆敢 /deə/, /der/ 
+九年级 Unit 4 ton n.吨；（pl.）大量；许多 /tʌn/ 
+九年级 Unit 4 private adj.私人的；私密的 /'praɪvət/ 
+九年级 Unit 4 guard n.警卫；看守 v.守卫；保卫 /ga:(r)d/ 
+九年级 Unit 4 require v.需要；要求 /rɪ'kwaɪə(r)/ 
+九年级 Unit 4 European adj.欧洲（人）的 n.欧洲人 /,jʊ(ə)rə'pi:ən/ 
+九年级 Unit 4 African adj.非洲（人）的 n.非洲人 /'æfrɪkən/ 
+九年级 Unit 4 British adj.英国（人）的 /'brɪtɪʃ/ 
+九年级 Unit 4 insect n.昆虫 /'ɪnsekt/ 
+九年级 Unit 4 ant n.蚂蚁 /ænt/ 
+九年级 Unit 4 speech n.讲话；发言 /spi:tʃ/ 
+九年级 Unit 4 public n.民众 adj.公开的；公众的 /'pʌblɪk/ 
+九年级 Unit 4 in public 公开地；在别人（尤指生人）面前 
+ Unit 4 spider n. 蜘蛛 
+九年级 Unit 4 seldom adv.不常；很少 /'seldəm/ 
+九年级 Unit 4 influence v.& n.影响 /'ɪnfluəns/ 
+九年级 Unit 4 absent adj.缺席；不在 /'æbsənt/ 
+九年级 Unit 4 fail v.不及格；失败；未能（做到） /feɪl/ 
+九年级 Unit 4 examination n.考试；审查 /ɪg,zæmɪ'neɪʃn/ 
+九年级 Unit 4 boarding school 寄宿学校 /'bɔ:(r)dɪŋ/ 
+九年级 Unit 4 in person 亲身；亲自 
+九年级 Unit 4 exactly adv.确切地；精确地 /ɪg'zæktli/ 
+九年级 Unit 4 pride n.自豪；骄傲 /praɪd/ 
+九年级 Unit 4 take pride in 为……感到自豪 
+九年级 Unit 4 proud adj.自豪的；骄傲的 /praud/ 
+九年级 Unit 4 be proud of 为……骄傲；感到自豪 
+九年级 Unit 4 general adj.总的；普遍的；常规的 n.将军 /'dʒenrəl/ 
+九年级 Unit 4 introduction n.介绍 /'ɪntrə'dʌkʃn/ 
+九年级 Unit 5 chopstick n.筷子 /'tʃɒpstɪk/，
+/'tʃɑ:pstɪk/ 
+九年级 Unit 5 coin n.硬币 /kɔɪn/ 
+九年级 Unit 5 fork n.餐叉；叉子 /fɔ:(r)k/ 
+九年级 Unit 5 blouse n.（女式）短上衣；衬衫 /blaʊz/，/blaʊs/ 
+九年级 Unit 5 silver n.银；银器 adj.银色的 /'sɪlvə(r)/ 
+九年级 Unit 5 glass n.玻璃 /glɑ:s/，/glæs/ 
+九年级 Unit 5 cotton n.棉；棉花 /'kɒtn/,/'kɑ:tn/ 
+九年级 Unit 5 steel n.钢；钢铁 /sti:l/ 
+九年级 Unit 5 fair n.展览会；交易会 /feə(r)/，/fer/ 
+九年级 Unit 5 environmental adj.自然环境的；有关环境的 /ɪn,vaɪrən'mentl/ 
+九年级 Unit 5 grass n.草；草地 /grɑ:s/，/græs/ 
+九年级 Unit 5 leaf（pl. leaves /li:vz/） n.叶；叶子 /li:f/ 
+九年级 Unit 5 produce v.生产；制造；出产 /prə'dju:s/，
+/prə'du:s/ 
+九年级 Unit 5 widely adv.广泛地；普遍地 /'waɪdli/ 
+九年级 Unit 5 be known for 以……闻名；为人知晓 
+九年级 Unit 5 process v.加工；处理 n.过程 /'prəʊses/ 
+九年级 Unit 5 pack v.包装；装箱 /pæk/ 
+ Unit 5 business n. 生意；商业 
+九年级 Unit 5 product n.产品；制品 /'prɒdʌkt/，
+/'prɑ:dʌkt/ 
+九年级 Unit 5 France 法国 /fra:ns/，/fræns/ 
+九年级 Unit 5 no matter 不论；无论 
+九年级 Unit 5 local adj.当地的；本地的 /'ləʊkl/ 
+九年级 Unit 5 brand n.品牌；牌子 /brænd/ 
+九年级 Unit 5 avoid v.避免；回避 /ə'vɔɪd/ 
+九年级 Unit 5 handbag n.小手提包 /'hændbæg/ 
+九年级 Unit 5 mobile adj.可移动的；非固定的 /'məʊbaɪl/, /'məʊbl/ 
+九年级 Unit 5 everyday adj.每天的；日常的 /'ecrideɪ/ 
+九年级 Unit 5 boss n.老板；上司 /bɒs/，/bɑ:s/ 
+九年级 Unit 5 Germany 德国 /'dʒɜ:(r)məni/ 
+九年级 Unit 5 surface n.表面；表层 /'sɜ:(r)fɪs/ 
+九年级 Unit 5 material n.材料；原料 /mə'tɪəriəl/ 
+ Unit 5 punish v. 处罚；惩罚 
+九年级 Unit 5 traffic n.交通；路上行驶的车辆 /'træfɪk/ 
+九年级 Unit 5 postman n.邮递员 /'pəʊstmən/ 
+九年级 Unit 5 cap n.（尤指有帽舌的）帽子 /kæp/ 
+九年级 Unit 5 glove n.（分手指的）手套 /glʌv/ 
+九年级 Unit 5 international adj.国际的 /,ɪntə(r)'næʃnəl/ 
+九年级 Unit 5 competitor n.参赛者；竞争者 /kəm'petɪtə(r)/ 
+九年级 Unit 5 its adj.它的 /ɪts/ 
+九年级 Unit 5 form n.形式；类型 /fɔ:(r)m/ 
+九年级 Unit 5 clay n.黏土；陶土 /kleɪ/ 
+九年级 Unit 5 balloon n.气球 /bə'lu:n/ 
+九年级 Unit 5 paper cutting 剪纸 
+九年级 Unit 5 scissors n.（pl.） 剪刀 /'sɪzə(r)z/ 
+九年级 Unit 5 lively adj.生气勃勃的；（色彩）鲜艳的 /'laɪvli/ 
+九年级 Unit 5 fairy tale n.童话故事 /'feəri/，/'feri/；/teɪl/ 
+九年级 Unit 5 historical adj.（有关）历史的 /hɪ'stɒrɪkl/，
+/hɪ'stɔ:rɪkl/ 
+九年级 Unit 5 heat n.热；高温 v.加热；变热 /hi:t/ 
+九年级 Unit 5 polish v.磨光；修改；润色 /'pɒlɪʃ/，/'pɑ:lɪʃ/ 
+九年级 Unit 5 complete v.完成 /kəm'pli:t/ 
+九年级 Unit 5 Korea 朝鲜；韩国 /kə'ri:ə/ 
+九年级 Unit 5 Switzerland 瑞士 /'swɪtsə(r)lənd/ 
+九年级 Unit 5 San Francisco 圣弗朗西斯科（旧金山，美国城市） /,sæn frən'sɪskəʊ/ 
+九年级 Unit 6 heel n.鞋跟；足跟 /hi:l/ 
+九年级 Unit 6 scoop n.勺；铲子 /sku:p/ 
+九年级 Unit 6 electricity n.电；电能 /ɪ,lek'trɪsəti/ 
+九年级 Unit 6 style n.样式；款式 /staɪl/ 
+九年级 Unit 6 project n.项目；工程 /'prɒdʒekt/，
+/'prɑ:dʒekt/ 
+九年级 Unit 6 pleasure n.高兴；愉快 /'pleʒə(r)/ 
+九年级 Unit 6 zipper n.（= zip） 拉链；拉锁 /'zɪpə(r)/ 
+九年级 Unit 6 daily adj.每日的；日常的 /'deɪli/ 
+九年级 Unit 6 have a point 有道理 
+九年级 Unit 6 website n.网站 /'websaɪt/ 
+九年级 Unit 6 pioneer n.先锋；先驱 /,paɪə'nɪə/，
+/,paɪə'nɪr/ 
+九年级 Unit 6 list v.列表；列清单 n.名单；清单 /lɪst/ 
+九年级 Unit 6 mention v.提到；说到 /'menʃn/ 
+ Unit 6 spread v. (spread, spread)传播；展开 n. 蔓延；传播 
+九年级 Unit 6 accidental adj.意外的；偶然的 /,æksɪ'dentl/ 
+九年级 Unit 6 by accident 偶然；意外地 
+九年级 Unit 6 ruler n.统治者； 支持者 /'ru:lə/ 
+九年级 Unit 6 boil v.煮沸；烧开 /bɔɪl/ 
+九年级 Unit 6 remain v.保持不变；剩余 /rɪ'meɪn/ 
+九年级 Unit 6 saint n.圣人；圣徒 /seɪnt/ 
+九年级 Unit 6 national adj.国家的；民族的 /'næʃnəl/ 
+九年级 Unit 6 trade n.贸易；交易 v.做买卖；从事贸易 /treɪd/ 
+九年级 Unit 6 popularity n. 受欢迎；普及 
+九年级 Unit 6 doubt n.疑惑；疑问 v.怀疑 /daʊt/ 
+九年级 Unit 6 without doubt 毫无疑问；的确 
+九年级 Unit 6 fridge n.冰箱 /frɪdʒ/ 
+九年级 Unit 6 low adj.低的；矮的 /ləʊ/ 
+九年级 Unit 6 somebody pron.某人 n.重要人物 /'sʌmbədi/ 
+ Unit 6 wolf n. 狼 
+ Unit 6 warn v. 警告；告诫 
+九年级 Unit 6 translate v.翻译 /træns'leɪt/ 
+九年级 Unit 6 lock v.锁上；锁住 n.锁 /lɒk/, /lɑ:k/ 
+ Unit 6 ring v.（rang, rung）（使）发出钟声或铃声；打电话 
+九年级 Unit 6 earthquake n.地震 /'ɜ:(r)θkweɪk/ 
+九年级 Unit 6 sudden adj.突然（的） /'sʌdən/ 
+九年级 Unit 6 all of a sudden 突然；猛地 
+九年级 Unit 6 bell n.钟（声）；铃（声） /bel/ 
+九年级 Unit 6 biscuit n.饼干 /'bɪskɪt/ 
+九年级 Unit 6 cookie n.曲奇饼 /'kʊki/ 
+九年级 Unit 6 musical adj.音乐的；有音乐天赋的 /'mju:zɪkl/ 
+九年级 Unit 6 instrument n.器械；仪器；工具 /'ɪnstrəmənt/ 
+九年级 Unit 6 crispy adj.脆的；酥脆的 /'krɪspi/ 
+九年级 Unit 6 salty adj.咸的 /'sɔ:lti/ 
+九年级 Unit 6 sour adj.酸的；有酸味的 /'saʊə(r)/ 
+九年级 Unit 6 by mistake 错误地；无意中 
+九年级 Unit 6 customer n.顾客；客户 /'kʌstəmə (r)/ 
+九年级 Unit 6 the Olympics 奥林匹克运动会 /ə'lɪmpɪks/ 
+九年级 Unit 6 Canadian adj.加拿大的；加拿大人的 n.加拿大人 /kə'neɪdiən/ 
+九年级 Unit 6 divide v.分开；分散 /dɪvaɪd/ 
+九年级 Unit 6 divide ... into 把……分开 
+九年级 Unit 6 basket n.篮；筐 /'bɑ:skɪt/，/'bæskɪt/ 
+九年级 Unit 6 not only…but also… 不但……而且 
+九年级 Unit 6 look up to 钦佩；仰慕 
+九年级 Unit 6 hero n.英雄；男主角 /'hɪərəʊ/，/'hɪrəʊ/ 
+九年级 Unit 6 professional adj.职业的；专业的 /prə'feʃənl/ 
+ Unit 6 nearly adv. 几乎 
+九年级 Unit 6 Berlin 柏林（德国城市） /bɜ:(r)'lɪn/ 
+九年级 Unit 6 NBA (National Basketball Association) 国家篮球协会（美国职业篮球联赛） 
+九年级 Unit 6 CBA (China Basketball Association) 中国篮球协会（中国职业篮球联赛） 
+九年级 Unit 7 license n.（= licence） 证；证件 /'laɪsns/ 
+九年级 Unit 7 safety n.安全；安全性 /'seɪfti/ 
+九年级 Unit 7 smoke v.吸烟；冒烟 n.烟 /sməʊk/ 
+九年级 Unit 7 part-time adj.& adv.兼职（的） /,pɑ:(r)t'taɪm/ 
+九年级 Unit 7 pierce v.扎；刺破；穿透 /pɪəs/，/pɪrs/ 
+九年级 Unit 7 earring n.耳环；耳饰 /'ɪərɪŋ/，/'ɪrɪŋ/ 
+九年级 Unit 7 flash n.闪光灯；闪光 v.闪耀；闪光 /flæʃ/ 
+九年级 Unit 7 tiny adj.极小的；微小的 /'taɪni/ 
+九年级 Unit 7 cry v.& n.哭；叫喊 /kraɪ/ 
+九年级 Unit 7 field n.田野；场地 /fi:ld/ 
+九年级 Unit 7 hug n.& v.拥抱；搂抱 /hʌg/ 
+九年级 Unit 7 lift v.举起；抬高 n.电梯；搭便车 /lɪft/ 
+九年级 Unit 7 badly adv.严重地；差；非常 /'bædli/ 
+九年级 Unit 7 talk back 回嘴；顶嘴 
+九年级 Unit 7 awful adj.很坏的；讨厌的 /'ɔ:fl/ 
+九年级 Unit 7 teen n.（13至19岁之间的）青少年 /ti:n/ 
+九年级 Unit 7 regret v.& n.感到遗憾；懊悔 /rɪ'gret/ 
+九年级 Unit 7 poem n.诗；韵文 /'pəʊɪm/ 
+九年级 Unit 7 community n.社区；社团 /kə'mju:nəti/ 
+九年级 Unit 7 keep …away from 避免接近；远离 
+九年级 Unit 7 chance n.机会；可能性 /tʃa:ns/，/tʃæns/ 
+九年级 Unit 7 make one’s own decision 自己做决定 
+九年级 Unit 7 educate v.教育；教导 /'edʒukeɪt/ 
+九年级 Unit 7 manage v.完成（困难的事）；应付（困难局面） /'mænɪdʒ/ 
+九年级 Unit 7 society n.社会 /sə'saɪəti/ 
+九年级 Unit 7 get in the way of 挡……的路；妨碍 
+九年级 Unit 7 support v.& n.支持 /sə'pɔ:(r)t/ 
+ Unit 7 end up 最终成为；最后处于 
+九年级 Unit 7 enter v.进来；进去 /'entə(r)/ 
+九年级 Unit 7 choice n.选择；挑选 /tʃɔɪs/ 
+九年级 Unit 8 whose adj.& pron.谁的 /hu:z/ 
+九年级 Unit 8 truck n.卡车；货车 /trʌk/ 
+九年级 Unit 8 rabbit n.兔；野兔 /'ræbɪt/ 
+九年级 Unit 8 attend v.出席；参加 /ə'tend/ 
+九年级 Unit 8 valuable adj.贵重的；很有用的；宝贵的 /'væljuəbl/ 
+九年级 Unit 8 pink adj.粉红色的 n.粉红色 /pɪŋk/ 
+九年级 Unit 8 anybody pron.任何人 /'enibɒdi/，/'enibɑ:di/ 
+ Unit 8 déjà vu n. 似曾经历过的感觉；似曾相识 
+ Unit 8 mystery n. 奥秘；神秘事物 
+ Unit 8 be known as 被称为；被认为是 
+ Unit 8 theory n. 学说；理论；看法 
+ Unit 8 familiar adj. 熟悉的；常见到的 
+ Unit 8 hidden adj. 秘密的；隐藏的 
+ Unit 8 power n. 能力；权力 
+ Unit 8 link n. 联系；连接 
+ Unit 8 parallel adj. 平行（的）；同时发生的 
+ Unit 8 universe n. 宇宙 
+ Unit 8 parallel universes 平行宇宙 
+ Unit 8 mix-up n. 混乱；杂乱 
+ Unit 8 generally speaking一般来说 
+ Unit 8 trick n. 引起错觉（或记忆紊乱）的事物；诡计 v. 欺骗；欺诈 
+ Unit 8 unsolved adj. 未解决的；未破解的 
+九年级 Unit 8 laboratory n.实验室 /lə'bɒrətri/，
+/læbrətɔ:ri/ 
+九年级 Unit 8 outdoors adv.在户外；在野外 /,aʊt'dɔ:(r)z/ 
+九年级 Unit 8 coat n.外套；外衣 /kəʊt/ 
+九年级 Unit 8 sleepy adj.困倦的；瞌睡的 /'sli:pi/ 
+九年级 Unit 8 land v.着陆；降落 /lænd/ 
+九年级 Unit 8 alien n.外星人 /'eɪliən/ 
+九年级 Unit 8 run after 追逐；追赶 
+九年级 Unit 8 suit n.西服；套装 v.适合 /sju:t/, /su:t/ 
+九年级 Unit 8 at the same time 同时；一起 
+九年级 Unit 8 circle n.圆圈 v.圈出 /'sɜ:(r)kl/ 
+九年级 Unit 8 Britain n.（= Great Britain） 大不列颠 /'brɪtn/ 
+九年级 Unit 8 receive v.接待；接受；收到 /rɪ'si:v/ 
+九年级 Unit 8 historian n.历史学家；史学工作者 /hɪ'stɔ:riən/ 
+九年级 Unit 8 temple n.庙宇；寺庙；圣殿 
+九年级 Unit 8 leader n.领导；领袖 /'li:də (r)/ 
+九年级 Unit 8 midsummer n.仲夏；中夏 /,mɪd'sʌmə(r)/ 
+九年级 Unit 8 medical adj.医疗的；医学的 /'medɪkl/ 
+九年级 Unit 8 purpose n.目的；目标 /'pɜ:(r)pəs/ 
+九年级 Unit 8 prevent v.阻止；阻挠 /prɪ'vent/ 
+九年级 Unit 8 energy n.力量；精力 /'enə(r)dʒɪ/ 
+九年级 Unit 8 position n.位置；地方 /pə'zɪʃn/ 
+九年级 Unit 8 burial n.埋葬；安葬 /'beriəl/ 
+九年级 Unit 8 honor （= honour） v.尊重；表示敬意 n.荣幸 ；荣誉 /'ɒnə/，/'ɑ:nər/ 
+九年级 Unit 8 ancestor n.祖宗；祖先 /'ænsestə(r)/ 
+九年级 Unit 8 victory n.胜利；成功 /'vɪktəri/ 
+九年级 Unit 8 enemy n.敌人；仇人 /'enəmi/ 
+九年级 Unit 8 period n.一段时间；时期 /'pɪəriəd/，/'pɪriəd/ 
+九年级 Unit 8 Stonehenge 巨石阵 /,stəʊn'hendʒ/ 
+九年级 Unit 9 prefer v.更喜欢 /prɪf'ɜ:(r)/ 
+九年级 Unit 9 lyrics n.（pl.） 歌词 /'lɪrɪks/ 
+九年级 Unit 9 Australian adj.澳大利亚（人）的 n.澳大利亚人 /ɒ'streɪliən/ 
+九年级 Unit 9 electronic adj.电子的；电子设备的 /ɪ,lek'trɒnɪk/，/ɪ,lek'trɑ:nɪk/ 
+九年级 Unit 9 suppose v.推断；料想 /sə'pəʊz/ 
+九年级 Unit 9 smooth adj.悦耳的；平滑的 /smu:ð/ 
+九年级 Unit 9 spare adj.空闲的；不用的 v.抽出；留出 /speə/，/sper / 
+九年级 Unit 9 director n.导演；部门负责人 /də'rektə(r)/，
+/daɪ'rektə(r)/ 
+九年级 Unit 9 case n.情况；实情 /keɪs/ 
+九年级 Unit 9 in that case 既然那样；假使那样的话 
+九年级 Unit 9 war n.战争；战争状态 /wɔ:(r)/ 
+九年级 Unit 9 stick v.粘贴；将……刺入 /stɪk/ 
+九年级 Unit 9 stick to 坚持；固守 
+九年级 Unit 9 down adj.悲哀；沮丧 /daʊn/ 
+九年级 Unit 9 dialog(=dialogue) n.对话；对白 /'daɪəlɒg/，
+/'daɪəlɑ:g/ 
+九年级 Unit 9 ending n.（故事、电影等的）结尾；结局 /'endɪŋ/ 
+九年级 Unit 9 documentary n.纪录片 /,dɒkju'mentri/，/,dɑ:kju'mentri/ 
+九年级 Unit 9 drama n.戏；剧 /'drɑ:mə/ 
+九年级 Unit 9 plenty pron.大量；众多 /'plenti/ 
+九年级 Unit 9 plenty of 大量；充足 
+九年级 Unit 9 shut v.（shut, shut） 关闭；关上 /ʃʌt/ 
+九年级 Unit 9 shut off 关闭；停止运转 
+九年级 Unit 9 superhero n.超级英雄 /'su:pə(r),hɪərəʊ/ 
+九年级 Unit 9 once in a while 偶尔地；间或 
+九年级 Unit 9 intelligent adj.有才智的；聪明的 /ɪn'telɪdʒənt/ 
+九年级 Unit 9 sense v.感觉到；意识到 n.感觉；意识 /sens/ 
+九年级 Unit 9 sadness n.悲伤； 悲痛 /'sædnəs/ 
+九年级 Unit 9 pain n.痛苦；疼痛； 苦恼 /peɪn/ 
+九年级 Unit 9 reflect v.反映；映出 /rɪ'flekt/ 
+ Unit 9 moving adj. 动人的；令人感动的 
+九年级 Unit 9 perform v.表演；执行 /pə(r)'fɔ:(r)m/ 
+九年级 Unit 9 lifetime n.一生；有生之年 /'laɪftaɪm/ 
+ Unit 9 by the end of 在（某时间点）以前 
+九年级 Unit 9 pity n.遗憾；怜悯 v.同情；怜悯 /'pɪti/ 
+九年级 Unit 9 total n.总数；合计 adj.总的；全体的 /'təʊtl/ 
+九年级 Unit 9 in total 总共；合计 
+九年级 Unit 9 master n.大师；能手；主人 v.掌握 /'mɑ:stə/，/'mæstər/ 
+九年级 Unit 9 praise v.& n.表扬；赞扬 /preɪz/ 
+九年级 Unit 9 recall v.回忆起；回想起 /rɪ'kɔ:l/ 
+九年级 Unit 9 wound n.伤；伤口；创伤 v.使（身体）受伤；伤害 /wu:nd/ 
+九年级 Unit 9 painful adj.令人痛苦的；令人疼痛的 /'peɪnfl/ 
+九年级 Unit 9 World War II 第二次世界大战 
+ Unit 9 Men in Black 《黑衣人》（电影名） 
+ Unit 9 Kung Fu Panda 《功夫熊猫》（电影名） 
+ Unit 9 Titanic 《泰坦尼克号》（电影名） 
+ Unit 9 March of the Penguins 《帝企鹅日记》（电影名） 
+ Unit 9 Spider-Man 《蜘蛛侠》（电影名） 
+九年级 Unit 10 bow v.& n.鞠躬 /baʊ/ 
+九年级 Unit 10 kiss v.& n.亲吻；接吻 /kɪs/ 
+九年级 Unit 10 greet v.和……打招呼；迎接 /gri:t/ 
+九年级 Unit 10 relaxed adj.放松的；自在的 /rɪ'lækst/ 
+九年级 Unit 10 value v.重视；珍视 n.价值 /'vælju:/ 
+九年级 Unit 10 drop by 顺便访问；随便进入 
+九年级 Unit 10 capital n.首都；国都 /'kæpɪtl/ 
+九年级 Unit 10 after all 毕竟；终归 
+九年级 Unit 10 noon n.正午；中午 /nu:n/ 
+九年级 Unit 10 mad adj.很生气；疯的 /mæd/ 
+九年级 Unit 10 get mad 大动肝火；气愤 
+九年级 Unit 10 effort n.努力；尽力 /'efə(r)t/ 
+九年级 Unit 10 make an effort 作出努力 
+九年级 Unit 10 passport n.护照 /'pɑ:spɔ:t/，/'pæspɔ:rt/ 
+九年级 Unit 10 clean…off 把……擦掉 
+九年级 Unit 10 chalk n.粉笔 /tʃɔ:k/ 
+九年级 Unit 10 blackboard n.黑板 /'blækbɔ:(r)d/ 
+九年级 Unit 10 northern adj.北方的；北部的 /'nɔ:(r)ðə(r)n/ 
+九年级 Unit 10 coast n.海岸；海滨 /kəʊst/ 
+九年级 Unit 10 season n.季；季节 /'si:zn/ 
+九年级 Unit 10 knock v.敲；击 n.敲击声；敲击 /nɒk/，/nɑ:k/ 
+九年级 Unit 10 eastern adj.东方的；东部的 /'i:stə(r)n/ 
+九年级 Unit 10 take off 脱下（衣服）；（飞机等）起飞 
+九年级 Unit 10 worth adj.值得；有……价值（的） /wɜ:(r)θ/ 
+九年级 Unit 10 manner n.方式；方法（pl.） 礼貌；礼仪 /'mænə(r)/ 
+九年级 Unit 10 empty adj.空的；空洞的 /'empti/ 
+九年级 Unit 10 basic adj.基本的；基础的 /'beɪsɪk/ 
+九年级 Unit 10 exchange n.& v.交换 /ɪks'tʃeɪndʒ/ 
+九年级 Unit 10 go out of one’s way 特地；格外努力 
+九年级 Unit 10 make ... feel at home 使（某人）感到宾至如归 
+九年级 Unit 10 teenage adj.十几岁的；青少年的 /'ti:neɪdʒ/ 
+九年级 Unit 10 granddaughter n.（外）孙女 /'grændɔ:tə(r)/ 
+九年级 Unit 10 behave v.表现；举止 /bɪ'heɪv/ 
+九年级 Unit 10 except prep.除……之外 conj.除了；只是 /ɪk'sept/ 
+九年级 Unit 10 elbow n.肘；胳膊 /'elbəʊ/ 
+九年级 Unit 10 gradually adv.逐步地；渐进地 /'grædʒuəli/ 
+九年级 Unit 10 get used to . 习惯于 
+九年级 Unit 10 suggestion n.建议 /sə'dʒestʃən/ 
+九年级 Unit 10 Brazil 巴西 /brə'zil/ 
+九年级 Unit 10 Mexico 墨西哥 /'meksɪkəʊ/ 
+九年级 Unit 10 Cali 卡利（哥伦比亚城市） /'kɑ:li/ 
+九年级 Unit 10 Colombia 哥伦比亚（南美洲国家） /kə'lʌmbɪə/ 
+九年级 Unit 10 Lausanne 洛桑（瑞士城市） /ləʊ'zæn/，/ləʊ'zɑ:n/ 
+九年级 Unit 10 Norway 挪威 /'nɔ:(r)weɪ/ 
+九年级 Unit 11 would than 宁愿 
+九年级 Unit 11 rather adv.相当；相反 /'rɑ:ðə/，/'ræðər/ 
+九年级 Unit 11 drive v.迫使 /draɪv/ 
+九年级 Unit 11 drive sb. crazy/mad 使人发疯/发狂 
+九年级 Unit 11 the more … the more… 越……越……；愈……愈…… 
+九年级 Unit 11 lately adv.最近；不久前 /'leɪtli/ 
+九年级 Unit 11 be friends with sb. 成为某人的朋友 
+九年级 Unit 11 leave out 忽略；不提及；不包括 
+九年级 Unit 11 friendship n.友谊；友情 /'frendʃɪp/ 
+九年级 Unit 11 king n.君主；国王 /kɪŋ/ 
+九年级 Unit 11 prime adj.首要的；基本的 /praɪm/ 
+九年级 Unit 11 minister n.大臣；部长 /'mɪnɪstə(r)/ 
+九年级 Unit 11 prime minister 首相；大臣 
+九年级 Unit 11 banker n.银行家 /'bæŋkə(r)/ 
+九年级 Unit 11 fame n.名声；声誉 /feɪm/ 
+九年级 Unit 11 pale adj.苍白的；灰白的 /peɪl/ 
+九年级 Unit 11 queen n.王后；女王 /kwi:n/ 
+九年级 Unit 11 call in 召来；叫来 
+九年级 Unit 11 examine v.（仔细地）检查；检验 /ɪg'zæmɪn/ 
+九年级 Unit 11 nor conj.& adv.也不 /nɔ:(r)/ 
+九年级 Unit 11 neither ... nor 既不……也不 
+九年级 Unit 11 palace n.王宫；宫殿 /'pæləs/ 
+九年级 Unit 11 wealth n.财富 /welθ/ 
+九年级 Unit 11 to start with 起初；开始时 
+九年级 Unit 11 grey adj.（天空）阴沉的；昏暗的；灰色的 /greɪ/ 
+九年级 Unit 11 lemon n.柠檬 /'lemən/ 
+九年级 Unit 11 uncomfortable adj.使人不舒服的；令人不舒服的 /ʌn'kʌmfə(r)təbl/ 
+九年级 Unit 11 weight n.重量；分量 /weɪt/ 
+九年级 Unit 11 shoulder n.肩；肩膀 /'ʃəʊldə(r)/ 
+九年级 Unit 11 goal n.球门；射门；目标 /gəʊl/ 
+九年级 Unit 11 let…down 使失望 
+九年级 Unit 11 coach n.教练；私人教师 /kəʊtʃ / 
+九年级 Unit 11 kick v.踢；踹 /kɪk/ 
+九年级 Unit 11 kick sb. off 开除某人 
+九年级 Unit 11 be hard on sb 对某人苛刻；对某人要求严格 
+九年级 Unit 11 besides adv.而且 /bɪ'saɪdz/ 
+九年级 Unit 11 teammate n.同队队员；队友 /'ti:mmeɪt/ 
+九年级 Unit 11 courage n.勇敢；勇气 /'kʌrɪdʒ/，/'kɜ:rɪdʒ/ 
+九年级 Unit 11 rather than 而不是 
+九年级 Unit 11 guy n.（非正式）家伙 （pl.）伙计们 /gaɪ/ 
+九年级 Unit 11 pull v.拉；拖 /pʊl/ 
+九年级 Unit 11 pull together 齐心协力；通力合作 
+九年级 Unit 11 relief n.轻松；解脱 /rɪ'li:f/ 
+九年级 Unit 11 nod v.点头 /nɒd/，/nɑ:d/ 
+九年级 Unit 11 agreement n.（意见或看法）一致；同意 /ə'gri:mənt/ 
+九年级 Unit 11 fault n.过失；缺点 /fɔ:lt/ 
+九年级 Unit 11 disappoint v.使失望 /,dɪsə'pɔɪnt/ 
+九年级 Unit 12 unexpected adj.出乎意料的；始料不及的 /,ʌnɪk'spektɪd/ 
+九年级 Unit 12 by the time ... 在……以前 
+九年级 Unit 12 backpack n.背包；旅行包 /'bækpæk/ 
+九年级 Unit 12 oversleep v.睡过头；睡得太久 /,əʊv(r)'sli:p/ 
+九年级 Unit 12 give ... a lift 捎……一程 
+九年级 Unit 12 block n.街区 /blɒk/，/blɑ:k/ 
+九年级 Unit 12 in line with （与……）成一排 
+九年级 Unit 12 worker n.工作者；工人 /'wɜ:(r)kə(r)/ 
+九年级 Unit 12 stare v.盯着看；凝视 /steə/，/ster/ 
+九年级 Unit 12 disbelief n.不信；怀疑 /,dɪsbɪ'li:f/ 
+九年级 Unit 12 above prep.在……上面 adv.在上面 /ə'bʌv/ 
+九年级 Unit 12 burn v.着火；燃烧 /bɜ:(r)n/ 
+九年级 Unit 12 burning adj.着火的；燃烧的 /bɜ:(r)nɪŋ/ 
+九年级 Unit 12 alive adj.活着；有生气的 /ə'laɪv/ 
+九年级 Unit 12 airport n.机场 /'eəpɔ:(r)t/ 
+九年级 Unit 12 till prep.& conj.到；直到 /tɪl/ 
+九年级 Unit 12 west adv.向西；朝西 adj.向西的；西部的 n.西；西方 /west/ 
+ Unit 12 dead adj. 死的；失去生命的 
+九年级 Unit 12 cream n.奶油；乳脂 /kri:m/ 
+九年级 Unit 12 workday n.工作日 /'wɜ:(r)kdeɪ/ 
+九年级 Unit 12 show up 赶到； 露面 
+九年级 Unit 12 bean n.豆；豆荚 /bi:n/ 
+九年级 Unit 12 market n.市场；集市 /'mɑ:(r)kɪt/ 
+九年级 Unit 12 fool n.蠢人；傻瓜 v.愚弄 /fu:l/ 
+九年级 Unit 12 costume n.（特定场合穿的）服装；装束 /'kɒstju:m/，/'kɑ:stju:m/ 
+九年级 Unit 12 embarrassed adj.窘迫的；害羞的 /ɪm'bærəst/ 
+九年级 Unit 12 costume party 化装舞会 
+九年级 Unit 12 announce v.宣布；宣告 /ə'naʊns/ 
+九年级 Unit 12 spaghetti n.意大利面条 /spə'geti/ 
+九年级 Unit 12 hoax n.骗局；恶作剧 /həʊks/ 
+九年级 Unit 12 sell out 卖光 
+九年级 Unit 12 discovery n.发现；发觉 /dɪ'skʌvəri/ 
+九年级 Unit 12 lady n.女士；女子 /'leɪdi/ 
+九年级 Unit 12 cancel v.取消；终止 /'kænsl/ 
+九年级 Unit 12 officer n.军官；官员 /'ɒfɪsə/，/'ɑ:fɪsər/ 
+九年级 Unit 12 believable adj.可相信的；可信任的 /bɪ'li:vəbl/ 
+九年级 Unit 12 disappear v.消失； 不见 /,dɪsə'pɪə/ 
+九年级 Unit 12 embarrassing adj.使人害羞的（难堪的或惭愧的） /ɪm'bærəsɪŋ/ 
+九年级 Unit 12 New Zealand 新西兰 /,nju:'zi:lənd/ 
+九年级 Unit 12 Italy 意大利 /'ɪtəli/ 
+九年级 Unit 12 Mars 火星 /mɑ:(r)z/ 
+九年级 Unit 13 litter v.乱扔 n.垃圾；废弃物 /'lɪtə(r)/ 
+九年级 Unit 13 fisherman n.渔民；钓鱼的人 /'fɪʃə(r)mən/ 
+九年级 Unit 13 coal n.煤；煤块 /kəʊl/ 
+九年级 Unit 13 ugly adj.丑陋的；难看的 /'ʌgli/ 
+九年级 Unit 13 advantage n.优点；有利条件 /əd'vɑ:ntɪdʒ/，
+/əd'væntɪdʒ/ 
+九年级 Unit 13 cost v.花费 n.花费；价钱 /kɒst/, /kɔ:st/ 
+九年级 Unit 13 wooden adj.木制的；木头的 /'wʊdn/ 
+九年级 Unit 13 plastic adj.塑料的 n.塑料；塑胶 /'plæstɪk/ 
+九年级 Unit 13 takeway n.外卖食物 /'teɪkəweɪ/ 
+九年级 Unit 13 bin n.垃圾箱 /bɪn/ 
+九年级 Unit 13 shark n.鲨鱼 /ʃɑ:(r)k/ 
+九年级 Unit 13 fin n.（鱼）鳍 /fɪn/ 
+九年级 Unit 13 cruel adj.残酷的；残忍的 /'kru:əl/ 
+九年级 Unit 13 harmful adj.有害的 /'hɑ:(r)mfl/ 
+九年级 Unit 13 be harmful to 对……有害 
+九年级 Unit 13 at the top of 在……顶部或顶端 
+九年级 Unit 13 chain n.链子；链条 /tʃeɪn/ 
+九年级 Unit 13 the food chain 食物链 
+九年级 Unit 13 ecosystem n.生态系统 /'i:kəʊ,sɪstəm/ 
+九年级 Unit 13 industry n.工业；行业 /'ɪndəstri/ 
+九年级 Unit 13 law n.法律；法规 /lɔ:/ 
+九年级 Unit 13 scientific adj.科学上的；科学的 /,saɪən'tɪfɪk/ 
+ Unit 13 present adj. 现在的n. 现在；礼物 
+九年级 Unit 13 take part in 参加 
+九年级 Unit 13 afford v.承担得起（后果）；买得起 /ə'fɔ:(r)d/ 
+九年级 Unit 13 turn off 关掉 
+九年级 Unit 13 reusable adj.可重复使用的；可再次使用的 /,ri:'ju:zəbl/ 
+九年级 Unit 13 pay for 付费；付出代价 
+九年级 Unit 13 take action 采取行动 
+九年级 Unit 13 transportation n.运输业；交通运输 /,trænspɔ:(r)'teɪʃn/ 
+九年级 Unit 13 recycle v.回收利用；再利用 /,ri:'saɪkl/ 
+九年级 Unit 13 napkin n.餐巾；餐巾纸 /'næpkɪn/ 
+九年级 Unit 13 throw away 扔掉；抛弃 
+九年级 Unit 13 put sth. to good use. 好好利用某物 
+九年级 Unit 13 pull…down 拆下； 捶毁 
+九年级 Unit 13 upside down 上下颠倒；倒转 
+九年级 Unit 13 gate n.大门 /geɪt/ 
+九年级 Unit 13 bottle n.瓶子 /'bɒtl/，/'bɑ:tl/ 
+九年级 Unit 13 president n.负责人；主席；总统 /'prezɪdənt/ 
+九年级 Unit 13 inspiration n.灵感；鼓舞人心的人（或事物） /,ɪnspə'reɪʃn/ 
+九年级 Unit 13 iron n.铁 /'aɪən/ 
+九年级 Unit 13 work n.（音乐、艺术）作品 /wɜ:(r)k/ 
+九年级 Unit 13 metal n.金属 /'metl/ 
+九年级 Unit 13 bring back 恢复；使想起；归还 
+九年级 Unit 13 creativity n.创造力；独创性 /,kri:eɪ'tɪvəti/ 
+九年级 Unit 13 WildAid 野生救援协会（美国） /'waɪldeɪd/ 
+九年级 Unit 13 WWF (World Wide Fund For Nature) 世界自然基金会 
+九年级 Unit 14 survey n.调查 /'sɜ:(r)veɪ/ 
+九年级 Unit 14 standard n.标准；水平 /'stændə(r)d/ 
+九年级 Unit 14 row n.一排；一列；一行 /rəʊ/ 
+九年级 Unit 14 in a row 连续几次地 
+九年级 Unit 14 keyboard n.键盘式电子乐器；键盘 /'ki:bɔ:(r)d/ 
+九年级 Unit 14 method n.方法；措施 /'meθəd/ 
+九年级 Unit 14 instruction n.指示；命令 /ɪn'strʌkʃn/ 
+九年级 Unit 14 double v.加倍；是……的两倍 adj.两倍的；加倍的 /'dʌbl/ 
+九年级 Unit 14 shall modal v.将要；将会 /ʃæl,ʃəl/ 
+九年级 Unit 14 look back at 回首（往事）；回忆；回顾 
+九年级 Unit 14 overcome (overcame , overcome) v.克服；战胜 /,əʊvə(r)'kʌm/ 
+九年级 Unit 14 make a mess 弄得一团糟（一塌糊涂） 
+九年级 Unit 14 graduate v.毕业；获得学位 /'grædʒueɪt/ 
+九年级 Unit 14 keep one’s cool 沉住气；保持冷静 
+九年级 Unit 14 caring adj.体贴人的，关心他人的 /'keərɪŋ/ 
+九年级 Unit 14 ours pron.我们的 /'aʊə(r)z/ 
+九年级 Unit 14 senior adj.级别（或地位）高的 /'si:niə(r)/ 
+九年级 Unit 14 senior high (school) 高中 
+九年级 Unit 14 text n.课文；文本 /tekst/ 
+九年级 Unit 14 go by （时间）逝去；过去 
+九年级 Unit 14 level n.水平 /'levl/ 
+九年级 Unit 14 degree n.（大学）学位；度数；程度 /dɪ'gri:/ 
+九年级 Unit 14 manager n.经理；经营者 /'mænɪdʒə(r)/ 
+九年级 Unit 14 believe in 信任；信赖 
+九年级 Unit 14 gentleman n.先生；绅士 /'dʒentlmən/ 
+九年级 Unit 14 graduation n.毕业 /,grædʒu'eɪʃn/ 
+九年级 Unit 14 ceremony n.典礼；仪式 /'serəməni/ 
+九年级 Unit 14 first of all 首先 
+九年级 Unit 14 congratulate v.祝贺 /kən'grætʃuleɪt/ 
+九年级 Unit 14 thirsty adj.渴望的；口渴的 /'θ3:(r)sti/ 
+九年级 Unit 14 be thirsty for 渴望；渴求 
+九年级 Unit 14 thankful adj.感谢；感激 /'θæŋkfəl/ 
+九年级 Unit 14 be thankful to sb 对某人心存感激 
+九年级 Unit 14 lastly adv.最后 /'lɑstli/，/'læstli/ 
+九年级 Unit 14 task n.任务；工作 /tɑ:sk/，/tæsk/ 
+九年级 Unit 14 ahead adv.向前面；在前面 /ə'hed/ 
+九年级 Unit 14 ahead of 在……前面 
+九年级 Unit 14 along with 连同；除……以外还 
+九年级 Unit 14 responsible adj.有责任心的 /rɪ'spɒnsəbl/，
+/rɪ'spɑ:nsəbl/ 
+九年级 Unit 14 be responsible for 对……有责任；负责任 
+九年级 Unit 14 separate adj.单独的； 分离的 v.分开；分离 /'sepərət/，
+/'sepəreɪt/ 
+九年级 Unit 14 set out 出发；启程 
+九年级 Unit 14 separate from 分离；隔开 
+九年级 Unit 14 wing n.翅膀；翼 /wɪŋ/ 
+[[SHEET:Sheet2]]
+[[SHEET:Sheet3]]

@@ -2,17 +2,26 @@ import path from "path"
 import react from "@vitejs/plugin-react"
 import { defineConfig } from "vite"
 import { inspectAttr } from 'kimi-plugin-inspect-react'
+import { viteSingleFile } from "vite-plugin-singlefile"
 
 // https://vite.dev/config/
 export default defineConfig({
   base: './',
-  plugins: [inspectAttr(), react()],
+  plugins: [inspectAttr(), react(), viteSingleFile()],
   server: {
     port: 3000,
+    proxy: {
+      '/api/ai': 'http://127.0.0.1:8787',
+    },
   },
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
+  },
+  build: {
+    target: 'esnext',
+    assetsInlineLimit: Infinity,
+    cssCodeSplit: false,
   },
 });

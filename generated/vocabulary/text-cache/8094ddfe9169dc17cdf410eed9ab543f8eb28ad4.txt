@@ -1,0 +1,449 @@
+[[SHEET:Sheet1]]
+ 单元 英文 音标 中文
+1 Unit1 anyone /'enɪwʌn/ pron.任何人
+2 Unit1 anywhere /'enɪweə(r)/ adv.任何地方n.任何(一个)地方
+3 Unit1 wonderful /'wʌndəfl/ adj.精彩的；极好的
+4 Unit1 few /fjuː/ adj.很少的；n.少量
+5 Unit1 quite a few 相当多；不少(后接可数名词)
+6 Unit1 most /məʊst/ adj.最多的；大多数的；
+7 Unit1 something /'sʌmθɪŋ/ pron.某事物；
+8 Unit1 nothing(=not…anything) /'nʌθɪŋ/ pron.没有什么n.没有
+9 Unit1 everyone /'evrɪwʌn/ pron.每人；人人
+10 Unit1 of course /əvkɔːs/ 当然
+11 Unit1 myself /maɪ'self/ pron.我自己
+12 Unit1 yourself /jɔː'self/ pron.你自己；你亲自
+13 Unit1 hen /hen/ n.母鸡；雌禽
+14 Unit1 pig /pɪg/ n. 猪
+15 Unit1 seem /siːm/ vi.似乎；好像
+16 Unit1 bored /bɔːd/ adj.无聊的；厌烦的；郁闷的
+17 Unit1 someone /'sʌmwʌn/ pron.某人；有人
+18 Unit1 diary /'daɪərɪ/ n.日记；日记簿(keep a diary)
+19 Unit1 enjoyable /ɪn'dʒɔɪəvl/ adj.有乐趣的；令人愉快的
+20 Unit1 activity /æk'tɪvətɪ/ n.活动；活跃
+21 Unit1 decide /dɪ'saɪd/ v.决定；选定(decide to do sth.)
+22 Unit1 try /traɪ/ v.尝试；设法；努力(try to do sth. /try doing sth.)
+23 Unit1 paragliding /'pærəɡlaɪdɪŋ/ n.空中滑翔跳伞
+24 Unit1 feel like 给......的感觉；感受到
+25 Unit1 bird /bɜːd/ n.鸟；禽
+26 Unit1 bicycle /'baɪsɪkl/ n.自行车
+27 Unit1 building /'bɪldɪŋ/ n.建筑物
+28 Unit1 trader /'treɪdə(r)/ n.商人；商船
+29 Unit1 wonder /'wʌndə(r)/ v.惊奇；想知道；怀疑
+30 Unit1 difference /'dɪfrəns/ n.差异；不同
+31 Unit1 top /tɒp/ n.顶部；顶
+32 Unit1 wait /weɪt/ v.等；等待(wait for)
+33 Unit1 umbrella /ʌm'brelə/ n.伞；雨伞
+34 Unit1 wet /wet/ adj.湿的；雨天的
+35 Unit1 because of 因为；由于
+36 Unit1 below /bɪ'ləʊ/ prep.低于；在...下面adv.在下面
+37 Unit1 enough /ɪ'nʌf/ adj.足够的adv.足够地；充分地
+38 Unit1 hungry(反full) /'hʌŋɡrɪ/ adj.饥饿的；渴望的
+39 Unit1 as /əz/ conj.如同；像...一样
+40 Unit1 hill /hɪl/ n. 小山；丘陵；斜坡；山冈
+41 Unit1 duck /dʌk/ n.鸭肉；鸭
+42 Unit1 dislike /dɪs'laɪk/ v.不喜欢；厌恶n.不喜爱；厌恶；反感
+43 Unit1 Central Park 中央公园
+44 Unit1 Huangguoshu waterfall 黄果树瀑布
+45 Unit1 Hangkong H.K. 香港
+46 Unit1 Malaysia 马来西亚
+47 Unit1 Malaysian /mə'leɪʒn/ adj. 马来西亚的n. 马来西亚人
+48 Unit1 tian'anmen square 天安门广场
+49 Unit1 the Palace Museum 故宫博物院
+50 Unit2 housework /'haʊswɜːk/ n.家务劳动
+51 Unit2 hardly /'hɑːdlɪ/ adv.几乎不；简直不；刚刚
+52 Unit2 ever /'evə(r)/ adv.曾经；在任何时候
+53 Unit2 hardly ever 很少；几乎从不；难得
+54 Unit2 once /wʌns/ adv.一次；曾经
+55 Unit2 twice /twaɪs/ adv.两倍；两次
+56 Unit2 Internet /'ɪntənet/ n.因特网
+57 Unit2 program /'prəʊɡræm/ n.节目；程序；课程；节目单
+58 Unit2 full /fʊl/ adj.满的；充满的；完全的
+59 Unit2 swing /swɪŋ/ n.摇摆；秋千v.摇摆；旋转
+60 Unit2 swing dance 摇摆舞
+61 Unit2 maybe /'meɪbɪ/ adv.或许；也许；可能
+62 Unit2 least /liːst/ adj.最小的；最少的
+63 Unit2 at least 至少
+64 Unit2 junk /dʒʌŋk/ n.垃圾；废旧杂物
+65 Unit2 junk food n.垃圾食品；无营养食品
+66 Unit2 coffee /'kɒfɪ/ n.咖啡；咖啡色
+67 Unit2 health /helθ/ n.健康；人的身体或精神状态
+68 Unit2 result /rɪ'zʌlt/ .结果；后果
+69 Unit2 percent /pə'sent/ adj.百分之...的
+70 Unit2 online /ˌɒn'laɪn/ adj.在线的adv.在线地
+71 Unit2 television /'telɪvɪʒn/ n.电视机；电视节目
+72 Unit2 although /ɔːl'ðəʊ/ conj.虽然；尽管；然而；可是
+73 Unit2 through /θruː/ prep.穿过；凭借；一直到
+74 Unit2 mind /maɪnd/ .头脑；想法；意见；心思
+75 Unit2 body /'bɒdɪ/ n.身体
+76 Unit2 such /sʌtʃ/ adj.这样的；如此的
+77 Unit2 such as 例如；诸如
+78 Unit2 together /tə'ɡeðə(r)/ adv.共同；一起
+79 Unit2 die /daɪ/ v.死；枯竭；消失
+80 Unit2 writer /'raɪtə(r)/ n.作者；作家
+81 Unit2 dentist /'dentɪst/ n.牙科医生
+82 Unit2 magazine /'mæɡəziːn/ n.杂志
+83 Unit2 however /haʊ'evə(r)/ adv.然而；无论如何；不管多么
+84 Unit2 than /ðən/ conj.比
+85 Unit2 more than 超过；多于；不仅仅；非常
+86 Unit2 almost /'ɔːlməʊst/ adv.几乎；差不多
+87 Unit2 none /nʌn/ pron.没有人；没有任何东西，毫无
+88 Unit2 less /les/ adj.更少的；较少的
+89 Unit2 less than 不到；少于
+90 Unit2 point /pɔɪnt/ n.看法；要点；重点；小数点；目标；分数
+91 Unit3 outgoing /'aʊtɡəʊɪŋ/ adj.外向的
+92 Unit3 both /bəʊθ/ adj.两者都pron.两者
+93 Unit3 better /'betə(r)/ adj.更好的；较好的 adv.更好地
+94 Unit3 loudly /'laʊdlɪ/ adv.大声地；高声地；花俏地
+95 Unit3 quietly /'kwaɪətlɪ/ adv.安静地；悄悄地；平静地
+96 Unit3 hard-working /hɑːd'wɜːkɪŋ/ adj.勤勉的；努力工作的
+97 Unit3 competition /ˌkɒmpə'tɪʃn/ n.竞争；比赛
+98 Unit3 fantastic /fæn'tæstɪk/ adj.极好的；了不起的
+99 Unit3 which /wɪtʃ/ adj.哪一个；哪一些
+100 Unit3 clearly /'klɪəlɪ/ adv.清楚地；显然地
+101 Unit3 win /wɪn/ v.赢；赢得；获胜；获得n.胜利
+102 Unit3 though /ðəʊ/ conj.虽然；尽管；adv.不过
+103 Unit3 talented /'tæləntɪd/ adj.有才能的；有天赋的
+104 Unit3 truly /'truːlɪ/ adv.真实地；真诚地；正确地
+105 Unit3 care /keə(r)/ v.关心；担忧；照顾；在乎
+106 Unit3 care about 关心
+107 Unit3 laugh /la:f/，/læf/ v.笑；发笑n.笑声
+108 Unit3 serious /'sɪərɪəs/ adj.严肃的；严重的；庄重的
+109 Unit3 mirror /'mɪrə(r)/ n.镜子；反映
+110 Unit3 kid /kɪd/ n. 孩子，小孩
+111 Unit3 as long as 只要
+112 Unit3 necessary /'nesəsərɪ/ adj.必要的；必然的
+113 Unit3 be different from 和...不同
+114 Unit3 bring out 拿出；推出
+115 Unit3 grade /greɪd/ n. 成绩
+116 Unit3 should /ʃəd/ modal v. 应该；应当；可以
+117 Unit3 the same as 与...同样的
+118 Unit3 saying /'seɪɪŋ/ n. 谚语；格言；警句
+119 Unit3 reach /riːtʃ/ v. 伸手；到达；抵达
+120 Unit3 hand /hænd/ n.手
+121 Unit3 touch /tʌtʃ/ vt.触摸；感动
+122 Unit3 heart /hɑːt/ n.心脏；内心
+123 Unit3 fact /fækt/ n.事实；真相；实际
+124 Unit3 in fact 事实上；实际上；确切地说
+125 Unit3 break /breɪk/ v.（使）破；裂；碎；损坏
+126 Unit3 arm /a:(r)m/ n. 手臂；上肢
+127 Unit3 share /ʃeə(r)/ vt.分享，共享；分配；共有
+128 Unit3 loud /laʊd/ adj.大声的；adv.大声地；响亮地
+129 Unit3 similar /'sɪmələ(r)/ adj.类似的
+130 Unit3 be similar to 类似于；与...相似
+131 Unit3 primary /'praɪmərɪ/ adj.最初的，最早的
+132 Unit3 primary school 小学
+133 Unit3 information /ˌɪnfə'meɪʃn/ n.信息；情报；资料；通知
+134 Unit4 theater /'θɪətə/ n.剧场；电影院；戏院
+135 Unit4 comfortable /'kʌmftəbl/ adj.舒适的；充裕的
+136 Unit4 seat /siːt/ n.座位；
+137 Unit4 screen /skriːn/ n.屏幕；银幕
+138 Unit4 close /kləʊs/ adj.（在空间、时间上）接近
+139 Unit4 ticket /'tɪkɪt/ n. 票
+140 Unit4 worst /wɜːst/ adj.最坏的；最差的
+141 Unit4 cheaply /'tʃiːplɪ/ adv.廉价地；粗俗地
+142 Unit4 song /sɒŋ/ n.歌曲；歌唱
+143 Unit4 DJ /'di:dʒeɪ/ n.（电台、电视台、俱乐部的）音乐节目主持人
+144 Unit4 choose /tʃuːz/ v.选择；决定
+145 Unit4 carefully /'keəfəlɪ/ adv.小心地，认真地
+146 Unit4 reporter /rɪ'pɔːtə(r)/ n.记者
+147 Unit4 so far 到目前为止；迄今为止
+148 Unit4 fresh /freʃ/ adj.新鲜的；清新的
+149 Unit4 comfortably /'kʌmftəblɪ/ adv.舒服地；容易地；充裕地
+150 Unit4 worse /wɜːs/ adj.更坏的；更差的
+151 Unit4 service /'sɜːvɪs/ n.服务
+152 Unit4 pretty /'prɪtɪ/ adv.相当地adj.漂亮的
+153 Unit4 menu /'menjuː/ n.菜单
+154 Unit4 act /ækt/ v.行动；表演
+155 Unit4 meal /miːl/ n.一餐；膳食
+156 Unit4 creative /krɪ'eɪtɪv/ adj.创造的，创造性的；
+157 Unit4 performer /pə'fɔːmə(r)/ n.表演者；执行者
+158 Unit4 talent /'tælənt/ n.天赋；才能，才艺；
+159 Unit4 have…in common 有相同特征
+160 Unit4 magician /mə'dʒɪʃn/ n.魔术师；术士
+161 Unit4 all kinds of 各种各样；各种类型
+162 Unit4 beautifully /'bjuːtɪflɪ/ adv.美丽地；完美地；
+163 Unit4 be up to 是…….的职责；由…….决定
+164 Unit4 role /rəʊl/ n.作用；角色
+165 Unit4 play a role 发挥作用；有影响
+166 Unit4 winner /'wɪnə(r)/ n.获胜者
+167 Unit4 prize /praɪz/ n.奖品；奖金
+168 Unit4 everybody /'evrɪbɒdɪ/ pron.每人；人人
+169 Unit4 make up 编造
+170 Unit4 example /ɪɡ'zɑːmpl/ n.例子；榜样
+171 Unit4 for example 例如
+172 Unit4 poor /pɔː(r)/ adj.可怜的；贫穷的
+173 Unit4 seriously /'sɪərɪəslɪ/ 严重地，严肃地
+174 Unit4 take…seriously 认真对待
+175 Unit4 give /ɡɪv/ v.给；赠予；送
+176 Unit4 crowded /'kraʊdɪd/ adj.拥挤的
+177 Unit5 sitcom /'sɪtkɒm/ n.（situation comedy) 情景喜剧
+178 Unit5 news /njuːz/ n.新闻；消息
+179 Unit5 soap opera /səʊp/ /'ɒprə/, /'a:prə/ 肥皂剧
+180 Unit5 mind /maɪnd/ v.介意；对（某事）烦恼
+181 Unit5 stand /stænd/ v.站立；忍受
+182 Unit5 educational /ˌedʒu'keɪʃənl/ adj.教育的；有教育意义的
+183 Unit5 plan /plæn/ n.计划；方法v.打算；计划
+184 Unit5 hope /həʊp/ .希望；期望；盼望n.希望
+185 Unit5 find out 查明、弄清
+186 Unit5 discussion /dɪ'skʌʃn/ n.讨论；谈论
+187 Unit5 happen /'hæpən/ vi.发生；碰巧；出现；偶遇
+188 Unit5 expect /ɪk'spekt/ v.预期；期待；盼望
+189 Unit5 joke /dʒəʊk/ n.笑话；玩笑v.说笑话；开玩笑
+190 Unit5 comedy /'kɒmədɪ/ n.喜剧；滑稽；幽默事件
+191 Unit5 meaningless /'miːnɪŋləs/ adj.无意义的；不重要的
+192 Unit5 action /'ækʃn/ n.行为；活动
+193 Unit5 action movie 动作片
+194 Unit5 cartoon /kɑː'tuːn/ n.卡通；漫画
+195 Unit5 culture /'kʌltʃə(r)/ n.栽培；文化；教养
+196 Unit5 famous /'feɪməs/ adj.著名的；有名的
+197 Unit5 appear /ə'pɪə(r)/ vi.出现；出版；显得
+198 Unit5 become /bɪ'kʌm/ v.变成；成为
+199 Unit5 rich /rɪtʃ/ adj.富有的；富饶的；丰富的
+200 Unit5 successful /sək'sesfl/ adj.成功的；圆满的
+201 Unit5 might /maɪt/ aux.可能；也许；may的过去式
+202 Unit5 main /meɪn/ adj.主要的；最重要的
+203 Unit5 reason /'riːzn/ n.原因；理由
+204 Unit5 common /'kɒmən/,/'kɑ:mən/ adj.普通的;常见的
+205 Unit5 film /fɪlm/ n.电影
+206 Unit5 unlucky /ʌn'lʌkɪ/ adj.倒霉的；不幸的；不吉利的
+207 Unit5 lose /luːz/ vt.丢失；失败vi.失败
+208 Unit5 girlfriend /'ɡɝlfrɛnd/ n.女朋友
+209 Unit5 ready /'redɪ/ adj.准备好的；乐意的
+210 Unit5 be ready to 愿意迅速做某事
+211 Unit5 character /'kærəktə(r)/ n.个性；品质；人物；
+212 Unit5 simple /'sɪmpl/ adj.简单的；朴素的；单纯的；笨的
+213 Unit5 dress up 装扮；乔装打扮
+214 Unit5 take sb.’s place 代替；替换
+215 Unit5 army /'ɑːmɪ/ n.军队；陆军；一大批
+216 Unit5 do a good job 工作干得好；做得好
+217 Unit6 grow up 长大 成长
+218 Unit6 computer programmer 计算机管理员
+219 Unit6 cook /kʊk/ n. 厨师 v. 烹饪；煮
+220 Unit6 doctor /'dɒktə(r)/ n.医生
+221 Unit6 engineer /endʒɪ'nɪr/ n.工程师
+222 Unit6 violinist /ˌvaɪə'lɪnɪst/ n.小提琴手
+223 Unit6 driver /'draɪvɚ/ n. 驾驶员；驱动程序；起子；传动器
+224 Unit6 pilot /'paɪlət/ n.飞行员
+225 Unit6 pianist /'pɪənɪst/ n.钢琴家
+226 Unit6 scientist /'saɪəntɪst/ n.科学家
+227 Unit6 be sure about 确信
+228 Unit6 make sure 确保
+229 Unit6 college /'kɑːlɪdʒ/ n.大学
+230 Unit6 education /ˌedʒu'keɪʃn/ n.教育
+231 Unit6 medicine /'medsn/ 药，医学
+232 Unit6 university /ˌjuːnɪ'vɜːrsətɪ/ 大学，高等学府
+233 Unit6 London / 'lʌndən/ n.伦敦
+234 Unit6 article /'ɑːrtɪkl/ 文章，论文
+235 Unit6 send /send/ 邮寄，发送
+236 Unit6 resolution /ˌrezə'luːʃn/ 决心，决定
+237 Unit6 team /ti;m/ (一)队(人)；(一)组(人)
+238 Unit6 make the soccer team 成为足球队的一员
+239 Unit6 foreign /'fɔːrən/ 外国的
+240 Unit6 able /ˈebəl/ 能够
+241 Unit6 be able to 能够做某事
+242 Unit6 promise /ˈprɑmɪs/ 承诺，诺言
+243 Unit6 beginning /bɪˈɡɪnɪŋ/ 开头，开端
+244 Unit6 at the beginning of 起初
+245 Unit6 improve /ɪmˈpruv/ 改进，改善
+246 Unit6 write down 写下
+247 Unit6 physical /'fɪzɪkl/ 身体的
+248 Unit6 themselves /ðɛm'sɛlvz/ 他们自己
+249 Unit6 have to do with 关于;与……有关系
+250 Unit6 self-improvement /selfɪmp'ruːvmənt/ 自我改进，自我提高
+251 Unit6 take up 学着做；开始做
+252 Unit6 hobby / 'hɒbi/，/'hɑ:bi/ n.业余爱好
+253 Unit6 paint /peɪnt/ v.用颜料画;在……上刷油漆
+254 Unit6 weekly /'wɪklɪ/ adj. & adv.每周的（地）
+255 Unit6 school work 学校作业
+256 Unit6 question / 'kwestʃən/ v.表示疑问;怀疑;提问;质询
+257 Unit6 meaning /' mi:nɪŋ / n. 意义；意思
+258 Unit6 discuss /dɪ'skʌs/ v.讨论，商量
+259 Unit6 own /oʊn/ 自己的，本人的，拥有
+260 Unit6 personal /'pɜːrsənl/ 个人的，私人的
+261 Unit6 relationship /rɪ'leɪʃnʃɪp/ 关系
+262 Unit7 paper /'peɪpər/ 纸
+263 Unit7 pollution /pə'luːʃn/ 污染；污染物
+264 Unit7 prediction /prɪ'dɪkʃn/ 预测
+265 Unit7 future /'fjuːtʃər/ 未来
+266 Unit7 pollute /pə'luːt/ 污染
+267 Unit7 environment /ɪn'vaɪrənmənt/ 环境
+268 Unit7 planet /'plænɪt/ 行星
+269 Unit7 earth /ɜːrθ/ n.地球；泥土
+270 Unit7 plant /plænt/ 种植，植物
+271 Unit7 part /pɑːrt/ 参加，部分
+272 Unit7 play a park 参与（某事）
+273 Unit7 peace /piːs/ 和平
+274 Unit7 sea /sɪ/ n. 海；海洋；许多；大量
+275 Unit7 build / bɪld / v.(built/bɪlt)建筑;建造
+276 Unit7 sky /skaɪ/ 天空
+277 Unit7 astronaut /'æstrənɔːt/ 宇航员
+278 Unit7 apartment /ə'pɑːrtmənt/ 公寓房间
+279 Unit7 rocket /'rɒkɪt/,/'rɑːkɪt/ 火箭；
+280 Unit7 space /speɪs/ .空间；太空
+281 Unit7 space station 太空站
+282 Unit7 human /'hjuːmən/ 人的； n.人；人类
+283 Unit7 servant /'sɜːrvənt/ 仆人
+284 Unit7 dangerous /'deɪndʒərəs/ 危险的
+285 Unit7 already /ɔːl'redɪ/ 已经
+286 Unit7 factory /'fæktrɪ/ 工厂
+287 Unit7 over and over again 多次；反复地
+288 Unit7 Japan /dʒə’pæn/ 日本
+289 Unit7 believe /bɪ'liːv/ 相信
+290 Unit7 disagree /ˌdɪsə'ɡriː/ 不同意
+291 Unit7 even /'iːvn/ 甚至；愈加
+292 Unit7 agree /ə’gri:/ v.同意;赞成;应允
+293 Unit7 hundreds of 许多 ；大量； 成百上千
+294 Unit7 shape /ʃeɪp/ 形状
+295 Unit7 fall /fɔːl/ 倒塌；跌倒
+296 Unit7 fall dow 突然倒下；跌倒；倒塌
+297 Unit7 inside /'ɪn'saɪd/ adv. & prep.在......里面
+298 Unit7 look for 寻找；寻求
+299 Unit7 possible /'pɑːsəbl/ adj. 可能存在或发生的，可能的
+300 Unit7 impossible /ɪm'pɑsəbl/ adj. 不可能的；不可能存在或发生的；
+301 Unit7 side /saɪd/ n. 一方（的意见、态度、立场）
+302 Unit7 probably /'prɑːbəblɪ/ 大概；或许；很可能
+303 Unit7 during /'dʊrɪŋ/ prep. 在…的时候，在…的期间
+304 Unit7 holiday /'hɑːlədeɪ/ 假日
+305 Unit7 word /wɜːrd/ 单词；
+306 Unit8 shake /ʃek/ n. & v.摇动；抖动
+307 Unit8 milk shake 奶昔（牛奶和冰淇淋等的混合饮料）
+308 Unit8 blender /'blendər/ 搅拌器；果汁机
+309 Unit8 turn on 接通(水、煤气、电等开关)打开
+310 Unit8 peel /piːl/ vt.剥落；削皮
+311 Unit8 pour /pɔːr/ pour/pɔːr/ 倒；倾倒
+312 Unit8 yogurt /'joʊɡərt/ 酸奶；
+313 Unit8 honey /'hʌnɪ/ 蜂蜜
+314 Unit8 watermelon /'wɔːtərmelən/ 西瓜
+315 Unit8 spoon /spuːn/ 勺，调羹
+316 Unit8 pot /pɑt/ n. 锅；罐
+317 Unit8 add /æd/ 增加
+318 Unit8 finally /'faɪnəlɪ/ 最后，最终
+319 Unit8 salt /sɔːlt/ 盐
+320 Unit8 sugar /'ʃʊɡər/ 糖
+321 Unit8 cheese /tʃiːz/ 干酪，奶酪
+322 Unit8 popcorn /'pɑːpkɔːrn/ 爆米花
+323 Unit8 corn /kɔːrn/ 玉米，谷物
+324 Unit8 machine /mə'ʃiːn/ 机器
+325 Unit8 dig /dɪɡ/ vt. 挖，掘；探究vi. 挖掘n. 戳，刺；挖苦
+326 Unit8 hole /hol/ n. 洞，孔；洞穴，穴；突破口vi.穿孔；（高尔夫球等）进洞vt. 凿洞
+327 Unit8 sandwich /'sænwɪtʃ/ 三明治
+328 Unit8 butter /'bʌtər/ 黄油，奶油
+329 Unit8 turkey /'tɜːrkɪ/ 火鸡
+330 lettuce /'letɪs/ 莴苣，生菜
+331 Unit8 piece /piːs/ 件；篇；片；块；
+332 Unit8 Thanksgɪvɪng /,θæŋks'ɡɪvɪŋ/ n. 感恩节
+333 Unit8 traditional /trə'dɪʃənl/ 传统的
+334 Unit8 autumn /'ɒtəm/ n. 秋天；秋季
+335 Unit8 celebrate /'selɪbreɪt/ v.庆祝；庆贺
+336 Unit8 prepare /prɪ'peə/,/prɪ'per/ v.使做好准备；把……准备好
+337 Unit8 gravy /'ɡreɪvɪ/ 肉汁；肉汤
+338 Unit8 mashed /mæʃt/ adj.捣烂的
+339 Unit8 pumpkin /pʌmpkɪn/ n.南瓜
+340 Unit8 pie /paɪ/ n.果馅饼；果馅派
+341 Unit8 mix /mɪks/ n.混合配料；v.(使)混合;融合
+342 Unit8 pepper /'pepə(r)/ n.胡椒粉；柿子椒
+343 Unit8 fill /fɪl/ v.（使）充满；装满
+344 Unit8 oven /'ʌvn/ n.烤箱；烤炉
+345 Unit8 plate /pleɪt/ n.盘子；碟子
+346 Unit8 cover /'kʌvə(r)/ v.遮盖;覆盖 n.遮盖物;盖子
+347 Unit8 serve /sɜːrv/ 接待，服务
+348 Unit8 temperature /'temprətʃər/ 温度，气候
+349 Unit9 prepare for 为……准备
+350 Unit9 exam /ɪɡ'zæm/ 考试
+351 Unit9 go to the/a doctor 去看医生
+352 Unit9 flu /flu/ n. 流感
+353 Unit9 available /ə'veɪləbl/ 可得到的；有空的；
+354 Unit9 another time 其他时间，别的时间
+355 Unit9 until /ən'tɪl/ conj. 在…以前；直到…时prep. 在…以前；到…为止
+356 Unit9 hang /hæŋ/ 悬挂；(使)低垂
+357 Unit9 hang out 常去某处；闲逛
+358 Unit9 catch /kætʃ/ 赶上；抓住；捕捉
+359 Unit9 invite /ɪn'vaɪt/ 邀请
+360 Unit9 accept /ək'sept/ 接受；
+361 Unit9 refuse /rɪ'fjuːz/ 拒绝
+362 Unit9 the day before yesterday 前天
+363 Unit9 the day after tomorrow 后天
+364 Unit9 weekday /'wi:kdeɪ/ n. 平日，工作日
+365 Unit9 look after 照顾，照料
+366 Unit9 invitation /ˌɪnvɪ'teɪʃn/ 邀请；邀请函
+367 Unit9 turn down 拒绝
+368 Unit9 reply /rɪ'plaɪ/ 回答，回复
+369 Unit9 forward /'fɔːrwərd/ 转交；发送，向前的
+370 Unit9 delete /dɪ'liːt/ 删除
+371 Unit9 print /prɪnt/ v. 打印；印刷；
+372 Unit9 sad /sæd/ adj.（令人）悲哀的；（令人）难过的
+373 Unit9 goodbye /gʊd'baɪ/ int. 再见
+374 Unit9 take a trip 去旅行
+375 Unit9 glad /ɡlæd/ adj. 高兴的；乐意的；
+376 Unit9 help out (帮助……)分担工作、解决难题
+377 Unit9 preparation /ˌprepə'reɪʃn/ 准备，准备工作
+378 Unit9 glue /ɡlu/ n. 胶水
+379 Unit9 without /wɪ'θaʊt/ prep. 没有；不（做某事）
+380 Unit9 surprised /sɚ'praɪzd/ adj. 惊奇的；感觉意外的
+381 Unit9 look forward to 盼望，期待
+382 Unit9 hear from 收到......来信
+383 Unit9 housewarming /'haʊs,wɔ:rmɪŋ/ n. 乔迁庆宴
+384 Unit9 opening /'oʊpnɪŋ/ 开幕式，落成典礼
+385 Unit9 concert /'kɑːnsərt/ 音乐会
+386 Unit9 headmaster /ˌhed'mæstər/ 校长
+387 Unit9 event /ɪ'vent/ 大事，公开活动
+388 Unit9 guest /ɡest/ 客人
+389 Unit9 calendar /'kælɪndər/ 日历，日程表
+390 Unit9 daytime /'detaɪm/ n. 日间，白天
+391 Unit9 travel /'trævl/ 旅行
+392 Unit9 agent /'eɪdʒənt/ 代理人，经纪人
+393 Unit9 expert /'ekspɜːrt/ 专家，能手
+394 Unit9 keep…to oneself 保守秘密
+395 Unit9 teenager /'tiːnˌeɪdʒə/ 青少年
+396 Unit9 normal /'nɔːrml/ 正常的
+397 Unit9 unless /ən'les/ 除非，如果不
+398 Unit9 certainly /'sɜːrtnlɪ/ 当然，肯定
+399 Unit9 wallet /'wɑːlɪt/ 皮夹，钱包
+400 Unit9 mile /maɪl/ n. 英里；一英里赛跑；较大的距离
+401 Unit9 angry /'æŋɡrɪ/ 生气的，发怒的
+402 Unit9 understanding /ˌʌndər'stændɪŋ/ 善解人意的，体谅人的
+403 Unit9 careless /'kerləs/ 粗心的，不小心的
+404 Unit9 mistake /mɪ'steɪk/ 错误，失误
+405 Unit9 himself /hɪm'sɛlf/ pron. 他自己；他亲自，他本人
+406 Unit9 careful /'kerfl/ 小心的，细致的
+407 Unit9 advise /əd'vaɪz/ v劝告，建议
+408 Unit9 solve /sɑːlv/ 解决；解答
+409 Unit9 step /stɛp/ n. 步，脚步；步骤
+410 Unit9 trust /trʌst/ 相信，信任
+411 Unit9 experience /ɪk'spɪrɪəns/ 信任， 经历
+412 Unit9 in half 分成两半,一半
+413 Unit9 halfway /ˌhæf'weɪ/ 中途的adv.半路地
+414 Unit9 else /els/ 别的，其他的
+415 Unit10 meeting /'mɪtɪŋ/ n. 会议；会见；集会
+416 Unit10 video /'vɪdɪoʊ/ 录像，录像带
+417 Unit10 organize /'ɔ:(r)ɡənaɪz/ v.(=organise)组织;筹备
+418 Unit10 potato chips 马铃薯片；油炸薯片
+419 Unit10 chocolate /'tʃɑːklət/ 巧克力
+420 Unit10 upset /ʌp'set/ 难过，失望
+421 Unit10 taxi /'tæksɪ/ n. 出租汽车
+422 Unit10 advice /əd'vaɪsɪ/ 劝告，建议
+423 Unit10 travel /'trævl/ 旅行
+424 Unit10 agent /'eɪdʒənt/ 代理人，经纪人
+425 Unit10 expert /'ekspɜːrt/ 专家，能手
+426 Unit10 keep…to oneself 保守秘密
+427 Unit10 teenager /'tiːnˌeɪdʒə/ 青少年
+428 Unit10 normal /'nɔːrml/ 正常的
+429 Unit10 unless /ən'les/ 除非，如果不
+430 Unit10 certainly /'sɜːrtnlɪ/ 当然，肯定
+431 Unit10 wallet /'wɑːlɪt/ 皮夹，钱包
+432 Unit10 mile /maɪl/ 英里；一英里赛跑；较大的距离
+433 Unit10 angry /'æŋɡrɪ/ 生气的，发怒的
+434 Unit10 understanding /ˌʌndər'stændɪŋ/ 善解人意的，体谅人的
+435 Unit10 careless /'kerləs/ 粗心的，不小心的
+436 Unit10 mistake /mɪ'steɪk/ 错误，失误
+437 Unit10 himself /hɪm'sɛlf/ pron. 他自己；他亲自，他本人
+438 Unit10 careful /'kerfl/ 小心的，细致的
+439 Unit10 advise /əd'vaɪz/ v劝告，建议
+440 Unit10 solve /sɑːlv/ 解决；解答
+441 Unit10 step /stɛp/ n. 步，脚步；步骤；步伐；梯级vi. 踏，踩；走vt. 走，迈步
+442 
+443 Unit10 trust /trʌst/ 相信，信任
+444 Unit10 experience /ɪk'spɪrɪəns/ 信任，经历
+445 Unit10 in half 分成两半,一半
+446 Unit10 halfway /ˌhæf'weɪ/ 中途的adv.半路地
+447 Unit10 else /els/ 别的，其他的

@@ -1,0 +1,346 @@
+[[SHEET:Sheet1]]
+Starter Unit 1 
+1.Unit 1.n.单元
+2.starter unit 2.过渡单元
+3.section 3.n.部分；地区
+4.greet 4.v.招呼；问候
+5.each 5.adj.&pron.每个；各自
+6.other 6.pron.另外的人(或物)adj.另外的；其他的
+7.each other 7.互相；彼此
+8.oh 8.interj.哦；啊
+9.everyone 9.pron.每人;所有人
+10.start 10.v.开始；着手
+11.conversation 11.n.谈话；交谈
+12.spell 12.v.用字母拼；拼写
+13.bell 13.n.铃(声);钟(声)
+14.Helen 14.海伦
+15.Ella 15.埃拉
+16.Emma 16.埃玛
+17.Peter 17.彼得
+18.Brown 18.布朗
+19.PRC 19.中华人民共和国
+20.PLA 20.中国人民解放军
+21.VR 21.虚拟现实
+22.WHO 22.世界卫生组织
+23.UN 23.联合国
+24.Miller 24.米勒
+Starter Unit 2 
+1.bottle 1.n.瓶子
+2.eraser 2.n.橡皮
+3.key 3.n.钥匙；关键
+4.thing 4.n.东西；事情
+5.need 5.v.&n.需要
+6.you're welcome 6.别客气；不用谢
+Starter Unit3 
+1.fun 1.n.乐趣；快乐adj.有趣的；使人快乐的
+2.yard 2.n.院子；园圃
+3.carrot 3.n.胡萝卜
+4.goose 4.n.(pl.geese)鹅
+5.count 5.v.数数
+6.another 6.adj.&pron.另一；又一(人或事物)
+7.else 7.adv.其他的；别的
+8.circle 8.v圈出 n.圆形;圆圈
+9.look at 9.看；瞧
+Unit 1 
+1.make friends 1.交朋友
+2.get to know 2.认识；了解
+3.full 3.adj.完整的；满的
+4.full name 4.全名
+5.grade 5.n.年级；等级
+6.last name 6.姓氏
+7.classmate 7.n.同班同学
+8.class teacher 8.班主任
+9.first name 9.名字
+10.mistake 10.n.错误；失误
+11.country 11.n.国家
+12.same 12.adj.相同的
+13.twin 13.n.双胞胎之一adj.双胞胎之一的
+14.both 14.adj.&pron.两个；两个都
+15.band 15.n.乐队
+16.pot 16.n.锅
+17.a lot 17.很；非常
+18.tofu 18.n.豆腐
+19.parrot 19.n.鹦鹉
+20.guitar 20.n.吉他
+21.tennis 21.n.网球
+22.page 22.n.页面;(书刊或纸张)页
+23.even 23.adv.甚至；连；愈加
+24.hey 24.interj.嘿；喂
+25.play the guitar 25.弹吉他
+26.would 26.modalv.想(用于礼貌地邀请或向某人提供某物);将会
+27.would('d)like to 27.表示愿意、喜欢
+28.information 28.n.信息；消息
+29.hobby 29.n.业余爱好
+30.re 30.prep.(用于回复电子邮件)关于;事由
+31.Green 31.格林
+32.UK 32.英国
+33.US 33.美国
+34.Smith 34.史密斯
+35.Lisa 35.莉萨
+36.Tom 36.汤姆
+37.hot pot 37.火锅
+38.Sally 38.萨莉
+39.Wood 39.伍德
+40.Sydney 40.悉尼(澳大利亚城市)
+41.Australia 41.澳大利亚
+42.Mapo tofu 42.麻婆豆腐
+43.Beijing roast duck 43.北京烤鸭
+44.Singapore 44.新加坡
+45.the Great Wall 45.长城
+46.Pauline 46.保利娜
+47.Lee 47.李
+48.Coco 48.科科
+49.London 49.伦敦(英国首都)
+Unit 2 
+1.mean 1.v.意思是；打算
+2.husband 2.n.丈夫
+3.bat 3.n.球棒；球拍
+4.ping-pong bat 4.乒乓球拍
+5.play ping-pong 5.打兵斥球
+6.every day 6.每天
+7.together 7.adv.在一起；共同
+8.fishing rod 8.钓竿
+9.spend 9.v.花(时间、钱等)
+10.a lot of/lots of 10.大量；许多
+11.really 11.adv.非常；确实；真正地
+12.member 12.n.成员;会员
+13.activity 13.n.活动
+14.chess 14.n.国际象棋
+15.Chinese chess 15.中国象棋
+16.grandparent 16.n.祖父(母);外祖父(母)
+17.funny 17.adj.好笑的；奇怪的
+18.laugh 18.v.笑；发笑n.笑声
+19.different 19.adj.不同的
+20.violin 20.n.小提琴
+21.have fun 21.玩得高兴
+22.hat 22.n.帽子
+23.handsome 23.adj.英俊的
+24.knee 24.n.膝；膝盖
+25.at night 25.在俊晚
+26.in the middle 26.中间；中部
+27.grandchild 27.n.(pl.grandchildren)(外)孙子；(外)孙女
+28.son 28.n.儿子
+29.next to 29.紧邻；在……近旁
+30.hike 30.v&n.远足；徒步旅行
+31.go hiking 31.远足；徒步旅行
+32.David 32.戴维
+33.Jim 33.吉姆
+34.Kate 34.凯特
+35.Lily 35.莉莉
+36.Ireland 36.爱尔兰
+37.Fred 37.弗雷德
+38.Sam 38.萨姆
+39.Jane 39.简
+40.Jack 40.杰克
+41.Sarah 41.萨拉
+42.Oscar 42.奥斯卡
+43.Lucy 43.露西
+Unit 3 
+1.hall 1.n.礼堂；大厅
+2.dining 2.hall餐厅
+3.in front of 3.在……前面
+4.building 4.n.建筑物；房子
+5.across 5.prep.&adv.过；穿过
+6.across from 6.在对面
+7.centre 7.n.中心;中央
+8.gym 8.n.(=gymnasium)体育馆；健身房；(尤指学校的)体育活动
+9.field 9.n.场地；田地
+10.sports field 10.运动场
+11.office 11.n.办公室
+12.large 12.adj.大的；大号的
+13.special 13.adj.特别的；特殊的
+14.smart 14.adj.智能的；聪明的
+15.whiteboard 15.n.白板；白色书写板
+16.put up 16.张贴；搭建
+17.important 17.adj.重要的
+18.notice 18.n.通知；注意v.注意到；意识到
+19.locker 19.n.有锁存物柜；寄物柜
+20.drawer 20.n.抽屉
+21.at the back(of) 21.在(……)后面
+22.corner 22.n.角；墙角；街角
+23.bookcase 23.n.书架；书柜
+24.screen 24.n.屏幕；银幕
+25.at school 25.在学校
+26.different from 26.与…不一样
+27.modern 27.adj.现代的；当代的
+28.do exercises 28.做体操
+29.amazing 29.adj.令人惊奇(惊喜或惊叹)的
+30.raise 30.v.使升高；提高
+31.flag 31.n.旗；旗帜
+32.most 32.adj.&pron.大多数；最多；最大adv.最
+33.change 33.v.&n.改变；变化
+34.seat 34.n.座位
+35.delicious 35.adj.美味的；可口的
+36.How about … 36.…怎么样；如何
+37.yours 37.pron.(通常写作Yours,用于书信结尾的签名前)你的；您的
+38.send 38.v.发送;邮寄
+39.similar 39.adj.类似的；相像的
+40.similar to 40.类似的；相像的
+41.sound 41.v.听起来；好像n.声音；响声
+42.bye for now 42.再见
+43.Flora 43.弗洛拉
+Unit 4 
+1.biology 1.n.生物学
+2.IT 2.abbr:(=information technology)信息技术
+3.geography 3.n.地理(学)
+4.history 4.n.历史；历史课
+5.boring 5.adj.乏味的；令人生厌的
+6.useful 6.adj.有用的；有益的
+7.exciting 7.adj.令人激动的；使人兴奋的
+8.past 8.n.过去；过去的事情adj.过去的prep.在……之后
+9.good with 9.灵巧的；善于应付……的
+10.number 10.n.数字；号码
+11.help sb with 11.帮助某人做(某事)
+12.reason 12.n.原因；理由
+13.listen to 13.听；倾听
+14.good at 14.擅长
+15.remember 15.v.记住；记起
+16.as 16.prep.如同；作为conj.当……时；由于
+17.AM 17.(=a.m.)上午
+18.PM 18.(=p.m.)下午；午后
+19.French 19.n.法语adj.法国的；法国人的
+20.excellent 20.adj.优秀的；极好的
+21.instrument 21.n.器械；工具
+22.singer 22.n.歌手
+23.future 23./n.将来；未来
+24.in the future 24.将来；未来
+25.term 25.n.学期
+26.work out 26.计算出；解决
+27.problem 27.n.难题；困难
+28.in class 28.课堂上
+29.magic 29.n.魔法；魔力；魔术adj.有魔力的；有神奇力量的
+30.life 30.n.生活；生命
+31.scientist 31.n.科学家
+32.Baker 32.贝克
+33.Mike 33.迈克
+34.Davis 34.戴维斯
+35.Canada 35.加拿大
+Unit 5 
+1.club 1.n.俱乐部；社团
+2.join 2.v.参加；加入
+3.choose 3.v.选择；挑选
+4.drama 4.n.戏剧；戏剧表演
+5.play Chinese chess 5.下中国象棋
+6.feeling 6.n.感觉；情感
+7.news 7.n.消息；新闻
+8.musical 8.adj.音乐的；有音乐天赋的
+9.musical instrument 9.乐器
+10.exactly 10.adv.正是如此；准确地
+11.drum 11.n.鼓
+12.ability 12.n.能力；才能
+13.paint 13.v.用颜料画；在……上刷油漆n.油漆；涂料
+14.climb 14.v.攀登；爬
+15.more 15.adj.&pron.更多(的)
+16.act 16.v.扮演；行动n.(戏剧等)一幕；行动
+17.act out 17.表演
+18.at home 18.在家里
+19.interested 19.adj.感兴趣的
+20.interested in 20.对……感兴趣
+21.nature 21.n.自然界；大自然
+22.beef 22.n.牛肉
+23.soon 23.adv.不久；很快
+24.than 24.prep.&conj.(用以引出比较的第二部分)比
+25.more than 25.多于
+26.mind 26.n.头脑；心思
+27.fall 27.v.&n.进入；掉落；跌倒n.(美式)秋天
+28.fall in love with 28.爱上……
+29.take photos/take a photo 29.拍照
+30.collect 30.v.收集；采集
+31.insect 31.n.昆虫
+32.discover 32.v.发现；发觉
+33.wildlife 33.n.野生动物；野生生物
+34.Linda 34.琳达
+35.Alice 35.爱丽丝
+36.Bill 36.比尔
+37.Jenny 37.珍妮
+Unit 6 
+1.make use of 1.使用……;利用……
+2.quarter 2.n.一刻钟;四等份之一
+3.shower 3.n.淋浴；淋浴器v.洗淋浴
+4.take a shower 4.淋浴
+5.get dressed 5.穿衣服
+6.brush 6.v.(用刷子)刷n.刷子；画笔
+7.tooth 7.n.(pl.teeth)牙齿
+8.duty 8.n.值班；职责
+9.on duty 9.值班
+10.usually 10.adv.通常地；一般地
+11.get up 11.起床；站起
+12.reporter 12.n.记者
+13.around 13.prep.&adv.大约；环绕；到处
+14.homework 14.n.家庭作业
+15.go to bed 15.上床睡觉
+16.saying 16.n.谚语；格言
+17.rise 17.v.起床；升起；增长n.增加；增强
+18.stay 18.v.停留；待
+19.routine 19.n.常规
+20.restaurant 20.n.餐馆；餐厅
+21.housework 21.n.家务劳动
+22.while 22.n.一段时间；一会儿conj.在……期间；当……的时候
+23.weekend 23.n.周末
+24.at weekends 24.在周末
+25.daily 25.adj.每日的；日常的
+26.daily routine 26.日常生活
+27.only 27.adv:只；仅
+28.break 28.n.休息；间断v.(使)破碎；损坏
+29.Finnish 29.n.芬兰语adj.芬兰的；芬兰人的；芬兰语的
+30.finish 30.v.结束；完成
+31.hockey 31.n.曲棍球
+32.ice hockey 32.冰球运动；冰上曲棍球
+33.already 33.adv.已经；早已
+34.dark 34.adj.昏暗的；深色的
+35.outside 35.adv.在外面adj.外面的prep.在……外面
+36.part 36.n.部分
+37.everyday 37.adj.每天的;日常的
+38.prepare 38.v.把……预备好；准备
+39.prepare sth for 39.为……把某物准备好
+40.Timo 40.蒂莫
+41.Halla 41.哈拉
+42.Helsinki 42.赫尔辛基(芬兰首都)
+43.Finland 43.芬兰
+44.home economics 44.家事经济
+Unit 7 
+1.celebrate 1.v.庆祝；庆贺
+2.surprise 2.n.惊奇；惊讶v.使感到意外
+3.something 3.pron.某事；某物
+4.sale 4.n.出售；销售
+5.kilo 5.n.千克；公斤
+6.yogurt 6.n.(=yoghurt)酸奶
+7.total 7.n.总数；合计adj.总的；全体的
+8.price 8.n.价格
+9.balloon 9.n.气球
+10.chocolate 10.n.巧克力
+11.pizza 11.n.比萨饼
+12.list 12.v.列表；列清单n.名单；清单
+13.own 13.adj.&pron.自己的；本人的
+14.example 14.n.例子；范例
+15.for example 15.例如
+16.language 16.n.语言
+17.international 17.adj.国际的
+18.mark 18.v:做记号；纪念；打分n.记号
+19.national 19.adj.国家的；民族的
+20.found 20.v.创建；创立
+21.meaningful 21.adj.重要的；重大的
+22.make a wish 22.许愿
+23.celebration 23.n.庆典;庆祝(活动)
+24.post 24. n.帖子:邮政v 邮寄;发布
+25.contact 25.n.联系:接触v.联系;联络
+26.symbol 26.n.象征:符号
+27.take a photo 27.拍照
+28.village 28.n.村庄；村镇
+29.grow 29.v.成长；长大；增长
+30.blow 30.v吹；刮
+31.blow out 31.吹灭
+32.enjoy 32.v.享受……的乐趣；喜欢
+33.height 33.n.身高；高度
+34.later 34.adx&adj.以后(的)后来(的)
+35.next time 35.下次
+36.whom 36.pron.谁；什么人
+37.William Shakespeare 37.威廉·莎士比亚
+38.Florence Nightingale 38.弗洛伦斯·南丁格尔
+39.National Day 39.国庆节
+40.CPC Founding Day 40.中国共产党建党纪念日
+41.PLA Day 41.中国人民解放军建军节
+42.Judy 42.朱迪
+43.Clark 43.克拉克
+[[SHEET:Sheet2]]
+[[SHEET:Sheet3]]
