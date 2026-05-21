@@ -1,10 +1,7 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
-import { ChevronLeft, ChevronRight, Volume2, RotateCcw, X, Upload, Brain, FileDown, Lightbulb } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Volume2, RotateCcw, X, Upload, Brain, FileDown } from 'lucide-react';
 import { generatePDF, mergeWordsFromDays } from '../lib/pdfEngine';
-import type { ExportType } from '../lib/pdfEngine';
 import calendarDataJson from '../data/calendarData.json';
-import { getDailyWisdom } from '../data/dailyWisdomData';
-import type { DailyWisdomItem } from '../data/dailyWisdomData';
 
 // ============= TYPES =============
 // 每个词性的独立信息（多词性支持）
@@ -314,20 +311,6 @@ function saveVocabularyProgress(state: VocabularyPracticeState) {
 }
 
 // ============= 彩色音节 =============
-const SYLLABLE_PALETTE = ['#F97316', '#3B82F6', '#10B981', '#EF4444', '#8B5CF6', '#EC4899', '#06B6D4', '#F59E0B'];
-
-function SyllableText({ parts, colors }: { parts: string[]; colors: string[] }) {
-  return (
-    <span className="flex items-center gap-0.5 text-xl flex-wrap">
-      {parts.map((p, i) => (
-        <span key={i} style={{ color: colors[i] || SYLLABLE_PALETTE[i % SYLLABLE_PALETTE.length] }} className="font-extrabold">
-          {p}{i < parts.length - 1 && <span className="text-slate-500 mx-px">·</span>}
-        </span>
-      ))}
-    </span>
-  );
-}
-
 // ============= 词性背景色 =============
 // 单一词性的样式（用于拆分后显示）
 const SINGLE_POS_BG: Record<string, string> = {
@@ -393,79 +376,6 @@ function getPosLabel(pos: string): string {
   return parts.map(p => SINGLE_POS_LABEL[p] || p).join('/');
 }
 
-// ============= 音节拖放拼图 =============
-function SyllableDrop({ word, onCorrect, onWrong }: { word: CalendarWord; onCorrect: () => void; onWrong?: () => void }) {
-  const parts = word.syllableParts;
-  const hasSyllables = parts.length > 1;
-  const [slots, setSlots] = useState<(number | null)[]>(hasSyllables ? parts.map(() => null) : []);
-  const [available, setAvailable] = useState<number[]>(() => {
-    if (!hasSyllables) return [];
-    const indices = parts.map((_, i) => i);
-    for (let i = indices.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [indices[i], indices[j]] = [indices[j], indices[i]];
-    }
-    return indices;
-  });
-  const [dragging, setDragging] = useState<number | null>(null);
-
-  const handleDrop = (slotIndex: number) => {
-    if (dragging === null) return;
-    const newSlots = [...slots];
-    if (newSlots[slotIndex] === null) {
-      newSlots[slotIndex] = dragging;
-      setSlots(newSlots);
-      setAvailable(prev => prev.filter(i => i !== dragging));
-      setDragging(null);
-      if (newSlots.every((s, i) => s === i)) {
-        onCorrect();
-      } else if (newSlots.every(s => s !== null)) {
-        onWrong?.();
-      }
-    }
-  };
-
-  const reset = () => {
-    const indices = parts.map((_, i) => i);
-    for (let i = indices.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [indices[i], indices[j]] = [indices[j], indices[i]];
-    }
-    setSlots(parts.map(() => null));
-    setAvailable(indices);
-    setDragging(null);
-  };
-
-  if (!hasSyllables) {
-    return <div className="text-sm text-slate-400 mt-2">此单词音节太少，无需拼合</div>;
-  }
-
-  return (
-    <div className="mt-4 space-y-3">
-      <div className="flex items-center justify-between">
-        <span className="text-sm font-bold text-white">拖放音节拼出单词:</span>
-        <button onClick={reset} className="text-xs text-cyan-400 hover:text-cyan-300 flex items-center gap-1"><RotateCcw size={12} /> 重置</button>
-      </div>
-      <div className="flex gap-2 flex-wrap justify-center">
-        {available.map(idx => (
-          <button key={idx} draggable onDragStart={() => setDragging(idx)} onClick={() => setDragging(idx)} className={`px-3 py-2 rounded-lg border-2 font-bold text-lg cursor-grab active:cursor-grabbing transition-all ${dragging === idx ? 'border-cyan-400 bg-cyan-500/30 text-cyan-300 scale-110' : 'border-slate-600 bg-slate-700/50 text-white hover:border-cyan-500'}`}>
-            {parts[idx]}
-          </button>
-        ))}
-        {available.length === 0 && <span className="text-emerald-400 text-sm font-bold">全部放置完毕!</span>}
-      </div>
-      <div className="text-xs text-slate-400 text-center">点击上方音节，再点击下方空位放入</div>
-      <div className="flex gap-2 flex-wrap justify-center">
-        {slots.map((s, i) => (
-          <button key={i} onClick={() => s === null && handleDrop(i)} className={`w-20 h-12 rounded-lg border-2 flex items-center justify-center text-lg font-bold transition-all ${s !== null ? 'border-emerald-500 bg-emerald-500/20' : dragging !== null ? 'border-cyan-400 bg-cyan-500/10 border-dashed animate-pulse' : 'border-slate-600 bg-slate-800/50 border-dashed'}`}>
-            {s !== null ? <span style={{ color: SYLLABLE_PALETTE[s % SYLLABLE_PALETTE.length] }} className="font-extrabold">{parts[s]}</span> : <span className="text-slate-600">?</span>}
-          </button>
-        ))}
-      </div>
-    </div>
-  );
-}
-
 // ============= 拼写验证反馈 =============
 function SpellingFeedback({ status }: { status: 'correct' | 'wrong' | 'idle' }) {
   if (status === 'idle') return null;
@@ -506,14 +416,14 @@ function WholeWordInput({ word, onCorrect, onWrong }: { word: CalendarWord; onCo
         <span className="w-6 h-6 rounded-full bg-gradient-to-br from-cyan-500 to-blue-500 flex items-center justify-center text-xs text-white font-black">1</span>
         完整单词拼写
       </label>
-      <p className="text-xs text-slate-400">提示: {word.meanings[0]} ({word.phonetic})</p>
+      <p className="text-xs text-slate-400">提示: {word.meanings[0]}</p>
       <div className="flex gap-2">
         <input
           type="text"
           value={input}
           onChange={e => { setInput(e.target.value); setStatus('idle'); }}
           onKeyDown={e => e.key === 'Enter' && check()}
-          placeholder={`输入完整单词 (${word.syllableParts.length}个音节)`}
+          placeholder="输入完整单词"
           className={`flex-1 px-4 py-2.5 rounded-xl border-2 bg-slate-800/80 text-white font-mono text-lg tracking-wider placeholder:text-slate-500 focus:outline-none transition-all ${status === 'correct' ? 'border-emerald-500 bg-emerald-500/10' : status === 'wrong' ? 'border-red-500 bg-red-500/10' : 'border-slate-600 focus:border-cyan-500'}`}
         />
         <button onClick={check} className="px-4 py-2.5 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-xl text-white font-bold text-sm hover:shadow-lg hover:shadow-cyan-500/25 transition-all">
@@ -525,107 +435,19 @@ function WholeWordInput({ word, onCorrect, onWrong }: { word: CalendarWord; onCo
   );
 }
 
-// ============= 音节逐个输入框 =============
-function SyllableInputs({ word, onCorrect, onWrong }: { word: CalendarWord; onCorrect: () => void; onWrong?: () => void }) {
-  const parts = word.syllableParts;
-  const hasSyllables = parts.length > 1;
-  const [values, setValues] = useState<string[]>(parts.map(() => ''));
-  const [status, setStatus] = useState<'correct' | 'wrong' | 'idle'>('idle');
-  const inputRefs = useState<(HTMLInputElement | null)[]>([])[0];
-
-  const setRef = (idx: number, el: HTMLInputElement | null) => { inputRefs[idx] = el; };
-
-  const updateValue = (idx: number, val: string) => {
-    const next = [...values];
-    next[idx] = val;
-    setValues(next);
-    setStatus('idle');
-  };
-
-  const check = () => {
-    const allCorrect = values.every((v, i) => v.trim().toLowerCase() === parts[i].toLowerCase());
-    if (allCorrect) {
-      setStatus('correct');
-      onCorrect();
-    } else {
-      setStatus('wrong');
-      onWrong?.();
-      setTimeout(() => setStatus('idle'), 1500);
-    }
-  };
-
-  const handleKeyDown = (idx: number, e: React.KeyboardEvent) => {
-    if (e.key === 'Enter') {
-      if (idx < parts.length - 1) {
-        inputRefs[idx + 1]?.focus();
-      } else {
-        check();
-      }
-    }
-  };
-
-  if (!hasSyllables) {
-    return (
-      <div className="space-y-2">
-        <label className="text-sm font-bold text-white flex items-center gap-2">
-          <span className="w-6 h-6 rounded-full bg-gradient-to-br from-amber-500 to-orange-500 flex items-center justify-center text-xs text-white font-black">2</span>
-          音节拼写
-        </label>
-        <p className="text-xs text-slate-400">此单词为单音节词，无需分节拼写</p>
-      </div>
-    );
-  }
-
-  return (
-    <div className="space-y-3">
-      <label className="text-sm font-bold text-white flex items-center gap-2">
-        <span className="w-6 h-6 rounded-full bg-gradient-to-br from-amber-500 to-orange-500 flex items-center justify-center text-xs text-white font-black">2</span>
-        逐个音节拼写
-      </label>
-      <p className="text-xs text-slate-400">依次输入每个音节（共 {parts.length} 个），输完按回车跳到下一格</p>
-      <div className="flex gap-2 flex-wrap justify-center">
-        {parts.map((part, i) => (
-          <div key={i} className="flex flex-col items-center gap-1">
-            <input
-              ref={el => setRef(i, el)}
-              type="text"
-              value={values[i]}
-              onChange={e => updateValue(i, e.target.value)}
-              onKeyDown={e => handleKeyDown(i, e)}
-              placeholder={`音节 ${i + 1}`}
-              className={`w-24 px-2 py-2 rounded-xl border-2 bg-slate-800/80 text-center text-white font-mono font-bold placeholder:text-slate-500 focus:outline-none transition-all ${values[i].trim().toLowerCase() === part.toLowerCase() && values[i] !== '' ? 'border-emerald-500 bg-emerald-500/10' : status === 'wrong' && values[i] !== '' ? 'border-red-500/50' : 'border-slate-600 focus:border-cyan-500'}`}
-            />
-            <span className="text-[9px] text-slate-500">音节 {i + 1}</span>
-          </div>
-        ))}
-      </div>
-      <div className="flex justify-center">
-        <button onClick={check} className="px-5 py-2 bg-gradient-to-r from-amber-500 to-orange-500 rounded-xl text-white font-bold text-sm hover:shadow-lg hover:shadow-amber-500/25 transition-all">
-          验证音节
-        </button>
-      </div>
-      <SpellingFeedback status={status} />
-    </div>
-  );
-}
-
-// ============= 闪卡弹窗（含进度导航 1/6） =============
-function FlashCard({ words, currentIndex, day, wisdom, onClose, onNavigate, onPracticeEvent }: {
+// ============= 闪卡弹窗 =============
+function FlashCard({ words, currentIndex, onClose, onNavigate, onPracticeEvent }: {
   words: CalendarWord[];
   currentIndex: number;
-  day: CalendarDay | null;
-  wisdom?: DailyWisdomItem;
   onClose: () => void;
   onNavigate: (index: number) => void;
   onPracticeEvent: (word: CalendarWord, step: PracticeStep, result: 'correct' | 'wrong') => void;
 }) {
-  const [cardStage, setCardStage] = useState<0 | 1 | 2 | 3>(0);
+  const [cardStage, setCardStage] = useState<0 | 1>(0);
   const [isFlipping, setIsFlipping] = useState(false);
-  const [puzzleSolved, setPuzzleSolved] = useState(false);
-  const [wholeWordCorrect, setWholeWordCorrect] = useState(false);
-  const [syllableCorrect, setSyllableCorrect] = useState(false);
   const [cardKey, setCardKey] = useState(0);
   const [toast, setToast] = useState<{msg: string; type: 'success' | 'error'} | null>(null);
+  const [showCorrectSpelling, setShowCorrectSpelling] = useState(false);
 
   const showToast = (msg: string, type: 'success' | 'error' = 'success') => {
     setToast({ msg, type });
@@ -636,22 +458,25 @@ function FlashCard({ words, currentIndex, day, wisdom, onClose, onNavigate, onPr
   const total = words.length;
   const isFirst = currentIndex === 0;
   const isLast = currentIndex === total - 1;
-  const hasSyllablePractice = (word?.syllableParts?.length || 0) > 1;
-  const stageReady = cardStage === 1
-    ? wholeWordCorrect
-    : cardStage === 2
-      ? syllableCorrect || !hasSyllablePractice
-      : cardStage === 3
-        ? puzzleSolved || !hasSyllablePractice
-        : true;
 
-  const flipToStage = (nextStage: 0 | 1 | 2 | 3) => {
+  const flipToStage = (nextStage: 0 | 1) => {
     setIsFlipping(true);
     setTimeout(() => {
       setCardStage(nextStage);
       setCardKey(k => k + 1);
       setTimeout(() => setIsFlipping(false), 160);
     }, 160);
+  };
+
+  const autoNext = () => {
+    setTimeout(() => {
+      if (!isLast) {
+        onNavigate(currentIndex + 1);
+        resetState();
+      } else {
+        onClose();
+      }
+    }, 1500);
   };
 
   const handlePrev = () => {
@@ -671,9 +496,8 @@ function FlashCard({ words, currentIndex, day, wisdom, onClose, onNavigate, onPr
   const resetState = () => {
     setCardStage(0);
     setIsFlipping(false);
-    setPuzzleSolved(false);
-    setWholeWordCorrect(false);
-    setSyllableCorrect(false);
+    // reset
+    setShowCorrectSpelling(false);
     setCardKey(k => k + 1);
   };
 
@@ -681,41 +505,6 @@ function FlashCard({ words, currentIndex, day, wisdom, onClose, onNavigate, onPr
   useEffect(() => {
     resetState();
   }, [currentIndex]);
-
-  // 生成词性与释义的配对列表
-  // 优先按 posDetails 显示；若复合词性的 meanings 数量与 POS 数量匹配，则按顺序配对
-  const generatePosMeaningPairs = (w: CalendarWord) => {
-    // Case 1: posDetails 已有多个条目，直接使用
-    if (w.posDetails && w.posDetails.length > 1) {
-      return w.posDetails.map(pd => ({
-        pos: pd.pos,
-        meaning: pd.meaning,
-        example: pd.example,
-        exampleCn: pd.exampleCn,
-      }));
-    }
-
-    const posList = splitPos(w.pos);
-    const meanings = w.meanings || [];
-
-    // Case 2: 复合词性且 meanings 数量与 POS 数量匹配，按索引一一对应
-    if (posList.length > 1 && meanings.length === posList.length && w.posDetails?.length === 1) {
-      return posList.map((pos, i) => ({
-        pos,
-        meaning: meanings[i],
-        example: w.posDetails![0].example,
-        exampleCn: w.posDetails![0].exampleCn,
-      }));
-    }
-
-    // Case 3: 单义词性或无法配对，显示为单个合并卡片
-    return [{
-      pos: w.pos || 'n.',
-      meaning: meanings.join('；') || '',
-      example: w.posDetails?.[0]?.example,
-      exampleCn: w.posDetails?.[0]?.exampleCn,
-    }];
-  };
 
   return (
     <div className="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm" onClick={onClose}>
@@ -761,68 +550,29 @@ function FlashCard({ words, currentIndex, day, wisdom, onClose, onNavigate, onPr
           ))}
         </div>
 
-        {wisdom && (
-          <div className="mb-4 rounded-2xl border border-amber-300/20 bg-gradient-to-br from-amber-300/10 via-slate-800/70 to-cyan-400/10 p-3">
-            <div className="flex items-start gap-3">
-              <div className="relative mt-0.5 h-8 w-8 shrink-0 rounded-full border border-amber-200/30 bg-amber-300/10">
-                <span className="absolute inset-1 rounded-full bg-amber-300/20 blur-sm animate-pulse" />
-                <Lightbulb className="relative z-10 m-1.5 h-5 w-5 text-amber-200 drop-shadow-[0_0_10px_rgba(251,191,36,0.8)]" />
-              </div>
-              <div className="min-w-0 text-left">
-                <div className="mb-1 flex flex-wrap items-center gap-2">
-                  <span className="rounded-full bg-amber-300/15 px-2 py-0.5 text-[10px] font-black uppercase tracking-wide text-amber-100">
-                    今日表达
-                  </span>
-                  {day && <span className="text-[10px] text-slate-400">{day.date} · Day {day.day}</span>}
-                </div>
-                <p className="text-sm font-bold leading-6 text-amber-50">{wisdom.text}</p>
-                <p className="mt-1 text-xs leading-5 text-amber-100/70">{wisdom.cn}</p>
-                <p className="mt-2 text-[10px] leading-4 text-amber-100/45">
-                  {wisdom.verified ? `来源：${wisdom.sourceTitle}` : '来源状态：种子库待校验，严格唯一日历扩库时不直接计入'}
-                </p>
-              </div>
-            </div>
-          </div>
-        )}
-
         <div
           key={cardKey}
           className="transition-transform duration-300"
           style={{ transform: isFlipping ? 'rotateY(90deg)' : 'rotateY(0deg)', transformStyle: 'preserve-3d' }}
         >
           {cardStage === 0 && (
-            <div className="text-center space-y-3">
+            <div className="text-center space-y-5 py-4">
               <div className="flex items-center justify-center gap-3">
-                <h3 className="text-4xl font-black text-white tracking-wide">{word.word}</h3>
+                <h3 className="text-5xl font-black text-white tracking-wide">{word.word}</h3>
                 <button onClick={() => { speak(word.word).then(ok => { if (!ok) showToast('语音播放失败', 'error'); }); }} className="p-2.5 rounded-full bg-cyan-500/20 text-cyan-400 hover:bg-cyan-500/30 transition-colors active:scale-90" title="点击发音"><Volume2 size={22} /></button>
               </div>
 
-              <div className="flex items-center justify-center gap-2"><SyllableText parts={word.syllableParts} colors={word.syllableColors} /></div>
-              <p className="text-base text-cyan-400 font-mono">{word.phonetic}</p>
-
-              {/* 词性-释义配对卡片 */}
-              <div className="space-y-2.5 text-left">
-                {generatePosMeaningPairs(word).map((item, i) => (
-                  <div key={i} className={`p-3.5 rounded-xl border ${getPosBg(item.pos)}`}>
-                    <div className="flex items-center gap-2 mb-2">
-                      <span className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-lg text-sm font-bold border bg-white/10 text-white`}>
-                        <span>{getPosLabel(item.pos)}</span>
-                        <span className="text-white/60 text-xs">({item.pos})</span>
-                      </span>
-                    </div>
-                    <p className="text-lg text-white font-medium mb-2">{item.meaning}</p>
-                    {item.example && (
-                      <div className="space-y-0.5">
-                        <p className="text-xs text-white/60 italic">{item.example}</p>
-                        {item.exampleCn && <p className="text-xs text-white/40">{item.exampleCn}</p>}
-                      </div>
-                    )}
-                  </div>
+              <div className="flex flex-wrap items-center justify-center gap-2">
+                {splitPos(word.pos).map((p, i) => (
+                  <span key={i} className={`inline-flex items-center gap-1 px-3 py-1 rounded-lg text-sm font-bold border bg-white/10 text-white`}>
+                    <span>{getPosLabel(p)}</span>
+                    <span className="text-white/60 text-xs">({p})</span>
+                  </span>
                 ))}
               </div>
 
-              <button onClick={() => flipToStage(1)} className="mt-2 px-6 py-2.5 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-xl font-bold text-white hover:shadow-lg hover:shadow-cyan-500/25 transition-all text-sm">
-                翻转到第1步 拼写
+              <button onClick={() => flipToStage(1)} className="mt-4 px-8 py-3 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-xl font-bold text-white hover:shadow-lg hover:shadow-cyan-500/25 transition-all text-base">
+                开始拼写
               </button>
             </div>
           )}
@@ -830,81 +580,29 @@ function FlashCard({ words, currentIndex, day, wisdom, onClose, onNavigate, onPr
           {cardStage === 1 && (
             <div className="space-y-5">
               <div className="text-center space-y-1">
-                <h3 className="text-lg font-bold text-white">第1步 · 完整单词拼写</h3>
-                <p className="text-sm text-slate-400">{word.meanings?.[0] || ''} · {word.phonetic}</p>
+                <h3 className="text-lg font-bold text-white">拼写检验</h3>
+                <p className="text-sm text-slate-400">{word.meanings?.[0] || ''}</p>
               </div>
               <WholeWordInput
+                key={cardKey}
                 word={word}
                 onCorrect={() => {
-                  setWholeWordCorrect(true);
                   onPracticeEvent(word, 'whole', 'correct');
-                  showToast('第一步通过');
+                  showToast('拼写正确！');
+                  autoNext();
                 }}
-                onWrong={() => onPracticeEvent(word, 'whole', 'wrong')}
-              />
-              <div className="flex gap-3 justify-center pt-2">
-                <button onClick={() => flipToStage(0)} className="px-4 py-2 rounded-xl border border-slate-600 text-slate-300 hover:bg-slate-800 text-sm">回到正面</button>
-                <button disabled={!stageReady} onClick={() => flipToStage(2)} className="px-4 py-2 rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 font-bold text-white text-sm disabled:opacity-40 disabled:cursor-not-allowed">翻转到第2步</button>
-              </div>
-            </div>
-          )}
-
-          {cardStage === 2 && (
-            <div className="space-y-5">
-              <div className="text-center space-y-1">
-                <h3 className="text-lg font-bold text-white">第2步 · 音节拼写</h3>
-                <p className="text-sm text-slate-400">{word.word} · {word.syllableParts?.length || 1} 个音节</p>
-              </div>
-              <SyllableInputs
-                word={word}
-                onCorrect={() => {
-                  setSyllableCorrect(true);
-                  onPracticeEvent(word, 'syllable', 'correct');
-                  showToast('第二步通过');
+                onWrong={() => {
+                  onPracticeEvent(word, 'whole', 'wrong');
+                  showToast('拼写错误', 'error');
+                  setShowCorrectSpelling(true);
+                  autoNext();
                 }}
-                onWrong={() => onPracticeEvent(word, 'syllable', 'wrong')}
               />
-              <div className="flex gap-3 justify-center pt-2">
-                <button onClick={() => flipToStage(1)} className="px-4 py-2 rounded-xl border border-slate-600 text-slate-300 hover:bg-slate-800 text-sm">返回第1步</button>
-                <button disabled={!stageReady} onClick={() => flipToStage(3)} className="px-4 py-2 rounded-xl bg-gradient-to-r from-purple-500 to-pink-500 font-bold text-white text-sm disabled:opacity-40 disabled:cursor-not-allowed">翻转到第3步</button>
-              </div>
-            </div>
-          )}
-
-          {cardStage === 3 && (
-            <div className="space-y-5">
-              <div className="text-center space-y-1">
-                <h3 className="text-lg font-bold text-white">第3步 · 音节拖入</h3>
-                <p className="text-sm text-slate-400">{word.meanings?.[0] || ''} · {word.phonetic}</p>
-              </div>
-              <SyllableDrop
-                word={word}
-                onCorrect={() => {
-                  setPuzzleSolved(true);
-                  onPracticeEvent(word, 'drag', 'correct');
-                  showToast('第三步通过');
-                }}
-                onWrong={() => onPracticeEvent(word, 'drag', 'wrong')}
-              />
-              {stageReady && (
-                <div className="text-center p-4 rounded-xl bg-emerald-500/10 border border-emerald-500/30 animate-bounce">
-                  <div className="text-emerald-400 font-bold text-lg">本词通过</div>
-                  <p className="text-xs text-emerald-300 mt-1">你已经完成 {word.word} 的三步训练</p>
+              {showCorrectSpelling && (
+                <div className="text-center p-3 rounded-xl bg-emerald-500/10 border border-emerald-500/30">
+                  <p className="text-sm text-emerald-300">正确拼写：<span className="font-bold text-emerald-200">{word.word}</span></p>
                 </div>
               )}
-              <div className="flex gap-3 justify-center pt-2">
-                <button onClick={() => flipToStage(2)} className="px-4 py-2 rounded-xl border border-slate-600 text-slate-300 hover:bg-slate-800 text-sm">返回第2步</button>
-                {!isLast && (
-                  <button disabled={!stageReady} onClick={handleNext} className="px-4 py-2 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-500 font-bold text-white text-sm hover:shadow-lg hover:shadow-cyan-500/25 transition-all disabled:opacity-40 disabled:cursor-not-allowed">
-                    下一个词 ({currentIndex + 2}/{total})
-                  </button>
-                )}
-                {isLast && (
-                  <button disabled={!stageReady} onClick={onClose} className="px-4 py-2 rounded-xl bg-gradient-to-r from-emerald-500 to-green-500 font-bold text-white text-sm disabled:opacity-40 disabled:cursor-not-allowed">
-                    当日完成
-                  </button>
-                )}
-              </div>
             </div>
           )}
         </div>
@@ -1793,7 +1491,6 @@ export function VocabularyCalendar() {
             <div key={`blank-${i}`} className="min-h-[154px] rounded-xl border border-slate-800/50 bg-slate-950/20" />
           ))}
           {currentMonthDays.map((day: CalendarDay) => {
-            const wisdom = getDailyWisdom(day.day, semKey);
             const isNew = day.dateISO === todayISO;
             const isReview = false;
             const progressKey = getDayProgressKey(semKey, day);
@@ -1824,7 +1521,7 @@ export function VocabularyCalendar() {
                     openFlashForDay(day);
                   }
                 }}
-                className={`relative min-h-[154px] cursor-pointer rounded-xl border p-2 pb-8 flex flex-col gap-2 text-left transition-all hover:shadow-lg hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-cyan-400/70 ${tileTone}`}
+                className={`relative min-h-[100px] cursor-pointer rounded-xl border p-2 pb-8 flex flex-col gap-2 text-left transition-all hover:shadow-lg hover:-translate-y-0.5 focus:outline-none focus:ring-2 focus:ring-cyan-400/70 ${tileTone}`}
                 title="点击开始当日6词闪卡"
               >
                 <div className="flex items-start justify-between gap-2">
@@ -1841,18 +1538,6 @@ export function VocabularyCalendar() {
                   ) : (
                     <div className="text-[10px] text-slate-500">已背 {completedCount}/{day.words.length || 6}</div>
                   )}
-                </div>
-                <div className="mt-auto flex min-h-[50px] items-start gap-2 rounded-lg border border-amber-300/15 bg-amber-300/5 px-2 py-2">
-                  <div className="relative mt-0.5 h-5 w-5 -rotate-12 shrink-0" aria-label="灵感提示灯泡">
-                    <span className="absolute inset-0 rounded-full bg-amber-300/20 blur-sm animate-pulse" />
-                    <span className="absolute left-1/2 -top-0.5 h-1.5 w-0.5 -translate-x-1/2 rounded-full bg-amber-200/70 shadow-[0_0_8px_rgba(251,191,36,0.9)] animate-pulse" />
-                    <span className="absolute right-0 top-0.5 h-0.5 w-1.5 rotate-[-25deg] rounded-full bg-amber-200/70 shadow-[0_0_8px_rgba(251,191,36,0.9)] animate-pulse" />
-                    <Lightbulb className="relative z-10 h-5 w-5 text-amber-200 drop-shadow-[0_0_10px_rgba(251,191,36,0.95)] animate-pulse" />
-                  </div>
-                  <div title={`${wisdom.text} ${wisdom.cn} ${wisdom.verified ? wisdom.sourceTitle : '待来源校验'}`} className="min-w-0">
-                    <p className="line-clamp-2 text-[10px] font-semibold leading-snug text-amber-50/90">{wisdom.text}</p>
-                    <p className="mt-0.5 line-clamp-1 text-[10px] leading-tight text-amber-200/60">{wisdom.cn}</p>
-                  </div>
                 </div>
                 <div className="absolute bottom-2 right-2 flex items-center gap-1">
                   {wrongCount > 0 && (
@@ -1884,8 +1569,6 @@ export function VocabularyCalendar() {
         <FlashCard
           words={flashWords}
           currentIndex={flashIndex}
-          day={activeDay}
-          wisdom={activeDay ? getDailyWisdom(activeDay.day, semKey) : undefined}
           onClose={closeFlash}
           onNavigate={(i) => setFlashIndex(i)}
           onPracticeEvent={handlePracticeEvent}
@@ -1935,27 +1618,18 @@ function PDFExportModal({
   const currentMonth = months[currentMonthIndex];
   const currentMonthDays = semesterPlan?.days.filter((day) => day.month === currentMonth) || [];
   const currentDay = currentMonthDays[0]?.day || 1;
-  const [pdfType, setPdfType] = useState<ExportType>('memory');
   const [pdfRange, setPdfRange] = useState<'day' | 'week' | 'month' | 'custom' | 'selected'>('day');
   const [pdfDayStart, setPdfDayStart] = useState(currentDay);
   const [pdfDayEnd, setPdfDayEnd] = useState(currentDay);
   const [pdfSelectedDays, setPdfSelectedDays] = useState<number[]>(currentDay ? [currentDay] : []);
   const [pdfStudentName, setPdfStudentName] = useState('');
+  const [pdfStudentClass, setPdfStudentClass] = useState('');
   const [pdfGenerating, setPdfGenerating] = useState(false);
-
-  const typeLabels: Record<ExportType, string> = { memory: '记背单', exercise: '练习单', test: '测试单' };
-  const typeColors: Record<ExportType, string> = { memory: 'from-blue-500 to-cyan-500', exercise: 'from-emerald-500 to-teal-500', test: 'from-red-500 to-orange-500' };
-  const typeDesc: Record<ExportType, string> = {
-    memory: '学术词汇清单：英文、音标、词性、中文释义',
-    exercise: '中英互译与英中互译练习，保留词性提示',
-    test: '默写测试版，附答案页',
-  };
 
   const handleGenerate = async () => {
     if (!semesterPlan) return;
     setPdfGenerating(true);
     try {
-      // 计算要导出的天数范围
       let startDay = pdfDayStart;
       let endDay = pdfDayEnd;
       let selectedDays: CalendarDay[] | null = null;
@@ -1965,7 +1639,6 @@ function PDFExportModal({
         startDay = currentDay;
         endDay = currentDay;
       } else if (pdfRange === 'week') {
-        // 当前周：从当前天往前推6天
         startDay = Math.max(1, currentDay - 6);
         endDay = currentDay;
       } else if (pdfRange === 'month') {
@@ -1975,7 +1648,6 @@ function PDFExportModal({
         selectedDays = semesterPlan.days.filter((day) => pdfSelectedDays.includes(day.day));
       }
 
-      // 收集选定范围内的所有单词
       const days = selectedDays || semesterPlan.days.slice(startDay - 1, endDay);
       const words = mergeWordsFromDays(days);
 
@@ -1985,7 +1657,6 @@ function PDFExportModal({
         return;
       }
 
-      // 生成日期范围文字
       let dayRangeText: string;
       if (pdfRange === 'selected') {
         dayRangeText = days.map((day) => day.date).join('、');
@@ -1999,8 +1670,9 @@ function PDFExportModal({
 
       const success = await generatePDF({
         words,
-        exportType: pdfType,
+        exportType: 'test',
         studentName: pdfStudentName,
+        studentClass: pdfStudentClass,
         date: today,
         semesterName,
         dayRange: dayRangeText,
@@ -2023,31 +1695,15 @@ function PDFExportModal({
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm" onClick={onClose}>
       <div className="bg-slate-800 rounded-2xl shadow-2xl max-w-lg w-[90%] max-h-[90vh] overflow-y-auto border border-slate-700" onClick={e => e.stopPropagation()}>
-        {/* 头部 */}
         <div className="sticky top-0 bg-slate-800 rounded-t-2xl p-5 border-b border-slate-700 flex items-center justify-between z-10">
-          <h3 className="text-xl font-bold text-white flex items-center gap-2"><FileDown size={20} className="text-violet-400" /> 导出PDF词单</h3>
+          <h3 className="text-xl font-bold text-white flex items-center gap-2"><FileDown size={20} className="text-violet-400" /> 导出词汇测试单</h3>
           <button onClick={onClose} className="p-1.5 rounded-lg hover:bg-slate-700 text-slate-400 hover:text-white transition-colors"><X size={20} /></button>
         </div>
 
         <div className="p-5 space-y-5">
-          {/* 步骤1：选择类型 */}
+          {/* 时间范围 */}
           <div>
-            <label className="text-sm font-semibold text-slate-300 mb-2 block">1. 选择导出类型</label>
-            <div className="grid grid-cols-3 gap-2">
-              {(['memory', 'exercise', 'test'] as ExportType[]).map(t => (
-                <button key={t} onClick={() => setPdfType(t)}
-                  className={`p-3 rounded-xl text-center transition-all ${pdfType === t ? `bg-gradient-to-r ${typeColors[t]} text-white shadow-lg scale-[1.03]` : 'bg-slate-700 text-slate-400 hover:bg-slate-600'}`}
-                >
-                  <div className="text-sm font-bold">{typeLabels[t]}</div>
-                </button>
-              ))}
-            </div>
-            <p className="text-xs text-slate-500 mt-1.5">{typeDesc[pdfType]}</p>
-          </div>
-
-          {/* 步骤2：选择时间范围 */}
-          <div>
-            <label className="text-sm font-semibold text-slate-300 mb-2 block">2. 选择时间范围</label>
+            <label className="text-sm font-semibold text-slate-300 mb-2 block">选择时间范围</label>
             <div className="grid grid-cols-5 gap-2 mb-2">
               {[
                 { key: 'day' as const, label: '当天', desc: `第${currentDay}天` },
@@ -2098,27 +1754,34 @@ function PDFExportModal({
             )}
           </div>
 
-          {/* 步骤3：学生姓名 */}
-          <div>
-            <label className="text-sm font-semibold text-slate-300 mb-2 block">3. 学生姓名（可选，用于文件名和PDF标注）</label>
-            <input type="text" value={pdfStudentName} onChange={e => setPdfStudentName(e.target.value)} placeholder="输入学生姓名" className="w-full bg-slate-900 border border-slate-600 rounded-lg px-4 py-2.5 text-white text-sm focus:outline-none focus:border-violet-500 placeholder-slate-500" />
+          {/* 学生信息 */}
+          <div className="grid grid-cols-2 gap-3">
+            <div>
+              <label className="text-sm font-semibold text-slate-300 mb-2 block">姓名</label>
+              <input type="text" value={pdfStudentName} onChange={e => setPdfStudentName(e.target.value)} placeholder="学生姓名" className="w-full bg-slate-900 border border-slate-600 rounded-lg px-4 py-2.5 text-white text-sm focus:outline-none focus:border-violet-500 placeholder-slate-500" />
+            </div>
+            <div>
+              <label className="text-sm font-semibold text-slate-300 mb-2 block">班级</label>
+              <input type="text" value={pdfStudentClass} onChange={e => setPdfStudentClass(e.target.value)} placeholder="如：七年级3班" className="w-full bg-slate-900 border border-slate-600 rounded-lg px-4 py-2.5 text-white text-sm focus:outline-none focus:border-violet-500 placeholder-slate-500" />
+            </div>
           </div>
 
-          {/* 步骤4：确认信息 */}
+          {/* 确认信息 */}
           <div className="bg-slate-700/30 rounded-xl p-4 space-y-1 text-sm">
             <div className="flex justify-between"><span className="text-slate-400">学期</span><span className="text-white font-medium">{semesterName}</span></div>
-            <div className="flex justify-between"><span className="text-slate-400">导出类型</span><span className="text-white font-medium">{typeLabels[pdfType]}</span></div>
+            <div className="flex justify-between"><span className="text-slate-400">导出类型</span><span className="text-white font-medium">词汇测试单</span></div>
             <div className="flex justify-between"><span className="text-slate-400">时间范围</span><span className="text-white font-medium">
               {pdfRange === 'day' ? `第${currentDay}天` : pdfRange === 'week' ? `第${Math.max(1, currentDay - 6)}-${currentDay}天` : pdfRange === 'month' ? `${months[currentMonthIndex]}月` : pdfRange === 'selected' ? `${pdfSelectedDays.length}个日期` : `第${pdfDayStart}-${pdfDayEnd}天`}
             </span></div>
-            <div className="flex justify-between"><span className="text-slate-400">学生</span><span className="text-white font-medium">{pdfStudentName || '未填写'}</span></div>
+            <div className="flex justify-between"><span className="text-slate-400">姓名</span><span className="text-white font-medium">{pdfStudentName || '未填写'}</span></div>
+            <div className="flex justify-between"><span className="text-slate-400">班级</span><span className="text-white font-medium">{pdfStudentClass || '未填写'}</span></div>
           </div>
 
           {/* 操作按钮 */}
           <div className="flex gap-3 pt-2">
             <button onClick={onClose} className="flex-1 py-2.5 rounded-xl bg-slate-700 text-slate-300 font-semibold hover:bg-slate-600 transition-colors">取消</button>
             <button onClick={handleGenerate} disabled={pdfGenerating} className={`flex-[2] py-2.5 rounded-xl bg-gradient-to-r from-violet-600 to-purple-600 text-white font-semibold shadow-lg hover:shadow-violet-500/40 transition-all flex items-center justify-center gap-2 ${pdfGenerating ? 'opacity-60' : 'hover:from-violet-500 hover:to-purple-500 active:scale-95'}`}>
-              {pdfGenerating ? '正在生成PDF...' : (<><FileDown size={16} /> 生成并下载PDF</>)}
+              {pdfGenerating ? '正在生成PDF...' : (<><FileDown size={16} /> 生成并下载测试单</>)}
             </button>
           </div>
         </div>
