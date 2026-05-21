@@ -1,0 +1,67 @@
+[2m15:38:04[22m [31m[1m[vite][22m[39m [31mInternal server error: E:\xsc\app\src\sections\pos\SentenceFactory.tsx: Unexpected token, expected "," (367:177)
+
+[0m [90m 365 |[31m
+ [90m 366 |[31m   [36mconst[31m drill [33m=[31m filtered[currentIdx][33m;[31m
+[31m[1m>[22m[31m[90m 367 |[31m   [36mconst[31m isCorrect [33m=[31m selectedOption [33m===[31m (drill[33m?[31m[33m.[31mblanks[[35m0[31m][33m?[31m[33m.[31manswer [33m||[31m drill[33m?[31m[33m.[31moptions[drill[33m?[31m[33m.[31moptions[33m.[31mfindIndex(o [33m=>[31m o[33m.[31mincludes(drill[33m.[31msentence[33m.[31msplit([32m' '[31m)[33m.[31mslice([35m0[31m[33m,[31m [35m2[31m)[33m.[31mjoin([32m' '[31m)) [33m||[31m [35m0[31m])[33m;[31m
+ [90m     |[31m                                                                                                                                                                                  [31m[1m^[22m[31m
+ [90m 368 |[31m
+ [90m 369 |[31m   [36mconst[31m handleAnswer [33m=[31m (option[33m:[31m string) [33m=>[31m {
+ [90m 370 |[31m     [36mif[31m (showResult) [36mreturn[31m[33m;[31m[0m[39m
+  Plugin: [35mvite-plugin-inspect-dom-simple[39m
+  File: [36mE:/xsc/app/src/sections/pos/SentenceFactory.tsx[39m:367:177
+[33m  365 |  
+  366 |    const drill = filtered[currentIdx];
+  367 |  ...cludes(drill.sentence.split(' ').slice(0, 2).join(' ')) || 0]);
+      |                                                                 ^
+  368 |  
+  369 |    const handleAnswer = (option: string) => {[39m
+      at constructor (E:\xsc\app\node_modules\@babel\parser\lib\index.js:365:19)
+      at TypeScriptParserMixin.raise (E:\xsc\app\node_modules\@babel\parser\lib\index.js:6616:19)
+      at TypeScriptParserMixin.unexpected (E:\xsc\app\node_modules\@babel\parser\lib\index.js:6636:16)
+      at TypeScriptParserMixin.expect (E:\xsc\app\node_modules\@babel\parser\lib\index.js:6916:12)
+      at TypeScriptParserMixin.parseCallExpressionArguments (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11260:14)
+      at TypeScriptParserMixin.parseCoverCallAndAsyncArrowHead (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11203:29)
+      at TypeScriptParserMixin.parseSubscript (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11137:19)
+      at TypeScriptParserMixin.parseSubscript (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9289:18)
+      at TypeScriptParserMixin.parseSubscripts (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11111:19)
+      at TypeScriptParserMixin.parseExprSubscripts (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11102:17)
+      at TypeScriptParserMixin.parseUpdate (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11083:21)
+      at TypeScriptParserMixin.parseMaybeUnary (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11063:23)
+      at TypeScriptParserMixin.parseMaybeUnary (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9854:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10916:61)
+      at TypeScriptParserMixin.parseExprOps (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10921:23)
+      at TypeScriptParserMixin.parseMaybeConditional (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10898:23)
+      at TypeScriptParserMixin.parseMaybeAssign (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9803:20)
+      at TypeScriptParserMixin.parseExpressionBase (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10801:23)
+      at E:\xsc\app\node_modules\@babel\parser\lib\index.js:10797:39
+      at TypeScriptParserMixin.allowInAnd (E:\xsc\app\node_modules\@babel\parser\lib\index.js:12443:12)
+      at TypeScriptParserMixin.parseExpression (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10797:17)
+      at TypeScriptParserMixin.parseMember (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11156:28)
+      at TypeScriptParserMixin.parseSubscript (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11141:21)
+      at TypeScriptParserMixin.parseSubscript (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9289:18)
+      at TypeScriptParserMixin.parseSubscripts (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11111:19)
+      at TypeScriptParserMixin.parseExprSubscripts (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11102:17)
+      at TypeScriptParserMixin.parseUpdate (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11083:21)
+      at TypeScriptParserMixin.parseMaybeUnary (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11063:23)
+      at TypeScriptParserMixin.parseMaybeUnary (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9854:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10916:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11003:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10998:21)
+      at TypeScriptParserMixin.parseExprOp (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10964:27)
+      at TypeScriptParserMixin.parseExprOp (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9323:18)
+      at TypeScriptParserMixin.parseExprOps (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10925:17)
+      at TypeScriptParserMixin.parseMaybeConditional (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10898:23)
+      at TypeScriptParserMixin.parseMaybeAssign (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10848:21)
+      at TypeScriptParserMixin.parseMaybeAssign (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9803:20)
+      at E:\xsc\app\node_modules\@babel\parser\lib\index.js:10817:39
+      at TypeScriptParserMixin.allowInAnd (E:\xsc\app\node_modules\@babel\parser\lib\index.js:12443:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (E:\xsc\app\node_modules\@babel\parser\lib\index.js:10817:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (E:\xsc\app\node_modules\@babel\parser\lib\index.js:12510:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11692:28)
+      at TypeScriptParserMixin.parseExprAtom (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11348:23)
+      at TypeScriptParserMixin.parseExprAtom (E:\xsc\app\node_modules\@babel\parser\lib\index.js:4776:20)
+      at TypeScriptParserMixin.parseExprSubscripts (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11098:23)
+      at TypeScriptParserMixin.parseUpdate (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11083:21)
+      at TypeScriptParserMixin.parseMaybeUnary (E:\xsc\app\node_modules\@babel\parser\lib\index.js:11063:23)
+      at TypeScriptParserMixin.parseMaybeUnary (E:\xsc\app\node_modules\@babel\parser\lib\index.js:9854:18)
