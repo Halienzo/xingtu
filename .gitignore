@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 # Large media files not suitable for GitHub
-public/follow-reading/
+# public/follow-reading/  # now used for follow-reading audio (~232MB total)
 
 # Data backup files
 *.bak.*
