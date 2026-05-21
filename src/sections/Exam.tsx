@@ -188,14 +188,14 @@ export function Exam({ questions, state, onAnswer, navigate }: ExamProps) {
               上一题
             </button>
 
-            <div className="flex gap-1.5 flex-wrap justify-center max-w-xs">
+            <div className="flex gap-2 flex-wrap justify-center max-w-full sm:max-w-xs">
               {examQuestions.map((q, i) => {
                 const isAnswered = !!state.userAnswers[q.id];
                 return (
                   <button
                     key={q.id}
                     onClick={() => setCurrentIndex(i)}
-                    className={`w-8 h-8 rounded-lg text-xs font-medium transition-all ${
+                    className={`w-9 h-9 md:w-10 md:h-10 rounded-lg text-xs md:text-sm font-medium transition-all ${
                       i === currentIndex
                         ? 'bg-blue-500 text-white'
                         : isAnswered

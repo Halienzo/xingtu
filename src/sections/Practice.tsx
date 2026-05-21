@@ -109,7 +109,7 @@ export function Practice({ questions, state, onAnswer, onFavorite, initialCatego
         <div className="flex flex-wrap gap-2">
           <button
             onClick={() => setSelectedCategory('all')}
-            className={`px-3 py-1.5 rounded-xl text-sm font-medium transition-all ${selectedCategory === 'all' ? 'bg-blue-500 text-white' : 'bg-white/5 text-slate-300 hover:bg-white/10'}`}
+            className={`px-3 py-2 rounded-xl text-sm font-medium transition-all ${selectedCategory === 'all' ? 'bg-blue-500 text-white' : 'bg-white/5 text-slate-300 hover:bg-white/10'}`}
           >
             全部
           </button>
@@ -120,7 +120,7 @@ export function Practice({ questions, state, onAnswer, onFavorite, initialCatego
               <button
                 key={key}
                 onClick={() => setSelectedCategory(key)}
-                className={`px-3 py-1.5 rounded-xl text-sm font-medium transition-all flex items-center gap-1.5 ${selectedCategory === key ? 'bg-blue-500 text-white' : 'bg-white/5 text-slate-300 hover:bg-white/10'}`}
+                className={`px-3 py-2 rounded-xl text-sm font-medium transition-all flex items-center gap-1.5 ${selectedCategory === key ? 'bg-blue-500 text-white' : 'bg-white/5 text-slate-300 hover:bg-white/10'}`}
               >
                 <span>{categoryIcons[key]}</span>
                 {label}

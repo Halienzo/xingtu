@@ -104,7 +104,7 @@ export function QuestionCard({ question, userAnswer, onAnswer, onFavorite, isFav
               className={getOptionClass(idx)}
               disabled={isAnswered}
             >
-              <span className={`inline-flex items-center justify-center w-7 h-7 rounded-lg text-xs font-bold shrink-0 ${
+              <span className={`inline-flex items-center justify-center w-8 h-8 md:w-7 md:h-7 rounded-lg text-xs font-bold shrink-0 ${
                 isAnswered && idx === question.correct
                   ? 'bg-green-500 text-white'
                   : isAnswered && idx === selectedOption && idx !== question.correct
