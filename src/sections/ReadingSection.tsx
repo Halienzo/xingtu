@@ -209,7 +209,7 @@ export default function ReadingSection() {
           <div key={day} className="py-1 text-center text-xs font-bold text-slate-400">{day}</div>
         ))}
         {Array.from({ length: leadingBlankDays }).map((_, index) => (
-          <div key={index} className="min-h-[132px] rounded-xl border border-slate-800/50 bg-slate-950/20" />
+          <div key={index} className="min-h-[80px] md:min-h-[132px] rounded-xl border border-slate-800/50 bg-slate-950/20" />
         ))}
         {monthDays.map(day => {
           const dayOfYear = getDayOfYear(year, monthIndex, day.dayOfMonth);
@@ -220,10 +220,10 @@ export default function ReadingSection() {
             <button
               key={day.dateISO}
               onClick={() => openEpisode(episode)}
-              className={`min-h-[132px] rounded-xl border p-2 text-left transition-all hover:-translate-y-0.5 hover:border-cyan-300/60 ${completed ? 'border-emerald-300/70 bg-emerald-500/15' : isToday ? 'border-cyan-300/60 bg-cyan-500/10' : 'border-slate-700/60 bg-slate-800/35'}`}
+              className={`min-h-[80px] md:min-h-[132px] rounded-xl border p-1.5 md:p-2 text-left transition-all hover:-translate-y-0.5 hover:border-cyan-300/60 ${completed ? 'border-emerald-300/70 bg-emerald-500/15' : isToday ? 'border-cyan-300/60 bg-cyan-500/10' : 'border-slate-700/60 bg-slate-800/35'}`}
             >
               <div className="flex items-start justify-between">
-                <span className={`text-2xl font-black ${completed ? 'text-emerald-200' : isToday ? 'text-cyan-200' : 'text-white'}`}>{day.dayOfMonth}</span>
+                <span className={`text-lg md:text-2xl font-black ${completed ? 'text-emerald-200' : isToday ? 'text-cyan-200' : 'text-white'}`}>{day.dayOfMonth}</span>
                 <span className="text-right text-[10px] leading-tight text-slate-500">{day.weekdayCn}<br />{day.weekdayEn}</span>
               </div>
               <div className="mt-3 rounded-lg border border-slate-700/70 bg-slate-950/40 px-2 py-2">

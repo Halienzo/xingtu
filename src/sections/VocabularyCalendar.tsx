@@ -541,7 +541,7 @@ function FlashCard({ words, currentIndex, onClose, onNavigate, onPracticeEvent }
             <button
               key={i}
               onClick={() => { onNavigate(i); resetState(); }}
-              className={`flex-1 h-2 rounded-full transition-all ${
+              className={`flex-1 h-2.5 min-h-[20px] rounded-full transition-all ${
                 i === currentIndex ? 'bg-cyan-500 shadow-lg shadow-cyan-500/50' :
                 i < currentIndex ? 'bg-emerald-500/60' : 'bg-slate-700'
               }`}
@@ -558,7 +558,7 @@ function FlashCard({ words, currentIndex, onClose, onNavigate, onPracticeEvent }
           {cardStage === 0 && (
             <div className="text-center space-y-5 py-4">
               <div className="flex items-center justify-center gap-3">
-                <h3 className="text-5xl font-black text-white tracking-wide">{word.word}</h3>
+                <h3 className="text-4xl md:text-5xl font-black text-white tracking-wide">{word.word}</h3>
                 <button onClick={() => { speak(word.word).then(ok => { if (!ok) showToast('语音播放失败', 'error'); }); }} className="p-2.5 rounded-full bg-cyan-500/20 text-cyan-400 hover:bg-cyan-500/30 transition-colors active:scale-90" title="点击发音"><Volume2 size={22} /></button>
               </div>
 
@@ -598,6 +598,16 @@ function FlashCard({ words, currentIndex, onClose, onNavigate, onPracticeEvent }
                   autoNext();
                 }}
               />
+
+              <div className="flex items-center justify-center gap-3">
+                <button
+                  onClick={() => flipToStage(0)}
+                  className="px-5 py-2 rounded-xl border border-slate-600 bg-slate-800 text-sm font-bold text-slate-300 hover:bg-slate-700 hover:text-white transition-all"
+                >
+                  回到正面
+                </button>
+              </div>
+
               {showCorrectSpelling && (
                 <div className="text-center p-3 rounded-xl bg-emerald-500/10 border border-emerald-500/30">
                   <p className="text-sm text-emerald-300">正确拼写：<span className="font-bold text-emerald-200">{word.word}</span></p>
@@ -1488,7 +1498,7 @@ export function VocabularyCalendar() {
             <div key={d} className="text-center text-xs font-bold text-slate-400 py-1">{d}</div>
           ))}
           {Array.from({ length: leadingBlankDays }).map((_, i) => (
-            <div key={`blank-${i}`} className="min-h-[154px] rounded-xl border border-slate-800/50 bg-slate-950/20" />
+            <div key={`blank-${i}`} className="min-h-[80px] md:min-h-[154px] rounded-xl border border-slate-800/50 bg-slate-950/20" />
           ))}
           {currentMonthDays.map((day: CalendarDay) => {
             const isNew = day.dateISO === todayISO;
@@ -1525,7 +1535,7 @@ export function VocabularyCalendar() {
                 title="点击开始当日6词闪卡"
               >
                 <div className="flex items-start justify-between gap-2">
-                  <span className={`text-2xl font-black ${completePastDay ? 'text-emerald-300' : wrongCount > 0 ? 'text-orange-300' : isNew ? 'text-emerald-400' : isReview ? 'text-amber-400' : 'text-white'}`}>{day.dayOfMonth || day.day}</span>
+                  <span className={`text-lg md:text-2xl font-black ${completePastDay ? 'text-emerald-300' : wrongCount > 0 ? 'text-orange-300' : isNew ? 'text-emerald-400' : isReview ? 'text-amber-400' : 'text-white'}`}>{day.dayOfMonth || day.day}</span>
                   <span className="text-[10px] text-slate-500 text-right leading-tight">{day.weekdayCn}<br />{day.weekdayEn}</span>
                 </div>
                 <div className="space-y-1">

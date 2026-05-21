@@ -95,7 +95,7 @@ function generateTestSheet(options: PDFExportOptions): string {
 </head>
 <body>
 
-<!-- 第1页：测试单 -->
+<!-- 第1页：中译英 -->
 <div class="page">
   <div class="header">
     <div class="header-left">
@@ -125,6 +125,35 @@ function generateTestSheet(options: PDFExportOptions): string {
     <tbody>${cnToEnRows}</tbody>
   </table>
 
+  <div class="footer">
+    <span>${escapeHtml(semesterName)} · ${escapeHtml(rangeText)}</span>
+    <span>第 1 页 / 2 页</span>
+  </div>
+</div>
+
+<!-- 第2页：英译中 -->
+<div class="page">
+  <div class="header">
+    <div class="header-left">
+      <div class="header-logo">EN</div>
+      <div>
+        <div class="header-title">英语词汇测试单</div>
+        <div class="header-sub">${escapeHtml(semesterName)} · ${escapeHtml(rangeText)} · 共 ${total} 词</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div>英语提分平台</div>
+      <div style="font-size:8pt;color:#94a3b8;margin-top:2px;">Vocabulary Test Sheet</div>
+    </div>
+  </div>
+
+  <div class="info-bar">
+    <div class="info-item"><span class="info-label">姓　名</span><span class="info-value">${escapeHtml(studentName || '')}</span></div>
+    <div class="info-item"><span class="info-label">班　级</span><span class="info-value">${escapeHtml(studentClass || '')}</span></div>
+    <div class="info-item"><span class="info-label">日　期</span><span class="info-value">${escapeHtml(date)}</span></div>
+    <div class="info-item"><span class="info-label">得　分</span><span class="info-value" style="min-width:60px;">______ / ______</span></div>
+  </div>
+
   <div class="section"><span class="section-num">2</span>英译中（根据英文单词写出对应的中文释义）</div>
   <div class="page-note">请将中文意思填写在右侧空白处。</div>
   <table>
@@ -134,7 +163,7 @@ function generateTestSheet(options: PDFExportOptions): string {
 
   <div class="footer">
     <span>${escapeHtml(semesterName)} · ${escapeHtml(rangeText)}</span>
-    <span>第 1 页</span>
+    <span>第 2 页 / 2 页</span>
   </div>
 </div>
 
