@@ -160,7 +160,11 @@ export function PosMap() {
                     <span className="text-[10px] px-1 py-0.5 rounded bg-slate-700 text-slate-400 ml-auto">{pos.ceferLevel}</span>
                   </div>
                   {expandedPos === pos.code && (
-                    <div className="mt-2 text-xs text-slate-400 space-y-1 pl-4">
+                    <div className="mt-2 text-xs text-slate-400 space-y-1.5 pl-4">
+                      <div className="bg-slate-800/50 rounded-lg px-3 py-2 text-slate-300 border border-white/5">
+                        <span className="text-base mr-1">{pos.metaphorEmoji}</span>
+                        {pos.metaphor}
+                      </div>
                       <div>功能：{pos.functions.join('、')}</div>
                       <div>可修饰：{pos.canModify.join('、')}</div>
                       <div>能被：{pos.canBeModifiedBy.join('、')}修饰</div>
@@ -192,7 +196,11 @@ export function PosMap() {
                     <span className="text-[10px] px-1 py-0.5 rounded bg-slate-700 text-slate-400 ml-auto">{pos.ceferLevel}</span>
                   </div>
                   {expandedPos === pos.code && (
-                    <div className="mt-2 text-xs text-slate-400 space-y-1 pl-4">
+                    <div className="mt-2 text-xs text-slate-400 space-y-1.5 pl-4">
+                      <div className="bg-slate-800/50 rounded-lg px-3 py-2 text-slate-300 border border-white/5">
+                        <span className="text-base mr-1">{pos.metaphorEmoji}</span>
+                        {pos.metaphor}
+                      </div>
                       <div>功能：{pos.functions.join('、')}</div>
                       <div>常见陷阱：</div>
                       {pos.traps.slice(0, 1).map((trap, i) => (

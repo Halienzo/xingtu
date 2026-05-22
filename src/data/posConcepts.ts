@@ -30,6 +30,8 @@ export interface PosConcept {
   examples: PosExample[];
   icon: string;
   color: string; // tailwind color class
+  metaphor: string;          // 孩子能理解的比喻
+  metaphorEmoji: string;     // 比喻对应的emoji
 }
 
 export const posConcepts: PosConcept[] = [
@@ -39,12 +41,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Noun',
     category: 'open',
     ceferLevel: 'A1',
-    functions: ['主语(S)', '宾语(O)', '表语(C)', '同位语', '介词宾语'],
+    functions: ['主语(S) 【句子的C位主角】', '宾语(O) 【动作的接收器】', '表语(C) 【自我介绍身份卡】', '同位语 【角色的别名小标签】', '介词宾语 【介词的小跟班】'],
     canModify: ['无（被修饰）'],
-    canBeModifiedBy: ['形容词', '限定词', '数词', '名词(作定语)', '介词短语', '从句'],
-    canHead: ['名词短语(NP)'],
+    canBeModifiedBy: ['形容词（滤镜贴纸）', '限定词（安检门）', '数词（数量身份证）', '名词(作定语)（专属名牌）', '介词短语（方位导航）', '从句（长描述弹幕）'],
+    canHead: ['名词短语(NP) 【名词是短语的老大】'],
     icon: '■',
     color: 'bg-blue-500',
+    metaphor: '名词是句子的【演员】—— 谁在做动作、动作给谁、是什么东西，全靠名词来站台。没有名词，句子就像一场没有演员的空旷舞台。',
+    metaphorEmoji: '🎭',
     traps: [
       {
         title: '不可数名词不能加 a/an',
@@ -71,12 +75,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Verb',
     category: 'open',
     ceferLevel: 'A1',
-    functions: ['谓语(V)'],
+    functions: ['谓语(V) 【句子的发动机/心脏】'],
     canModify: ['无（核心）'],
-    canBeModifiedBy: ['副词', '助动词', '情态动词'],
-    canHead: ['动词短语(VP)'],
+    canBeModifiedBy: ['副词（加速器/减速器）', '助动词（发动机助手）', '情态动词（情绪遥控器）'],
+    canHead: ['动词短语(VP) 【动词是短语的老大】'],
     icon: '▲',
     color: 'bg-emerald-500',
+    metaphor: '动词是句子的【发动机】—— 没有动词，句子就是一堆死零件。及物动词像【快递员】（必须把包裹送到宾语手里），不及物动词像【独行侠】（自己就能完成任务），系动词像【月老】（把主语和表语牵在一起）。',
+    metaphorEmoji: '⚡',
     traps: [
       {
         title: '不及物动词不能直接接宾语',
@@ -103,12 +109,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Adjective',
     category: 'open',
     ceferLevel: 'A1',
-    functions: ['定语', '表语(C)', '宾补(OC)'],
-    canModify: ['名词'],
-    canBeModifiedBy: ['副词(very, quite)', 'more/most', 'as...as'],
-    canHead: ['形容词短语(AdjP)'],
+    functions: ['定语 【名词的专属滤镜/美颜贴纸】', '表语(C) 【自我介绍的性格标签】', '宾补(OC) 【给宾语换个皮肤】'],
+    canModify: ['名词（给名词加特效）'],
+    canBeModifiedBy: ['副词(very, quite)（滤镜强度调节器）', 'more/most（升级打怪进化器）', 'as...as（公平PK天平）'],
+    canHead: ['形容词短语(AdjP) 【形容词是短语的老大】'],
     icon: '●',
     color: 'bg-amber-500',
+    metaphor: '形容词是名词的【美颜滤镜】—— 让平凡的事物变得闪闪发光。它可以像【名牌标签】一样贴在名词身上（定语），也可以像【性格测试结果】一样跟在系动词后（表语）。very 和 quite 就是滤镜的强度调节器！',
+    metaphorEmoji: '🎨',
     traps: [
       {
         title: '形容词不能直接修饰动词',
@@ -135,12 +143,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Adverb',
     category: 'open',
     ceferLevel: 'A2',
-    functions: ['状语(A)', '修饰形容词/副词'],
-    canModify: ['动词', '形容词', '副词', '整句'],
-    canBeModifiedBy: ['副词(very, quite)', 'more/most'],
-    canHead: ['副词短语(AdvP)'],
+    functions: ['状语(A) 【动作的方式/时间/地点说明书】', '修饰形容词/副词（给Buff再加Buff）'],
+    canModify: ['动词（给动作加特效）', '形容词（给滤镜再加滤镜）', '副词（Buff套娃）', '整句（给整句话加态度）'],
+    canBeModifiedBy: ['副词(very, quite)（Buff强度调节器）', 'more/most（Buff进化器）'],
+    canHead: ['副词短语(AdvP) 【副词是短语的老大】'],
     icon: '◆',
     color: 'bg-purple-500',
+    metaphor: '副词是句子的【外挂Buff】—— 给动词加速（跑得快）、给形容词叠加强度（非常美）、甚至能给整句话加态度（幸运的是）。如果把句子比作游戏角色，副词就是那个不断叠加属性的神秘药水！',
+    metaphorEmoji: '🚀',
     traps: [
       {
         title: '形容词和副词同形时易混淆',
@@ -167,12 +177,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Preposition',
     category: 'closed',
     ceferLevel: 'A1',
-    functions: ['构成介词短语，作定语/状语/补语'],
+    functions: ['构成介词短语，作定语/状语/补语 【名词的GPS导航系统】'],
     canModify: ['无'],
-    canBeModifiedBy: ['副词(right here, just before)'],
-    canHead: ['介词短语(PrepP)'],
+    canBeModifiedBy: ['副词(right here, just before)（GPS精度调节器）'],
+    canHead: ['介词短语(PrepP) 【介词是短语的老大】'],
     icon: '→',
     color: 'bg-rose-500',
+    metaphor: '介词是句子的【万能胶水/GPS导航】—— in/on/at 像坐标轴一样定位一切。它像一座【桥梁】，一头连着动词/形容词/名词，一头连着具体的时间地点。没有介词，句子里的名词就像没地址的包裹，永远到不了目的地。',
+    metaphorEmoji: '🌉',
     traps: [
       {
         title: '介词后必须接名词/代词/动名词',
@@ -199,12 +211,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Pronoun',
     category: 'closed',
     ceferLevel: 'A1',
-    functions: ['主语(S)', '宾语(O)', '表语(C)', '定语(物主代词)'],
+    functions: ['主语(S) 【名词的替身演员】', '宾语(O) 【名词的替身演员】', '表语(C) 【名词的替身演员】', '定语(物主代词) 【所有权印章】'],
     canModify: ['无（替代名词）'],
     canBeModifiedBy: ['无'],
-    canHead: ['名词短语(NP)'],
+    canHead: ['名词短语(NP) 【代词是短语的老大】'],
     icon: '✦',
     color: 'bg-cyan-500',
+    metaphor: '代词是名词的【替身演员】—— he/she/it/they 就像剧组里的替身，专门代替已经出场过的名词再次登台。这样句子才不会变得像复读机一样啰嗦。反身代词（myself/yourself）则是【镜子里的人】，动作绕了一圈又回到自己身上。',
+    metaphorEmoji: '🎭',
     traps: [
       {
         title: '主格和宾格混淆',
@@ -231,12 +245,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Determiner',
     category: 'closed',
     ceferLevel: 'A1',
-    functions: ['名词短语的前置修饰'],
-    canModify: ['名词'],
+    functions: ['名词短语的前置修饰 【名词的安检门/入场券】'],
+    canModify: ['名词（决定名词能不能进门）'],
     canBeModifiedBy: ['无'],
     canHead: ['无（修饰语）'],
     icon: '◇',
     color: 'bg-teal-500',
+    metaphor: '限定词是名词的【安检门/入场券】—— the 像VIP卡（特指这个），a/an 像普通门票（随便一个），some 像团体票（一些），my/your 像专属门禁卡。没有限定词，名词就像没带证件的人，想进句子的大门会被保安拦住！',
+    metaphorEmoji: '🎫',
     traps: [
       {
         title: '限定词不能单独使用',
@@ -263,12 +279,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Conjunction',
     category: 'closed',
     ceferLevel: 'A2',
-    functions: ['连接词/短语/从句'],
-    canModify: ['无'],
+    functions: ['连接词/短语/从句 【句子的桥梁/交通枢纽】'],
+    canModify: ['无（纯连接）'],
     canBeModifiedBy: ['无'],
     canHead: ['无（连接语）'],
     icon: '∧',
     color: 'bg-indigo-500',
+    metaphor: '连词是句子的【桥梁/交通枢纽】—— and像【万能胶带】把同类事物粘在一起，but像【急刹车】突然转向相反方向，because像【因果传送门】从原因瞬间跳到结果。没有连词，句子就像碎成好几块的玻璃，散落一地。',
+    metaphorEmoji: '🌉',
     traps: [
       {
         title: '并列连词连接的成分要对等',
@@ -295,12 +313,14 @@ export const posConcepts: PosConcept[] = [
     labelEn: 'Interjection',
     category: 'closed',
     ceferLevel: 'A1',
-    functions: ['独立成分，表达情感'],
-    canModify: ['无'],
+    functions: ['独立成分，表达情感 【句子的情绪弹幕发射器】'],
+    canModify: ['无（纯氛围组）'],
     canBeModifiedBy: ['无'],
     canHead: ['无（独立语）'],
     icon: '!',
     color: 'bg-pink-500',
+    metaphor: '感叹词是句子的【情绪弹幕发射器】—— 在句子直播间里飘过的即时反应。Oh是【惊讶表情包】，Wow是【点赞特效】，Ouch是【疼痛弹幕】！它们不占据句子成分的C位，但绝对是气氛组的灵魂担当！',
+    metaphorEmoji: '💥',
     traps: [
       {
         title: '感叹词独立于句子结构',
