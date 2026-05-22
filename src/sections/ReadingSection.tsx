@@ -18,7 +18,7 @@ const LEVELS: LevelMeta[] = [
   { key: 'senior', label: '高中', subtitle: '40篇3500词英音文章', accent: 'amber', audioNote: '已写入 40 篇高中3500词英文文本，并对应英音音频。' },
 ];
 
-const SPEEDS = [0.5, 0.65, 0.75, 0.85, 1, 1.15];
+const SPEEDS = [0.5, 0.65, 0.75, 0.85, 1, 1.15, 1.3, 1.5, 2];
 const FOLLOW_PROGRESS_KEY = 'xsc_follow_reading_progress_v1';
 
 type FollowProgress = Record<string, { completed: boolean; lastAt: number }>;

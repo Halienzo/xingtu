@@ -3,7 +3,7 @@ import { BookOpen, CheckCircle2, Headphones, Pause, Play, RotateCcw, Volume2, Ch
 import type { GradedReadingStory } from '../../data/gradedReadingData';
 import { speakEnglish } from '../../lib/ttsService';
 
-const SPEEDS = [0.5, 0.65, 0.75, 0.85, 1, 1.15];
+const SPEEDS = [0.5, 0.65, 0.75, 0.85, 1, 1.15, 1.3, 1.5, 2];
 
 interface StoryPlayerProps {
   story: GradedReadingStory;
