@@ -590,9 +590,9 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
     /* ─── 阶段标签 ─── */
     const updatePhaseLabel = (progress: number) => {
       const labels = [
-        { t: 0,    label: 'STARDUST EMERGES FROM THE VOID' },
-        { t: 0.24, label: 'TWENTY-SIX LETTERS CONDENSE' },
-        { t: 0.52, label: 'A PLANET OF LIGHT FORMS' },
+        { t: 0,    label: 'EVEN BRIGHT STARS FEEL DIM SOMETIMES' },
+        { t: 0.24, label: 'BUT SOMEONE NOTICES THE FLICKER' },
+        { t: 0.52, label: 'EMPATHY BECOMES THEIR LIGHT' },
         { t: 0.80, label: 'PER ASPERA AD ASTRA' },
       ];
       for (let i = labels.length - 1; i >= 0; i--) {
