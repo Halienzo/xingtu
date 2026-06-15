@@ -14,13 +14,43 @@ interface QuestionCardProps {
 }
 
 export function QuestionCard({ question, userAnswer, onAnswer, onFavorite, isFavorite, showAnswer: showAnswerProp = false, index }: QuestionCardProps) {
-  const [selectedOption, setSelectedOption] = useState<number | null>(userAnswer?.selectedOption ?? null);
+  const isTextInput = question.options.length === 1;
+  const [selectedOption, setSelectedOption] = useState<number | null>(
+    isTextInput ? null : (userAnswer?.selectedOption ?? null)
+  );
+  const [typedAnswer, setTypedAnswer] = useState('');
   const [showAnswer, setShowAnswer] = useState(showAnswerProp || !!userAnswer);
   const [isSubmitted, setIsSubmitted] = useState(!!userAnswer);
 
   const letters = ['A', 'B', 'C', 'D'];
   const isAnswered = isSubmitted || !!userAnswer;
 
+  // ── Text input handlers ──
+  const handleTextChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (isAnswered) return;
+    setTypedAnswer(e.target.value);
+  };
+
+  const handleTextSubmit = () => {
+    if (!typedAnswer.trim() || isAnswered) return;
+    const userAns = typedAnswer.trim();
+    const correctAns = question.options[0].trim();
+    // Split by semicolons for multi-blank answers, compare each part case-insensitively
+    const userParts = userAns.split(';').map(s => s.trim()).filter(Boolean);
+    const correctParts = correctAns.split(';').map(s => s.trim()).filter(Boolean);
+    const isCorrect =
+      userParts.length === correctParts.length &&
+      userParts.every((part, i) => part.toLowerCase() === correctParts[i].toLowerCase());
+    onAnswer(question.id, 0, isCorrect);
+    setIsSubmitted(true);
+    setShowAnswer(true);
+  };
+
+  const handleTextKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === 'Enter') handleTextSubmit();
+  };
+
+  // ── Multiple-choice handlers ──
   const handleSelect = (idx: number) => {
     if (isAnswered) return;
     setSelectedOption(idx);
@@ -36,7 +66,7 @@ export function QuestionCard({ question, userAnswer, onAnswer, onFavorite, isFav
 
   const getOptionClass = (idx: number) => {
     const base = "w-full text-left px-4 py-3 rounded-xl border-2 transition-all duration-300 flex items-start gap-3";
-    
+
     if (!isAnswered) {
       if (selectedOption === idx) {
         return `${base} border-blue-400 bg-blue-400/20 text-white`;
@@ -95,7 +125,36 @@ export function QuestionCard({ question, userAnswer, onAnswer, onFavorite, isFav
 
       <p className="text-white text-base md:text-lg leading-relaxed mb-5 whitespace-pre-line">{question.question}</p>
 
-      {question.options.length > 1 ? (
+      {/* ── Answer area: text input vs multiple choice ── */}
+      {isTextInput ? (
+        <div className="mb-5">
+          <div className="relative">
+            <input
+              type="text"
+              value={isAnswered ? question.options[0] : typedAnswer}
+              onChange={handleTextChange}
+              onKeyDown={handleTextKeyDown}
+              disabled={isAnswered}
+              placeholder="请输入你的答案..."
+              autoComplete="off"
+              className={`w-full px-4 py-3 rounded-xl bg-white/5 border-2 text-white placeholder-slate-400 focus:outline-none transition-all ${
+                isAnswered
+                  ? userAnswer?.isCorrect
+                    ? 'border-green-400 bg-green-400/10'
+                    : 'border-red-400 bg-red-400/10'
+                  : typedAnswer.trim()
+                    ? 'border-blue-400'
+                    : 'border-white/10 focus:border-blue-400'
+              }`}
+            />
+            {isAnswered && (
+              userAnswer?.isCorrect
+                ? <CheckCircle className="absolute right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-green-400" />
+                : <XCircle className="absolute right-4 top-1/2 -translate-y-1/2 w-5 h-5 text-red-400" />
+            )}
+          </div>
+        </div>
+      ) : (
         <div className="flex flex-col gap-2.5 mb-5">
           {question.options.map((opt, idx) => (
             <button
@@ -121,29 +180,27 @@ export function QuestionCard({ question, userAnswer, onAnswer, onFavorite, isFav
             </button>
           ))}
         </div>
-      ) : (
-        <div className="mb-5">
-          <div className="px-4 py-3 rounded-xl bg-white/5 border border-white/10 text-slate-300 text-sm">
-            填空答案：{question.options[0]}
-          </div>
-        </div>
       )}
 
-      {!isAnswered && selectedOption !== null && (
+      {/* ── Submit button ── */}
+      {!isAnswered && (isTextInput ? typedAnswer.trim() : selectedOption !== null) && (
         <button
-          onClick={handleSubmit}
+          onClick={isTextInput ? handleTextSubmit : handleSubmit}
           className="w-full py-3 rounded-xl bg-blue-500 hover:bg-blue-400 text-white font-semibold transition-all duration-300 mb-4"
         >
           提交答案
         </button>
       )}
 
+      {/* ── Answer explanation ── */}
       {showAnswer && (
         <div className="bg-green-500/10 border border-green-500/20 rounded-xl p-4">
           <div className="flex items-start gap-3 mb-3">
             <CheckCircle className="w-5 h-5 text-green-400 shrink-0 mt-0.5" />
             <div>
-              <p className="text-green-400 font-semibold mb-1">正确答案：{letters[question.correct]}</p>
+              <p className="text-green-400 font-semibold mb-1">
+                正确答案：{isTextInput ? question.options[0] : letters[question.correct]}
+              </p>
               <p className="text-slate-300 text-sm leading-relaxed">{question.explanation}</p>
             </div>
           </div>

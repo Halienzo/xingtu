@@ -170,6 +170,7 @@ export function Exam({ questions, state, onAnswer, navigate }: ExamProps) {
 
         <div className="pt-20">
           <QuestionCard
+            key={currentQuestion.id}
             question={currentQuestion}
             userAnswer={state.userAnswers[currentQuestion.id]}
             onAnswer={onAnswer}
@@ -286,7 +287,7 @@ export function Exam({ questions, state, onAnswer, navigate }: ExamProps) {
             .filter(q => state.userAnswers[q.id] && !state.userAnswers[q.id].isCorrect)
             .map(q => (
               <QuestionCard
-                key={q.id}
+                key={`review-${q.id}`}
                 question={q}
                 userAnswer={state.userAnswers[q.id]}
                 onAnswer={onAnswer}
